@@ -1,0 +1,38 @@
+name: Monitor APEM
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'   # roda a cada 10 minutos
+  workflow_dispatch:          # permite rodar manualmente pelo site do GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml pandas
+
+      - name: Run monitor
+        env:
+          CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+        run: python monitor_apem.py
+
+      - name: Commit updated state (se mudou)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add apem_state.json
+          git diff --quiet --cached || git commit -m "Atualiza estado das manobras"
+          git push
