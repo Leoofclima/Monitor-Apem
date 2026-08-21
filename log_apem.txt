@@ -152,3 +152,10 @@ Data/Hora: 21/08/26 07:40
 De: 103/NORTE
 Para/Berço: ILHA DO MEDO
 --------------------------------------------------
+[21/08/2026 11:03:10] NOVA MANOBRA:
+Navio: NORD HOUSTON
+Manobra: Atracação
+Data/Hora: 21/08/26 12:23
+De: BOIA 19-24
+Para/Berço: ALUMAR 2
+--------------------------------------------------
