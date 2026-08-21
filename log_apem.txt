@@ -166,3 +166,24 @@ Data/Hora: 21/08/26 19:47
 De: BOIA 19-24
 Para/Berço: 104
 --------------------------------------------------
+[21/08/2026 15:55:18] NOVA MANOBRA:
+Navio: STAR BUENO
+Manobra: Desatracação
+Data/Hora: 21/08/26 19:47
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[21/08/2026 15:55:18] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: IOKASTI GS
+Manobra: Atracação
+Data/Hora: 21/08/26 07:10
+De: BOIA 19-24
+Para/Berço: 99
+--------------------------------------------------
+[21/08/2026 15:55:18] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: FORTE DE SAO FELIPE
+Manobra: Desatracação
+Data/Hora: 21/08/26 07:25
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
