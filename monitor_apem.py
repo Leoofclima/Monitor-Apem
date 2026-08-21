@@ -41,7 +41,62 @@ CALLMEBOT_APIKEY = os.environ.get("CALLMEBOT_APIKEY", "3871953")
 # Arquivo onde guardamos o "estado anterior" para comparar
 STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "apem_state.json")
 
+# Arquivo de histórico/log de tudo que já foi notificado
+LOG_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "log_apem.txt")
+
 # =============================================================
+
+
+URL_ATRACADOS = "http://www.apem-ma.com.br/?module=berthedships"
+
+
+def buscar_navios_atracados():
+    """Retorna um conjunto (set) com os nomes dos navios atualmente atracados.
+
+    Usado para diferenciar um cancelamento real de uma manobra que simplesmente
+    já aconteceu (o navio atracou e por isso saiu da lista de previstas).
+    Se a página falhar por qualquer motivo, retorna um conjunto vazio em vez
+    de quebrar o script inteiro.
+    """
+    try:
+        headers_req = {"User-Agent": "Mozilla/5.0 (compatible; MonitorAPEM/1.0)"}
+        resp = requests.get(URL_ATRACADOS, headers=headers_req, timeout=20)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "lxml")
+
+        tabela_html = None
+        for t in soup.find_all("table"):
+            if t.find("th", string=lambda s: s and "Nome" in s):
+                tabela_html = t
+                break
+
+        if tabela_html is None:
+            return set()
+
+        colunas = None
+        nomes = set()
+        for tr in tabela_html.find_all("tr"):
+            ths = tr.find_all("th")
+            tds = tr.find_all("td")
+
+            if ths:
+                textos = [th.get_text(strip=True) for th in ths]
+                if colunas is None and "Nome" in textos:
+                    colunas = textos
+                continue
+
+            if tds and colunas:
+                valores = [td.get_text(strip=True) for td in tds]
+                if len(valores) == len(colunas) and any(valores):
+                    linha = dict(zip(colunas, valores))
+                    nome = linha.get("Nome", "").strip().upper()
+                    if nome:
+                        nomes.add(nome)
+
+        return nomes
+    except Exception as e:
+        print(f"[AVISO] Não consegui checar Navios Atracados: {e}")
+        return set()
 
 
 def buscar_tabela():
@@ -126,6 +181,14 @@ def salvar_estado(estado):
         json.dump(estado, f, ensure_ascii=False, indent=2)
 
 
+def registrar_log(mensagem):
+    """Adiciona uma entrada com data/hora no arquivo de histórico."""
+    carimbo = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+    with open(LOG_FILE, "a", encoding="utf-8") as f:
+        f.write(f"[{carimbo}] {mensagem}\n")
+        f.write("-" * 50 + "\n")
+
+
 def enviar_whatsapp(mensagem):
     if CALLMEBOT_PHONE == "SEU_NUMERO_COM_DDI" or CALLMEBOT_APIKEY == "SUA_APIKEY_AQUI":
         print("[AVISO] CallMeBot não configurado ainda. Mensagem que seria enviada:\n")
@@ -168,13 +231,22 @@ def main():
     novas = {k: v for k, v in atual.items() if k not in anterior}
     sumidas = {k: v for k, v in anterior.items() if k not in atual}
 
+    navios_atracados = buscar_navios_atracados() if sumidas else set()
+
     for chave, texto in novas.items():
         msg = f"🚢 NOVA MANOBRA AGENDADA (APEM)\n\n{texto}"
         print(msg)
         enviar_whatsapp(msg)
+        registrar_log(f"NOVA MANOBRA:\n{texto}")
 
     for chave, texto in sumidas.items():
-        msg = f"⚠️ MANOBRA SAIU DA LISTA (possível cancelamento/desmarcação)\n\n{texto}"
+        nome_navio = chave.split(" | ")[0].strip().upper()
+        if nome_navio in navios_atracados:
+            msg = f"✅ NAVIO ATRACOU (manobra concluída)\n\n{texto}"
+            registrar_log(f"MANOBRA CONCLUÍDA (navio atracou):\n{texto}")
+        else:
+            msg = f"⚠️ MANOBRA SAIU DA LISTA (possível cancelamento/desmarcação)\n\n{texto}"
+            registrar_log(f"MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):\n{texto}")
         print(msg)
         enviar_whatsapp(msg)
 
