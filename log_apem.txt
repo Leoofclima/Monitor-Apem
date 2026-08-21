@@ -215,3 +215,31 @@ Data/Hora: 21/08/26 12:38
 De: 108
 Para/Berço: ILHA DO MEDO
 --------------------------------------------------
+[21/08/2026 21:56:14] NOVA MANOBRA:
+Navio: ZEA
+Manobra: Atracação
+Data/Hora: 22/08/26 00:06
+De: BOIA 19-24
+Para/Berço: PIER 3 SUL
+--------------------------------------------------
+[21/08/2026 21:56:15] NOVA MANOBRA:
+Navio: FEDERAL SUTTON
+Manobra: Atracação
+Data/Hora: 22/08/26 00:51
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+--------------------------------------------------
+[21/08/2026 21:56:15] NOVA MANOBRA:
+Navio: BUNUN BENEFIT
+Manobra: Desatracação
+Data/Hora: 22/08/26 08:57
+De: 105
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[21/08/2026 21:56:16] NOVA MANOBRA:
+Navio: UNIGALAXY
+Manobra: Atracação
+Data/Hora: 22/08/26 08:57
+De: BOIA 19-24
+Para/Berço: 105
+--------------------------------------------------
