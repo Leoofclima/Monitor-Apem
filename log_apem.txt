@@ -54,3 +54,45 @@ Data/Hora: 20/08/26 23:38
 De: BOIA 19-24
 Para/Berço: ALUMAR 2
 --------------------------------------------------
+[21/08/2026 03:31:47] NOVA MANOBRA:
+Navio: FORTE DE SAO FELIPE
+Manobra: Desatracação
+Data/Hora: 21/08/26 07:25
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[21/08/2026 03:31:48] NOVA MANOBRA:
+Navio: IOLCOS CONFIDENCE
+Manobra: Atracação
+Data/Hora: 21/08/26 07:40
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+--------------------------------------------------
+[21/08/2026 03:31:48] NOVA MANOBRA:
+Navio: AQUALUCKY
+Manobra: Desatracação
+Data/Hora: 21/08/26 07:40
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[21/08/2026 03:31:48] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: NORA SCHULTE
+Manobra: Atracação
+Data/Hora: 20/08/26 18:59
+De: BOIA 19-24
+Para/Berço: 100
+--------------------------------------------------
+[21/08/2026 03:31:49] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: LINDSAYLOU
+Manobra: Desatracação
+Data/Hora: 20/08/26 22:23
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[21/08/2026 03:31:50] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: DANK SILVER
+Manobra: Desatracação
+Data/Hora: 20/08/26 22:53
+De: 104
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
