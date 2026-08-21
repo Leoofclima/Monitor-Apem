@@ -1,0 +1,56 @@
+[21/08/2026 00:35:55] NOVA MANOBRA:
+Navio: PACIFIC AQUAMARINE
+Manobra: Desatracação
+Data/Hora: 21/08/26 12:38
+De: 108
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[21/08/2026 00:35:55] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: BERGE GROSSGLOCKNER
+Manobra: Desatracação
+Data/Hora: 20/08/26 17:59
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[21/08/2026 00:35:56] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: BULK UNITY
+Manobra: Desatracação
+Data/Hora: 20/08/26 18:29
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[21/08/2026 00:35:56] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: STAR BUENO
+Manobra: Atracação
+Data/Hora: 20/08/26 18:29
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+--------------------------------------------------
+[21/08/2026 00:35:57] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: NORD COVE
+Manobra: Desatracação
+Data/Hora: 20/08/26 18:59
+De: 105
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[21/08/2026 00:35:58] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: BUNUN BENEFIT
+Manobra: Atracação
+Data/Hora: 20/08/26 18:59
+De: BOIA 19-24
+Para/Berço: 105
+--------------------------------------------------
+[21/08/2026 00:35:58] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: AGIOS MAKARIOS
+Manobra: Desatracação
+Data/Hora: 20/08/26 18:59
+De: 100
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[21/08/2026 00:35:59] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: NORD HOUSTON
+Manobra: Atracação
+Data/Hora: 20/08/26 23:38
+De: BOIA 19-24
+Para/Berço: ALUMAR 2
+--------------------------------------------------

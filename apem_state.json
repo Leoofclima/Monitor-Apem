@@ -1,17 +1,11 @@
 {
-  "BERGE GROSSGLOCKNER | 20/08/26 | 17:59 | DS | ILHA DO MEDO": "Navio: BERGE GROSSGLOCKNER\nManobra: Desatracação\nData/Hora: 20/08/26 17:59\nDe: PIER 4 SUL\nPara/Berço: ILHA DO MEDO",
-  "BULK UNITY | 20/08/26 | 18:29 | DS | ILHA DO MEDO": "Navio: BULK UNITY\nManobra: Desatracação\nData/Hora: 20/08/26 18:29\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO",
-  "STAR BUENO | 20/08/26 | 18:29 | EA | PIER 4 SUL": "Navio: STAR BUENO\nManobra: Atracação\nData/Hora: 20/08/26 18:29\nDe: PONTO ALPHA\nPara/Berço: PIER 4 SUL",
-  "NORD COVE | 20/08/26 | 18:59 | DS | ILHA DO MEDO": "Navio: NORD COVE\nManobra: Desatracação\nData/Hora: 20/08/26 18:59\nDe: 105\nPara/Berço: ILHA DO MEDO",
-  "BUNUN BENEFIT | 20/08/26 | 18:59 | EA | 105": "Navio: BUNUN BENEFIT\nManobra: Atracação\nData/Hora: 20/08/26 18:59\nDe: BOIA 19-24\nPara/Berço: 105",
   "NORA SCHULTE | 20/08/26 | 18:59 | EA | 100": "Navio: NORA SCHULTE\nManobra: Atracação\nData/Hora: 20/08/26 18:59\nDe: BOIA 19-24\nPara/Berço: 100",
-  "AGIOS MAKARIOS | 20/08/26 | 18:59 | DS | ILHA DO MEDO": "Navio: AGIOS MAKARIOS\nManobra: Desatracação\nData/Hora: 20/08/26 18:59\nDe: 100\nPara/Berço: ILHA DO MEDO",
   "LINDSAYLOU | 20/08/26 | 22:23 | DS | ILHA DO MEDO": "Navio: LINDSAYLOU\nManobra: Desatracação\nData/Hora: 20/08/26 22:23\nDe: 101/SUL\nPara/Berço: ILHA DO MEDO",
-  "LUNAR STAR 1 | 20/08/26 | 22:53 | EA | 101/SUL": "Navio: LUNAR STAR 1\nManobra: Atracação\nData/Hora: 20/08/26 22:53\nDe: BOIA 19-24\nPara/Berço: 101/SUL",
   "DANK SILVER | 20/08/26 | 22:53 | DS | ILHA DO MEDO": "Navio: DANK SILVER\nManobra: Desatracação\nData/Hora: 20/08/26 22:53\nDe: 104\nPara/Berço: ILHA DO MEDO",
-  "UNITY NEPTUNE | 20/08/26 | 22:53 | DS | ILHA DO MEDO": "Navio: UNITY NEPTUNE\nManobra: Desatracação\nData/Hora: 20/08/26 22:53\nDe: PIER 3 SUL\nPara/Berço: ILHA DO MEDO",
   "PAN EPIC | 20/08/26 | 22:53 | EA | PIER 4 NORTE": "Navio: PAN EPIC\nManobra: Atracação\nData/Hora: 20/08/26 22:53\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE",
-  "NORD HOUSTON | 20/08/26 | 23:38 | EA | ALUMAR 2": "Navio: NORD HOUSTON\nManobra: Atracação\nData/Hora: 20/08/26 23:38\nDe: BOIA 19-24\nPara/Berço: ALUMAR 2",
+  "LUNAR STAR 1 | 20/08/26 | 22:53 | EA | 101/SUL": "Navio: LUNAR STAR 1\nManobra: Atracação\nData/Hora: 20/08/26 22:53\nDe: BOIA 19-24\nPara/Berço: 101/SUL",
+  "UNITY NEPTUNE | 20/08/26 | 22:53 | DS | ILHA DO MEDO": "Navio: UNITY NEPTUNE\nManobra: Desatracação\nData/Hora: 20/08/26 22:53\nDe: PIER 3 SUL\nPara/Berço: ILHA DO MEDO",
   "ELANDRA WILLOW | 20/08/26 | 23:53 | DS | ILHA DO MEDO": "Navio: ELANDRA WILLOW\nManobra: Desatracação\nData/Hora: 20/08/26 23:53\nDe: 106 EXT\nPara/Berço: ILHA DO MEDO",
-  "IOKASTI GS | 21/08/26 | 07:10 | EA | 99": "Navio: IOKASTI GS\nManobra: Atracação\nData/Hora: 21/08/26 07:10\nDe: BOIA 19-24\nPara/Berço: 99"
+  "IOKASTI GS | 21/08/26 | 07:10 | EA | 99": "Navio: IOKASTI GS\nManobra: Atracação\nData/Hora: 21/08/26 07:10\nDe: BOIA 19-24\nPara/Berço: 99",
+  "PACIFIC AQUAMARINE | 21/08/26 | 12:38 | DS | ILHA DO MEDO": "Navio: PACIFIC AQUAMARINE\nManobra: Desatracação\nData/Hora: 21/08/26 12:38\nDe: 108\nPara/Berço: ILHA DO MEDO"
 }
