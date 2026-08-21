@@ -187,3 +187,31 @@ Data/Hora: 21/08/26 07:25
 De: ALUMAR 2
 Para/Berço: ILHA DO MEDO
 --------------------------------------------------
+[21/08/2026 19:08:43] NOVA MANOBRA:
+Navio: IOLCOS CONFIDENCE
+Manobra: Atracação
+Data/Hora: 21/08/26 19:47
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+--------------------------------------------------
+[21/08/2026 19:08:43] NOVA MANOBRA:
+Navio: AQUALUCKY
+Manobra: Desatracação
+Data/Hora: 21/08/26 20:17
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[21/08/2026 19:08:43] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: NORD HOUSTON
+Manobra: Atracação
+Data/Hora: 21/08/26 12:23
+De: BOIA 19-24
+Para/Berço: ALUMAR 2
+--------------------------------------------------
+[21/08/2026 19:08:44] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: PACIFIC AQUAMARINE
+Manobra: Desatracação
+Data/Hora: 21/08/26 12:38
+De: 108
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
