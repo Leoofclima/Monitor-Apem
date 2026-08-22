@@ -320,3 +320,31 @@ Data/Hora: 22/08/26 08:57
 De: 102/CENTRO
 Para/Berço: ILHA DO MEDO
 --------------------------------------------------
+[22/08/2026 13:22:19] NOVA MANOBRA:
+Navio: NORD HOUSTON
+Manobra: Desatracação
+Data/Hora: 22/08/26 13:16
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[22/08/2026 13:22:20] NOVA MANOBRA:
+Navio: AMAZON COURAGE
+Manobra: Atracação
+Data/Hora: 22/08/26 13:46
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+--------------------------------------------------
+[22/08/2026 13:22:20] NOVA MANOBRA:
+Navio: PACIFIC VISION
+Manobra: Atracação
+Data/Hora: 22/08/26 21:01
+De: PONTO ALPHA
+Para/Berço: PIER 1
+--------------------------------------------------
+[22/08/2026 13:22:21] NOVA MANOBRA:
+Navio: NM CHERRY BLOSSOM
+Manobra: Atracação
+Data/Hora: 23/08/26 01:19
+De: PONTO ALPHA
+Para/Berço: 102/CENTRO
+--------------------------------------------------
