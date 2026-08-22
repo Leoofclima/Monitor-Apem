@@ -390,3 +390,24 @@ Data/Hora: 22/08/26 08:57
 De: BOIA 19-24
 Para/Berço: 105
 --------------------------------------------------
+[22/08/2026 19:02:34] NOVA MANOBRA:
+Navio: ASTROLIGHT
+Manobra: Atracação
+Data/Hora: 23/08/26 15:42
+De: BOIA 19-24
+Para/Berço: 108
+--------------------------------------------------
+[22/08/2026 19:02:34] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: MINERAL SUOMI
+Manobra: Atracação
+Data/Hora: 22/08/26 13:01
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+--------------------------------------------------
+[22/08/2026 19:02:35] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: NORD HOUSTON
+Manobra: Desatracação
+Data/Hora: 22/08/26 13:16
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
