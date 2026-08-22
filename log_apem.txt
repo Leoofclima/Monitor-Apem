@@ -362,3 +362,17 @@ Data/Hora: 22/08/26 08:27
 De: PIER 1
 Para/Berço: ILHA DO MEDO
 --------------------------------------------------
+[22/08/2026 14:55:32] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: VERILA
+Manobra: Desatracação
+Data/Hora: 22/08/26 08:57
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[22/08/2026 14:55:33] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: BUNUN BENEFIT
+Manobra: Desatracação
+Data/Hora: 22/08/26 08:57
+De: 105
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
