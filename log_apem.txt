@@ -376,3 +376,17 @@ Data/Hora: 22/08/26 08:57
 De: 105
 Para/Berço: ILHA DO MEDO
 --------------------------------------------------
+[22/08/2026 15:49:14] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: PACIFIC HARVEST
+Manobra: Atracação
+Data/Hora: 22/08/26 08:27
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+--------------------------------------------------
+[22/08/2026 15:49:15] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: UNIGALAXY
+Manobra: Atracação
+Data/Hora: 22/08/26 08:57
+De: BOIA 19-24
+Para/Berço: 105
+--------------------------------------------------
