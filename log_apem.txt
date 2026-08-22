@@ -439,3 +439,10 @@ Data/Hora: 23/08/26 01:19
 De: PIER 3 SUL
 Para/Berço: ILHA DO MEDO
 --------------------------------------------------
+[22/08/2026 23:41:10] NOVA MANOBRA:
+Navio: LUCIO COSTA
+Manobra: Desatracação
+Data/Hora: 23/08/26 10:10
+De: 104
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
