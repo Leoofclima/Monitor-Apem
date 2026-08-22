@@ -1,10 +1,10 @@
 {
-  "IOLCOS CONFIDENCE | 21/08/26 | 19:47 | EA | 103/NORTE": "Navio: IOLCOS CONFIDENCE\nManobra: Atracação\nData/Hora: 21/08/26 19:47\nDe: BOIA 19-24\nPara/Berço: 103/NORTE",
-  "STAR BUENO | 21/08/26 | 19:47 | DS | ILHA DO MEDO": "Navio: STAR BUENO\nManobra: Desatracação\nData/Hora: 21/08/26 19:47\nDe: PIER 4 SUL\nPara/Berço: ILHA DO MEDO",
-  "LUCIO COSTA | 21/08/26 | 19:47 | EA | 104": "Navio: LUCIO COSTA\nManobra: Atracação\nData/Hora: 21/08/26 19:47\nDe: BOIA 19-24\nPara/Berço: 104",
-  "AQUALUCKY | 21/08/26 | 20:17 | DS | ILHA DO MEDO": "Navio: AQUALUCKY\nManobra: Desatracação\nData/Hora: 21/08/26 20:17\nDe: 103/NORTE\nPara/Berço: ILHA DO MEDO",
   "ZEA | 22/08/26 | 00:06 | EA | PIER 3 SUL": "Navio: ZEA\nManobra: Atracação\nData/Hora: 22/08/26 00:06\nDe: BOIA 19-24\nPara/Berço: PIER 3 SUL",
   "FEDERAL SUTTON | 22/08/26 | 00:51 | EA | ALUMAR 1": "Navio: FEDERAL SUTTON\nManobra: Atracação\nData/Hora: 22/08/26 00:51\nDe: BOIA 19-24\nPara/Berço: ALUMAR 1",
+  "PAN EPIC | 22/08/26 | 08:27 | DS | ILHA DO MEDO": "Navio: PAN EPIC\nManobra: Desatracação\nData/Hora: 22/08/26 08:27\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO",
+  "SEA ESPIRITO SANTO | 22/08/26 | 08:27 | DS | ILHA DO MEDO": "Navio: SEA ESPIRITO SANTO\nManobra: Desatracação\nData/Hora: 22/08/26 08:27\nDe: PIER 1\nPara/Berço: ILHA DO MEDO",
+  "PACIFIC HARVEST | 22/08/26 | 08:27 | EA | PIER 4 SUL": "Navio: PACIFIC HARVEST\nManobra: Atracação\nData/Hora: 22/08/26 08:27\nDe: PONTO ALPHA\nPara/Berço: PIER 4 SUL",
+  "UNIGALAXY | 22/08/26 | 08:57 | EA | 105": "Navio: UNIGALAXY\nManobra: Atracação\nData/Hora: 22/08/26 08:57\nDe: BOIA 19-24\nPara/Berço: 105",
   "BUNUN BENEFIT | 22/08/26 | 08:57 | DS | ILHA DO MEDO": "Navio: BUNUN BENEFIT\nManobra: Desatracação\nData/Hora: 22/08/26 08:57\nDe: 105\nPara/Berço: ILHA DO MEDO",
-  "UNIGALAXY | 22/08/26 | 08:57 | EA | 105": "Navio: UNIGALAXY\nManobra: Atracação\nData/Hora: 22/08/26 08:57\nDe: BOIA 19-24\nPara/Berço: 105"
+  "MINERAL SUOMI | 22/08/26 | 13:01 | EA | PIER 4 NORTE": "Navio: MINERAL SUOMI\nManobra: Atracação\nData/Hora: 22/08/26 13:01\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE"
 }

@@ -243,3 +243,59 @@ Data/Hora: 22/08/26 08:57
 De: BOIA 19-24
 Para/Berço: 105
 --------------------------------------------------
+[22/08/2026 03:10:10] NOVA MANOBRA:
+Navio: PAN EPIC
+Manobra: Desatracação
+Data/Hora: 22/08/26 08:27
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[22/08/2026 03:10:10] NOVA MANOBRA:
+Navio: SEA ESPIRITO SANTO
+Manobra: Desatracação
+Data/Hora: 22/08/26 08:27
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[22/08/2026 03:10:11] NOVA MANOBRA:
+Navio: PACIFIC HARVEST
+Manobra: Atracação
+Data/Hora: 22/08/26 08:27
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+--------------------------------------------------
+[22/08/2026 03:10:12] NOVA MANOBRA:
+Navio: MINERAL SUOMI
+Manobra: Atracação
+Data/Hora: 22/08/26 13:01
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+--------------------------------------------------
+[22/08/2026 03:10:12] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: IOLCOS CONFIDENCE
+Manobra: Atracação
+Data/Hora: 21/08/26 19:47
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+--------------------------------------------------
+[22/08/2026 03:10:13] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: STAR BUENO
+Manobra: Desatracação
+Data/Hora: 21/08/26 19:47
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[22/08/2026 03:10:13] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: LUCIO COSTA
+Manobra: Atracação
+Data/Hora: 21/08/26 19:47
+De: BOIA 19-24
+Para/Berço: 104
+--------------------------------------------------
+[22/08/2026 03:10:14] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: AQUALUCKY
+Manobra: Desatracação
+Data/Hora: 21/08/26 20:17
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
