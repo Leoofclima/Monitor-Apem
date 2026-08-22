@@ -299,3 +299,17 @@ Data/Hora: 21/08/26 20:17
 De: 103/NORTE
 Para/Berço: ILHA DO MEDO
 --------------------------------------------------
+[22/08/2026 07:47:48] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: ZEA
+Manobra: Atracação
+Data/Hora: 22/08/26 00:06
+De: BOIA 19-24
+Para/Berço: PIER 3 SUL
+--------------------------------------------------
+[22/08/2026 07:47:48] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: FEDERAL SUTTON
+Manobra: Atracação
+Data/Hora: 22/08/26 00:51
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+--------------------------------------------------
