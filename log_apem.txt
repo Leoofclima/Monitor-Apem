@@ -411,3 +411,24 @@ Data/Hora: 22/08/26 13:16
 De: ALUMAR 2
 Para/Berço: ILHA DO MEDO
 --------------------------------------------------
+[22/08/2026 19:51:50] NOVA MANOBRA:
+Navio: DAISY GLORY
+Manobra: Atracação
+Data/Hora: 22/08/26 21:31
+De: BOIA 19-24
+Para/Berço: 100
+--------------------------------------------------
+[22/08/2026 19:51:51] NOVA MANOBRA:
+Navio: NORA SCHULTE
+Manobra: Desatracação
+Data/Hora: 22/08/26 21:31
+De: 100
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[22/08/2026 19:51:51] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: AMAZON COURAGE
+Manobra: Atracação
+Data/Hora: 22/08/26 13:46
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+--------------------------------------------------
