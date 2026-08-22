@@ -348,3 +348,17 @@ Data/Hora: 23/08/26 01:19
 De: PONTO ALPHA
 Para/Berço: 102/CENTRO
 --------------------------------------------------
+[22/08/2026 14:01:23] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: PAN EPIC
+Manobra: Desatracação
+Data/Hora: 22/08/26 08:27
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[22/08/2026 14:01:24] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: SEA ESPIRITO SANTO
+Manobra: Desatracação
+Data/Hora: 22/08/26 08:27
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
