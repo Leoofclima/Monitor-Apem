@@ -313,3 +313,10 @@ Data/Hora: 22/08/26 00:51
 De: BOIA 19-24
 Para/Berço: ALUMAR 1
 --------------------------------------------------
+[22/08/2026 09:01:29] NOVA MANOBRA:
+Navio: VERILA
+Manobra: Desatracação
+Data/Hora: 22/08/26 08:57
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
