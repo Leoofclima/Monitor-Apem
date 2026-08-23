@@ -635,3 +635,10 @@ Data/Hora: 23/08/26 22:34
 De: BOIA 19-24
 Para/Berço: 104
 --------------------------------------------------
+[23/08/2026 17:49:03] NOVA MANOBRA:
+Navio: KONTA III
+Manobra: Desatracação
+Data/Hora: 23/08/26 14:23
+De: PLATAFORMA 1
+Para/Berço: PTO EMBARQUE LC
+--------------------------------------------------
