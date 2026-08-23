@@ -523,3 +523,10 @@ Data/Hora: 23/08/26 10:10
 De: 101/SUL
 Para/Berço: ILHA DO MEDO
 --------------------------------------------------
+[23/08/2026 09:02:44] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: CELSO FURTADO
+Manobra: Atracação
+Data/Hora: 23/08/26 10:10
+De: BOIA 19-24
+Para/Berço: 104
+--------------------------------------------------
