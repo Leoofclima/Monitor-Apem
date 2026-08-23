@@ -628,3 +628,10 @@ Data/Hora: 23/08/26 14:12
 De: PONTO ALPHA
 Para/Berço: 101/SUL
 --------------------------------------------------
+[23/08/2026 16:56:36] NOVA MANOBRA:
+Navio: CELSO FURTADO
+Manobra: Atracação
+Data/Hora: 23/08/26 22:34
+De: BOIA 19-24
+Para/Berço: 104
+--------------------------------------------------
