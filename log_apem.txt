@@ -446,3 +446,45 @@ Data/Hora: 23/08/26 10:10
 De: 104
 Para/Berço: ILHA DO MEDO
 --------------------------------------------------
+[23/08/2026 03:29:43] NOVA MANOBRA:
+Navio: ASTROLIGHT
+Manobra: Atracação
+Data/Hora: 23/08/26 09:10
+De: BOIA 19-24
+Para/Berço: 108
+--------------------------------------------------
+[23/08/2026 03:29:44] NOVA MANOBRA:
+Navio: CELSO FURTADO
+Manobra: Atracação
+Data/Hora: 23/08/26 10:10
+De: BOIA 19-24
+Para/Berço: 104
+--------------------------------------------------
+[23/08/2026 03:29:44] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: PACIFIC VISION
+Manobra: Atracação
+Data/Hora: 22/08/26 21:01
+De: PONTO ALPHA
+Para/Berço: PIER 1
+--------------------------------------------------
+[23/08/2026 03:29:45] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: DAISY GLORY
+Manobra: Atracação
+Data/Hora: 22/08/26 21:31
+De: BOIA 19-24
+Para/Berço: 100
+--------------------------------------------------
+[23/08/2026 03:29:45] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: NORA SCHULTE
+Manobra: Desatracação
+Data/Hora: 22/08/26 21:31
+De: 100
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[23/08/2026 03:29:46] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: ASTROLIGHT
+Manobra: Atracação
+Data/Hora: 23/08/26 15:42
+De: BOIA 19-24
+Para/Berço: 108
+--------------------------------------------------
