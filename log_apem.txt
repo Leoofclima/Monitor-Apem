@@ -530,3 +530,24 @@ Data/Hora: 23/08/26 10:10
 De: BOIA 19-24
 Para/Berço: 104
 --------------------------------------------------
+[23/08/2026 11:48:48] NOVA MANOBRA:
+Navio: ANNA-THERESA
+Manobra: Atracação
+Data/Hora: 23/08/26 14:12
+De: PONTO ALPHA
+Para/Berço: 101/SUL
+--------------------------------------------------
+[23/08/2026 11:48:48] NOVA MANOBRA:
+Navio: NIGHTKISS
+Manobra: Atracação
+Data/Hora: 23/08/26 14:12
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+--------------------------------------------------
+[23/08/2026 11:48:48] NOVA MANOBRA:
+Navio: MINERAL SUOMI
+Manobra: Desatracação
+Data/Hora: 23/08/26 14:12
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
