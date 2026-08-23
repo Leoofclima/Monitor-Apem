@@ -488,3 +488,10 @@ Data/Hora: 23/08/26 15:42
 De: BOIA 19-24
 Para/Berço: 108
 --------------------------------------------------
+[23/08/2026 06:02:24] NOVA MANOBRA:
+Navio: LUNAR STAR 1
+Manobra: Desatracação
+Data/Hora: 23/08/26 10:10
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
