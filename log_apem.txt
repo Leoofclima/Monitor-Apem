@@ -551,3 +551,10 @@ Data/Hora: 23/08/26 14:12
 De: PIER 4 NORTE
 Para/Berço: ILHA DO MEDO
 --------------------------------------------------
+[23/08/2026 13:44:21] NOVA MANOBRA:
+Navio: FEDERAL SUTTON
+Manobra: Desatracação
+Data/Hora: 23/08/26 15:27
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
