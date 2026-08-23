@@ -495,3 +495,31 @@ Data/Hora: 23/08/26 10:10
 De: 101/SUL
 Para/Berço: ILHA DO MEDO
 --------------------------------------------------
+[23/08/2026 07:51:30] NOVA MANOBRA:
+Navio: LUNAR STAR 1
+Manobra: Desatracação
+Data/Hora: 23/08/26 13:42
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[23/08/2026 07:51:30] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: NM CHERRY BLOSSOM
+Manobra: Atracação
+Data/Hora: 23/08/26 01:19
+De: PONTO ALPHA
+Para/Berço: 102/CENTRO
+--------------------------------------------------
+[23/08/2026 07:51:30] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: ZEA
+Manobra: Desatracação
+Data/Hora: 23/08/26 01:19
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[23/08/2026 07:51:31] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: LUNAR STAR 1
+Manobra: Desatracação
+Data/Hora: 23/08/26 10:10
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
