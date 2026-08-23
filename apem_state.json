@@ -1,10 +1,12 @@
 {
   "MINERAL SUOMI | 23/08/26 | 21:34 | DS | ILHA DO MEDO": "Navio: MINERAL SUOMI\nManobra: Desatracação\nData/Hora: 23/08/26 21:34\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO",
   "NIGHTKISS | 23/08/26 | 22:04 | EA | PIER 4 NORTE": "Navio: NIGHTKISS\nManobra: Atracação\nData/Hora: 23/08/26 22:04\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE",
-  "IOKASTI GS | 23/08/26 | 22:34 | DS | ILHA DO MEDO": "Navio: IOKASTI GS\nManobra: Desatracação\nData/Hora: 23/08/26 22:34\nDe: 99\nPara/Berço: ILHA DO MEDO",
-  "LUNAR STAR 1 | 23/08/26 | 22:34 | DS | ILHA DO MEDO": "Navio: LUNAR STAR 1\nManobra: Desatracação\nData/Hora: 23/08/26 22:34\nDe: 101/SUL\nPara/Berço: ILHA DO MEDO",
   "ANNA-THERESA | 23/08/26 | 22:34 | EA | 101/SUL": "Navio: ANNA-THERESA\nManobra: Atracação\nData/Hora: 23/08/26 22:34\nDe: PONTO ALPHA\nPara/Berço: 101/SUL",
   "CELSO FURTADO | 23/08/26 | 22:34 | EA | 104": "Navio: CELSO FURTADO\nManobra: Atracação\nData/Hora: 23/08/26 22:34\nDe: BOIA 19-24\nPara/Berço: 104",
+  "LUNAR STAR 1 | 23/08/26 | 22:34 | DS | ILHA DO MEDO": "Navio: LUNAR STAR 1\nManobra: Desatracação\nData/Hora: 23/08/26 22:34\nDe: 101/SUL\nPara/Berço: ILHA DO MEDO",
+  "IOKASTI GS | 24/08/26 | 01:53 | DS | ILHA DO MEDO": "Navio: IOKASTI GS\nManobra: Desatracação\nData/Hora: 24/08/26 01:53\nDe: 99\nPara/Berço: ILHA DO MEDO",
+  "AMAZON COURAGE | 24/08/26 | 02:38 | DS | ILHA DO MEDO": "Navio: AMAZON COURAGE\nManobra: Desatracação\nData/Hora: 24/08/26 02:38\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO",
+  "CASTILLO DE SANTA MARIA | 24/08/26 | 03:08 | EA | ALUMAR 2": "Navio: CASTILLO DE SANTA MARIA\nManobra: Atracação\nData/Hora: 24/08/26 03:08\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 2",
   "KARIMATA | 24/08/26 | 03:23 | DS | ILHA DO MEDO": "Navio: KARIMATA\nManobra: Desatracação\nData/Hora: 24/08/26 03:23\nDe: 106\nPara/Berço: ILHA DO MEDO",
   "CARAVOS HARMONY | 24/08/26 | 11:10 | EA | 103/NORTE": "Navio: CARAVOS HARMONY\nManobra: Atracação\nData/Hora: 24/08/26 11:10\nDe: BOIA 19-24\nPara/Berço: 103/NORTE"
 }
