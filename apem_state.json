@@ -1,9 +1,7 @@
 {
-  "ASTROLIGHT | 23/08/26 | 09:10 | EA | 108": "Navio: ASTROLIGHT\nManobra: Atracação\nData/Hora: 23/08/26 09:10\nDe: BOIA 19-24\nPara/Berço: 108",
-  "LUCIO COSTA | 23/08/26 | 10:10 | DS | ILHA DO MEDO": "Navio: LUCIO COSTA\nManobra: Desatracação\nData/Hora: 23/08/26 10:10\nDe: 104\nPara/Berço: ILHA DO MEDO",
-  "LUNAR STAR 1 | 23/08/26 | 13:42 | DS | ILHA DO MEDO": "Navio: LUNAR STAR 1\nManobra: Desatracação\nData/Hora: 23/08/26 13:42\nDe: 101/SUL\nPara/Berço: ILHA DO MEDO",
-  "MINERAL SUOMI | 23/08/26 | 14:12 | DS | ILHA DO MEDO": "Navio: MINERAL SUOMI\nManobra: Desatracação\nData/Hora: 23/08/26 14:12\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO",
-  "NIGHTKISS | 23/08/26 | 14:12 | EA | PIER 4 NORTE": "Navio: NIGHTKISS\nManobra: Atracação\nData/Hora: 23/08/26 14:12\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE",
-  "ANNA-THERESA | 23/08/26 | 14:12 | EA | 101/SUL": "Navio: ANNA-THERESA\nManobra: Atracação\nData/Hora: 23/08/26 14:12\nDe: PONTO ALPHA\nPara/Berço: 101/SUL",
-  "FEDERAL SUTTON | 23/08/26 | 15:27 | DS | ILHA DO MEDO": "Navio: FEDERAL SUTTON\nManobra: Desatracação\nData/Hora: 23/08/26 15:27\nDe: ALUMAR 1\nPara/Berço: ILHA DO MEDO"
+  "FEDERAL SUTTON | 23/08/26 | 15:27 | DS | ILHA DO MEDO": "Navio: FEDERAL SUTTON\nManobra: Desatracação\nData/Hora: 23/08/26 15:27\nDe: ALUMAR 1\nPara/Berço: ILHA DO MEDO",
+  "MINERAL SUOMI | 23/08/26 | 21:34 | DS | ILHA DO MEDO": "Navio: MINERAL SUOMI\nManobra: Desatracação\nData/Hora: 23/08/26 21:34\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO",
+  "NIGHTKISS | 23/08/26 | 22:04 | EA | PIER 4 NORTE": "Navio: NIGHTKISS\nManobra: Atracação\nData/Hora: 23/08/26 22:04\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE",
+  "LUNAR STAR 1 | 23/08/26 | 22:34 | DS | ILHA DO MEDO": "Navio: LUNAR STAR 1\nManobra: Desatracação\nData/Hora: 23/08/26 22:34\nDe: 101/SUL\nPara/Berço: ILHA DO MEDO",
+  "ANNA-THERESA | 23/08/26 | 22:34 | EA | 101/SUL": "Navio: ANNA-THERESA\nManobra: Atracação\nData/Hora: 23/08/26 22:34\nDe: PONTO ALPHA\nPara/Berço: 101/SUL"
 }

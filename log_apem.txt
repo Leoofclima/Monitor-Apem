@@ -558,3 +558,73 @@ Data/Hora: 23/08/26 15:27
 De: ALUMAR 1
 Para/Berço: ILHA DO MEDO
 --------------------------------------------------
+[23/08/2026 14:51:54] NOVA MANOBRA:
+Navio: MINERAL SUOMI
+Manobra: Desatracação
+Data/Hora: 23/08/26 21:34
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[23/08/2026 14:51:55] NOVA MANOBRA:
+Navio: NIGHTKISS
+Manobra: Atracação
+Data/Hora: 23/08/26 22:04
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+--------------------------------------------------
+[23/08/2026 14:51:56] NOVA MANOBRA:
+Navio: LUNAR STAR 1
+Manobra: Desatracação
+Data/Hora: 23/08/26 22:34
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[23/08/2026 14:51:56] NOVA MANOBRA:
+Navio: ANNA-THERESA
+Manobra: Atracação
+Data/Hora: 23/08/26 22:34
+De: PONTO ALPHA
+Para/Berço: 101/SUL
+--------------------------------------------------
+[23/08/2026 14:51:56] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: ASTROLIGHT
+Manobra: Atracação
+Data/Hora: 23/08/26 09:10
+De: BOIA 19-24
+Para/Berço: 108
+--------------------------------------------------
+[23/08/2026 14:51:57] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: LUCIO COSTA
+Manobra: Desatracação
+Data/Hora: 23/08/26 10:10
+De: 104
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[23/08/2026 14:51:58] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: LUNAR STAR 1
+Manobra: Desatracação
+Data/Hora: 23/08/26 13:42
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[23/08/2026 14:51:58] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: MINERAL SUOMI
+Manobra: Desatracação
+Data/Hora: 23/08/26 14:12
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[23/08/2026 14:51:59] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: NIGHTKISS
+Manobra: Atracação
+Data/Hora: 23/08/26 14:12
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+--------------------------------------------------
+[23/08/2026 14:52:00] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: ANNA-THERESA
+Manobra: Atracação
+Data/Hora: 23/08/26 14:12
+De: PONTO ALPHA
+Para/Berço: 101/SUL
+--------------------------------------------------
