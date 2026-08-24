@@ -733,3 +733,24 @@ Data/Hora: 23/08/26 22:34
 De: 101/SUL
 Para/Berço: ILHA DO MEDO
 --------------------------------------------------
+[24/08/2026 05:54:40] NOVA MANOBRA:
+Navio: UNIGALAXY
+Manobra: Desatracação
+Data/Hora: 24/08/26 11:10
+De: 105
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[24/08/2026 05:54:40] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: ANNA-THERESA
+Manobra: Atracação
+Data/Hora: 23/08/26 22:34
+De: PONTO ALPHA
+Para/Berço: 101/SUL
+--------------------------------------------------
+[24/08/2026 05:54:41] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: CELSO FURTADO
+Manobra: Atracação
+Data/Hora: 23/08/26 22:34
+De: BOIA 19-24
+Para/Berço: 104
+--------------------------------------------------
