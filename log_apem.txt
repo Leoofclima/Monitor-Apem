@@ -845,3 +845,66 @@ Data/Hora: 24/08/26 19:00
 De: BOIA 19-24
 Para/Berço: AREA 7A.2
 --------------------------------------------------
+[24/08/2026 21:03:48] NOVA MANOBRA:
+Navio: HAM 316
+Manobra: EF
+Data/Hora: 24/08/26 20:00
+De: BOIA 19-24
+Para/Berço: AREA 7A.2
+--------------------------------------------------
+[24/08/2026 21:03:48] NOVA MANOBRA:
+Navio: NORD TITAN
+Manobra: Atracação
+Data/Hora: 24/08/26 23:27
+De: BOIA 19-24
+Para/Berço: 100
+--------------------------------------------------
+[24/08/2026 21:03:49] NOVA MANOBRA:
+Navio: NIGHTKISS
+Manobra: Desatracação
+Data/Hora: 25/08/26 03:12
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[24/08/2026 21:03:49] NOVA MANOBRA:
+Navio: ORE SHENZHEN
+Manobra: Atracação
+Data/Hora: 25/08/26 03:12
+De: PONTO ALPHA
+Para/Berço: PIER 1
+--------------------------------------------------
+[24/08/2026 21:03:50] NOVA MANOBRA:
+Navio: PACIFIC VISION
+Manobra: Desatracação
+Data/Hora: 25/08/26 03:12
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[24/08/2026 21:03:51] NOVA MANOBRA:
+Navio: WOOYANG EREBOR
+Manobra: Atracação
+Data/Hora: 25/08/26 03:12
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+--------------------------------------------------
+[24/08/2026 21:03:51] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: CIC PAOLA
+Manobra: Atracação
+Data/Hora: 17/08/26 15:04
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+--------------------------------------------------
+[24/08/2026 21:03:51] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: GERDT OLDENDORFF
+Manobra: Atracação
+Data/Hora: 24/08/26 15:04
+De: BOIA 19-24
+Para/Berço: 105
+--------------------------------------------------
+[24/08/2026 21:03:52] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: HAM 316
+Manobra: EF
+Data/Hora: 24/08/26 19:00
+De: BOIA 19-24
+Para/Berço: AREA 7A.2
+--------------------------------------------------
