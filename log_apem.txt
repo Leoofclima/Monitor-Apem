@@ -831,3 +831,10 @@ Data/Hora: 24/08/26 11:10
 De: 105
 Para/Berço: ILHA DO MEDO
 --------------------------------------------------
+[24/08/2026 17:52:22] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: CARAVOS HARMONY
+Manobra: Atracação
+Data/Hora: 24/08/26 11:10
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+--------------------------------------------------
