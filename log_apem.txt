@@ -789,3 +789,24 @@ Data/Hora: 24/08/26 03:23
 De: 106
 Para/Berço: ILHA DO MEDO
 --------------------------------------------------
+[24/08/2026 14:24:49] NOVA MANOBRA:
+Navio: CIC PAOLA
+Manobra: Atracação
+Data/Hora: 17/08/26 15:04
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+--------------------------------------------------
+[24/08/2026 14:24:50] NOVA MANOBRA:
+Navio: GERDT OLDENDORFF
+Manobra: Atracação
+Data/Hora: 24/08/26 15:04
+De: BOIA 19-24
+Para/Berço: 105
+--------------------------------------------------
+[24/08/2026 14:24:50] NOVA MANOBRA:
+Navio: MH IBUKI
+Manobra: Atracação
+Data/Hora: 24/08/26 15:49
+De: PONTO ALPHA
+Para/Berço: ALUMAR 1
+--------------------------------------------------

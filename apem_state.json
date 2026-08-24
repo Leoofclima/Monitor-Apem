@@ -1,6 +1,9 @@
 {
+  "CIC PAOLA | 17/08/26 | 15:04 | EA | PIER 3 SUL": "Navio: CIC PAOLA\nManobra: Atracação\nData/Hora: 17/08/26 15:04\nDe: PONTO ALPHA\nPara/Berço: PIER 3 SUL",
   "MAERSK CALLAO | 24/08/26 | 10:10 | EA | 106": "Navio: MAERSK CALLAO\nManobra: Atracação\nData/Hora: 24/08/26 10:10\nDe: BOIA 19-24\nPara/Berço: 106",
   "IOLCOS CONFIDENCE | 24/08/26 | 11:10 | DS | ILHA DO MEDO": "Navio: IOLCOS CONFIDENCE\nManobra: Desatracação\nData/Hora: 24/08/26 11:10\nDe: 103/NORTE\nPara/Berço: ILHA DO MEDO",
   "CARAVOS HARMONY | 24/08/26 | 11:10 | EA | 103/NORTE": "Navio: CARAVOS HARMONY\nManobra: Atracação\nData/Hora: 24/08/26 11:10\nDe: BOIA 19-24\nPara/Berço: 103/NORTE",
-  "UNIGALAXY | 24/08/26 | 11:10 | DS | ILHA DO MEDO": "Navio: UNIGALAXY\nManobra: Desatracação\nData/Hora: 24/08/26 11:10\nDe: 105\nPara/Berço: ILHA DO MEDO"
+  "UNIGALAXY | 24/08/26 | 11:10 | DS | ILHA DO MEDO": "Navio: UNIGALAXY\nManobra: Desatracação\nData/Hora: 24/08/26 11:10\nDe: 105\nPara/Berço: ILHA DO MEDO",
+  "GERDT OLDENDORFF | 24/08/26 | 15:04 | EA | 105": "Navio: GERDT OLDENDORFF\nManobra: Atracação\nData/Hora: 24/08/26 15:04\nDe: BOIA 19-24\nPara/Berço: 105",
+  "MH IBUKI | 24/08/26 | 15:49 | EA | ALUMAR 1": "Navio: MH IBUKI\nManobra: Atracação\nData/Hora: 24/08/26 15:49\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 1"
 }
