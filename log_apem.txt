@@ -705,3 +705,31 @@ Data/Hora: 23/08/26 22:34
 De: 99
 Para/Berço: ILHA DO MEDO
 --------------------------------------------------
+[24/08/2026 03:32:58] NOVA MANOBRA:
+Navio: MAERSK CALLAO
+Manobra: Atracação
+Data/Hora: 24/08/26 10:10
+De: BOIA 19-24
+Para/Berço: 106
+--------------------------------------------------
+[24/08/2026 03:32:58] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: MINERAL SUOMI
+Manobra: Desatracação
+Data/Hora: 23/08/26 21:34
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[24/08/2026 03:32:58] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: NIGHTKISS
+Manobra: Atracação
+Data/Hora: 23/08/26 22:04
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+--------------------------------------------------
+[24/08/2026 03:32:59] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: LUNAR STAR 1
+Manobra: Desatracação
+Data/Hora: 23/08/26 22:34
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
