@@ -754,3 +754,38 @@ Data/Hora: 23/08/26 22:34
 De: BOIA 19-24
 Para/Berço: 104
 --------------------------------------------------
+[24/08/2026 10:24:18] NOVA MANOBRA:
+Navio: IOLCOS CONFIDENCE
+Manobra: Desatracação
+Data/Hora: 24/08/26 11:10
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[24/08/2026 10:24:18] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: IOKASTI GS
+Manobra: Desatracação
+Data/Hora: 24/08/26 01:53
+De: 99
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[24/08/2026 10:24:19] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: AMAZON COURAGE
+Manobra: Desatracação
+Data/Hora: 24/08/26 02:38
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[24/08/2026 10:24:19] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Atracação
+Data/Hora: 24/08/26 03:08
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+--------------------------------------------------
+[24/08/2026 10:24:19] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: KARIMATA
+Manobra: Desatracação
+Data/Hora: 24/08/26 03:23
+De: 106
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------

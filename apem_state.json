@@ -1,9 +1,6 @@
 {
-  "IOKASTI GS | 24/08/26 | 01:53 | DS | ILHA DO MEDO": "Navio: IOKASTI GS\nManobra: Desatracação\nData/Hora: 24/08/26 01:53\nDe: 99\nPara/Berço: ILHA DO MEDO",
-  "AMAZON COURAGE | 24/08/26 | 02:38 | DS | ILHA DO MEDO": "Navio: AMAZON COURAGE\nManobra: Desatracação\nData/Hora: 24/08/26 02:38\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO",
-  "CASTILLO DE SANTA MARIA | 24/08/26 | 03:08 | EA | ALUMAR 2": "Navio: CASTILLO DE SANTA MARIA\nManobra: Atracação\nData/Hora: 24/08/26 03:08\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 2",
-  "KARIMATA | 24/08/26 | 03:23 | DS | ILHA DO MEDO": "Navio: KARIMATA\nManobra: Desatracação\nData/Hora: 24/08/26 03:23\nDe: 106\nPara/Berço: ILHA DO MEDO",
   "MAERSK CALLAO | 24/08/26 | 10:10 | EA | 106": "Navio: MAERSK CALLAO\nManobra: Atracação\nData/Hora: 24/08/26 10:10\nDe: BOIA 19-24\nPara/Berço: 106",
+  "IOLCOS CONFIDENCE | 24/08/26 | 11:10 | DS | ILHA DO MEDO": "Navio: IOLCOS CONFIDENCE\nManobra: Desatracação\nData/Hora: 24/08/26 11:10\nDe: 103/NORTE\nPara/Berço: ILHA DO MEDO",
   "CARAVOS HARMONY | 24/08/26 | 11:10 | EA | 103/NORTE": "Navio: CARAVOS HARMONY\nManobra: Atracação\nData/Hora: 24/08/26 11:10\nDe: BOIA 19-24\nPara/Berço: 103/NORTE",
   "UNIGALAXY | 24/08/26 | 11:10 | DS | ILHA DO MEDO": "Navio: UNIGALAXY\nManobra: Desatracação\nData/Hora: 24/08/26 11:10\nDe: 105\nPara/Berço: ILHA DO MEDO"
 }
