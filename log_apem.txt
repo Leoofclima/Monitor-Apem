@@ -810,3 +810,24 @@ Data/Hora: 24/08/26 15:49
 De: PONTO ALPHA
 Para/Berço: ALUMAR 1
 --------------------------------------------------
+[24/08/2026 16:08:05] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: MAERSK CALLAO
+Manobra: Atracação
+Data/Hora: 24/08/26 10:10
+De: BOIA 19-24
+Para/Berço: 106
+--------------------------------------------------
+[24/08/2026 16:08:06] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: IOLCOS CONFIDENCE
+Manobra: Desatracação
+Data/Hora: 24/08/26 11:10
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[24/08/2026 16:08:06] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: UNIGALAXY
+Manobra: Desatracação
+Data/Hora: 24/08/26 11:10
+De: 105
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
