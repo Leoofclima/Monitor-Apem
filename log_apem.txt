@@ -908,3 +908,24 @@ Data/Hora: 24/08/26 19:00
 De: BOIA 19-24
 Para/Berço: AREA 7A.2
 --------------------------------------------------
+[24/08/2026 23:54:35] NOVA MANOBRA:
+Navio: DAISY GLORY
+Manobra: Desatracação
+Data/Hora: 24/08/26 23:27
+De: 100
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[24/08/2026 23:54:35] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: MH IBUKI
+Manobra: Atracação
+Data/Hora: 24/08/26 15:49
+De: PONTO ALPHA
+Para/Berço: ALUMAR 1
+--------------------------------------------------
+[24/08/2026 23:54:35] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: HAM 316
+Manobra: EF
+Data/Hora: 24/08/26 20:00
+De: BOIA 19-24
+Para/Berço: AREA 7A.2
+--------------------------------------------------
