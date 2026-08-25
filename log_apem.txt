@@ -929,3 +929,73 @@ Data/Hora: 24/08/26 20:00
 De: BOIA 19-24
 Para/Berço: AREA 7A.2
 --------------------------------------------------
+[25/08/2026 05:09:06] NOVA MANOBRA:
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Desatracação
+Data/Hora: 25/08/26 03:27
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[25/08/2026 05:09:07] NOVA MANOBRA:
+Navio: SOUND PEARL
+Manobra: Atracação
+Data/Hora: 25/08/26 03:57
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+--------------------------------------------------
+[25/08/2026 05:09:07] NOVA MANOBRA:
+Navio: TWEED
+Manobra: EF
+Data/Hora: 25/08/26 08:57
+De: BOIA 19-24
+Para/Berço: AREA 9.3
+--------------------------------------------------
+[25/08/2026 05:09:08] NOVA MANOBRA:
+Navio: DALLAS
+Manobra: EF
+Data/Hora: 25/08/26 09:27
+De: BOIA 19-24
+Para/Berço: AREA 9.1
+--------------------------------------------------
+[25/08/2026 05:09:08] NOVA MANOBRA:
+Navio: PACIFIC HARVEST
+Manobra: Desatracação
+Data/Hora: 25/08/26 10:57
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[25/08/2026 05:09:08] NOVA MANOBRA:
+Navio: HAM 316
+Manobra: EF
+Data/Hora: 25/08/26 11:00
+De: BOIA 19-24
+Para/Berço: AREA 7A.2
+--------------------------------------------------
+[25/08/2026 05:09:09] NOVA MANOBRA:
+Navio: GEMMA
+Manobra: Atracação
+Data/Hora: 25/08/26 11:27
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+--------------------------------------------------
+[25/08/2026 05:09:09] NOVA MANOBRA:
+Navio: GERDT OLDENDORFF
+Manobra: Desatracação
+Data/Hora: 25/08/26 11:57
+De: 105
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[25/08/2026 05:09:09] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: DAISY GLORY
+Manobra: Desatracação
+Data/Hora: 24/08/26 23:27
+De: 100
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[25/08/2026 05:09:10] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: NORD TITAN
+Manobra: Atracação
+Data/Hora: 24/08/26 23:27
+De: BOIA 19-24
+Para/Berço: 100
+--------------------------------------------------
