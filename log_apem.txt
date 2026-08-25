@@ -1034,3 +1034,38 @@ Data/Hora: 25/08/26 03:27
 De: ALUMAR 2
 Para/Berço: ILHA DO MEDO
 --------------------------------------------------
+[25/08/2026 12:04:34] NOVA MANOBRA:
+Navio: TWEED
+Manobra: EF
+Data/Hora: 25/08/26 08:57
+De: BOIA 19-24
+Para/Berço: AREA 9.1
+--------------------------------------------------
+[25/08/2026 12:04:34] NOVA MANOBRA:
+Navio: DALLAS
+Manobra: EF
+Data/Hora: 25/08/26 09:27
+De: BOIA 19-24
+Para/Berço: AREA 9.3
+--------------------------------------------------
+[25/08/2026 12:04:34] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: SOUND PEARL
+Manobra: Atracação
+Data/Hora: 25/08/26 03:57
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+--------------------------------------------------
+[25/08/2026 12:04:35] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: TWEED
+Manobra: EF
+Data/Hora: 25/08/26 08:57
+De: BOIA 19-24
+Para/Berço: AREA 9.3
+--------------------------------------------------
+[25/08/2026 12:04:35] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: DALLAS
+Manobra: EF
+Data/Hora: 25/08/26 09:27
+De: BOIA 19-24
+Para/Berço: AREA 9.1
+--------------------------------------------------
