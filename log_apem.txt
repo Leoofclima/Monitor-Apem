@@ -1069,3 +1069,94 @@ Data/Hora: 25/08/26 09:27
 De: BOIA 19-24
 Para/Berço: AREA 9.1
 --------------------------------------------------
+[31/08/2026 18:12:01] NOVA MANOBRA:
+Navio: SAO TITAN
+Manobra: Desatracação
+Data/Hora: 31/08/26 14:31
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[31/08/2026 18:12:01] NOVA MANOBRA:
+Navio: STRENGTH
+Manobra: Atracação
+Data/Hora: 31/08/26 14:31
+De: PONTO ALPHA
+Para/Berço: 108
+--------------------------------------------------
+[31/08/2026 18:12:01] NOVA MANOBRA:
+Navio: SEA ZHOUSHAN
+Manobra: Atracação
+Data/Hora: 31/08/26 15:01
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+--------------------------------------------------
+[31/08/2026 18:12:01] NOVA MANOBRA:
+Navio: SM GEMINI2
+Manobra: Desatracação
+Data/Hora: 31/08/26 19:08
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[31/08/2026 18:12:01] NOVA MANOBRA:
+Navio: AMAZON PIONEER
+Manobra: Desatracação
+Data/Hora: 31/08/26 19:23
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[31/08/2026 18:12:01] NOVA MANOBRA:
+Navio: FORTE DE SAO JOSE
+Manobra: Atracação
+Data/Hora: 31/08/26 19:53
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+--------------------------------------------------
+[31/08/2026 18:12:01] NOVA MANOBRA:
+Navio: COSCO SHIPPING RUYI
+Manobra: Atracação
+Data/Hora: 01/09/26 16:08
+De: BOIA 19-24
+Para/Berço: 99
+--------------------------------------------------
+[31/08/2026 18:12:01] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: TWEED
+Manobra: EF
+Data/Hora: 25/08/26 08:57
+De: BOIA 19-24
+Para/Berço: AREA 9.1
+--------------------------------------------------
+[31/08/2026 18:12:01] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: DALLAS
+Manobra: EF
+Data/Hora: 25/08/26 09:27
+De: BOIA 19-24
+Para/Berço: AREA 9.3
+--------------------------------------------------
+[31/08/2026 18:12:01] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: PACIFIC HARVEST
+Manobra: Desatracação
+Data/Hora: 25/08/26 10:57
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
+[31/08/2026 18:12:01] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: HAM 316
+Manobra: EF
+Data/Hora: 25/08/26 11:00
+De: BOIA 19-24
+Para/Berço: AREA 7A.2
+--------------------------------------------------
+[31/08/2026 18:12:01] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: GEMMA
+Manobra: Atracação
+Data/Hora: 25/08/26 11:27
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+--------------------------------------------------
+[31/08/2026 18:12:01] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: GERDT OLDENDORFF
+Manobra: Desatracação
+Data/Hora: 25/08/26 11:57
+De: 105
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
