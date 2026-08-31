@@ -34,9 +34,19 @@ URL = "http://www.apem-ma.com.br/?module=shipmaneuvering"
 # para a manobra ser considerada relevante (case-insensitive)
 KEYWORDS = ["ALUMAR", "ITAQUI", "VALE"]
 
-# Preencha depois de ativar o CallMeBot no seu WhatsApp
-CALLMEBOT_PHONE = os.environ.get("CALLMEBOT_PHONE", "559899657365")
-CALLMEBOT_APIKEY = os.environ.get("CALLMEBOT_APIKEY", "3871953")
+# Configuração do Z-API (https://www.z-api.io/)
+# ID e Token ficam em: Instâncias > Meu número > Credenciais
+ZAPI_INSTANCE_ID = os.environ.get("ZAPI_INSTANCE_ID", "SEU_INSTANCE_ID_AQUI")
+ZAPI_TOKEN = os.environ.get("ZAPI_TOKEN", "SEU_TOKEN_AQUI")
+# Opcional: alguns planos exigem o "Account Token" (Painel > Segurança)
+ZAPI_CLIENT_TOKEN = os.environ.get("ZAPI_CLIENT_TOKEN", "")
+
+# Lista de números que vão receber os avisos (com DDI, sem espaço/traço),
+# separados por vírgula. Ex: "5598999999999,5598888888888"
+DESTINATARIOS = [
+    p.strip() for p in os.environ.get("ZAPI_DESTINATARIOS", "559899657365").split(",")
+    if p.strip()
+]
 
 # Arquivo onde guardamos o "estado anterior" para comparar
 STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "apem_state.json")
@@ -190,23 +200,23 @@ def registrar_log(mensagem):
 
 
 def enviar_whatsapp(mensagem):
-    if CALLMEBOT_PHONE == "SEU_NUMERO_COM_DDI" or CALLMEBOT_APIKEY == "SUA_APIKEY_AQUI":
-        print("[AVISO] CallMeBot não configurado ainda. Mensagem que seria enviada:\n")
+    if ZAPI_INSTANCE_ID == "SEU_INSTANCE_ID_AQUI" or ZAPI_TOKEN == "SEU_TOKEN_AQUI":
+        print("[AVISO] Z-API não configurado ainda. Mensagem que seria enviada:\n")
         print(mensagem)
         print("-" * 40)
         return
 
-    api_url = "https://api.callmebot.com/whatsapp.php"
-    params = {
-        "phone": CALLMEBOT_PHONE,
-        "text": mensagem,
-        "apikey": CALLMEBOT_APIKEY,
-    }
-    try:
-        r = requests.get(api_url, params=params, timeout=20)
-        print(f"[WhatsApp] status {r.status_code}: {r.text[:200]}")
-    except Exception as e:
-        print(f"[ERRO] Falha ao enviar WhatsApp: {e}")
+    url = f"https://api.z-api.io/instances/{ZAPI_INSTANCE_ID}/token/{ZAPI_TOKEN}/send-text"
+    headers = {"Content-Type": "application/json"}
+    if ZAPI_CLIENT_TOKEN:
+        headers["Client-Token"] = ZAPI_CLIENT_TOKEN
+
+    for phone in DESTINATARIOS:
+        try:
+            r = requests.post(url, json={"phone": phone, "message": mensagem}, headers=headers, timeout=20)
+            print(f"[WhatsApp Z-API -> {phone}] status {r.status_code}: {r.text[:200]}")
+        except Exception as e:
+            print(f"[ERRO] Falha ao enviar WhatsApp para {phone}: {e}")
 
 
 def main():
