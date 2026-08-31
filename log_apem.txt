@@ -1221,3 +1221,21 @@ De: PONTO ALPHA
 Para/Berço: 108
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[31/08/2026 22:32:57] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: COSCO SHIPPING RUYI
+Manobra: Atracação
+Berço: 99
+Antes: 01/09/26 16:08
+Agora: 01/09/26 15:38
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[31/08/2026 22:32:57] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: SEA ZHOUSHAN
+Manobra: Atracação
+Data/Hora: 31/08/26 15:01
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: ISS**
+--------------------------------------------------
