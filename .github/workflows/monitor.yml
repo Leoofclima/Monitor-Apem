@@ -25,8 +25,10 @@ jobs:
 
       - name: Run monitor
         env:
-          CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
-          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+          ZAPI_INSTANCE_ID: ${{ secrets.ZAPI_INSTANCE_ID }}
+          ZAPI_TOKEN: ${{ secrets.ZAPI_TOKEN }}
+          ZAPI_CLIENT_TOKEN: ${{ secrets.ZAPI_CLIENT_TOKEN }}
+          ZAPI_DESTINATARIOS: ${{ secrets.ZAPI_DESTINATARIOS }}
         run: python monitor_apem.py
 
       - name: Commit updated state (se mudou)
