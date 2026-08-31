@@ -1188,3 +1188,10 @@ Data/Hora: 31/08/26 14:31
 De: PIER 4 NORTE
 Para/Berço: ILHA DO MEDO
 --------------------------------------------------
+[31/08/2026 19:22:51] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: FORTE DE SAO JOSE
+Manobra: Atracação
+Data/Hora: 31/08/26 19:53
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+--------------------------------------------------
