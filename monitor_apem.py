@@ -4,14 +4,14 @@ Monitor de Manobras - APEM (Praticagem MA)
 --------------------------------------------
 Monitora a página "Manobras Previstas" do site da APEM
 (http://www.apem-ma.com.br/?module=shipmaneuvering) e envia um
-aviso no WhatsApp (via CallMeBot) quando:
+aviso no WhatsApp (via Z-API) para uma lista de destinatários quando:
 
-  - Uma manobra NOVA aparece envolvendo Alumar, Itaqui ou Vale
-  - Uma manobra que estava na lista DESAPARECE (provável cancelamento)
+  - Uma manobra NOVA aparece
+  - Uma manobra que estava na lista DESAPARECE (atracou ou foi cancelada)
 
 Como usar:
   1. pip install requests beautifulsoup4 lxml pandas
-  2. Preencha CALLMEBOT_PHONE e CALLMEBOT_APIKEY abaixo
+  2. Preencha ZAPI_INSTANCE_ID, ZAPI_TOKEN e DESTINATARIOS abaixo
   3. Rode manualmente para testar:  python monitor_apem.py
   4. Depois de validar, agende para rodar a cada 5-10 min (cron / task scheduler)
 """
@@ -175,8 +175,16 @@ def linha_para_texto(row):
     tipo = row.get("Tipo", "?")
     de = row.get("De", "?")
     berco = row.get("Berço", row.get("Berco", "?"))
+    agencia = row.get("Agência", row.get("Agencia", "?"))
     tipo_desc = {"DS": "Desatracação", "EA": "Atracação"}.get(str(tipo).strip().upper(), tipo)
-    return f"Navio: {nome}\nManobra: {tipo_desc}\nData/Hora: {data} {hora}\nDe: {de}\nPara/Berço: {berco}"
+    return (
+        f"Navio: {nome}\n"
+        f"Manobra: {tipo_desc}\n"
+        f"Data/Hora: {data} {hora}\n"
+        f"De: {de}\n"
+        f"Para/Berço: {berco}\n"
+        f"Agência: {agencia}"
+    )
 
 
 def carregar_estado_anterior():
