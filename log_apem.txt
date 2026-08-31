@@ -1205,3 +1205,19 @@ Antes: 31/08/26 19:23
 Agora: 31/08/26 20:23
 Agência: ORION RODOS**
 --------------------------------------------------
+[31/08/2026 20:22:41] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: SAO TITAN
+Manobra: Desatracação
+Data/Hora: 31/08/26 14:31
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[31/08/2026 20:22:42] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: STRENGTH
+Manobra: Atracação
+Data/Hora: 31/08/26 14:31
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
