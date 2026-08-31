@@ -161,29 +161,47 @@ def filtrar_relevantes(df):
     return df
 
 
-def linha_para_chave(row):
-    """Cria um identificador único e estável para cada manobra."""
-    campos = ["Nome", "Data", "Hora", "Tipo", "Berço"]
-    valores = [str(row.get(c, "")).strip() for c in campos]
-    return " | ".join(valores)
+def linha_para_dados(row):
+    """Extrai os campos relevantes de uma linha em um dicionário estruturado."""
+    return {
+        "nome": str(row.get("Nome", "?")).strip(),
+        "data": str(row.get("Data", "?")).strip(),
+        "hora": str(row.get("Hora", "?")).strip(),
+        "tipo": str(row.get("Tipo", "?")).strip(),
+        "de": str(row.get("De", "?")).strip(),
+        "berco": str(row.get("Berço", row.get("Berco", "?"))).strip(),
+        "agencia": str(row.get("Agência", row.get("Agencia", "?"))).strip(),
+    }
 
 
-def linha_para_texto(row):
-    nome = row.get("Nome", "?")
-    data = row.get("Data", "?")
-    hora = row.get("Hora", "?")
-    tipo = row.get("Tipo", "?")
-    de = row.get("De", "?")
-    berco = row.get("Berço", row.get("Berco", "?"))
-    agencia = row.get("Agência", row.get("Agencia", "?"))
-    tipo_desc = {"DS": "Desatracação", "EA": "Atracação"}.get(str(tipo).strip().upper(), tipo)
+def chave_de_dados(dados):
+    """Identificador único e estável (inclui data/hora) para cada manobra."""
+    return f"{dados['nome']} | {dados['data']} | {dados['hora']} | {dados['tipo']} | {dados['berco']}"
+
+
+def identidade_de_chave(chave):
+    """Identidade do navio ignorando data/hora — usada para detectar reagendamentos.
+
+    Duas manobras com a mesma identidade (nome + tipo + berço) mas com
+    data/hora diferentes são tratadas como a MESMA manobra que só mudou de
+    horário, em vez de uma "cancelada" + uma "nova".
+    """
+    partes = chave.split(" | ")
+    if len(partes) < 5:
+        return chave
+    nome, _data, _hora, tipo, berco = partes[:5]
+    return f"{nome} | {tipo} | {berco}"
+
+
+def dados_para_texto(dados):
+    tipo_desc = {"DS": "Desatracação", "EA": "Atracação"}.get(dados["tipo"].upper(), dados["tipo"])
     return (
-        f"Navio: {nome}\n"
+        f"Navio: {dados['nome']}\n"
         f"Manobra: {tipo_desc}\n"
-        f"Data/Hora: {data} {hora}\n"
-        f"De: {de}\n"
-        f"Para/Berço: {berco}\n"
-        f"Agência: {agencia}"
+        f"Data/Hora: {dados['data']} {dados['hora']}\n"
+        f"De: {dados['de']}\n"
+        f"Para/Berço: {dados['berco']}\n"
+        f"Agência: {dados['agencia']}"
     )
 
 
@@ -238,16 +256,44 @@ def main():
 
     relevantes = filtrar_relevantes(df)
 
-    atual = {}
+    atual_dados = {}
     for _, row in relevantes.iterrows():
-        chave = linha_para_chave(row)
+        dados = linha_para_dados(row)
+        chave = chave_de_dados(dados)
         if chave.strip(" |"):
-            atual[chave] = linha_para_texto(row)
+            atual_dados[chave] = dados
+
+    atual = {k: dados_para_texto(v) for k, v in atual_dados.items()}
 
     anterior = carregar_estado_anterior()
 
-    novas = {k: v for k, v in atual.items() if k not in anterior}
-    sumidas = {k: v for k, v in anterior.items() if k not in atual}
+    novas_brutas = {k: v for k, v in atual.items() if k not in anterior}
+    sumidas_brutas = {k: v for k, v in anterior.items() if k not in atual}
+
+    # Agrupa as "sumidas" por identidade (ignorando data/hora) pra poder
+    # casar com uma "nova" que seja, na verdade, a mesma manobra reagendada.
+    sumidas_por_id = {}
+    for k in sumidas_brutas:
+        sumidas_por_id.setdefault(identidade_de_chave(k), []).append(k)
+
+    reagendadas = []  # lista de (chave_antiga, chave_nova)
+    novas = {}
+    for k, v in novas_brutas.items():
+        id_ = identidade_de_chave(k)
+        candidatos = sumidas_por_id.get(id_)
+        if candidatos:
+            chave_antiga = candidatos.pop(0)
+            if not candidatos:
+                del sumidas_por_id[id_]
+            reagendadas.append((chave_antiga, k))
+        else:
+            novas[k] = v
+
+    # O que sobrou depois de tirar os reagendamentos são cancelamentos/atracações de verdade
+    sumidas = {}
+    for lista in sumidas_por_id.values():
+        for k in lista:
+            sumidas[k] = sumidas_brutas[k]
 
     navios_atracados = buscar_navios_atracados() if sumidas else set()
 
@@ -256,6 +302,24 @@ def main():
         print(msg)
         enviar_whatsapp(msg)
         registrar_log(f"NOVA MANOBRA:\n{texto}")
+
+    for chave_antiga, chave_nova in reagendadas:
+        partes_antiga = chave_antiga.split(" | ")
+        partes_nova = chave_nova.split(" | ")
+        dados_novos = atual_dados[chave_nova]
+        tipo_desc = {"DS": "Desatracação", "EA": "Atracação"}.get(dados_novos["tipo"].upper(), dados_novos["tipo"])
+        msg = (
+            f"⏰ HORÁRIO ALTERADO (APEM)\n\n"
+            f"Navio: {dados_novos['nome']}\n"
+            f"Manobra: {tipo_desc}\n"
+            f"Berço: {dados_novos['berco']}\n"
+            f"Antes: {partes_antiga[1]} {partes_antiga[2]}\n"
+            f"Agora: {partes_nova[1]} {partes_nova[2]}\n"
+            f"Agência: {dados_novos['agencia']}"
+        )
+        print(msg)
+        enviar_whatsapp(msg)
+        registrar_log(f"REAGENDAMENTO:\n{msg}")
 
     for chave, texto in sumidas.items():
         nome_navio = chave.split(" | ")[0].strip().upper()
@@ -268,7 +332,7 @@ def main():
         print(msg)
         enviar_whatsapp(msg)
 
-    if not novas and not sumidas:
+    if not novas and not sumidas and not reagendadas:
         print("Nenhuma mudança detectada.")
 
     salvar_estado(atual)
