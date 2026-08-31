@@ -1195,3 +1195,13 @@ Data/Hora: 31/08/26 19:53
 De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 --------------------------------------------------
+[31/08/2026 19:32:36] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: AMAZON PIONEER
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 31/08/26 19:23
+Agora: 31/08/26 20:23
+Agência: ORION RODOS**
+--------------------------------------------------
