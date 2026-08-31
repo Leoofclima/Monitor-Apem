@@ -260,7 +260,7 @@ def main():
     for chave, texto in sumidas.items():
         nome_navio = chave.split(" | ")[0].strip().upper()
         if nome_navio in navios_atracados:
-            msg = f"✅ NAVIO ATRACOU (manobra concluída)\n\n{texto}"
+            msg = f"✅ Navio {nome_navio} atracou com sucesso!\n\n{texto}"
             registrar_log(f"MANOBRA CONCLUÍDA (navio atracou):\n{texto}")
         else:
             msg = f"⚠️ MANOBRA SAIU DA LISTA (possível cancelamento/desmarcação)\n\n{texto}"
