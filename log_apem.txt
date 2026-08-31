@@ -1160,3 +1160,10 @@ Data/Hora: 25/08/26 11:57
 De: 105
 Para/Berço: ILHA DO MEDO
 --------------------------------------------------
+[31/08/2026 18:25:02] NOVA MANOBRA:
+Navio: SAO TITAN
+Manobra: Desatracação
+Data/Hora: 31/08/26 14:31
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+--------------------------------------------------
