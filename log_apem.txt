@@ -1297,3 +1297,11 @@ De: 105
 Para/Berço: ILHA DO MEDO
 Agência: LBH BRASIL**
 --------------------------------------------------
+[01/09/2026 12:26:26] NOVA MANOBRA:
+Navio: AGIOS FANOURIOS
+Manobra: DA
+Data/Hora: 01/09/26 15:53
+De: ALUMAR 1
+Para/Berço: ALUMAR 2
+Agência: GEM**
+--------------------------------------------------
