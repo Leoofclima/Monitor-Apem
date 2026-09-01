@@ -1331,3 +1331,13 @@ Antes: 01/09/26 16:08
 Agora: 01/09/26 19:14
 Agência: ALPHAMAR**
 --------------------------------------------------
+[01/09/2026 16:47:32] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: OMICRON OCTO
+Manobra: Atracação
+Berço: 103/NORTE
+Antes: 01/09/26 15:38
+Agora: 01/09/26 19:44
+Agência: LBH BRASIL**
+--------------------------------------------------
