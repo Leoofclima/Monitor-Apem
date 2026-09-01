@@ -1341,3 +1341,11 @@ Antes: 01/09/26 15:38
 Agora: 01/09/26 19:44
 Agência: LBH BRASIL**
 --------------------------------------------------
+[01/09/2026 17:26:46] NOVA MANOBRA:
+Navio: BRORA
+Manobra: Desatracação
+Data/Hora: 01/09/26 19:44
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
