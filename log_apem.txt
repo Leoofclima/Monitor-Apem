@@ -1349,3 +1349,11 @@ De: PIER 4 SUL
 Para/Berço: ILHA DO MEDO
 Agência: ISS**
 --------------------------------------------------
+[01/09/2026 20:20:03] NOVA MANOBRA:
+Navio: MERCURIUS
+Manobra: Atracação
+Data/Hora: 01/09/26 20:29
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
