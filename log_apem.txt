@@ -1357,3 +1357,11 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 1
 Agência: GEM**
 --------------------------------------------------
+[01/09/2026 20:31:04] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: AGIOS FANOURIOS
+Manobra: DA
+Data/Hora: 01/09/26 15:53
+De: ALUMAR 1
+Para/Berço: ALUMAR 2
+Agência: GEM**
+--------------------------------------------------
