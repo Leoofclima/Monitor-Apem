@@ -1381,3 +1381,11 @@ De: PONTO ALPHA
 Para/Berço: PIER 4 SUL
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[01/09/2026 23:42:41] NOVA MANOBRA:
+Navio: BERGE SNAEFELL
+Manobra: Atracação
+Data/Hora: 02/09/26 04:31
+De: BOIA 19-24
+Para/Berço: 101/SUL
+Agência: ROCHAMAR**
+--------------------------------------------------
