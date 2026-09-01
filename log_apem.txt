@@ -1239,3 +1239,19 @@ De: PONTO ALPHA
 Para/Berço: PIER 4 NORTE
 Agência: ISS**
 --------------------------------------------------
+[01/09/2026 00:32:07] NOVA MANOBRA:
+Navio: LB EARTH
+Manobra: Atracação
+Data/Hora: 01/09/26 03:23
+De: BOIA 19-24
+Para/Berço: 105
+Agência: CARGONAVE**
+--------------------------------------------------
+[01/09/2026 00:32:08] NOVA MANOBRA:
+Navio: ANGELE N
+Manobra: Desatracação
+Data/Hora: 01/09/26 03:53
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
