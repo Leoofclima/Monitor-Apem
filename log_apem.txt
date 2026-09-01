@@ -1313,3 +1313,11 @@ De: BOIA 19-24
 Para/Berço: 103/NORTE
 Agência: LBH BRASIL**
 --------------------------------------------------
+[01/09/2026 15:36:36] NOVA MANOBRA:
+Navio: SEA GEMINI
+Manobra: Desatracação
+Data/Hora: 01/09/26 16:08
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
