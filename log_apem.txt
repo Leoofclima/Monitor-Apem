@@ -1373,3 +1373,11 @@ De: PONTO ALPHA
 Para/Berço: PIER 1
 Agência: ISS**
 --------------------------------------------------
+[01/09/2026 23:04:12] NOVA MANOBRA:
+Navio: PACIFIC MERCHANTS
+Manobra: Atracação
+Data/Hora: 02/09/26 04:01
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
