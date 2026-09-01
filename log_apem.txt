@@ -1305,3 +1305,11 @@ De: ALUMAR 1
 Para/Berço: ALUMAR 2
 Agência: GEM**
 --------------------------------------------------
+[01/09/2026 13:09:13] NOVA MANOBRA:
+Navio: OMICRON OCTO
+Manobra: Atracação
+Data/Hora: 01/09/26 15:38
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: LBH BRASIL**
+--------------------------------------------------
