@@ -1321,3 +1321,13 @@ De: 103/NORTE
 Para/Berço: ILHA DO MEDO
 Agência: ALPHAMAR**
 --------------------------------------------------
+[01/09/2026 16:24:21] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: SEA GEMINI
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 01/09/26 16:08
+Agora: 01/09/26 19:14
+Agência: ALPHAMAR**
+--------------------------------------------------
