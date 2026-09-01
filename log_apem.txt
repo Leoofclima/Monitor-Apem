@@ -1365,3 +1365,11 @@ De: ALUMAR 1
 Para/Berço: ALUMAR 2
 Agência: GEM**
 --------------------------------------------------
+[01/09/2026 21:30:39] NOVA MANOBRA:
+Navio: BOKM QINGDAO
+Manobra: Atracação
+Data/Hora: 02/09/26 04:01
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
