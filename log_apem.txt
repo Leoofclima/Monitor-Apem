@@ -1255,3 +1255,29 @@ De: 105
 Para/Berço: ILHA DO MEDO
 Agência: LBH BRASIL**
 --------------------------------------------------
+[01/09/2026 01:18:48] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: COSCO SHIPPING RUYI
+Manobra: Atracação
+Berço: 99
+Antes: 01/09/26 15:38
+Agora: 02/09/26 04:01
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[01/09/2026 01:18:48] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: SM GEMINI2
+Manobra: Desatracação
+Data/Hora: 31/08/26 19:08
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[01/09/2026 01:18:50] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: AMAZON PIONEER
+Manobra: Desatracação
+Data/Hora: 31/08/26 20:23
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
