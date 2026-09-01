@@ -1281,3 +1281,19 @@ De: ALUMAR 2
 Para/Berço: ILHA DO MEDO
 Agência: ORION RODOS**
 --------------------------------------------------
+[01/09/2026 08:58:06] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: LB EARTH
+Manobra: Atracação
+Data/Hora: 01/09/26 03:23
+De: BOIA 19-24
+Para/Berço: 105
+Agência: CARGONAVE**
+--------------------------------------------------
+[01/09/2026 08:58:07] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: ANGELE N
+Manobra: Desatracação
+Data/Hora: 01/09/26 03:53
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
