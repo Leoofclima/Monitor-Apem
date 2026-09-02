@@ -1453,3 +1453,19 @@ De: 100
 Para/Berço: ILHA DO MEDO
 Agência: WILSON SONS **
 --------------------------------------------------
+[02/09/2026 02:33:43] NOVA MANOBRA:
+Navio: JAG ARNAV
+Manobra: Atracação
+Data/Hora: 02/09/26 04:31
+De: BOIA 19-24
+Para/Berço: 100
+Agência: LBH BRASIL**
+--------------------------------------------------
+[02/09/2026 02:33:44] NOVA MANOBRA:
+Navio: FORTE SAO MARCELO
+Manobra: Atracação
+Data/Hora: 02/09/26 08:06
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: ISS**
+--------------------------------------------------
