@@ -1617,3 +1617,19 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 1
 Agência: ORION RODOS**
 --------------------------------------------------
+[02/09/2026 20:54:33] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: STAR TAISHAN
+Manobra: Desatracação
+Data/Hora: 02/09/26 16:40
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[02/09/2026 20:54:33] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: DALLAS
+Manobra: Desatracação
+Data/Hora: 02/09/26 16:40
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
