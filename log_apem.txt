@@ -1437,3 +1437,11 @@ De: BOIA 19-24
 Para/Berço: 103/NORTE
 Agência: LBH BRASIL**
 --------------------------------------------------
+[02/09/2026 01:43:48] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: MERCURIUS
+Manobra: Atracação
+Data/Hora: 01/09/26 20:29
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
