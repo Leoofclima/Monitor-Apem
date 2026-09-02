@@ -1633,3 +1633,19 @@ De: 104
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[02/09/2026 22:19:36] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: EPIC BALUAN
+Manobra: Atracação
+Data/Hora: 02/09/26 16:40
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[02/09/2026 22:19:36] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: CLYDE
+Manobra: Atracação
+Data/Hora: 02/09/26 16:40
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
