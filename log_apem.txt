@@ -1413,3 +1413,27 @@ De: 104
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[02/09/2026 01:28:22] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: SEA GEMINI
+Manobra: Desatracação
+Data/Hora: 01/09/26 19:14
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[02/09/2026 01:28:23] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: BRORA
+Manobra: Desatracação
+Data/Hora: 01/09/26 19:44
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[02/09/2026 01:28:24] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: OMICRON OCTO
+Manobra: Atracação
+Data/Hora: 01/09/26 19:44
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: LBH BRASIL**
+--------------------------------------------------
