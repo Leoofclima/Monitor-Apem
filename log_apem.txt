@@ -1495,3 +1495,19 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[02/09/2026 08:48:17] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: OCEAN TIME
+Manobra: Desatracação
+Data/Hora: 02/09/26 04:01
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[02/09/2026 08:48:18] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: ADASTAR
+Manobra: Desatracação
+Data/Hora: 02/09/26 04:31
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: AMART **
+--------------------------------------------------
