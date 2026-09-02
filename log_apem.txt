@@ -1593,3 +1593,11 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 SUL
 Agência: ISS**
 --------------------------------------------------
+[02/09/2026 14:37:48] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: FORTE DE SAO JOSE
+Manobra: Atracação
+Data/Hora: 02/09/26 08:51
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
