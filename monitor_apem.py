@@ -16,6 +16,7 @@ Como usar:
   4. Depois de validar, agende para rodar a cada 5-10 min (cron / task scheduler)
 """
 
+import csv
 import io
 import json
 import os
@@ -53,6 +54,12 @@ STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "apem_stat
 
 # Arquivo de histórico/log de tudo que já foi notificado
 LOG_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "log_apem.txt")
+
+# Planilha (CSV) com o histórico de navios que realmente atracaram
+# (não é enviada pro WhatsApp, é só um "banco de dados" pra consulta futura)
+HISTORICO_ATRACACOES_FILE = os.path.join(
+    os.path.dirname(os.path.abspath(__file__)), "historico_atracacoes.csv"
+)
 
 # =============================================================
 
@@ -228,6 +235,28 @@ def registrar_log(mensagem):
         f.write("-" * 50 + "\n")
 
 
+def registrar_atracacao_historico(dados):
+    """Adiciona uma linha no CSV de histórico de navios que atracaram de verdade.
+
+    Cria o arquivo com cabeçalho na primeira vez que for chamado.
+    """
+    arquivo_novo = not os.path.exists(HISTORICO_ATRACACOES_FILE)
+    with open(HISTORICO_ATRACACOES_FILE, "a", newline="", encoding="utf-8") as f:
+        campos = ["Data", "Hora", "Navio", "De", "Berco", "Agencia", "DetectadoEm"]
+        writer = csv.DictWriter(f, fieldnames=campos)
+        if arquivo_novo:
+            writer.writeheader()
+        writer.writerow({
+            "Data": dados.get("data", "?"),
+            "Hora": dados.get("hora", "?"),
+            "Navio": dados.get("nome", "?"),
+            "De": dados.get("de", "?"),
+            "Berco": dados.get("berco", "?"),
+            "Agencia": dados.get("agencia", "?"),
+            "DetectadoEm": datetime.now().strftime("%d/%m/%Y %H:%M:%S"),
+        })
+
+
 def enviar_whatsapp(mensagem):
     if ZAPI_INSTANCE_ID == "SEU_INSTANCE_ID_AQUI" or ZAPI_TOKEN == "SEU_TOKEN_AQUI":
         print("[AVISO] Z-API não configurado ainda. Mensagem que seria enviada:\n")
@@ -329,6 +358,15 @@ def main():
         if nome_navio in navios_atracados:
             msg = f"✅ Navio {nome_navio} atracou com sucesso!\n\n{texto}"
             registrar_log(f"MANOBRA CONCLUÍDA (navio atracou):\n{texto}")
+            partes = chave.split(" | ")
+            registrar_atracacao_historico({
+                "data": partes[1] if len(partes) > 1 else "?",
+                "hora": partes[2] if len(partes) > 2 else "?",
+                "nome": nome_navio,
+                "de": texto.split("De: ")[1].split("\n")[0] if "De: " in texto else "?",
+                "berco": partes[4] if len(partes) > 4 else "?",
+                "agencia": texto.split("Agência: ")[1].split("\n")[0] if "Agência: " in texto else "?",
+            })
         else:
             msg = f"⚠️ MANOBRA SAIU DA LISTA (possível cancelamento/desmarcação)\n\n{texto}"
             registrar_log(f"MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):\n{texto}")
