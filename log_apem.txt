@@ -1479,3 +1479,19 @@ Antes: 02/09/26 04:01
 Agora: 02/09/26 04:31
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[02/09/2026 03:38:58] NOVA MANOBRA:
+Navio: AGIOS FANOURIOS
+Manobra: Desatracação
+Data/Hora: 02/09/26 08:21
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[02/09/2026 03:38:58] NOVA MANOBRA:
+Navio: FORTE DE SAO JOSE
+Manobra: Atracação
+Data/Hora: 02/09/26 08:51
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
