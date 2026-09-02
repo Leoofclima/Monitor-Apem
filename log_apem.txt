@@ -1551,3 +1551,11 @@ De: BOIA 19-24
 Para/Berço: 99
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[02/09/2026 11:45:41] NOVA MANOBRA:
+Navio: STAR TAISHAN
+Manobra: Desatracação
+Data/Hora: 02/09/26 16:40
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
