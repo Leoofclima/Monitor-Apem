@@ -1389,3 +1389,27 @@ De: BOIA 19-24
 Para/Berço: 101/SUL
 Agência: ROCHAMAR**
 --------------------------------------------------
+[02/09/2026 01:17:50] NOVA MANOBRA:
+Navio: ADASTAR
+Manobra: Desatracação
+Data/Hora: 02/09/26 04:31
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: AMART **
+--------------------------------------------------
+[02/09/2026 01:17:51] NOVA MANOBRA:
+Navio: CLYDE
+Manobra: Atracação
+Data/Hora: 02/09/26 16:10
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[02/09/2026 01:17:52] NOVA MANOBRA:
+Navio: DALLAS
+Manobra: Desatracação
+Data/Hora: 02/09/26 16:40
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
