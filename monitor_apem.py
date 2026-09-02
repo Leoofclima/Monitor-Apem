@@ -65,6 +65,11 @@ def buscar_navios_atracados():
 
     Usado para diferenciar um cancelamento real de uma manobra que simplesmente
     já aconteceu (o navio atracou e por isso saiu da lista de previstas).
+
+    Importante: a página organiza os navios em VÁRIAS tabelas, uma por
+    terminal (VALE, ITAQUI, ALUMAR, etc), então é preciso ler TODAS as
+    tabelas da página, não só a primeira.
+
     Se a página falhar por qualquer motivo, retorna um conjunto vazio em vez
     de quebrar o script inteiro.
     """
@@ -74,34 +79,32 @@ def buscar_navios_atracados():
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "lxml")
 
-        tabela_html = None
-        for t in soup.find_all("table"):
-            if t.find("th", string=lambda s: s and "Nome" in s):
-                tabela_html = t
-                break
+        tabelas_html = [
+            t for t in soup.find_all("table")
+            if t.find("th", string=lambda s: s and "Nome" in s)
+        ]
 
-        if tabela_html is None:
-            return set()
-
-        colunas = None
         nomes = set()
-        for tr in tabela_html.find_all("tr"):
-            ths = tr.find_all("th")
-            tds = tr.find_all("td")
 
-            if ths:
-                textos = [th.get_text(strip=True) for th in ths]
-                if colunas is None and "Nome" in textos:
-                    colunas = textos
-                continue
+        for tabela_html in tabelas_html:
+            colunas = None
+            for tr in tabela_html.find_all("tr"):
+                ths = tr.find_all("th")
+                tds = tr.find_all("td")
 
-            if tds and colunas:
-                valores = [td.get_text(strip=True) for td in tds]
-                if len(valores) == len(colunas) and any(valores):
-                    linha = dict(zip(colunas, valores))
-                    nome = linha.get("Nome", "").strip().upper()
-                    if nome:
-                        nomes.add(nome)
+                if ths:
+                    textos = [th.get_text(strip=True) for th in ths]
+                    if colunas is None and "Nome" in textos:
+                        colunas = textos
+                    continue
+
+                if tds and colunas:
+                    valores = [td.get_text(strip=True) for td in tds]
+                    if len(valores) == len(colunas) and any(valores):
+                        linha = dict(zip(colunas, valores))
+                        nome = linha.get("Nome", "").strip().upper()
+                        if nome:
+                            nomes.add(nome)
 
         return nomes
     except Exception as e:
