@@ -1469,3 +1469,13 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 SUL
 Agência: ISS**
 --------------------------------------------------
+[02/09/2026 03:27:46] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: COSCO SHIPPING RUYI
+Manobra: Atracação
+Berço: 99
+Antes: 02/09/26 04:01
+Agora: 02/09/26 04:31
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
