@@ -329,10 +329,12 @@ def main():
 
     navios_atracados = buscar_navios_atracados() if sumidas else set()
 
+    mensagens_pendentes = []
+
     for chave, texto in novas.items():
         msg = f"🚢 NOVA MANOBRA AGENDADA (APEM)\n\n{texto}"
         print(msg)
-        enviar_whatsapp(msg)
+        mensagens_pendentes.append(msg)
         registrar_log(f"NOVA MANOBRA:\n{texto}")
 
     for chave_antiga, chave_nova in reagendadas:
@@ -350,7 +352,7 @@ def main():
             f"Agência: {dados_novos['agencia']}"
         )
         print(msg)
-        enviar_whatsapp(msg)
+        mensagens_pendentes.append(msg)
         registrar_log(f"REAGENDAMENTO:\n{msg}")
 
     for chave, texto in sumidas.items():
@@ -371,7 +373,17 @@ def main():
             msg = f"⚠️ MANOBRA SAIU DA LISTA (possível cancelamento/desmarcação)\n\n{texto}"
             registrar_log(f"MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):\n{texto}")
         print(msg)
-        enviar_whatsapp(msg)
+        mensagens_pendentes.append(msg)
+
+    if len(mensagens_pendentes) == 1:
+        # Só uma mudança: manda a mensagem normal, sem cabeçalho de "resumo"
+        enviar_whatsapp(mensagens_pendentes[0])
+    elif len(mensagens_pendentes) > 1:
+        # Mais de uma mudança na mesma checagem: agrupa tudo numa única mensagem
+        separador = "\n\n" + ("─" * 24) + "\n\n"
+        cabecalho = f"📋 {len(mensagens_pendentes)} atualizações de manobras (APEM)\n\n"
+        mensagem_agrupada = cabecalho + separador.join(mensagens_pendentes)
+        enviar_whatsapp(mensagem_agrupada)
 
     if not novas and not sumidas and not reagendadas:
         print("Nenhuma mudança detectada.")
