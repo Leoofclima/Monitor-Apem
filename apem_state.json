@@ -2,5 +2,7 @@
   "STAR TAISHAN | 02/09/26 | 16:40 | DS | ILHA DO MEDO": "Navio: STAR TAISHAN\nManobra: Desatracação\nData/Hora: 02/09/26 16:40\nDe: 102/CENTRO\nPara/Berço: ILHA DO MEDO\nAgência: FERTIMPORT - S.L **",
   "DALLAS | 02/09/26 | 16:40 | DS | ILHA DO MEDO": "Navio: DALLAS\nManobra: Desatracação\nData/Hora: 02/09/26 16:40\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
   "EPIC BALUAN | 02/09/26 | 16:40 | EA | 102/CENTRO": "Navio: EPIC BALUAN\nManobra: Atracação\nData/Hora: 02/09/26 16:40\nDe: BOIA 19-24\nPara/Berço: 102/CENTRO\nAgência: WILHELMSEN PORT**",
-  "CLYDE | 02/09/26 | 16:40 | EA | 104": "Navio: CLYDE\nManobra: Atracação\nData/Hora: 02/09/26 16:40\nDe: BOIA 19-24\nPara/Berço: 104\nAgência: WILHELMSEN PORT**"
+  "CLYDE | 02/09/26 | 16:40 | EA | 104": "Navio: CLYDE\nManobra: Atracação\nData/Hora: 02/09/26 16:40\nDe: BOIA 19-24\nPara/Berço: 104\nAgência: WILHELMSEN PORT**",
+  "MERCURIUS | 02/09/26 | 21:36 | DS | ILHA DO MEDO": "Navio: MERCURIUS\nManobra: Desatracação\nData/Hora: 02/09/26 21:36\nDe: ALUMAR 1\nPara/Berço: ILHA DO MEDO\nAgência: GEM**",
+  "FEDERAL DELTA | 02/09/26 | 22:06 | EA | ALUMAR 1": "Navio: FEDERAL DELTA\nManobra: Atracação\nData/Hora: 02/09/26 22:06\nDe: BOIA 19-24\nPara/Berço: ALUMAR 1\nAgência: ORION RODOS**"
 }
