@@ -1649,3 +1649,19 @@ De: BOIA 19-24
 Para/Berço: 104
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[02/09/2026 23:27:55] NOVA MANOBRA:
+Navio: SEA ZHOUSHAN
+Manobra: Desatracação
+Data/Hora: 03/09/26 04:17
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[02/09/2026 23:27:55] NOVA MANOBRA:
+Navio: BERGE JAYA
+Manobra: Atracação
+Data/Hora: 03/09/26 04:47
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
