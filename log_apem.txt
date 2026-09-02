@@ -1511,3 +1511,43 @@ De: 101/SUL
 Para/Berço: ILHA DO MEDO
 Agência: AMART **
 --------------------------------------------------
+[02/09/2026 10:47:07] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: BOKM QINGDAO
+Manobra: Atracação
+Data/Hora: 02/09/26 04:01
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
+[02/09/2026 10:47:08] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: PACIFIC MERCHANTS
+Manobra: Atracação
+Data/Hora: 02/09/26 04:01
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[02/09/2026 10:47:09] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: BERGE SNAEFELL
+Manobra: Atracação
+Data/Hora: 02/09/26 04:31
+De: BOIA 19-24
+Para/Berço: 101/SUL
+Agência: ROCHAMAR**
+--------------------------------------------------
+[02/09/2026 10:47:11] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: JAG ARNAV
+Manobra: Atracação
+Data/Hora: 02/09/26 04:31
+De: BOIA 19-24
+Para/Berço: 100
+Agência: LBH BRASIL**
+--------------------------------------------------
+[02/09/2026 10:47:12] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: COSCO SHIPPING RUYI
+Manobra: Atracação
+Data/Hora: 02/09/26 04:31
+De: BOIA 19-24
+Para/Berço: 99
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
