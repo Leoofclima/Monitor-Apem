@@ -1445,3 +1445,11 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 1
 Agência: GEM**
 --------------------------------------------------
+[02/09/2026 02:03:13] NOVA MANOBRA:
+Navio: OCEAN TIME
+Manobra: Desatracação
+Data/Hora: 02/09/26 04:01
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
