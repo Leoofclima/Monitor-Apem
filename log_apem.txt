@@ -1559,3 +1559,29 @@ De: 102/CENTRO
 Para/Berço: ILHA DO MEDO
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[02/09/2026 13:22:44] NOVA MANOBRA:
+Navio: EPIC BALUAN
+Manobra: Atracação
+Data/Hora: 02/09/26 16:40
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[02/09/2026 13:22:44] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: CLYDE
+Manobra: Atracação
+Berço: 104
+Antes: 02/09/26 16:10
+Agora: 02/09/26 16:40
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[02/09/2026 13:22:44] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: AGIOS FANOURIOS
+Manobra: Desatracação
+Data/Hora: 02/09/26 08:21
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
