@@ -1785,3 +1785,11 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[03/09/2026 17:20:05] NOVA MANOBRA:
+Navio: EPIC BALUAN
+Manobra: Desatracação
+Data/Hora: 03/09/26 22:12
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
