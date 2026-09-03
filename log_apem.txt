@@ -1801,3 +1801,27 @@ De: PIER 3 SUL
 Para/Berço: ILHA DO MEDO
 Agência: ISS**
 --------------------------------------------------
+[03/09/2026 21:55:06] NOVA MANOBRA:
+Navio: BOKM QINGDAO
+Manobra: Desatracação
+Data/Hora: 04/09/26 05:44
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[03/09/2026 21:55:06] NOVA MANOBRA:
+Navio: ATAGOSAN
+Manobra: Atracação
+Data/Hora: 04/09/26 05:44
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: WILSON SONS **
+--------------------------------------------------
+[03/09/2026 21:55:06] NOVA MANOBRA:
+Navio: GREAT BLOSSOM
+Manobra: Atracação
+Data/Hora: 04/09/26 05:44
+De: BOIA 19-24
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
