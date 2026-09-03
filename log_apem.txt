@@ -1793,3 +1793,11 @@ De: 102/CENTRO
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[03/09/2026 21:05:18] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: FORTE SAO MARCELO
+Manobra: Desatracação
+Data/Hora: 03/09/26 16:59
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
