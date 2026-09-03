@@ -1705,3 +1705,19 @@ De: 101/SUL
 Para/Berço: ILHA DO MEDO
 Agência: ROCHAMAR**
 --------------------------------------------------
+[03/09/2026 09:29:08] NOVA MANOBRA:
+Navio: FORTE SAO MARCELO
+Manobra: Desatracação
+Data/Hora: 03/09/26 16:59
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[03/09/2026 09:29:08] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: SEA ZHOUSHAN
+Manobra: Desatracação
+Data/Hora: 03/09/26 04:17
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
