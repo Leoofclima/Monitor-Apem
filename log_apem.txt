@@ -1769,3 +1769,19 @@ De: TERMINAL PESQUEIRO LC
 Para/Berço: PLATAFORMA 1
 Agência: GEM - PARNAIBA
 --------------------------------------------------
+[03/09/2026 13:56:14] NOVA MANOBRA:
+Navio: FORTE DE SAO JOSE
+Manobra: Desatracação
+Data/Hora: 03/09/26 17:14
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[03/09/2026 13:56:14] NOVA MANOBRA:
+Navio: AMAZON PATHFINDER
+Manobra: Atracação
+Data/Hora: 03/09/26 21:57
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
