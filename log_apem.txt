@@ -1681,3 +1681,19 @@ De: 105
 Para/Berço: ILHA DO MEDO
 Agência: CARGONAVE**
 --------------------------------------------------
+[03/09/2026 05:10:09] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: MERCURIUS
+Manobra: Desatracação
+Data/Hora: 02/09/26 21:36
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[03/09/2026 05:10:09] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: FEDERAL DELTA
+Manobra: Atracação
+Data/Hora: 02/09/26 22:06
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
