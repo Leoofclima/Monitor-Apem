@@ -1721,3 +1721,11 @@ De: PIER 4 NORTE
 Para/Berço: ILHA DO MEDO
 Agência: ISS**
 --------------------------------------------------
+[03/09/2026 09:41:15] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: LB EARTH
+Manobra: Desatracação
+Data/Hora: 03/09/26 05:17
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: CARGONAVE**
+--------------------------------------------------
