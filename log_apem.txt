@@ -1697,3 +1697,11 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 1
 Agência: GEM**
 --------------------------------------------------
+[03/09/2026 06:19:22] NOVA MANOBRA:
+Navio: BERGE SNAEFELL
+Manobra: Desatracação
+Data/Hora: 03/09/26 08:53
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: ROCHAMAR**
+--------------------------------------------------
