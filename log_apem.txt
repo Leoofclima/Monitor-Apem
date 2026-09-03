@@ -1825,3 +1825,11 @@ De: BOIA 19-24
 Para/Berço: PIER 3 SUL
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[03/09/2026 22:38:16] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: FORTE DE SAO JOSE
+Manobra: Desatracação
+Data/Hora: 03/09/26 17:14
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
