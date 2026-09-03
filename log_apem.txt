@@ -1737,3 +1737,19 @@ De: BOIA 19-24
 Para/Berço: 105
 Agência: ORION RODOS**
 --------------------------------------------------
+[03/09/2026 12:27:07] NOVA MANOBRA:
+Navio: KONTA III
+Manobra: DA
+Data/Hora: 03/09/26 09:02
+De: TERMINAL PESQUEIRO LC
+Para/Berço: PLATAFORMA 1
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[03/09/2026 12:27:07] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: BERGE JAYA
+Manobra: Atracação
+Data/Hora: 03/09/26 04:47
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
