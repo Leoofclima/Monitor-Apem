@@ -1753,3 +1753,19 @@ De: PONTO ALPHA
 Para/Berço: PIER 4 NORTE
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[03/09/2026 13:47:45] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: BERGE SNAEFELL
+Manobra: Desatracação
+Data/Hora: 03/09/26 08:53
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: ROCHAMAR**
+--------------------------------------------------
+[03/09/2026 13:47:45] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: KONTA III
+Manobra: DA
+Data/Hora: 03/09/26 09:02
+De: TERMINAL PESQUEIRO LC
+Para/Berço: PLATAFORMA 1
+Agência: GEM - PARNAIBA
+--------------------------------------------------
