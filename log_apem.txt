@@ -1929,3 +1929,11 @@ De: PIER 4 SUL
 Para/Berço: ILHA DO MEDO
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[04/09/2026 05:04:10] NOVA MANOBRA:
+Navio: FEDERAL DELTA
+Manobra: Desatracação
+Data/Hora: 04/09/26 11:12
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
