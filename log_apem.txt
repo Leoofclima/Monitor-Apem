@@ -2057,3 +2057,11 @@ De: PTO EMBARQUE LC
 Para/Berço: TERMINAL PESQUEIRO LC
 Agência: GEM - PARNAIBA
 --------------------------------------------------
+[04/09/2026 17:44:13] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: UBC TACOMA
+Manobra: Atracação
+Data/Hora: 04/09/26 11:42
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: WILLIAMS**
+--------------------------------------------------
