@@ -2065,3 +2065,11 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 1
 Agência: WILLIAMS**
 --------------------------------------------------
+[04/09/2026 19:33:15] NOVA MANOBRA:
+Navio: JAG ARNAV
+Manobra: Desatracação
+Data/Hora: 04/09/26 21:53
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
