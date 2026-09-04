@@ -2009,3 +2009,11 @@ De: 104
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[04/09/2026 11:31:19] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: ATAGOSAN
+Manobra: Atracação
+Data/Hora: 04/09/26 05:44
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: WILSON SONS **
+--------------------------------------------------
