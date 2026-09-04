@@ -1913,3 +1913,19 @@ De: PIER 4 SUL
 Para/Berço: ILHA DO MEDO
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[04/09/2026 04:20:33] NOVA MANOBRA:
+Navio: BERGE NEBLINA
+Manobra: Atracação
+Data/Hora: 04/09/26 09:57
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[04/09/2026 04:20:33] NOVA MANOBRA:
+Navio: PACIFIC MERCHANTS
+Manobra: Desatracação
+Data/Hora: 04/09/26 09:57
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
