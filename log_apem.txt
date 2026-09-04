@@ -1889,3 +1889,11 @@ De: 103/NORTE
 Para/Berço: ILHA DO MEDO
 Agência: LBH BRASIL**
 --------------------------------------------------
+[04/09/2026 03:45:35] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: MARAN FUTURE
+Manobra: Atracação
+Data/Hora: 04/09/26 09:57
+De: BOIA 19-24
+Para/Berço: PIER 4 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
