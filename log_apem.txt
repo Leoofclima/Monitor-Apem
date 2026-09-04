@@ -2033,3 +2033,19 @@ De: BOIA 19-24
 Para/Berço: 103/NORTE
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[04/09/2026 16:21:02] NOVA MANOBRA:
+Navio: KONTA III
+Manobra: Atracação
+Data/Hora: 01/09/26 06:46
+De: PTO EMBARQUE LC
+Para/Berço: TERMINAL PESQUEIRO LC
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[04/09/2026 16:21:02] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: FEDERAL DELTA
+Manobra: Desatracação
+Data/Hora: 04/09/26 11:12
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
