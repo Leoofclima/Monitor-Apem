@@ -1993,3 +1993,19 @@ De: PIER 1
 Para/Berço: ILHA DO MEDO
 Agência: ISS**
 --------------------------------------------------
+[04/09/2026 10:36:33] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: OMICRON OCTO
+Manobra: Desatracação
+Data/Hora: 04/09/26 06:14
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
+[04/09/2026 10:36:33] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: CLYDE
+Manobra: Desatracação
+Data/Hora: 04/09/26 06:14
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
