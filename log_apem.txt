@@ -1945,3 +1945,27 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 1
 Agência: WILLIAMS**
 --------------------------------------------------
+[04/09/2026 09:23:36] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: STRENGTH
+Manobra: Desatracação
+Data/Hora: 04/09/26 05:14
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[04/09/2026 09:23:36] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: PACIFIC MERCHANTS
+Manobra: Desatracação
+Data/Hora: 04/09/26 09:57
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[04/09/2026 09:23:36] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: BERGE NEBLINA
+Manobra: Atracação
+Data/Hora: 04/09/26 09:57
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
