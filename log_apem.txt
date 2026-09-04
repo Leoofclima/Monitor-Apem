@@ -1833,3 +1833,11 @@ De: ALUMAR 2
 Para/Berço: ILHA DO MEDO
 Agência: ORION RODOS**
 --------------------------------------------------
+[04/09/2026 00:28:44] NOVA MANOBRA:
+Navio: SYLVANA
+Manobra: Atracação
+Data/Hora: 04/09/26 06:14
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
