@@ -2073,3 +2073,27 @@ De: 100
 Para/Berço: ILHA DO MEDO
 Agência: LBH BRASIL**
 --------------------------------------------------
+[04/09/2026 21:39:20] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: PACIFIC MERCHANTS
+Manobra: Desatracação
+Data/Hora: 04/09/26 17:31
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[04/09/2026 21:39:20] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: BERGE NEBLINA
+Manobra: Atracação
+Data/Hora: 04/09/26 18:01
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[04/09/2026 21:39:20] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: JAG ARNAV
+Manobra: Desatracação
+Data/Hora: 04/09/26 21:53
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
