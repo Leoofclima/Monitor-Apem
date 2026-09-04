@@ -1849,3 +1849,11 @@ De: 104
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[04/09/2026 01:54:05] NOVA MANOBRA:
+Navio: STRENGTH
+Manobra: Desatracação
+Data/Hora: 04/09/26 05:14
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
