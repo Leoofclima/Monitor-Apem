@@ -2049,3 +2049,11 @@ De: ALUMAR 1
 Para/Berço: ILHA DO MEDO
 Agência: GEM**
 --------------------------------------------------
+[04/09/2026 16:35:58] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: KONTA III
+Manobra: Atracação
+Data/Hora: 01/09/26 06:46
+De: PTO EMBARQUE LC
+Para/Berço: TERMINAL PESQUEIRO LC
+Agência: GEM - PARNAIBA
+--------------------------------------------------
