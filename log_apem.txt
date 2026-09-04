@@ -1873,3 +1873,11 @@ De: PIER 4 SUL
 Para/Berço: ILHA DO MEDO
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[04/09/2026 02:45:26] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: EPIC BALUAN
+Manobra: Desatracação
+Data/Hora: 03/09/26 22:12
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
