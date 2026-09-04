@@ -2121,3 +2121,11 @@ De: 100
 Para/Berço: ILHA DO MEDO
 Agência: LBH BRASIL**
 --------------------------------------------------
+[04/09/2026 23:17:09] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: PACIFIC MERCHANTS
+Manobra: Desatracação
+Data/Hora: 04/09/26 17:31
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
