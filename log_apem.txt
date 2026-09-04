@@ -1937,3 +1937,11 @@ De: ALUMAR 1
 Para/Berço: ILHA DO MEDO
 Agência: GEM**
 --------------------------------------------------
+[04/09/2026 06:26:05] NOVA MANOBRA:
+Navio: UBC TACOMA
+Manobra: Atracação
+Data/Hora: 04/09/26 11:42
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: WILLIAMS**
+--------------------------------------------------
