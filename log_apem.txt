@@ -1881,3 +1881,11 @@ De: 102/CENTRO
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[04/09/2026 03:20:00] NOVA MANOBRA:
+Navio: OMICRON OCTO
+Manobra: Desatracação
+Data/Hora: 04/09/26 06:14
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
