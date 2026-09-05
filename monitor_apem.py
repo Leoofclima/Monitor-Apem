@@ -61,6 +61,10 @@ HISTORICO_ATRACACOES_FILE = os.path.join(
     os.path.dirname(os.path.abspath(__file__)), "historico_atracacoes.csv"
 )
 
+# Guarda se já avisamos que o site está fora do ar, pra não repetir o aviso
+# a cada execução — só avisa 1x quando cai, e 1x quando volta ao normal.
+ALERTA_STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "alerta_estado.json")
+
 # =============================================================
 
 
@@ -74,8 +78,13 @@ def buscar_navios_atracados():
     já aconteceu (o navio atracou e por isso saiu da lista de previstas).
 
     Importante: a página organiza os navios em VÁRIAS tabelas, uma por
-    terminal (VALE, ITAQUI, ALUMAR, etc), então é preciso ler TODAS as
-    tabelas da página, não só a primeira.
+    terminal (VALE, ITAQUI, ALUMAR, etc). Além disso, os cabeçalhos "Berço" e
+    "Agência" usam rowspan (ocupam 2 linhas), o que torna a contagem de
+    colunas do cabeçalho pouco confiável para casar com os dados. Por isso,
+    em vez de tentar casar coluna por coluna, usamos a posição fixa
+    conhecida do nome do navio nas linhas de dados (3ª coluna: Berço,
+    Status, Nome, ...) e validamos que o valor parece mesmo um nome de
+    navio (não é vazio, não é só número, tem mais de 2 caracteres).
 
     Se a página falhar por qualquer motivo, retorna um conjunto vazio em vez
     de quebrar o script inteiro.
@@ -94,24 +103,18 @@ def buscar_navios_atracados():
         nomes = set()
 
         for tabela_html in tabelas_html:
-            colunas = None
             for tr in tabela_html.find_all("tr"):
-                ths = tr.find_all("th")
                 tds = tr.find_all("td")
+                if not tds or len(tds) < 10:
+                    continue  # linha de título de terminal ou divisor, não é dado de navio
 
-                if ths:
-                    textos = [th.get_text(strip=True) for th in ths]
-                    if colunas is None and "Nome" in textos:
-                        colunas = textos
-                    continue
+                valores = [td.get_text(strip=True) for td in tds]
+                nome_candidato = valores[2].strip().upper() if len(valores) > 2 else ""
 
-                if tds and colunas:
-                    valores = [td.get_text(strip=True) for td in tds]
-                    if len(valores) == len(colunas) and any(valores):
-                        linha = dict(zip(colunas, valores))
-                        nome = linha.get("Nome", "").strip().upper()
-                        if nome:
-                            nomes.add(nome)
+                # Sanidade: descarta vazio, números puros, ou textos curtos demais (ex: "BE")
+                eh_numero = nome_candidato.replace(",", "").replace(".", "").isdigit()
+                if nome_candidato and not eh_numero and len(nome_candidato) > 2:
+                    nomes.add(nome_candidato)
 
         return nomes
     except Exception as e:
@@ -235,6 +238,18 @@ def registrar_log(mensagem):
         f.write("-" * 50 + "\n")
 
 
+def carregar_alerta_estado():
+    if os.path.exists(ALERTA_STATE_FILE):
+        with open(ALERTA_STATE_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {"site_indisponivel": False}
+
+
+def salvar_alerta_estado(estado):
+    with open(ALERTA_STATE_FILE, "w", encoding="utf-8") as f:
+        json.dump(estado, f, ensure_ascii=False, indent=2)
+
+
 def registrar_atracacao_historico(dados):
     """Adiciona uma linha no CSV de histórico de navios que atracaram de verdade.
 
@@ -284,7 +299,34 @@ def main():
         df = buscar_tabela()
     except Exception as e:
         print(f"[ERRO] Não consegui ler a página: {e}")
-        sys.exit(1)
+        estado_alerta = carregar_alerta_estado()
+        if not estado_alerta.get("site_indisponivel"):
+            msg = (
+                "🔴 SITE DA APEM FORA DO AR OU INACESSÍVEL\n\n"
+                f"Erro: {e}\n\n"
+                "O monitoramento vai continuar tentando sozinho. "
+                "Você só vai receber um novo aviso quando o site voltar ao normal "
+                "(não vou repetir esse alerta a cada tentativa)."
+            )
+            print(msg)
+            enviar_whatsapp(msg)
+            registrar_log(f"ALERTA: site fora do ar - {e}")
+            estado_alerta["site_indisponivel"] = True
+            salvar_alerta_estado(estado_alerta)
+        else:
+            print("[INFO] Site ainda fora do ar. Alerta já enviado antes, não vou repetir.")
+        sys.exit(0)  # não derruba o workflow, só encerra essa execução mais cedo
+
+    # Se chegou até aqui, o site respondeu normalmente — se estava marcado
+    # como "fora do ar" antes, avisa que voltou ao normal.
+    estado_alerta = carregar_alerta_estado()
+    if estado_alerta.get("site_indisponivel"):
+        msg = "🟢 Site da APEM voltou ao normal. Monitoramento retomado."
+        print(msg)
+        enviar_whatsapp(msg)
+        registrar_log("ALERTA: site voltou ao normal")
+        estado_alerta["site_indisponivel"] = False
+        salvar_alerta_estado(estado_alerta)
 
     relevantes = filtrar_relevantes(df)
 
