@@ -507,6 +507,30 @@ def registrar_log(mensagem):
         f.write("-" * 50 + "\n")
 
 
+def com_horario_real_de_atracacao(texto, nome_navio, navios_atracados_detalhado):
+    """Troca a linha 'Data/Hora' da mensagem pelo horário REAL de atracação,
+    conforme registrado na página de Navios Atracados — em vez de manter o
+    horário que só era a previsão (Manobras Previstas), que pode ter sido
+    bem diferente do que aconteceu de verdade.
+    """
+    registro = next((n for n in navios_atracados_detalhado if n["nome"] == nome_navio), None)
+    if not registro:
+        return texto
+
+    data_real = registro.get("data_atracacao")
+    hora_real = registro.get("hora_atracacao")
+    if not data_real or data_real == "?" or not hora_real or hora_real == "?":
+        return texto
+
+    novas_linhas = []
+    for linha in texto.split("\n"):
+        if linha.startswith("Data/Hora: "):
+            novas_linhas.append(f"Data/Hora: {data_real} {hora_real} (horário real de atracação)")
+        else:
+            novas_linhas.append(linha)
+    return "\n".join(novas_linhas)
+
+
 def registrar_atracacao_historico(dados):
     """Adiciona uma linha no CSV de histórico de navios que atracaram de verdade.
 
@@ -651,11 +675,18 @@ def main():
         if tipo_manobra == "EA":
             # Manobra era uma ATRACAÇÃO: se o navio está na lista de atracados, deu certo.
             if esta_atracado:
-                msg = f"✅ Navio {nome_navio} atracou com sucesso!\n\n{texto}"
-                registrar_log(f"MANOBRA CONCLUÍDA (navio atracou):\n{texto}")
+                registro_real = next((n for n in navios_atracados_detalhado if n["nome"] == nome_navio), None)
+                texto_corrigido = com_horario_real_de_atracacao(texto, nome_navio, navios_atracados_detalhado)
+                msg = f"✅ Navio {nome_navio} atracou com sucesso!\n\n{texto_corrigido}"
+                registrar_log(f"MANOBRA CONCLUÍDA (navio atracou):\n{texto_corrigido}")
+
+                data_real = registro_real.get("data_atracacao") if registro_real else None
+                hora_real = registro_real.get("hora_atracacao") if registro_real else None
+                usar_real = data_real and data_real != "?" and hora_real and hora_real != "?"
+
                 registrar_atracacao_historico({
-                    "data": partes_chave[1] if len(partes_chave) > 1 else "?",
-                    "hora": partes_chave[2] if len(partes_chave) > 2 else "?",
+                    "data": data_real if usar_real else (partes_chave[1] if len(partes_chave) > 1 else "?"),
+                    "hora": hora_real if usar_real else (partes_chave[2] if len(partes_chave) > 2 else "?"),
                     "nome": nome_navio,
                     "de": texto.split("De: ")[1].split("\n")[0] if "De: " in texto else "?",
                     "berco": partes_chave[4] if len(partes_chave) > 4 else "?",
@@ -679,8 +710,9 @@ def main():
         else:
             # Tipo de manobra desconhecido — mantém o comportamento antigo como fallback
             if esta_atracado:
-                msg = f"✅ Navio {nome_navio} atracou com sucesso!\n\n{texto}"
-                registrar_log(f"MANOBRA CONCLUÍDA (navio atracou):\n{texto}")
+                texto_corrigido = com_horario_real_de_atracacao(texto, nome_navio, navios_atracados_detalhado)
+                msg = f"✅ Navio {nome_navio} atracou com sucesso!\n\n{texto_corrigido}"
+                registrar_log(f"MANOBRA CONCLUÍDA (navio atracou):\n{texto_corrigido}")
             else:
                 msg = f"⚠️ MANOBRA SAIU DA LISTA (possível cancelamento/desmarcação)\n\n{texto}"
                 registrar_log(f"MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):\n{texto}")
