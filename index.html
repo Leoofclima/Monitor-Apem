@@ -513,6 +513,30 @@ function haversineKm(lat1, lon1, lat2, lon2){
   return 2 * R * Math.asin(Math.sqrt(a));
 }
 
+// Pontos do canal navegável de saída da base até o mar aberto — usados só
+// na primeira perna da rota, pra não desenhar/calcular linha reta cortando
+// terra. Depois do mar aberto, assume-se água livre entre os fundeios.
+const CANAL_SAIDA = [
+  [-2.656008651124698, -44.359276648104576],
+  [-2.6483581103731697, -44.35935696764403],
+  [-2.641797442629266, -44.3593589382668],
+  [-2.630807895299515, -44.36608242069828],
+  [-2.62770110303325, -44.37521720983472],
+];
+
+function pontosViaCanal(baseLat, baseLon, destLat, destLon){
+  return [[baseLat, baseLon], ...CANAL_SAIDA, [destLat, destLon]];
+}
+
+function distanciaViaCanalKm(baseLat, baseLon, destLat, destLon){
+  const pontos = pontosViaCanal(baseLat, baseLon, destLat, destLon);
+  let total = 0;
+  for (let i = 0; i < pontos.length - 1; i++){
+    total += haversineKm(pontos[i][0], pontos[i][1], pontos[i + 1][0], pontos[i + 1][1]);
+  }
+  return total;
+}
+
 // Mesma heurística do backend (distância + urgência, 50/50), rodando no
 // navegador pra poder recalcular na hora quando o usuário seleciona navios.
 function montarRotaCliente(baseLat, baseLon, listaNavios){
@@ -521,7 +545,10 @@ function montarRotaCliente(baseLat, baseLon, listaNavios){
   let posLat = baseLat, posLon = baseLon;
 
   while (restantes.length){
-    const distancias = restantes.map((n) => haversineKm(posLat, posLon, n.lat, n.lon));
+    const ehPrimeiraPerna = (posLat === baseLat && posLon === baseLon);
+    const distancias = restantes.map((n) =>
+      ehPrimeiraPerna ? distanciaViaCanalKm(posLat, posLon, n.lat, n.lon) : haversineKm(posLat, posLon, n.lat, n.lon)
+    );
     const urgencias = restantes.map((n) => (n.tempo_restante_horas ?? 999));
 
     const dMin = Math.min(...distancias), dMax = Math.max(...distancias);
@@ -620,7 +647,13 @@ function desenharRota(listaNavios){
   camadaRota.clearLayers();
   marcadoresPorNome = {};
 
-  const pontosRota = [[dadosAtuais.base.lat, dadosAtuais.base.lon]];
+  let pontosRota = [];
+  if (listaNavios.length > 0){
+    const primeiro = listaNavios[0];
+    pontosRota = pontosViaCanal(dadosAtuais.base.lat, dadosAtuais.base.lon, primeiro.lat, primeiro.lon);
+  } else {
+    pontosRota = [[dadosAtuais.base.lat, dadosAtuais.base.lon]];
+  }
 
   listaNavios.forEach((navio, indice) => {
     const numeroExibido = indice + 1;
@@ -641,7 +674,9 @@ function desenharRota(listaNavios){
       );
 
     marcadoresPorNome[navio.nome] = marcador;
-    pontosRota.push([navio.lat, navio.lon]);
+    if (indice > 0){
+      pontosRota.push([navio.lat, navio.lon]);
+    }
   });
 
   if (pontosRota.length > 1){
