@@ -317,6 +317,29 @@ def enriquecer_fundeados_com_previsao(navios_fundeados, atual_dados):
     return navios_fundeados
 
 
+# Pontos do canal navegável de saída da base até o mar aberto (fornecidos
+# pelo usuário, que conhece a região). Usado só na PRIMEIRA perna da rota
+# (saindo da base), pra não desenhar/calcular uma linha reta que atravesse
+# terra — depois do mar aberto, assume-se água livre entre os fundeios.
+CANAL_SAIDA = [
+    (-2.656008651124698, -44.359276648104576),
+    (-2.6483581103731697, -44.35935696764403),
+    (-2.641797442629266, -44.3593589382668),
+    (-2.630807895299515, -44.36608242069828),
+    (-2.62770110303325, -44.37521720983472),
+]
+
+
+def distancia_via_canal_km(base_lat, base_lon, destino_lat, destino_lon):
+    """Distância da base até um ponto, passando pelos pontos do canal de
+    saída em vez de linha reta (que cortaria terra)."""
+    pontos = [(base_lat, base_lon)] + CANAL_SAIDA + [(destino_lat, destino_lon)]
+    total = 0.0
+    for (lat1, lon1), (lat2, lon2) in zip(pontos, pontos[1:]):
+        total += haversine_km(lat1, lon1, lat2, lon2)
+    return total
+
+
 def montar_rota_otimizada(base_lat, base_lon, navios_fundeados):
     """Monta uma ordem sugerida de visita aos navios fundeados, equilibrando
     distância (visitar quem está mais perto) e urgência (visitar antes quem
@@ -336,7 +359,11 @@ def montar_rota_otimizada(base_lat, base_lon, navios_fundeados):
     ordem = 1
 
     while restantes:
-        distancias = [haversine_km(pos_lat, pos_lon, n["lat"], n["lon"]) for n in restantes]
+        eh_primeira_perna = (pos_lat == base_lat and pos_lon == base_lon)
+        if eh_primeira_perna:
+            distancias = [distancia_via_canal_km(pos_lat, pos_lon, n["lat"], n["lon"]) for n in restantes]
+        else:
+            distancias = [haversine_km(pos_lat, pos_lon, n["lat"], n["lon"]) for n in restantes]
         urgencias = [
             n["tempo_restante_horas"] if n.get("tempo_restante_horas") is not None else 999
             for n in restantes
