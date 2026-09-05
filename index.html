@@ -40,7 +40,7 @@
     justify-content:space-between;
     align-items:flex-end;
     border-bottom:1px solid var(--line);
-    padding:18px 22px;
+    padding:16px 22px;
     flex-wrap:wrap;
     gap:10px;
   }
@@ -74,20 +74,66 @@
     animation:pulse 2.4s ease-in-out infinite;
   }
 
+  .dot.parado{ background:var(--port); box-shadow:0 0 0 3px rgba(193,84,63,0.18); animation:none; }
+
   @keyframes pulse{ 0%,100%{opacity:1;} 50%{opacity:0.45;} }
 
   .clock{ color:var(--text); font-weight:600; }
 
+  .barra-avisos{ display:flex; flex-direction:column; }
+
+  .aviso-demo, .aviso-desatualizado{
+    font-size:11.5px;
+    padding:7px 14px;
+    text-align:center;
+  }
+
+  .aviso-demo{
+    background:rgba(201,162,39,0.12);
+    border-bottom:1px solid rgba(201,162,39,0.35);
+    color:var(--brass);
+  }
+
+  .aviso-desatualizado{
+    background:rgba(193,84,63,0.14);
+    border-bottom:1px solid rgba(193,84,63,0.4);
+    color:#E8A99A;
+    display:none;
+  }
+
+  .toolbar{
+    display:flex;
+    gap:8px;
+    padding:8px 22px;
+    border-bottom:1px solid var(--line);
+    flex-wrap:wrap;
+  }
+
+  .toolbar button{
+    background:transparent;
+    border:1px solid var(--line);
+    color:var(--muted);
+    font-family:'JetBrains Mono', monospace;
+    font-size:11px;
+    padding:6px 10px;
+    border-radius:2px;
+    cursor:pointer;
+    transition:border-color 0.15s, color 0.15s;
+  }
+
+  .toolbar button:hover{ border-color:var(--brass); color:var(--brass); }
+
   .layout{
     flex:1;
     display:grid;
-    grid-template-columns:1fr 360px;
+    grid-template-columns:1fr 380px;
     min-height:0;
   }
 
-  #mapa{
-    background:var(--panel);
-  }
+  .layout.sem-mapa{ grid-template-columns:1fr; }
+  .layout.sem-mapa #mapa{ display:none; }
+
+  #mapa{ background:var(--panel); }
 
   .leaflet-tile-pane{
     filter: invert(92%) hue-rotate(180deg) brightness(0.92) contrast(0.9) saturate(0.6);
@@ -101,7 +147,7 @@
   }
 
   .sidebar-header{
-    padding:16px 18px 12px;
+    padding:14px 18px 12px;
     border-bottom:1px solid var(--line);
   }
 
@@ -147,11 +193,7 @@
     border-color:var(--brass);
   }
 
-  .filtro-botoes{
-    display:flex;
-    gap:8px;
-    margin-top:2px;
-  }
+  .filtro-botoes{ display:flex; gap:8px; margin-top:2px; }
 
   .filtro-botoes button{
     flex:1;
@@ -166,44 +208,61 @@
     transition:border-color 0.15s, color 0.15s;
   }
 
-  .filtro-botoes button:hover{
-    border-color:var(--brass);
-    color:var(--brass);
-  }
+  .filtro-botoes button:hover{ border-color:var(--brass); color:var(--brass); }
 
-  #btn-filtrar{
-    border-color:var(--brass);
-    color:var(--brass);
-  }
+  #btn-filtrar{ border-color:var(--brass); color:var(--brass); }
 
-  .filtro-nota{
+  .filtro-nota{ font-size:10.5px; color:var(--muted); min-height:14px; margin-top:4px; }
+
+  .selecao-linha{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:8px 18px;
+    border-bottom:1px solid var(--line);
     font-size:10.5px;
     color:var(--muted);
-    min-height:14px;
   }
 
-  .rota-lista{
-    overflow-y:auto;
-    flex:1;
+  .selecao-linha button{
+    background:none;
+    border:none;
+    color:var(--brass);
+    font-family:'JetBrains Mono', monospace;
+    font-size:10.5px;
+    cursor:pointer;
+    padding:0;
   }
+
+  .rota-lista{ overflow-y:auto; flex:1; }
 
   .rota-item{
     display:flex;
-    gap:12px;
-    padding:13px 18px;
+    align-items:flex-start;
+    gap:10px;
+    padding:12px 18px;
     border-bottom:1px solid var(--line);
-    cursor:pointer;
     transition:background 0.15s;
   }
 
   .rota-item:hover{ background:rgba(201,162,39,0.06); }
 
+  .rota-check{
+    width:15px; height:15px;
+    margin-top:2px;
+    accent-color:#C9A227;
+    cursor:pointer;
+    flex-shrink:0;
+  }
+
+  .rota-clicavel{ flex:1; display:flex; gap:10px; cursor:pointer; min-width:0; }
+
   .rota-num{
     font-family:'Fraunces', serif;
-    font-size:20px;
+    font-size:19px;
     font-weight:600;
     color:var(--brass);
-    width:26px;
+    width:22px;
     flex-shrink:0;
   }
 
@@ -215,7 +274,12 @@
     white-space:nowrap;
     overflow:hidden;
     text-overflow:ellipsis;
+    display:flex;
+    align-items:center;
+    gap:6px;
   }
+
+  .area-bolinha{ width:7px; height:7px; border-radius:50%; flex-shrink:0; }
 
   .rota-meta{
     font-size:11px;
@@ -223,12 +287,40 @@
     margin-top:3px;
     display:flex;
     gap:10px;
+    flex-wrap:wrap;
   }
 
   .urgencia-alta{ color:var(--port); }
   .urgencia-media{ color:var(--brass); }
   .urgencia-baixa{ color:var(--starboard); }
   .urgencia-nenhuma{ color:var(--muted); }
+
+  .aviso-retorno{
+    color:var(--port);
+    font-size:10.5px;
+    margin-top:2px;
+  }
+
+  .em-breve-section{ border-top:1px solid var(--line); }
+
+  .em-breve-titulo{
+    padding:10px 18px 6px;
+    font-size:11px;
+    color:var(--muted);
+    letter-spacing:0.3px;
+  }
+
+  .em-breve-item{
+    padding:8px 18px;
+    font-size:11.5px;
+    color:var(--muted);
+    border-bottom:1px solid var(--line);
+    display:flex;
+    justify-content:space-between;
+    cursor:pointer;
+  }
+
+  .em-breve-item:hover{ background:rgba(201,162,39,0.05); }
 
   .legenda{
     padding:12px 18px;
@@ -241,7 +333,6 @@
   }
 
   .legenda-item{ display:flex; align-items:center; gap:7px; }
-
   .legenda-bola{ width:8px; height:8px; border-radius:50%; flex-shrink:0; }
 
   .creditos{
@@ -250,15 +341,6 @@
     font-size:10px;
     color:var(--muted);
     opacity:0.7;
-  }
-
-  .aviso-demo{
-    background:rgba(201,162,39,0.12);
-    border:1px solid rgba(201,162,39,0.35);
-    color:var(--brass);
-    font-size:11.5px;
-    padding:8px 14px;
-    text-align:center;
   }
 
   .leaflet-popup-content-wrapper{
@@ -271,8 +353,11 @@
 
   .leaflet-popup-tip{ background:var(--panel-2); }
 
+  .popup-link{ color:var(--brass); display:inline-block; margin-top:4px; }
+
   @media (max-width: 860px){
-    .layout{ grid-template-columns:1fr; grid-template-rows:55vh 1fr; }
+    .layout{ grid-template-columns:1fr; grid-template-rows:50vh 1fr; }
+    .layout.sem-mapa{ grid-template-rows:1fr; }
     .sidebar{ border-left:none; border-top:1px solid var(--line); }
   }
 </style>
@@ -285,17 +370,26 @@
       <div class="subtitle" id="base-info">Base: —</div>
     </div>
     <div class="status">
-      <span class="dot"></span>
+      <span class="dot" id="status-dot"></span>
       <span>atualizado às</span>
       <span class="clock" id="atualizado-em">—</span>
     </div>
   </header>
 
-  <div id="aviso-demo" class="aviso-demo" style="display:none;">
-    Exibindo dados de exemplo — ainda não foi encontrado o arquivo painel_dados.json gerado pelo monitor.
+  <div class="barra-avisos">
+    <div id="aviso-demo" class="aviso-demo" style="display:none;">
+      Exibindo dados de exemplo — ainda não foi encontrado o arquivo painel_dados.json gerado pelo monitor.
+    </div>
+    <div id="aviso-desatualizado" class="aviso-desatualizado"></div>
   </div>
 
-  <div class="layout">
+  <div class="toolbar">
+    <button id="btn-toggle-mapa">Ocultar mapa</button>
+    <button id="btn-google-maps">Abrir rota no Google Maps</button>
+    <button id="btn-copiar">Copiar lista</button>
+  </div>
+
+  <div class="layout" id="layout">
     <div id="mapa"></div>
 
     <div class="sidebar">
@@ -317,7 +411,22 @@
           <div class="filtro-nota" id="filtro-nota"></div>
         </div>
       </div>
+
+      <div class="selecao-linha">
+        <span id="selecao-info">0 selecionados</span>
+        <span>
+          <button id="btn-marcar-todos">Marcar todos</button> ·
+          <button id="btn-desmarcar-todos">Desmarcar todos</button>
+        </span>
+      </div>
+
       <div class="rota-lista" id="rota-lista"></div>
+
+      <div class="em-breve-section" id="em-breve-section" style="display:none;">
+        <div class="em-breve-titulo">Atracando em breve — fora da rota</div>
+        <div id="em-breve-lista"></div>
+      </div>
+
       <div class="legenda">
         <div class="legenda-item"><span class="legenda-bola" style="background:#C1543F;"></span> Menos de 3h para atracar</div>
         <div class="legenda-item"><span class="legenda-bola" style="background:#C9A227;"></span> Entre 3h e 12h para atracar</div>
@@ -333,16 +442,29 @@ const DADOS_DEMO = {
   base: { lat: -2.66098123540369, lon: -44.356990008636686, nome: "Porto Grande - São Luís" },
   navios_fundeados: [],
   rota_sugerida: [
-    { ordem: 1, nome: "ETHRA DIAMOND", area: "AREA 3", agencia: "SHIPPING PROTECTION **", lat: -2.179167, lon: -44.163, distancia_trecho_km: 57.7, tempo_restante_horas: 1.2, tempo_fundeado_horas: 320 },
-    { ordem: 2, nome: "CORAL VI", area: "AREA 2", agencia: "WILSON SONS **", lat: -2.092, lon: -44.084833, distancia_trecho_km: 13.0, tempo_restante_horas: 4.5, tempo_fundeado_horas: 18 },
-    { ordem: 3, nome: "SUNNY VICTORY", area: "AREA 2", agencia: "GAC**", lat: -2.069833, lon: -44.088667, distancia_trecho_km: 2.5, tempo_restante_horas: null, tempo_fundeado_horas: 96 },
+    { nome: "ETHRA DIAMOND", area: "AREA 3", agencia: "SHIPPING PROTECTION **", lat: -2.179167, lon: -44.163, tempo_restante_horas: 22, tempo_fundeado_horas: 320, previsao_atracacao: null },
+    { nome: "CORAL VI", area: "AREA 2", agencia: "WILSON SONS **", lat: -2.092, lon: -44.084833, tempo_restante_horas: 4.5, tempo_fundeado_horas: 18, previsao_atracacao: null },
+    { nome: "SUNNY VICTORY", area: "AREA 2", agencia: "GAC**", lat: -2.069833, lon: -44.088667, tempo_restante_horas: null, tempo_fundeado_horas: 96, previsao_atracacao: null },
+  ],
+  navios_atracando_em_breve: [
+    { nome: "TROMBETAS", area: "AREA 3", tempo_restante_horas: 1.1 },
   ],
 };
 
+const ATUALIZACAO_INTERVALO_MS = 5 * 60 * 1000; // recarrega os dados a cada 5 min
+const LIMITE_DESATUALIZADO_MIN = 25; // avisa se não atualizar há mais que isso
+
 let mapaGlobal = null;
 let camadaRota = null;
+let camadaEmBreve = null;
 let marcadoresPorNome = {};
 let dadosAtuais = null;
+let poolAtual = [];        // navios elegíveis depois do filtro de data
+let selecionados = new Set();
+let ultimaRotaCalculada = [];
+let mapaOculto = false;
+
+// ---------- utilidades ----------
 
 function classeUrgencia(horas){
   if (horas === null || horas === undefined) return "urgencia-nenhuma";
@@ -364,7 +486,17 @@ function textoUrgencia(horas){
   return `${horas}h para atracar`;
 }
 
-// Converte "DD/MM/AAAA HH:MM" (formato do painel) para um objeto Date
+const PALETA_AREAS = ["#4FA3D1", "#C9A227", "#9B7ED6", "#4C9A6A", "#D97757", "#7FA8A0"];
+const corPorAreaCache = {};
+function corArea(area){
+  const chave = area || "—";
+  if (!corPorAreaCache[chave]){
+    const indice = Object.keys(corPorAreaCache).length % PALETA_AREAS.length;
+    corPorAreaCache[chave] = PALETA_AREAS[indice];
+  }
+  return corPorAreaCache[chave];
+}
+
 function parseDataHoraBR(texto){
   if (!texto) return null;
   const [dataParte, horaParte] = texto.split(' ');
@@ -373,16 +505,82 @@ function parseDataHoraBR(texto){
   return new Date(ano, mes - 1, dia, hora, minuto);
 }
 
-async function carregarDados(){
+function haversineKm(lat1, lon1, lat2, lon2){
+  const R = 6371;
+  const toRad = (v) => (v * Math.PI) / 180;
+  const dLat = toRad(lat2 - lat1);
+  const dLon = toRad(lon2 - lon1);
+  const a = Math.sin(dLat / 2) ** 2 + Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLon / 2) ** 2;
+  return 2 * R * Math.asin(Math.sqrt(a));
+}
+
+// Mesma heurística do backend (distância + urgência, 50/50), rodando no
+// navegador pra poder recalcular na hora quando o usuário seleciona navios.
+function montarRotaCliente(baseLat, baseLon, listaNavios){
+  const restantes = listaNavios.slice();
+  const rota = [];
+  let posLat = baseLat, posLon = baseLon;
+
+  while (restantes.length){
+    const distancias = restantes.map((n) => haversineKm(posLat, posLon, n.lat, n.lon));
+    const urgencias = restantes.map((n) => (n.tempo_restante_horas ?? 999));
+
+    const dMin = Math.min(...distancias), dMax = Math.max(...distancias);
+    const uMin = Math.min(...urgencias), uMax = Math.max(...urgencias);
+    const normalizar = (v, vmin, vmax) => (vmax === vmin ? 0 : (v - vmin) / (vmax - vmin));
+
+    const scores = restantes.map((_, i) => 0.5 * normalizar(distancias[i], dMin, dMax) + 0.5 * normalizar(urgencias[i], uMin, uMax));
+    let idxEscolhido = 0;
+    for (let i = 1; i < scores.length; i++) if (scores[i] < scores[idxEscolhido]) idxEscolhido = i;
+
+    const navioEscolhido = restantes.splice(idxEscolhido, 1)[0];
+    rota.push({ ...navioEscolhido, distancia_trecho_km: Math.round(distancias[idxEscolhido] * 10) / 10 });
+    posLat = navioEscolhido.lat;
+    posLon = navioEscolhido.lon;
+  }
+
+  return rota;
+}
+
+function linkMarineTraffic(navio){
+  return `https://www.marinetraffic.com/en/ais/home/centerx:${navio.lon}/centery:${navio.lat}/zoom:12`;
+}
+
+// ---------- carregamento de dados ----------
+
+async function buscarDados(){
   try{
     const resp = await fetch('./painel_dados.json', { cache: "no-store" });
     if (!resp.ok) throw new Error("arquivo não encontrado");
+    document.getElementById('aviso-demo').style.display = 'none';
     return await resp.json();
   }catch(e){
     document.getElementById('aviso-demo').style.display = 'block';
     return DADOS_DEMO;
   }
 }
+
+function checarDadosDesatualizados(){
+  const avisoEl = document.getElementById('aviso-desatualizado');
+  const dotEl = document.getElementById('status-dot');
+  const dt = parseDataHoraBR(dadosAtuais.atualizado_em);
+  if (!dt){ return; }
+
+  const diffMin = Math.round((new Date() - dt) / 60000);
+  if (diffMin > LIMITE_DESATUALIZADO_MIN){
+    const horas = Math.floor(diffMin / 60);
+    const minutos = diffMin % 60;
+    const tempoTexto = horas > 0 ? `${horas}h${minutos}min` : `${minutos}min`;
+    avisoEl.textContent = `⚠ Sem atualização há ${tempoTexto} — os dados abaixo podem estar desatualizados.`;
+    avisoEl.style.display = 'block';
+    dotEl.classList.add('parado');
+  } else {
+    avisoEl.style.display = 'none';
+    dotEl.classList.remove('parado');
+  }
+}
+
+// ---------- mapa ----------
 
 function inicializarMapa(dados){
   mapaGlobal = L.map('mapa', { zoomControl: true }).setView([dados.base.lat, dados.base.lon], 10);
@@ -403,23 +601,29 @@ function inicializarMapa(dados){
     .bindPopup(`<b>${dados.base.nome}</b><br>Ponto de partida`);
 
   camadaRota = L.layerGroup().addTo(mapaGlobal);
+  camadaEmBreve = L.layerGroup().addTo(mapaGlobal);
 }
 
-function desenharRota(dados, listaNavios){
+function iconeNavio(cor, corBorda){
+  return L.divIcon({
+    className: '',
+    html: `<div style="width:12px;height:12px;border-radius:50%;background:${cor};border:2px solid ${corBorda};"></div>`,
+    iconSize: [12, 12],
+    iconAnchor: [6, 6],
+  });
+}
+
+function desenharRota(listaNavios){
   camadaRota.clearLayers();
   marcadoresPorNome = {};
 
-  const pontosRota = [[dados.base.lat, dados.base.lon]];
+  const pontosRota = [[dadosAtuais.base.lat, dadosAtuais.base.lon]];
 
   listaNavios.forEach((navio, indice) => {
     const numeroExibido = indice + 1;
     const cor = corUrgencia(navio.tempo_restante_horas);
-    const icone = L.divIcon({
-      className: '',
-      html: `<div style="width:12px;height:12px;border-radius:50%;background:${cor};border:2px solid #0E1F2E;"></div>`,
-      iconSize: [12, 12],
-      iconAnchor: [6, 6],
-    });
+    const corBorda = corArea(navio.area);
+    const icone = iconeNavio(cor, corBorda);
 
     const marcador = L.marker([navio.lat, navio.lon], { icon: icone })
       .addTo(camadaRota)
@@ -428,7 +632,8 @@ function desenharRota(dados, listaNavios){
         `Área: ${navio.area || '—'}<br>` +
         `Agência: ${navio.agencia || '—'}<br>` +
         `${textoUrgencia(navio.tempo_restante_horas)}<br>` +
-        `${navio.distancia_trecho_km} km do ponto anterior`
+        `${navio.distancia_trecho_km} km do ponto anterior<br>` +
+        `<a class="popup-link" href="${linkMarineTraffic(navio)}" target="_blank" rel="noopener">Ver ao vivo no MarineTraffic ↗</a>`
       );
 
     marcadoresPorNome[navio.nome] = marcador;
@@ -437,8 +642,40 @@ function desenharRota(dados, listaNavios){
 
   if (pontosRota.length > 1){
     L.polyline(pontosRota, { color: '#C9A227', weight: 2, opacity: 0.7, dashArray: '6 6' }).addTo(camadaRota);
+  }
+
+  if (pontosRota.length > 0 && !mapaOculto){
     mapaGlobal.fitBounds(pontosRota, { padding: [30, 30] });
   }
+}
+
+function desenharEmBreve(lista){
+  camadaEmBreve.clearLayers();
+  lista.forEach((navio) => {
+    if (navio.lat == null || navio.lon == null) return;
+    const icone = iconeNavio("#5A6B7A", "#0E1F2E");
+    L.marker([navio.lat, navio.lon], { icon: icone })
+      .addTo(camadaEmBreve)
+      .bindPopup(
+        `<b>${navio.nome}</b> (fora da rota)<br>` +
+        `Área: ${navio.area || '—'}<br>` +
+        `${textoUrgencia(navio.tempo_restante_horas)} — em processo de atracação<br>` +
+        `<a class="popup-link" href="${linkMarineTraffic(navio)}" target="_blank" rel="noopener">Ver ao vivo no MarineTraffic ↗</a>`
+      );
+  });
+}
+
+// ---------- lista lateral ----------
+
+function formatarAvisoRetorno(navio){
+  const valorRetorno = document.getElementById('data-retorno').value;
+  if (!valorRetorno || !navio.previsao_atracacao) return '';
+  const dtRetorno = new Date(valorRetorno);
+  const dtPrevisao = parseDataHoraBR(navio.previsao_atracacao);
+  if (dtPrevisao && dtPrevisao <= dtRetorno){
+    return `<div class="aviso-retorno">⚠ pode atracar antes do seu retorno</div>`;
+  }
+  return '';
 }
 
 function montarListaRota(listaNavios){
@@ -446,7 +683,7 @@ function montarListaRota(listaNavios){
   lista.innerHTML = '';
 
   if (listaNavios.length === 0){
-    lista.innerHTML = `<div style="padding:16px 18px; color:var(--muted); font-size:12.5px;">Nenhum navio encontrado para esse período.</div>`;
+    lista.innerHTML = `<div style="padding:16px 18px; color:var(--muted); font-size:12.5px;">Nenhum navio selecionado para esse período.</div>`;
     return;
   }
 
@@ -454,72 +691,220 @@ function montarListaRota(listaNavios){
     const numeroExibido = indice + 1;
     const item = document.createElement('div');
     item.className = 'rota-item';
-    item.innerHTML = `
+
+    const check = document.createElement('input');
+    check.type = 'checkbox';
+    check.className = 'rota-check';
+    check.checked = selecionados.has(navio.nome);
+    check.addEventListener('change', () => {
+      if (check.checked) selecionados.add(navio.nome);
+      else selecionados.delete(navio.nome);
+      atualizarSelecaoInfo();
+      recalcularRota();
+    });
+
+    const clicavel = document.createElement('div');
+    clicavel.className = 'rota-clicavel';
+    clicavel.innerHTML = `
       <div class="rota-num">${numeroExibido}</div>
       <div class="rota-info">
-        <div class="rota-nome">${navio.nome}</div>
+        <div class="rota-nome"><span class="area-bolinha" style="background:${corArea(navio.area)}"></span>${navio.nome}</div>
         <div class="rota-meta">
           <span>${navio.distancia_trecho_km} km</span>
           <span class="${classeUrgencia(navio.tempo_restante_horas)}">${textoUrgencia(navio.tempo_restante_horas)}</span>
         </div>
+        ${formatarAvisoRetorno(navio)}
       </div>
     `;
-    // Clicar no navio leva o mapa direto até ele
-    item.addEventListener('click', () => {
+    clicavel.addEventListener('click', () => {
       const marcador = marcadoresPorNome[navio.nome];
       if (marcador){
         mapaGlobal.flyTo([navio.lat, navio.lon], 13, { duration: 0.8 });
         marcador.openPopup();
       }
     });
+
+    item.appendChild(check);
+    item.appendChild(clicavel);
     lista.appendChild(item);
   });
 }
 
-function renderizar(listaNavios){
-  desenharRota(dadosAtuais, listaNavios);
-  montarListaRota(listaNavios);
+function montarListaEmBreve(lista){
+  const secao = document.getElementById('em-breve-section');
+  const container = document.getElementById('em-breve-lista');
+  container.innerHTML = '';
+
+  if (!lista || lista.length === 0){
+    secao.style.display = 'none';
+    return;
+  }
+
+  secao.style.display = 'block';
+  lista.forEach((navio) => {
+    const item = document.createElement('div');
+    item.className = 'em-breve-item';
+    item.innerHTML = `<span>${navio.nome}</span><span>${textoUrgencia(navio.tempo_restante_horas)}</span>`;
+    item.addEventListener('click', () => {
+      if (navio.lat != null && navio.lon != null){
+        mapaGlobal.flyTo([navio.lat, navio.lon], 13, { duration: 0.8 });
+      }
+    });
+    container.appendChild(item);
+  });
 }
 
-function aplicarFiltro(){
+function atualizarSelecaoInfo(){
+  document.getElementById('selecao-info').textContent = `${selecionados.size} de ${poolAtual.length} selecionados`;
+}
+
+// ---------- fluxo principal de renderização ----------
+
+function recalcularRota(){
+  const escolhidos = poolAtual.filter((n) => selecionados.has(n.nome));
+  ultimaRotaCalculada = montarRotaCliente(dadosAtuais.base.lat, dadosAtuais.base.lon, escolhidos);
+  desenharRota(ultimaRotaCalculada);
+  montarListaRota(ultimaRotaCalculada);
+}
+
+function aplicarFiltroData(){
   const notaEl = document.getElementById('filtro-nota');
   const valorSaida = document.getElementById('data-saida').value;
 
   if (!valorSaida){
-    notaEl.textContent = "Informe ao menos a data de saída pra filtrar.";
-    return;
+    poolAtual = dadosAtuais.rota_sugerida.slice();
+    notaEl.textContent = "Informe ao menos a data de saída pra filtrar por período.";
+  } else {
+    const dataSaida = new Date(valorSaida);
+    poolAtual = dadosAtuais.rota_sugerida.filter((navio) => {
+      if (!navio.previsao_atracacao) return true;
+      const dtPrevisao = parseDataHoraBR(navio.previsao_atracacao);
+      if (!dtPrevisao) return true;
+      return dtPrevisao >= dataSaida;
+    });
+    notaEl.textContent = `${poolAtual.length} de ${dadosAtuais.rota_sugerida.length} navios ainda estarão fundeados na saída.`;
   }
 
-  const dataSaida = new Date(valorSaida);
-
-  const filtrados = dadosAtuais.rota_sugerida.filter((navio) => {
-    if (!navio.previsao_atracacao) return true; // sem previsão: mantém, por segurança
-    const dtPrevisao = parseDataHoraBR(navio.previsao_atracacao);
-    if (!dtPrevisao) return true;
-    return dtPrevisao >= dataSaida; // só entra se ainda estiver fundeado na saída
-  });
-
-  notaEl.textContent = `${filtrados.length} de ${dadosAtuais.rota_sugerida.length} navios ainda estarão fundeados na saída.`;
-  renderizar(filtrados);
+  selecionados = new Set(poolAtual.map((n) => n.nome));
+  atualizarSelecaoInfo();
+  recalcularRota();
 }
 
 function limparFiltro(){
   document.getElementById('data-saida').value = '';
   document.getElementById('data-retorno').value = '';
   document.getElementById('filtro-nota').textContent = '';
-  renderizar(dadosAtuais.rota_sugerida);
+  aplicarFiltroData();
+}
+
+// ---------- exportação ----------
+
+function exportarGoogleMaps(){
+  if (ultimaRotaCalculada.length === 0){
+    alert('Selecione ao menos um navio pra exportar a rota.');
+    return;
+  }
+  const origem = `${dadosAtuais.base.lat},${dadosAtuais.base.lon}`;
+  const pontos = ultimaRotaCalculada.map((n) => `${n.lat},${n.lon}`);
+  const destino = pontos[pontos.length - 1];
+  const waypoints = pontos.slice(0, -1).join('|');
+  let url = `https://www.google.com/maps/dir/?api=1&origin=${origem}&destination=${destino}`;
+  if (waypoints) url += `&waypoints=${waypoints}`;
+  window.open(url, '_blank');
+}
+
+function copiarLista(){
+  if (ultimaRotaCalculada.length === 0){
+    alert('Nenhum navio selecionado pra copiar.');
+    return;
+  }
+  const linhas = ultimaRotaCalculada.map((n, i) =>
+    `${i + 1}. ${n.nome} — ${n.distancia_trecho_km} km — ${textoUrgencia(n.tempo_restante_horas)}`
+  );
+  const texto = `Rota sugerida — Sentinela do Porto (${dadosAtuais.atualizado_em})\n\n${linhas.join('\n')}`;
+  navigator.clipboard.writeText(texto).then(() => {
+    const btn = document.getElementById('btn-copiar');
+    const original = btn.textContent;
+    btn.textContent = 'Copiado!';
+    setTimeout(() => { btn.textContent = original; }, 1500);
+  });
+}
+
+function alternarMapa(){
+  mapaOculto = !mapaOculto;
+  document.getElementById('layout').classList.toggle('sem-mapa', mapaOculto);
+  document.getElementById('btn-toggle-mapa').textContent = mapaOculto ? 'Mostrar mapa' : 'Ocultar mapa';
+  if (!mapaOculto && mapaGlobal){
+    setTimeout(() => mapaGlobal.invalidateSize(), 200);
+  }
+}
+
+// ---------- ciclo de vida ----------
+
+function renderizarTudo(){
+  document.getElementById('atualizado-em').textContent = dadosAtuais.atualizado_em || '—';
+  document.getElementById('base-info').textContent = `Rota de Fundeio · Base: ${dadosAtuais.base.nome}`;
+  checarDadosDesatualizados();
+
+  poolAtual = dadosAtuais.rota_sugerida.slice();
+  selecionados = new Set(poolAtual.map((n) => n.nome));
+  atualizarSelecaoInfo();
+  recalcularRota();
+  montarListaEmBreve(dadosAtuais.navios_atracando_em_breve || []);
+  desenharEmBreve(dadosAtuais.navios_atracando_em_breve || []);
+}
+
+async function atualizarPeriodicamente(){
+  const novosDados = await buscarDados();
+
+  // Preserva a seleção de quem continua na lista; novos navios entram
+  // selecionados por padrão.
+  const nomesNovos = new Set((novosDados.rota_sugerida || []).map((n) => n.nome));
+  const selecionadosAntigos = new Set([...selecionados].filter((nome) => nomesNovos.has(nome)));
+
+  dadosAtuais = novosDados;
+  poolAtual = dadosAtuais.rota_sugerida.slice();
+
+  const nomesPool = new Set(poolAtual.map((n) => n.nome));
+  const jaExistiamAntes = selecionadosAntigos.size > 0 || selecionados.size > 0;
+  selecionados = jaExistiamAntes
+    ? new Set(poolAtual.filter((n) => selecionadosAntigos.has(n.nome) || !nomesPool.has(n.nome)).map((n) => n.nome))
+    : new Set(poolAtual.map((n) => n.nome));
+
+  // Se nada estava selecionado antes (primeira carga), seleciona todos por padrão
+  if (selecionados.size === 0) selecionados = new Set(poolAtual.map((n) => n.nome));
+
+  document.getElementById('atualizado-em').textContent = dadosAtuais.atualizado_em || '—';
+  checarDadosDesatualizados();
+  atualizarSelecaoInfo();
+  recalcularRota();
+  montarListaEmBreve(dadosAtuais.navios_atracando_em_breve || []);
+  desenharEmBreve(dadosAtuais.navios_atracando_em_breve || []);
 }
 
 (async function iniciar(){
-  dadosAtuais = await carregarDados();
-  document.getElementById('atualizado-em').textContent = dadosAtuais.atualizado_em || '—';
-  document.getElementById('base-info').textContent = `Rota de Fundeio · Base: ${dadosAtuais.base.nome}`;
-
+  dadosAtuais = await buscarDados();
   inicializarMapa(dadosAtuais);
-  renderizar(dadosAtuais.rota_sugerida);
+  renderizarTudo();
 
-  document.getElementById('btn-filtrar').addEventListener('click', aplicarFiltro);
+  document.getElementById('btn-filtrar').addEventListener('click', aplicarFiltroData);
   document.getElementById('btn-limpar').addEventListener('click', limparFiltro);
+  document.getElementById('btn-marcar-todos').addEventListener('click', () => {
+    selecionados = new Set(poolAtual.map((n) => n.nome));
+    atualizarSelecaoInfo();
+    recalcularRota();
+  });
+  document.getElementById('btn-desmarcar-todos').addEventListener('click', () => {
+    selecionados = new Set();
+    atualizarSelecaoInfo();
+    recalcularRota();
+  });
+  document.getElementById('btn-toggle-mapa').addEventListener('click', alternarMapa);
+  document.getElementById('btn-google-maps').addEventListener('click', exportarGoogleMaps);
+  document.getElementById('btn-copiar').addEventListener('click', copiarLista);
+
+  setInterval(atualizarPeriodicamente, ATUALIZACAO_INTERVALO_MS);
+  setInterval(checarDadosDesatualizados, 60 * 1000); // confere o "desatualizado" a cada minuto, mesmo sem novo fetch
 })();
 </script>
 
