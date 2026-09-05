@@ -2243,3 +2243,21 @@ De: PONTO ALPHA
 Para/Berço: PIER 1
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[05/09/2026 13:52:42] NOVA MANOBRA:
+Navio: AIN ATHUM
+Manobra: Atracação
+Data/Hora: 05/09/26 19:25
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[05/09/2026 13:52:42] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: BERGE JAYA
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 05/09/26 19:25
+Agora: 05/09/26 18:55
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
