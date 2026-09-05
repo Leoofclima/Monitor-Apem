@@ -2263,3 +2263,11 @@ Agência: WILHELMSEN PORT**
 --------------------------------------------------
 [05/09/2026 14:34:24] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f908f1af7d0>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[05/09/2026 14:52:50] MANOBRA CONCLUÍDA (navio atracou):
+Navio: TROMBETAS
+Manobra: Atracação
+Data/Hora: 05/09/26 12:12
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
