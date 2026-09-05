@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AP Marine — Rota de Fundeio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<style>
+  :root{
+    --ink:#0E1F2E;
+    --panel:#16293B;
+    --panel-2:#1C3247;
+    --line:#2A4258;
+    --text:#E8EDF1;
+    --muted:#8FA3B3;
+    --brass:#C9A227;
+    --starboard:#4C9A6A;
+    --port:#C1543F;
+  }
+
+  *{ box-sizing:border-box; }
+
+  html, body{ height:100%; }
+
+  body{
+    margin:0;
+    background:var(--ink);
+    color:var(--text);
+    font-family:'JetBrains Mono', monospace;
+    -webkit-font-smoothing:antialiased;
+    display:flex;
+    flex-direction:column;
+  }
+
+  header{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+    border-bottom:1px solid var(--line);
+    padding:18px 22px;
+    flex-wrap:wrap;
+    gap:10px;
+  }
+
+  .brand{
+    font-family:'Fraunces', serif;
+    font-size:22px;
+    font-weight:600;
+  }
+
+  .brand span{ color:var(--brass); }
+
+  .subtitle{
+    color:var(--muted);
+    font-size:12.5px;
+    margin-top:3px;
+  }
+
+  .status{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    font-size:12.5px;
+    color:var(--muted);
+  }
+
+  .dot{
+    width:8px; height:8px; border-radius:50%;
+    background:var(--starboard);
+    box-shadow:0 0 0 3px rgba(76,154,106,0.18);
+    animation:pulse 2.4s ease-in-out infinite;
+  }
+
+  @keyframes pulse{ 0%,100%{opacity:1;} 50%{opacity:0.45;} }
+
+  .clock{ color:var(--text); font-weight:600; }
+
+  .layout{
+    flex:1;
+    display:grid;
+    grid-template-columns:1fr 360px;
+    min-height:0;
+  }
+
+  #mapa{
+    background:var(--panel);
+  }
+
+  .sidebar{
+    border-left:1px solid var(--line);
+    display:flex;
+    flex-direction:column;
+    min-height:0;
+  }
+
+  .sidebar-header{
+    padding:16px 18px 12px;
+    border-bottom:1px solid var(--line);
+  }
+
+  .sidebar-title{
+    font-family:'Fraunces', serif;
+    font-size:16px;
+    font-weight:500;
+  }
+
+  .sidebar-sub{
+    color:var(--muted);
+    font-size:11.5px;
+    margin-top:3px;
+  }
+
+  .rota-lista{
+    overflow-y:auto;
+    flex:1;
+  }
+
+  .rota-item{
+    display:flex;
+    gap:12px;
+    padding:13px 18px;
+    border-bottom:1px solid var(--line);
+    cursor:pointer;
+    transition:background 0.15s;
+  }
+
+  .rota-item:hover{ background:rgba(201,162,39,0.06); }
+
+  .rota-num{
+    font-family:'Fraunces', serif;
+    font-size:20px;
+    font-weight:600;
+    color:var(--brass);
+    width:26px;
+    flex-shrink:0;
+  }
+
+  .rota-info{ flex:1; min-width:0; }
+
+  .rota-nome{
+    font-size:13px;
+    color:var(--text);
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+  }
+
+  .rota-meta{
+    font-size:11px;
+    color:var(--muted);
+    margin-top:3px;
+    display:flex;
+    gap:10px;
+  }
+
+  .urgencia-alta{ color:var(--port); }
+  .urgencia-media{ color:var(--brass); }
+  .urgencia-baixa{ color:var(--starboard); }
+  .urgencia-nenhuma{ color:var(--muted); }
+
+  .legenda{
+    padding:12px 18px;
+    border-top:1px solid var(--line);
+    font-size:10.5px;
+    color:var(--muted);
+    display:flex;
+    flex-direction:column;
+    gap:6px;
+  }
+
+  .legenda-item{ display:flex; align-items:center; gap:7px; }
+
+  .legenda-bola{ width:8px; height:8px; border-radius:50%; flex-shrink:0; }
+
+  .aviso-demo{
+    background:rgba(201,162,39,0.12);
+    border:1px solid rgba(201,162,39,0.35);
+    color:var(--brass);
+    font-size:11.5px;
+    padding:8px 14px;
+    text-align:center;
+  }
+
+  .leaflet-popup-content-wrapper{
+    background:var(--panel-2);
+    color:var(--text);
+    font-family:'JetBrains Mono', monospace;
+    font-size:12px;
+    border:1px solid var(--line);
+  }
+
+  .leaflet-popup-tip{ background:var(--panel-2); }
+
+  @media (max-width: 860px){
+    .layout{ grid-template-columns:1fr; grid-template-rows:55vh 1fr; }
+    .sidebar{ border-left:none; border-top:1px solid var(--line); }
+  }
+</style>
+</head>
+<body>
+
+  <header>
+    <div>
+      <div class="brand">AP <span>Marine</span> — Rota de Fundeio</div>
+      <div class="subtitle" id="base-info">Base: —</div>
+    </div>
+    <div class="status">
+      <span class="dot"></span>
+      <span>atualizado às</span>
+      <span class="clock" id="atualizado-em">—</span>
+    </div>
+  </header>
+
+  <div id="aviso-demo" class="aviso-demo" style="display:none;">
+    Exibindo dados de exemplo — ainda não foi encontrado o arquivo painel_dados.json gerado pelo monitor.
+  </div>
+
+  <div class="layout">
+    <div id="mapa"></div>
+
+    <div class="sidebar">
+      <div class="sidebar-header">
+        <div class="sidebar-title">Rota sugerida</div>
+        <div class="sidebar-sub" id="rota-sub">Equilíbrio entre distância e tempo restante de fundeio</div>
+      </div>
+      <div class="rota-lista" id="rota-lista"></div>
+      <div class="legenda">
+        <div class="legenda-item"><span class="legenda-bola" style="background:#C1543F;"></span> Menos de 3h para atracar</div>
+        <div class="legenda-item"><span class="legenda-bola" style="background:#C9A227;"></span> Entre 3h e 12h para atracar</div>
+        <div class="legenda-item"><span class="legenda-bola" style="background:#4C9A6A;"></span> Mais de 12h ou sem previsão</div>
+      </div>
+    </div>
+  </div>
+
+<script>
+const DADOS_DEMO = {
+  atualizado_em: "05/09/2026 12:00:00",
+  base: { lat: -2.66098123540369, lon: -44.356990008636686, nome: "Porto Grande - São Luís" },
+  navios_fundeados: [],
+  rota_sugerida: [
+    { ordem: 1, nome: "ETHRA DIAMOND", area: "AREA 3", agencia: "SHIPPING PROTECTION **", lat: -2.179167, lon: -44.163, distancia_trecho_km: 57.7, tempo_restante_horas: 1.2, tempo_fundeado_horas: 320 },
+    { ordem: 2, nome: "CORAL VI", area: "AREA 2", agencia: "WILSON SONS **", lat: -2.092, lon: -44.084833, distancia_trecho_km: 13.0, tempo_restante_horas: 4.5, tempo_fundeado_horas: 18 },
+    { ordem: 3, nome: "SUNNY VICTORY", area: "AREA 2", agencia: "GAC**", lat: -2.069833, lon: -44.088667, distancia_trecho_km: 2.5, tempo_restante_horas: null, tempo_fundeado_horas: 96 },
+  ],
+};
+
+function classeUrgencia(horas){
+  if (horas === null || horas === undefined) return "urgencia-nenhuma";
+  if (horas <= 3) return "urgencia-alta";
+  if (horas <= 12) return "urgencia-media";
+  return "urgencia-baixa";
+}
+
+function corUrgencia(horas){
+  if (horas === null || horas === undefined) return "#4C9A6A";
+  if (horas <= 3) return "#C1543F";
+  if (horas <= 12) return "#C9A227";
+  return "#4C9A6A";
+}
+
+function textoUrgencia(horas){
+  if (horas === null || horas === undefined) return "sem previsão";
+  if (horas < 0) return "atraso na previsão";
+  return `${horas}h para atracar`;
+}
+
+async function carregarDados(){
+  try{
+    const resp = await fetch('./painel_dados.json', { cache: "no-store" });
+    if (!resp.ok) throw new Error("arquivo não encontrado");
+    return await resp.json();
+  }catch(e){
+    document.getElementById('aviso-demo').style.display = 'block';
+    return DADOS_DEMO;
+  }
+}
+
+function montarMapa(dados){
+  const map = L.map('mapa', { zoomControl: true }).setView([dados.base.lat, dados.base.lon], 10);
+
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; OpenStreetMap &copy; CARTO',
+    maxZoom: 18,
+  }).addTo(map);
+
+  const iconeBase = L.divIcon({
+    className: '',
+    html: `<div style="width:14px;height:14px;border-radius:50%;background:#C9A227;border:2px solid #0E1F2E;box-shadow:0 0 0 3px rgba(201,162,39,0.3);"></div>`,
+    iconSize: [14, 14],
+    iconAnchor: [7, 7],
+  });
+  L.marker([dados.base.lat, dados.base.lon], { icon: iconeBase })
+    .addTo(map)
+    .bindPopup(`<b>${dados.base.nome}</b><br>Ponto de partida`);
+
+  const pontosRota = [[dados.base.lat, dados.base.lon]];
+
+  dados.rota_sugerida.forEach((navio) => {
+    const cor = corUrgencia(navio.tempo_restante_horas);
+    const icone = L.divIcon({
+      className: '',
+      html: `<div style="width:12px;height:12px;border-radius:50%;background:${cor};border:2px solid #0E1F2E;"></div>`,
+      iconSize: [12, 12],
+      iconAnchor: [6, 6],
+    });
+
+    L.marker([navio.lat, navio.lon], { icon: icone })
+      .addTo(map)
+      .bindPopup(
+        `<b>${navio.ordem}. ${navio.nome}</b><br>` +
+        `Área: ${navio.area || '—'}<br>` +
+        `Agência: ${navio.agencia || '—'}<br>` +
+        `${textoUrgencia(navio.tempo_restante_horas)}<br>` +
+        `${navio.distancia_trecho_km} km do ponto anterior`
+      );
+
+    pontosRota.push([navio.lat, navio.lon]);
+  });
+
+  if (pontosRota.length > 1){
+    L.polyline(pontosRota, { color: '#C9A227', weight: 2, opacity: 0.7, dashArray: '6 6' }).addTo(map);
+    map.fitBounds(pontosRota, { padding: [30, 30] });
+  }
+}
+
+function montarListaRota(dados){
+  const lista = document.getElementById('rota-lista');
+  lista.innerHTML = '';
+
+  if (dados.rota_sugerida.length === 0){
+    lista.innerHTML = `<div style="padding:16px 18px; color:var(--muted); font-size:12.5px;">Nenhum navio fundeado com posição conhecida no momento.</div>`;
+    return;
+  }
+
+  dados.rota_sugerida.forEach((navio) => {
+    const item = document.createElement('div');
+    item.className = 'rota-item';
+    item.innerHTML = `
+      <div class="rota-num">${navio.ordem}</div>
+      <div class="rota-info">
+        <div class="rota-nome">${navio.nome}</div>
+        <div class="rota-meta">
+          <span>${navio.distancia_trecho_km} km</span>
+          <span class="${classeUrgencia(navio.tempo_restante_horas)}">${textoUrgencia(navio.tempo_restante_horas)}</span>
+        </div>
+      </div>
+    `;
+    lista.appendChild(item);
+  });
+}
+
+(async function iniciar(){
+  const dados = await carregarDados();
+  document.getElementById('atualizado-em').textContent = dados.atualizado_em || '—';
+  document.getElementById('base-info').textContent = `Base: ${dados.base.nome}`;
+  montarMapa(dados);
+  montarListaRota(dados);
+})();
+</script>
+
+</body>
+</html>
