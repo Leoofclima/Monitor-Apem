@@ -57,13 +57,12 @@ LOG_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "log_apem.tx
 
 # Planilha (CSV) com o histórico de navios que realmente atracaram
 # (não é enviada pro WhatsApp, é só um "banco de dados" pra consulta futura)
+# Arquivo JSON com o snapshot atual para o painel web (index.html)
+PAINEL_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "painel_dados.json")
+
 HISTORICO_ATRACACOES_FILE = os.path.join(
     os.path.dirname(os.path.abspath(__file__)), "historico_atracacoes.csv"
 )
-
-# Guarda se já avisamos que o site está fora do ar, pra não repetir o aviso
-# a cada execução — só avisa 1x quando cai, e 1x quando volta ao normal.
-ALERTA_STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "alerta_estado.json")
 
 # =============================================================
 
@@ -71,22 +70,20 @@ ALERTA_STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "al
 URL_ATRACADOS = "http://www.apem-ma.com.br/?module=berthedships"
 
 
-def buscar_navios_atracados():
-    """Retorna um conjunto (set) com os nomes dos navios atualmente atracados.
-
-    Usado para diferenciar um cancelamento real de uma manobra que simplesmente
-    já aconteceu (o navio atracou e por isso saiu da lista de previstas).
+def buscar_navios_atracados_detalhado():
+    """Busca a página de Navios Atracados e retorna a lista completa de navios,
+    com todos os campos (terminal, berço, nome, bandeira, agência, data/hora
+    de atracação), organizados por terminal.
 
     Importante: a página organiza os navios em VÁRIAS tabelas, uma por
     terminal (VALE, ITAQUI, ALUMAR, etc). Além disso, os cabeçalhos "Berço" e
     "Agência" usam rowspan (ocupam 2 linhas), o que torna a contagem de
     colunas do cabeçalho pouco confiável para casar com os dados. Por isso,
-    em vez de tentar casar coluna por coluna, usamos a posição fixa
-    conhecida do nome do navio nas linhas de dados (3ª coluna: Berço,
-    Status, Nome, ...) e validamos que o valor parece mesmo um nome de
-    navio (não é vazio, não é só número, tem mais de 2 caracteres).
+    em vez de tentar casar coluna por coluna, usamos a posição fixa conhecida
+    das colunas nas linhas de dados: [Berço, Status, Nome, Bandeira, Calado,
+    DWT, Imo, Loa, Boca, Agência, Data, Hora].
 
-    Se a página falhar por qualquer motivo, retorna um conjunto vazio em vez
+    Se a página falhar por qualquer motivo, retorna uma lista vazia em vez
     de quebrar o script inteiro.
     """
     try:
@@ -100,26 +97,53 @@ def buscar_navios_atracados():
             if t.find("th", string=lambda s: s and "Nome" in s)
         ]
 
-        nomes = set()
+        navios = []
+        terminal_atual = "?"
 
         for tabela_html in tabelas_html:
             for tr in tabela_html.find_all("tr"):
+                ths = tr.find_all("th")
                 tds = tr.find_all("td")
+
+                # Linha só com 1 cabeçalho = nome do terminal (ex: "ALUMAR")
+                if ths and len(ths) == 1:
+                    texto_th = ths[0].get_text(strip=True)
+                    if texto_th and "Nome" not in texto_th and "Berço" not in texto_th:
+                        terminal_atual = texto_th
+                    continue
+
                 if not tds or len(tds) < 10:
-                    continue  # linha de título de terminal ou divisor, não é dado de navio
+                    continue  # linha de cabeçalho ou divisor, não é dado de navio
 
                 valores = [td.get_text(strip=True) for td in tds]
                 nome_candidato = valores[2].strip().upper() if len(valores) > 2 else ""
-
-                # Sanidade: descarta vazio, números puros, ou textos curtos demais (ex: "BE")
                 eh_numero = nome_candidato.replace(",", "").replace(".", "").isdigit()
-                if nome_candidato and not eh_numero and len(nome_candidato) > 2:
-                    nomes.add(nome_candidato)
+                if not nome_candidato or eh_numero or len(nome_candidato) <= 2:
+                    continue  # não parece um nome de navio válido
 
-        return nomes
+                navios.append({
+                    "terminal": terminal_atual,
+                    "berco": valores[0] if len(valores) > 0 else "?",
+                    "nome": nome_candidato,
+                    "bandeira": valores[3] if len(valores) > 3 else "?",
+                    "agencia": valores[9] if len(valores) > 9 else "?",
+                    "data_atracacao": valores[10] if len(valores) > 10 else "?",
+                    "hora_atracacao": valores[11] if len(valores) > 11 else "?",
+                })
+
+        return navios
     except Exception as e:
         print(f"[AVISO] Não consegui checar Navios Atracados: {e}")
-        return set()
+        return []
+
+
+def buscar_navios_atracados():
+    """Retorna um conjunto (set) só com os nomes dos navios atracados —
+    usado para diferenciar um cancelamento real de uma manobra que já
+    aconteceu de verdade (o navio atracou e por isso saiu da lista de
+    previstas). Reaproveita buscar_navios_atracados_detalhado().
+    """
+    return {navio["nome"] for navio in buscar_navios_atracados_detalhado()}
 
 
 def buscar_tabela():
@@ -238,18 +262,6 @@ def registrar_log(mensagem):
         f.write("-" * 50 + "\n")
 
 
-def carregar_alerta_estado():
-    if os.path.exists(ALERTA_STATE_FILE):
-        with open(ALERTA_STATE_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return {"site_indisponivel": False}
-
-
-def salvar_alerta_estado(estado):
-    with open(ALERTA_STATE_FILE, "w", encoding="utf-8") as f:
-        json.dump(estado, f, ensure_ascii=False, indent=2)
-
-
 def registrar_atracacao_historico(dados):
     """Adiciona uma linha no CSV de histórico de navios que atracaram de verdade.
 
@@ -273,23 +285,34 @@ def registrar_atracacao_historico(dados):
 
 
 def enviar_whatsapp(mensagem):
+    """Envia a mensagem para todos os destinatários. Retorna True somente se
+    TODOS os envios tiverem sucesso (status 200-299). Se qualquer um falhar,
+    retorna False — o chamador usa isso pra decidir se pode marcar aquela
+    mudança como "já notificada" ou se precisa tentar de novo depois.
+    """
     if ZAPI_INSTANCE_ID == "SEU_INSTANCE_ID_AQUI" or ZAPI_TOKEN == "SEU_TOKEN_AQUI":
         print("[AVISO] Z-API não configurado ainda. Mensagem que seria enviada:\n")
         print(mensagem)
         print("-" * 40)
-        return
+        return True  # não é falha de envio, é só ainda não configurado
 
     url = f"https://api.z-api.io/instances/{ZAPI_INSTANCE_ID}/token/{ZAPI_TOKEN}/send-text"
     headers = {"Content-Type": "application/json"}
     if ZAPI_CLIENT_TOKEN:
         headers["Client-Token"] = ZAPI_CLIENT_TOKEN
 
+    sucesso_total = True
     for phone in DESTINATARIOS:
         try:
             r = requests.post(url, json={"phone": phone, "message": mensagem}, headers=headers, timeout=20)
             print(f"[WhatsApp Z-API -> {phone}] status {r.status_code}: {r.text[:200]}")
+            if not (200 <= r.status_code < 300):
+                sucesso_total = False
         except Exception as e:
             print(f"[ERRO] Falha ao enviar WhatsApp para {phone}: {e}")
+            sucesso_total = False
+
+    return sucesso_total
 
 
 def main():
@@ -299,34 +322,8 @@ def main():
         df = buscar_tabela()
     except Exception as e:
         print(f"[ERRO] Não consegui ler a página: {e}")
-        estado_alerta = carregar_alerta_estado()
-        if not estado_alerta.get("site_indisponivel"):
-            msg = (
-                "🔴 SITE DA APEM FORA DO AR OU INACESSÍVEL\n\n"
-                f"Erro: {e}\n\n"
-                "O monitoramento vai continuar tentando sozinho. "
-                "Você só vai receber um novo aviso quando o site voltar ao normal "
-                "(não vou repetir esse alerta a cada tentativa)."
-            )
-            print(msg)
-            enviar_whatsapp(msg)
-            registrar_log(f"ALERTA: site fora do ar - {e}")
-            estado_alerta["site_indisponivel"] = True
-            salvar_alerta_estado(estado_alerta)
-        else:
-            print("[INFO] Site ainda fora do ar. Alerta já enviado antes, não vou repetir.")
+        registrar_log(f"ERRO: falha ao acessar o site - {e}")
         sys.exit(0)  # não derruba o workflow, só encerra essa execução mais cedo
-
-    # Se chegou até aqui, o site respondeu normalmente — se estava marcado
-    # como "fora do ar" antes, avisa que voltou ao normal.
-    estado_alerta = carregar_alerta_estado()
-    if estado_alerta.get("site_indisponivel"):
-        msg = "🟢 Site da APEM voltou ao normal. Monitoramento retomado."
-        print(msg)
-        enviar_whatsapp(msg)
-        registrar_log("ALERTA: site voltou ao normal")
-        estado_alerta["site_indisponivel"] = False
-        salvar_alerta_estado(estado_alerta)
 
     relevantes = filtrar_relevantes(df)
 
@@ -369,15 +366,16 @@ def main():
         for k in lista:
             sumidas[k] = sumidas_brutas[k]
 
-    navios_atracados = buscar_navios_atracados() if sumidas else set()
+    navios_atracados_detalhado = buscar_navios_atracados_detalhado()
+    navios_atracados = {navio["nome"] for navio in navios_atracados_detalhado}
 
-    mensagens_pendentes = []
+    eventos = []  # cada item guarda a mensagem + como "desfazer" se o envio falhar
 
     for chave, texto in novas.items():
         msg = f"🚢 NOVA MANOBRA AGENDADA (APEM)\n\n{texto}"
         print(msg)
-        mensagens_pendentes.append(msg)
         registrar_log(f"NOVA MANOBRA:\n{texto}")
+        eventos.append({"tipo": "nova", "chave": chave, "msg": msg})
 
     for chave_antiga, chave_nova in reagendadas:
         partes_antiga = chave_antiga.split(" | ")
@@ -394,8 +392,10 @@ def main():
             f"Agência: {dados_novos['agencia']}"
         )
         print(msg)
-        mensagens_pendentes.append(msg)
         registrar_log(f"REAGENDAMENTO:\n{msg}")
+        eventos.append({
+            "tipo": "reagendada", "chave_antiga": chave_antiga, "chave_nova": chave_nova, "msg": msg
+        })
 
     for chave, texto in sumidas.items():
         nome_navio = chave.split(" | ")[0].strip().upper()
@@ -415,22 +415,52 @@ def main():
             msg = f"⚠️ MANOBRA SAIU DA LISTA (possível cancelamento/desmarcação)\n\n{texto}"
             registrar_log(f"MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):\n{texto}")
         print(msg)
-        mensagens_pendentes.append(msg)
+        eventos.append({"tipo": "sumida", "chave": chave, "texto": texto, "msg": msg})
+
+    mensagens_pendentes = [e["msg"] for e in eventos]
 
     if len(mensagens_pendentes) == 1:
         # Só uma mudança: manda a mensagem normal, sem cabeçalho de "resumo"
-        enviar_whatsapp(mensagens_pendentes[0])
+        sucesso_envio = enviar_whatsapp(mensagens_pendentes[0])
     elif len(mensagens_pendentes) > 1:
         # Mais de uma mudança na mesma checagem: agrupa tudo numa única mensagem
         separador = "\n\n" + ("─" * 24) + "\n\n"
         cabecalho = f"📋 {len(mensagens_pendentes)} atualizações de manobras (APEM)\n\n"
         mensagem_agrupada = cabecalho + separador.join(mensagens_pendentes)
-        enviar_whatsapp(mensagem_agrupada)
+        sucesso_envio = enviar_whatsapp(mensagem_agrupada)
+    else:
+        sucesso_envio = True  # nada pra enviar
+
+    # Estado final a salvar: começa a partir da leitura atual do site...
+    estado_final = dict(atual)
+
+    if not sucesso_envio and eventos:
+        # O envio falhou: "desfaz" no estado só as mudanças dessa rodada,
+        # pra elas serem detectadas de novo (e reenviadas) na próxima execução.
+        print("[AVISO] Falha ao enviar WhatsApp — mudanças serão tentadas novamente na próxima execução.")
+        registrar_log("FALHA DE ENVIO — mudanças desta rodada NÃO confirmadas, serão re-tentadas.")
+        for e in eventos:
+            if e["tipo"] == "nova":
+                estado_final.pop(e["chave"], None)
+            elif e["tipo"] == "reagendada":
+                estado_final.pop(e["chave_nova"], None)
+                estado_final[e["chave_antiga"]] = anterior.get(e["chave_antiga"], "")
+            elif e["tipo"] == "sumida":
+                estado_final[e["chave"]] = e["texto"]
 
     if not novas and not sumidas and not reagendadas:
         print("Nenhuma mudança detectada.")
 
-    salvar_estado(atual)
+    # Salva o snapshot atual pro painel web (index.html lê esse arquivo)
+    painel = {
+        "atualizado_em": datetime.now().strftime("%d/%m/%Y %H:%M:%S"),
+        "manobras_previstas": list(atual_dados.values()),
+        "navios_atracados": navios_atracados_detalhado,
+    }
+    with open(PAINEL_FILE, "w", encoding="utf-8") as f:
+        json.dump(painel, f, ensure_ascii=False, indent=2)
+
+    salvar_estado(estado_final)
 
 
 if __name__ == "__main__":
