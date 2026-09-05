@@ -2281,3 +2281,5 @@ De: BOIA 19-24
 Para/Berço: 100
 Agência: CARGONAVE**
 --------------------------------------------------
+[05/09/2026 16:53:08] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f7716f8f7a0>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
+--------------------------------------------------
