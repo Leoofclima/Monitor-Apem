@@ -10,13 +10,13 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <style>
   :root{
-    --ink:#0E1F2E;
-    --panel:#16293B;
-    --panel-2:#1C3247;
-    --line:#2A4258;
-    --text:#E8EDF1;
-    --muted:#8FA3B3;
-    --brass:#C9A227;
+    --ink:#17191A;
+    --panel:#1E2221;
+    --panel-2:#262B29;
+    --line:#383F3C;
+    --text:#E7ECEA;
+    --muted:#8CA39A;
+    --brass:#45B26B;
     --starboard:#4C9A6A;
     --port:#C1543F;
   }
@@ -89,8 +89,8 @@
   }
 
   .aviso-demo{
-    background:rgba(201,162,39,0.12);
-    border-bottom:1px solid rgba(201,162,39,0.35);
+    background:rgba(69,178,107,0.12);
+    border-bottom:1px solid rgba(69,178,107,0.35);
     color:var(--brass);
   }
 
@@ -245,12 +245,12 @@
     transition:background 0.15s;
   }
 
-  .rota-item:hover{ background:rgba(201,162,39,0.06); }
+  .rota-item:hover{ background:rgba(69,178,107,0.06); }
 
   .rota-check{
     width:15px; height:15px;
     margin-top:2px;
-    accent-color:#C9A227;
+    accent-color:#45B26B;
     cursor:pointer;
     flex-shrink:0;
   }
@@ -320,7 +320,7 @@
     cursor:pointer;
   }
 
-  .em-breve-item:hover{ background:rgba(201,162,39,0.05); }
+  .em-breve-item:hover{ background:rgba(69,178,107,0.05); }
 
   .legenda{
     padding:12px 18px;
@@ -385,7 +385,6 @@
 
   <div class="toolbar">
     <button id="btn-toggle-mapa">Ocultar mapa</button>
-    <button id="btn-google-maps">Abrir rota no Google Maps</button>
     <button id="btn-copiar">Copiar lista</button>
   </div>
 
@@ -429,7 +428,7 @@
 
       <div class="legenda">
         <div class="legenda-item"><span class="legenda-bola" style="background:#C1543F;"></span> Menos de 3h para atracar</div>
-        <div class="legenda-item"><span class="legenda-bola" style="background:#C9A227;"></span> Entre 3h e 12h para atracar</div>
+        <div class="legenda-item"><span class="legenda-bola" style="background:#45B26B;"></span> Entre 3h e 12h para atracar</div>
         <div class="legenda-item"><span class="legenda-bola" style="background:#4C9A6A;"></span> Mais de 12h ou sem previsão</div>
       </div>
       <div class="creditos">Em desenvolvimento por Leonardo Lima</div>
@@ -476,7 +475,7 @@ function classeUrgencia(horas){
 function corUrgencia(horas){
   if (horas === null || horas === undefined) return "#4C9A6A";
   if (horas <= 3) return "#C1543F";
-  if (horas <= 12) return "#C9A227";
+  if (horas <= 12) return "#45B26B";
   return "#4C9A6A";
 }
 
@@ -486,7 +485,7 @@ function textoUrgencia(horas){
   return `${horas}h para atracar`;
 }
 
-const PALETA_AREAS = ["#4FA3D1", "#C9A227", "#9B7ED6", "#4C9A6A", "#D97757", "#7FA8A0"];
+const PALETA_AREAS = ["#4FA3D1", "#45B26B", "#9B7ED6", "#4C9A6A", "#D97757", "#7FA8A0"];
 const corPorAreaCache = {};
 function corArea(area){
   const chave = area || "—";
@@ -596,7 +595,7 @@ function inicializarMapa(dados){
 
   const iconeBase = L.divIcon({
     className: '',
-    html: `<div style="width:14px;height:14px;border-radius:50%;background:#C9A227;border:2px solid #0E1F2E;box-shadow:0 0 0 3px rgba(201,162,39,0.3);"></div>`,
+    html: `<div style="width:14px;height:14px;border-radius:50%;background:#45B26B;border:2px solid #17191A;box-shadow:0 0 0 3px rgba(69,178,107,0.3);"></div>`,
     iconSize: [14, 14],
     iconAnchor: [7, 7],
   });
@@ -646,7 +645,7 @@ function desenharRota(listaNavios){
   });
 
   if (pontosRota.length > 1){
-    L.polyline(pontosRota, { color: '#C9A227', weight: 2, opacity: 0.7, dashArray: '6 6' }).addTo(camadaRota);
+    L.polyline(pontosRota, { color: '#45B26B', weight: 2, opacity: 0.7, dashArray: '6 6' }).addTo(camadaRota);
   }
 
   if (pontosRota.length > 0 && !mapaOculto){
@@ -658,7 +657,7 @@ function desenharEmBreve(lista){
   camadaEmBreve.clearLayers();
   lista.forEach((navio) => {
     if (navio.lat == null || navio.lon == null) return;
-    const icone = iconeNavio("#5A6B7A", "#0E1F2E");
+    const icone = iconeNavio("#5A6B7A", "#17191A");
     L.marker([navio.lat, navio.lon], { icon: icone })
       .addTo(camadaEmBreve)
       .bindPopup(
@@ -805,20 +804,6 @@ function limparFiltro(){
 
 // ---------- exportação ----------
 
-function exportarGoogleMaps(){
-  if (ultimaRotaCalculada.length === 0){
-    alert('Selecione ao menos um navio pra exportar a rota.');
-    return;
-  }
-  const origem = `${dadosAtuais.base.lat},${dadosAtuais.base.lon}`;
-  const pontos = ultimaRotaCalculada.map((n) => `${n.lat},${n.lon}`);
-  const destino = pontos[pontos.length - 1];
-  const waypoints = pontos.slice(0, -1).join('|');
-  let url = `https://www.google.com/maps/dir/?api=1&origin=${origem}&destination=${destino}`;
-  if (waypoints) url += `&waypoints=${waypoints}`;
-  window.open(url, '_blank');
-}
-
 function copiarLista(){
   if (ultimaRotaCalculada.length === 0){
     alert('Nenhum navio selecionado pra copiar.');
@@ -906,7 +891,6 @@ async function atualizarPeriodicamente(){
     recalcularRota();
   });
   document.getElementById('btn-toggle-mapa').addEventListener('click', alternarMapa);
-  document.getElementById('btn-google-maps').addEventListener('click', exportarGoogleMaps);
   document.getElementById('btn-copiar').addEventListener('click', copiarLista);
 
   setInterval(atualizarPeriodicamente, ATUALIZACAO_INTERVALO_MS);
