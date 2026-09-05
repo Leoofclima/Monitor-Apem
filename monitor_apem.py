@@ -19,6 +19,7 @@ Como usar:
 import csv
 import io
 import json
+import math
 import os
 import sys
 from datetime import datetime
@@ -57,17 +58,23 @@ LOG_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "log_apem.tx
 
 # Planilha (CSV) com o histórico de navios que realmente atracaram
 # (não é enviada pro WhatsApp, é só um "banco de dados" pra consulta futura)
-# Arquivo JSON com o snapshot atual para o painel web (index.html)
+# Arquivo JSON com o snapshot dos Navios Fundeados + rota sugerida (index.html lê esse arquivo)
 PAINEL_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "painel_dados.json")
 
 HISTORICO_ATRACACOES_FILE = os.path.join(
     os.path.dirname(os.path.abspath(__file__)), "historico_atracacoes.csv"
 )
 
+# Ponto de partida da embarcação (base/marina) — usado para calcular a rota sugerida
+BASE_LAT = float(os.environ.get("BASE_LAT", "-2.66098123540369"))
+BASE_LON = float(os.environ.get("BASE_LON", "-44.356990008636686"))
+BASE_NOME = os.environ.get("BASE_NOME", "Porto Grande - São Luís")
+
 # =============================================================
 
 
 URL_ATRACADOS = "http://www.apem-ma.com.br/?module=berthedships"
+URL_FUNDEADOS = "http://www.apem-ma.com.br/?module=berthageships"
 
 
 def buscar_navios_atracados_detalhado():
@@ -144,6 +151,196 @@ def buscar_navios_atracados():
     previstas). Reaproveita buscar_navios_atracados_detalhado().
     """
     return {navio["nome"] for navio in buscar_navios_atracados_detalhado()}
+
+
+def parse_coordenada(texto):
+    """Converte uma coordenada no formato do site ('02 05,52 S' ou '044 05,09 W')
+    para graus decimais (float). Retorna None se não conseguir interpretar.
+    """
+    if not texto:
+        return None
+    texto = texto.strip()
+    if not texto:
+        return None
+    partes = texto.split()
+    if len(partes) < 3:
+        return None
+    try:
+        graus = float(partes[0])
+        minutos = float(partes[1].replace(",", "."))
+        hemisferio = partes[2].strip().upper()
+    except (ValueError, IndexError):
+        return None
+    decimal = graus + minutos / 60
+    if hemisferio in ("S", "W", "O"):
+        decimal = -decimal
+    return round(decimal, 6)
+
+
+def parse_data_hora_apem(data_str, hora_str):
+    """Converte 'DD/MM/AA' + 'HH:MM' do site num datetime. Retorna None se falhar."""
+    try:
+        return datetime.strptime(f"{data_str.strip()} {hora_str.strip()}", "%d/%m/%y %H:%M")
+    except Exception:
+        return None
+
+
+def haversine_km(lat1, lon1, lat2, lon2):
+    """Distância em linha reta (km) entre duas coordenadas geográficas."""
+    R = 6371.0
+    phi1, phi2 = math.radians(lat1), math.radians(lat2)
+    dphi = math.radians(lat2 - lat1)
+    dlambda = math.radians(lon2 - lon1)
+    a = math.sin(dphi / 2) ** 2 + math.cos(phi1) * math.cos(phi2) * math.sin(dlambda / 2) ** 2
+    return 2 * R * math.asin(math.sqrt(a))
+
+
+def buscar_navios_fundeados():
+    """Busca a página de Navios Fundeados e retorna uma lista de dicts com
+    nome, bandeira, agência, área de fundeio, posição (lat/lon em graus
+    decimais) e data/hora em que fundearam.
+
+    Assim como as outras páginas do site, os navios são organizados em
+    várias tabelas (uma por área: AREA 2, AREA 3, etc), e os cabeçalhos
+    "Navio", "Agência" e "Fundeio" usam rowspan/colspan — por isso a
+    extração usa a posição fixa das colunas nas linhas de dados:
+    [Nome, Bandeira, Indicativo, Calado, DWT, Imo, Loa, Boca, Agência,
+    Lat, Long, Data, Hora].
+
+    Se a página falhar por qualquer motivo, retorna lista vazia em vez de
+    quebrar o script inteiro.
+    """
+    try:
+        headers_req = {"User-Agent": "Mozilla/5.0 (compatible; MonitorAPEM/1.0)"}
+        resp = requests.get(URL_FUNDEADOS, headers=headers_req, timeout=20)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "lxml")
+
+        tabelas_html = [
+            t for t in soup.find_all("table")
+            if t.find("th", string=lambda s: s and "Nome" in s)
+        ]
+
+        navios = []
+        area_atual = "?"
+
+        for tabela_html in tabelas_html:
+            for tr in tabela_html.find_all("tr"):
+                ths = tr.find_all("th")
+                tds = tr.find_all("td")
+
+                # Linha só com 1 cabeçalho = nome da área (ex: "AREA 2")
+                if ths and len(ths) == 1:
+                    texto_th = ths[0].get_text(strip=True)
+                    if texto_th and "Nome" not in texto_th:
+                        area_atual = texto_th
+                    continue
+
+                if not tds or len(tds) < 12:
+                    continue  # linha de cabeçalho ou divisor, não é dado de navio
+
+                valores = [td.get_text(strip=True) for td in tds]
+                nome = valores[0].strip().upper() if len(valores) > 0 else ""
+                if not nome:
+                    continue
+
+                lat = parse_coordenada(valores[9] if len(valores) > 9 else "")
+                lon = parse_coordenada(valores[10] if len(valores) > 10 else "")
+
+                navios.append({
+                    "area": area_atual,
+                    "nome": nome,
+                    "bandeira": valores[1] if len(valores) > 1 else "?",
+                    "agencia": valores[8] if len(valores) > 8 else "?",
+                    "lat": lat,
+                    "lon": lon,
+                    "data_fundeio": valores[11] if len(valores) > 11 else "?",
+                    "hora_fundeio": valores[12] if len(valores) > 12 else "?",
+                })
+
+        return navios
+    except Exception as e:
+        print(f"[AVISO] Não consegui checar Navios Fundeados: {e}")
+        return []
+
+
+def enriquecer_fundeados_com_previsao(navios_fundeados, atual_dados):
+    """Cruza a lista de fundeados com as Manobras Previstas pra descobrir,
+    quando possível, quando cada navio tem atracação agendada — e assim
+    estimar quanto tempo ele ainda vai ficar fundeado.
+    """
+    agora = datetime.now()
+
+    previsoes_por_navio = {}
+    for dados in atual_dados.values():
+        if dados["tipo"].strip().upper() != "EA":
+            continue  # só nos interessa previsão de ATRACAÇÃO
+        dt_prevista = parse_data_hora_apem(dados["data"], dados["hora"])
+        if dt_prevista is None:
+            continue
+        nome = dados["nome"].strip().upper()
+        anterior_prevista = previsoes_por_navio.get(nome)
+        if anterior_prevista is None or dt_prevista < anterior_prevista:
+            previsoes_por_navio[nome] = dt_prevista
+
+    for navio in navios_fundeados:
+        dt_fundeio = parse_data_hora_apem(navio["data_fundeio"], navio["hora_fundeio"])
+        navio["tempo_fundeado_horas"] = (
+            round((agora - dt_fundeio).total_seconds() / 3600, 1) if dt_fundeio else None
+        )
+
+        dt_prevista = previsoes_por_navio.get(navio["nome"])
+        if dt_prevista:
+            navio["previsao_atracacao"] = dt_prevista.strftime("%d/%m/%Y %H:%M")
+            navio["tempo_restante_horas"] = round((dt_prevista - agora).total_seconds() / 3600, 1)
+        else:
+            navio["previsao_atracacao"] = None
+            navio["tempo_restante_horas"] = None
+
+    return navios_fundeados
+
+
+def montar_rota_otimizada(base_lat, base_lon, navios_fundeados):
+    """Monta uma ordem sugerida de visita aos navios fundeados, equilibrando
+    distância (visitar quem está mais perto) e urgência (visitar antes quem
+    tem menos tempo restante até a atracação prevista).
+
+    É uma heurística gulosa simples (escolhe sempre o próximo "melhor"
+    ponto), pensada como apoio de planejamento — não é navegação certificada.
+    """
+    candidatos = [n for n in navios_fundeados if n.get("lat") is not None and n.get("lon") is not None]
+    restantes = candidatos.copy()
+    rota = []
+    pos_lat, pos_lon = base_lat, base_lon
+    ordem = 1
+
+    while restantes:
+        distancias = [haversine_km(pos_lat, pos_lon, n["lat"], n["lon"]) for n in restantes]
+        urgencias = [
+            n["tempo_restante_horas"] if n.get("tempo_restante_horas") is not None else 999
+            for n in restantes
+        ]
+
+        d_min, d_max = min(distancias), max(distancias)
+        u_min, u_max = min(urgencias), max(urgencias)
+
+        def normalizar(v, vmin, vmax):
+            return 0.0 if vmax == vmin else (v - vmin) / (vmax - vmin)
+
+        scores = [
+            0.5 * normalizar(distancias[i], d_min, d_max) + 0.5 * normalizar(urgencias[i], u_min, u_max)
+            for i in range(len(restantes))
+        ]
+
+        idx_escolhido = scores.index(min(scores))
+        navio_escolhido = restantes.pop(idx_escolhido)
+        distancia_trecho = distancias[idx_escolhido]
+
+        rota.append({**navio_escolhido, "ordem": ordem, "distancia_trecho_km": round(distancia_trecho, 1)})
+        pos_lat, pos_lon = navio_escolhido["lat"], navio_escolhido["lon"]
+        ordem += 1
+
+    return rota
 
 
 def buscar_tabela():
@@ -398,22 +595,48 @@ def main():
         })
 
     for chave, texto in sumidas.items():
-        nome_navio = chave.split(" | ")[0].strip().upper()
-        if nome_navio in navios_atracados:
-            msg = f"✅ Navio {nome_navio} atracou com sucesso!\n\n{texto}"
-            registrar_log(f"MANOBRA CONCLUÍDA (navio atracou):\n{texto}")
-            partes = chave.split(" | ")
-            registrar_atracacao_historico({
-                "data": partes[1] if len(partes) > 1 else "?",
-                "hora": partes[2] if len(partes) > 2 else "?",
-                "nome": nome_navio,
-                "de": texto.split("De: ")[1].split("\n")[0] if "De: " in texto else "?",
-                "berco": partes[4] if len(partes) > 4 else "?",
-                "agencia": texto.split("Agência: ")[1].split("\n")[0] if "Agência: " in texto else "?",
-            })
+        partes_chave = chave.split(" | ")
+        nome_navio = partes_chave[0].strip().upper()
+        tipo_manobra = partes_chave[3].strip().upper() if len(partes_chave) > 3 else ""
+        esta_atracado = nome_navio in navios_atracados
+
+        if tipo_manobra == "EA":
+            # Manobra era uma ATRACAÇÃO: se o navio está na lista de atracados, deu certo.
+            if esta_atracado:
+                msg = f"✅ Navio {nome_navio} atracou com sucesso!\n\n{texto}"
+                registrar_log(f"MANOBRA CONCLUÍDA (navio atracou):\n{texto}")
+                registrar_atracacao_historico({
+                    "data": partes_chave[1] if len(partes_chave) > 1 else "?",
+                    "hora": partes_chave[2] if len(partes_chave) > 2 else "?",
+                    "nome": nome_navio,
+                    "de": texto.split("De: ")[1].split("\n")[0] if "De: " in texto else "?",
+                    "berco": partes_chave[4] if len(partes_chave) > 4 else "?",
+                    "agencia": texto.split("Agência: ")[1].split("\n")[0] if "Agência: " in texto else "?",
+                })
+            else:
+                msg = f"⚠️ MANOBRA SAIU DA LISTA (possível cancelamento/desmarcação)\n\n{texto}"
+                registrar_log(f"MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):\n{texto}")
+
+        elif tipo_manobra == "DS":
+            # Manobra era uma DESATRACAÇÃO: a lógica é invertida — se o navio
+            # AINDA está atracado, a desatracação não aconteceu (foi adiada).
+            # Se ele NÃO está mais lá, desatracou de verdade.
+            if esta_atracado:
+                msg = f"⏸️ DESATRACAÇÃO ADIADA — {nome_navio} ainda está atracado\n\n{texto}"
+                registrar_log(f"DESATRACAÇÃO ADIADA (navio ainda encontrado em Navios Atracados):\n{texto}")
+            else:
+                msg = f"✅ Navio {nome_navio} desatracou com sucesso!\n\n{texto}"
+                registrar_log(f"MANOBRA CONCLUÍDA (navio desatracou):\n{texto}")
+
         else:
-            msg = f"⚠️ MANOBRA SAIU DA LISTA (possível cancelamento/desmarcação)\n\n{texto}"
-            registrar_log(f"MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):\n{texto}")
+            # Tipo de manobra desconhecido — mantém o comportamento antigo como fallback
+            if esta_atracado:
+                msg = f"✅ Navio {nome_navio} atracou com sucesso!\n\n{texto}"
+                registrar_log(f"MANOBRA CONCLUÍDA (navio atracou):\n{texto}")
+            else:
+                msg = f"⚠️ MANOBRA SAIU DA LISTA (possível cancelamento/desmarcação)\n\n{texto}"
+                registrar_log(f"MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):\n{texto}")
+
         print(msg)
         eventos.append({"tipo": "sumida", "chave": chave, "texto": texto, "msg": msg})
 
@@ -451,11 +674,16 @@ def main():
     if not novas and not sumidas and not reagendadas:
         print("Nenhuma mudança detectada.")
 
-    # Salva o snapshot atual pro painel web (index.html lê esse arquivo)
+    # Monta o painel web: Navios Fundeados + rota sugerida pra embarcação
+    navios_fundeados = buscar_navios_fundeados()
+    navios_fundeados = enriquecer_fundeados_com_previsao(navios_fundeados, atual_dados)
+    rota_sugerida = montar_rota_otimizada(BASE_LAT, BASE_LON, navios_fundeados)
+
     painel = {
         "atualizado_em": datetime.now().strftime("%d/%m/%Y %H:%M:%S"),
-        "manobras_previstas": list(atual_dados.values()),
-        "navios_atracados": navios_atracados_detalhado,
+        "base": {"lat": BASE_LAT, "lon": BASE_LON, "nome": BASE_NOME},
+        "navios_fundeados": navios_fundeados,
+        "rota_sugerida": rota_sugerida,
     }
     with open(PAINEL_FILE, "w", encoding="utf-8") as f:
         json.dump(painel, f, ensure_ascii=False, indent=2)
