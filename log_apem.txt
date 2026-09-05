@@ -2137,3 +2137,19 @@ De: PONTO ALPHA
 Para/Berço: PIER 4 SUL
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[05/09/2026 00:30:45] NOVA MANOBRA:
+Navio: CAPE UNIVERSE
+Manobra: Atracação
+Data/Hora: 05/09/26 07:01
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LBH BRASIL**
+--------------------------------------------------
+[05/09/2026 00:30:45] NOVA MANOBRA:
+Navio: GREAT BLOSSOM
+Manobra: Desatracação
+Data/Hora: 05/09/26 07:01
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
