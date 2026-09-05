@@ -35,7 +35,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          touch log_apem.txt historico_atracacoes.csv
-          git add apem_state.json log_apem.txt historico_atracacoes.csv
+          touch log_apem.txt historico_atracacoes.csv painel_dados.json
+          git add apem_state.json log_apem.txt historico_atracacoes.csv painel_dados.json
           git diff --quiet --cached || git commit -m "Atualiza estado das manobras"
           git push
