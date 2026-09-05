@@ -301,6 +301,51 @@
     margin-top:2px;
   }
 
+  .anotacao-box{
+    margin-top:8px;
+    padding-top:8px;
+    border-top:1px dashed var(--line);
+    display:flex;
+    flex-direction:column;
+    gap:5px;
+  }
+
+  .anotacao-status{
+    background:var(--panel-2);
+    border:1px solid var(--line);
+    color:var(--text);
+    font-family:'JetBrains Mono', monospace;
+    font-size:10.5px;
+    padding:4px 6px;
+    border-radius:2px;
+    cursor:pointer;
+  }
+
+  .anotacao-nota{
+    background:var(--panel-2);
+    border:1px solid var(--line);
+    color:var(--text);
+    font-family:'JetBrains Mono', monospace;
+    font-size:10.5px;
+    padding:5px 6px;
+    border-radius:2px;
+    resize:vertical;
+    min-height:34px;
+  }
+
+  .anotacao-nota:focus, .anotacao-status:focus{
+    outline:1px solid var(--brass);
+    border-color:var(--brass);
+  }
+
+  .anotacao-status-bolinha{
+    width:7px;
+    height:7px;
+    border-radius:50%;
+    display:inline-block;
+    margin-right:4px;
+  }
+
   .em-breve-section{ border-top:1px solid var(--line); }
 
   .em-breve-titulo{
@@ -476,6 +521,53 @@ let selecionados = new Set();
 let ultimaRotaCalculada = [];
 let mapaOculto = false;
 let emBreveOculto = false;
+
+const CHAVE_ANOTACOES = 'sentinela_anotacoes';
+let anotacoes = {};
+
+const OPCOES_STATUS = [
+  { valor: '', label: 'Sem contato' },
+  { valor: 'contatado', label: 'Contatado' },
+  { valor: 'aguardando', label: 'Aguardando retorno' },
+  { valor: 'sem_interesse', label: 'Sem interesse' },
+  { valor: 'fechado', label: 'Fechado' },
+];
+
+const CORES_STATUS = {
+  '': 'var(--muted)',
+  'contatado': '#4FA3D1',
+  'aguardando': '#C9A227',
+  'sem_interesse': '#8CA39A',
+  'fechado': '#45B26B',
+};
+
+function carregarAnotacoes(){
+  try{
+    const salvo = localStorage.getItem(CHAVE_ANOTACOES);
+    anotacoes = salvo ? JSON.parse(salvo) : {};
+  }catch(e){
+    anotacoes = {};
+  }
+}
+
+function salvarAnotacoes(){
+  try{
+    localStorage.setItem(CHAVE_ANOTACOES, JSON.stringify(anotacoes));
+  }catch(e){
+    console.error('Não consegui salvar anotações:', e);
+  }
+}
+
+function obterAnotacao(nome){
+  return anotacoes[nome] || { status: '', nota: '' };
+}
+
+function atualizarAnotacao(nome, campo, valor){
+  const atual = obterAnotacao(nome);
+  atual[campo] = valor;
+  anotacoes[nome] = atual;
+  salvarAnotacoes();
+}
 
 // ---------- utilidades ----------
 
@@ -759,10 +851,15 @@ function montarListaRota(listaNavios){
 
     const clicavel = document.createElement('div');
     clicavel.className = 'rota-clicavel';
+    const anotacaoAtual = obterAnotacao(navio.nome);
     clicavel.innerHTML = `
       <div class="rota-num">${numeroExibido}</div>
       <div class="rota-info">
-        <div class="rota-nome"><span class="area-bolinha" style="background:${corArea(navio.area)}"></span>${navio.nome}</div>
+        <div class="rota-nome">
+          <span class="area-bolinha" style="background:${corArea(navio.area)}"></span>
+          <span class="anotacao-status-bolinha" style="background:${CORES_STATUS[anotacaoAtual.status]}"></span>
+          ${navio.nome}
+        </div>
         <div class="rota-meta">
           <span>${navio.distancia_trecho_km} km</span>
           <span class="${classeUrgencia(navio.tempo_restante_horas)}">${textoUrgencia(navio.tempo_restante_horas)}</span>
@@ -777,6 +874,37 @@ function montarListaRota(listaNavios){
         marcador.openPopup();
       }
     });
+
+    const anotacaoBox = document.createElement('div');
+    anotacaoBox.className = 'anotacao-box';
+
+    const selectStatus = document.createElement('select');
+    selectStatus.className = 'anotacao-status';
+    OPCOES_STATUS.forEach((opcao) => {
+      const optEl = document.createElement('option');
+      optEl.value = opcao.valor;
+      optEl.textContent = opcao.label;
+      if (opcao.valor === anotacaoAtual.status) optEl.selected = true;
+      selectStatus.appendChild(optEl);
+    });
+    selectStatus.addEventListener('click', (e) => e.stopPropagation());
+    selectStatus.addEventListener('change', () => {
+      atualizarAnotacao(navio.nome, 'status', selectStatus.value);
+      montarListaRota(ultimaRotaCalculada); // atualiza a bolinha de status na hora
+    });
+
+    const textareaNota = document.createElement('textarea');
+    textareaNota.className = 'anotacao-nota';
+    textareaNota.placeholder = 'Anotação (ex: falei com o agente, retorna amanhã...)';
+    textareaNota.value = anotacaoAtual.nota;
+    textareaNota.addEventListener('click', (e) => e.stopPropagation());
+    textareaNota.addEventListener('blur', () => {
+      atualizarAnotacao(navio.nome, 'nota', textareaNota.value);
+    });
+
+    anotacaoBox.appendChild(selectStatus);
+    anotacaoBox.appendChild(textareaNota);
+    clicavel.querySelector('.rota-info').appendChild(anotacaoBox);
 
     item.appendChild(check);
     item.appendChild(clicavel);
@@ -935,6 +1063,7 @@ async function atualizarPeriodicamente(){
 }
 
 (async function iniciar(){
+  carregarAnotacoes();
   dadosAtuais = await buscarDados();
   inicializarMapa(dadosAtuais);
   renderizarTudo();
