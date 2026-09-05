@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AP Marine — Rota de Fundeio</title>
+<title>Sentinela do Porto — Rota de Fundeio</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
@@ -89,6 +89,10 @@
     background:var(--panel);
   }
 
+  .leaflet-tile-pane{
+    filter: invert(92%) hue-rotate(180deg) brightness(0.92) contrast(0.9) saturate(0.6);
+  }
+
   .sidebar{
     border-left:1px solid var(--line);
     display:flex;
@@ -111,6 +115,71 @@
     color:var(--muted);
     font-size:11.5px;
     margin-top:3px;
+  }
+
+  .filtro-datas{
+    margin-top:12px;
+    display:flex;
+    flex-direction:column;
+    gap:8px;
+  }
+
+  .filtro-datas label{
+    display:flex;
+    flex-direction:column;
+    gap:3px;
+    font-size:10.5px;
+    color:var(--muted);
+  }
+
+  .filtro-datas input{
+    background:var(--panel-2);
+    border:1px solid var(--line);
+    color:var(--text);
+    font-family:'JetBrains Mono', monospace;
+    font-size:11.5px;
+    padding:6px 8px;
+    border-radius:2px;
+  }
+
+  .filtro-datas input:focus{
+    outline:1px solid var(--brass);
+    border-color:var(--brass);
+  }
+
+  .filtro-botoes{
+    display:flex;
+    gap:8px;
+    margin-top:2px;
+  }
+
+  .filtro-botoes button{
+    flex:1;
+    background:transparent;
+    border:1px solid var(--line);
+    color:var(--text);
+    font-family:'JetBrains Mono', monospace;
+    font-size:11px;
+    padding:6px 8px;
+    border-radius:2px;
+    cursor:pointer;
+    transition:border-color 0.15s, color 0.15s;
+  }
+
+  .filtro-botoes button:hover{
+    border-color:var(--brass);
+    color:var(--brass);
+  }
+
+  #btn-filtrar{
+    border-color:var(--brass);
+    color:var(--brass);
+  }
+
+  .filtro-nota{
+    font-size:10.5px;
+    color:var(--muted);
+    min-height:14px;
   }
 
   .rota-lista{
@@ -175,6 +244,14 @@
 
   .legenda-bola{ width:8px; height:8px; border-radius:50%; flex-shrink:0; }
 
+  .creditos{
+    padding:10px 18px;
+    border-top:1px solid var(--line);
+    font-size:10px;
+    color:var(--muted);
+    opacity:0.7;
+  }
+
   .aviso-demo{
     background:rgba(201,162,39,0.12);
     border:1px solid rgba(201,162,39,0.35);
@@ -204,7 +281,7 @@
 
   <header>
     <div>
-      <div class="brand">AP <span>Marine</span> — Rota de Fundeio</div>
+      <div class="brand">Sentinela <span>do Porto</span></div>
       <div class="subtitle" id="base-info">Base: —</div>
     </div>
     <div class="status">
@@ -225,6 +302,20 @@
       <div class="sidebar-header">
         <div class="sidebar-title">Rota sugerida</div>
         <div class="sidebar-sub" id="rota-sub">Equilíbrio entre distância e tempo restante de fundeio</div>
+
+        <div class="filtro-datas">
+          <label>Saída
+            <input type="datetime-local" id="data-saida">
+          </label>
+          <label>Retorno
+            <input type="datetime-local" id="data-retorno">
+          </label>
+          <div class="filtro-botoes">
+            <button id="btn-filtrar">Filtrar</button>
+            <button id="btn-limpar">Limpar</button>
+          </div>
+          <div class="filtro-nota" id="filtro-nota"></div>
+        </div>
       </div>
       <div class="rota-lista" id="rota-lista"></div>
       <div class="legenda">
@@ -232,6 +323,7 @@
         <div class="legenda-item"><span class="legenda-bola" style="background:#C9A227;"></span> Entre 3h e 12h para atracar</div>
         <div class="legenda-item"><span class="legenda-bola" style="background:#4C9A6A;"></span> Mais de 12h ou sem previsão</div>
       </div>
+      <div class="creditos">Em desenvolvimento por Leonardo Lima</div>
     </div>
   </div>
 
@@ -246,6 +338,11 @@ const DADOS_DEMO = {
     { ordem: 3, nome: "SUNNY VICTORY", area: "AREA 2", agencia: "GAC**", lat: -2.069833, lon: -44.088667, distancia_trecho_km: 2.5, tempo_restante_horas: null, tempo_fundeado_horas: 96 },
   ],
 };
+
+let mapaGlobal = null;
+let camadaRota = null;
+let marcadoresPorNome = {};
+let dadosAtuais = null;
 
 function classeUrgencia(horas){
   if (horas === null || horas === undefined) return "urgencia-nenhuma";
@@ -267,6 +364,15 @@ function textoUrgencia(horas){
   return `${horas}h para atracar`;
 }
 
+// Converte "DD/MM/AAAA HH:MM" (formato do painel) para um objeto Date
+function parseDataHoraBR(texto){
+  if (!texto) return null;
+  const [dataParte, horaParte] = texto.split(' ');
+  const [dia, mes, ano] = dataParte.split('/').map(Number);
+  const [hora, minuto] = (horaParte || "00:00").split(':').map(Number);
+  return new Date(ano, mes - 1, dia, hora, minuto);
+}
+
 async function carregarDados(){
   try{
     const resp = await fetch('./painel_dados.json', { cache: "no-store" });
@@ -278,13 +384,13 @@ async function carregarDados(){
   }
 }
 
-function montarMapa(dados){
-  const map = L.map('mapa', { zoomControl: true }).setView([dados.base.lat, dados.base.lon], 10);
+function inicializarMapa(dados){
+  mapaGlobal = L.map('mapa', { zoomControl: true }).setView([dados.base.lat, dados.base.lon], 10);
 
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-    attribution: '&copy; OpenStreetMap &copy; CARTO',
-    maxZoom: 18,
-  }).addTo(map);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors',
+    maxZoom: 19,
+  }).addTo(mapaGlobal);
 
   const iconeBase = L.divIcon({
     className: '',
@@ -293,12 +399,20 @@ function montarMapa(dados){
     iconAnchor: [7, 7],
   });
   L.marker([dados.base.lat, dados.base.lon], { icon: iconeBase })
-    .addTo(map)
+    .addTo(mapaGlobal)
     .bindPopup(`<b>${dados.base.nome}</b><br>Ponto de partida`);
+
+  camadaRota = L.layerGroup().addTo(mapaGlobal);
+}
+
+function desenharRota(dados, listaNavios){
+  camadaRota.clearLayers();
+  marcadoresPorNome = {};
 
   const pontosRota = [[dados.base.lat, dados.base.lon]];
 
-  dados.rota_sugerida.forEach((navio) => {
+  listaNavios.forEach((navio, indice) => {
+    const numeroExibido = indice + 1;
     const cor = corUrgencia(navio.tempo_restante_horas);
     const icone = L.divIcon({
       className: '',
@@ -307,39 +421,41 @@ function montarMapa(dados){
       iconAnchor: [6, 6],
     });
 
-    L.marker([navio.lat, navio.lon], { icon: icone })
-      .addTo(map)
+    const marcador = L.marker([navio.lat, navio.lon], { icon: icone })
+      .addTo(camadaRota)
       .bindPopup(
-        `<b>${navio.ordem}. ${navio.nome}</b><br>` +
+        `<b>${numeroExibido}. ${navio.nome}</b><br>` +
         `Área: ${navio.area || '—'}<br>` +
         `Agência: ${navio.agencia || '—'}<br>` +
         `${textoUrgencia(navio.tempo_restante_horas)}<br>` +
         `${navio.distancia_trecho_km} km do ponto anterior`
       );
 
+    marcadoresPorNome[navio.nome] = marcador;
     pontosRota.push([navio.lat, navio.lon]);
   });
 
   if (pontosRota.length > 1){
-    L.polyline(pontosRota, { color: '#C9A227', weight: 2, opacity: 0.7, dashArray: '6 6' }).addTo(map);
-    map.fitBounds(pontosRota, { padding: [30, 30] });
+    L.polyline(pontosRota, { color: '#C9A227', weight: 2, opacity: 0.7, dashArray: '6 6' }).addTo(camadaRota);
+    mapaGlobal.fitBounds(pontosRota, { padding: [30, 30] });
   }
 }
 
-function montarListaRota(dados){
+function montarListaRota(listaNavios){
   const lista = document.getElementById('rota-lista');
   lista.innerHTML = '';
 
-  if (dados.rota_sugerida.length === 0){
-    lista.innerHTML = `<div style="padding:16px 18px; color:var(--muted); font-size:12.5px;">Nenhum navio fundeado com posição conhecida no momento.</div>`;
+  if (listaNavios.length === 0){
+    lista.innerHTML = `<div style="padding:16px 18px; color:var(--muted); font-size:12.5px;">Nenhum navio encontrado para esse período.</div>`;
     return;
   }
 
-  dados.rota_sugerida.forEach((navio) => {
+  listaNavios.forEach((navio, indice) => {
+    const numeroExibido = indice + 1;
     const item = document.createElement('div');
     item.className = 'rota-item';
     item.innerHTML = `
-      <div class="rota-num">${navio.ordem}</div>
+      <div class="rota-num">${numeroExibido}</div>
       <div class="rota-info">
         <div class="rota-nome">${navio.nome}</div>
         <div class="rota-meta">
@@ -348,16 +464,62 @@ function montarListaRota(dados){
         </div>
       </div>
     `;
+    // Clicar no navio leva o mapa direto até ele
+    item.addEventListener('click', () => {
+      const marcador = marcadoresPorNome[navio.nome];
+      if (marcador){
+        mapaGlobal.flyTo([navio.lat, navio.lon], 13, { duration: 0.8 });
+        marcador.openPopup();
+      }
+    });
     lista.appendChild(item);
   });
 }
 
+function renderizar(listaNavios){
+  desenharRota(dadosAtuais, listaNavios);
+  montarListaRota(listaNavios);
+}
+
+function aplicarFiltro(){
+  const notaEl = document.getElementById('filtro-nota');
+  const valorSaida = document.getElementById('data-saida').value;
+
+  if (!valorSaida){
+    notaEl.textContent = "Informe ao menos a data de saída pra filtrar.";
+    return;
+  }
+
+  const dataSaida = new Date(valorSaida);
+
+  const filtrados = dadosAtuais.rota_sugerida.filter((navio) => {
+    if (!navio.previsao_atracacao) return true; // sem previsão: mantém, por segurança
+    const dtPrevisao = parseDataHoraBR(navio.previsao_atracacao);
+    if (!dtPrevisao) return true;
+    return dtPrevisao >= dataSaida; // só entra se ainda estiver fundeado na saída
+  });
+
+  notaEl.textContent = `${filtrados.length} de ${dadosAtuais.rota_sugerida.length} navios ainda estarão fundeados na saída.`;
+  renderizar(filtrados);
+}
+
+function limparFiltro(){
+  document.getElementById('data-saida').value = '';
+  document.getElementById('data-retorno').value = '';
+  document.getElementById('filtro-nota').textContent = '';
+  renderizar(dadosAtuais.rota_sugerida);
+}
+
 (async function iniciar(){
-  const dados = await carregarDados();
-  document.getElementById('atualizado-em').textContent = dados.atualizado_em || '—';
-  document.getElementById('base-info').textContent = `Base: ${dados.base.nome}`;
-  montarMapa(dados);
-  montarListaRota(dados);
+  dadosAtuais = await carregarDados();
+  document.getElementById('atualizado-em').textContent = dadosAtuais.atualizado_em || '—';
+  document.getElementById('base-info').textContent = `Rota de Fundeio · Base: ${dadosAtuais.base.nome}`;
+
+  inicializarMapa(dadosAtuais);
+  renderizar(dadosAtuais.rota_sugerida);
+
+  document.getElementById('btn-filtrar').addEventListener('click', aplicarFiltro);
+  document.getElementById('btn-limpar').addEventListener('click', limparFiltro);
 })();
 </script>
 
