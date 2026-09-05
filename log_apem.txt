@@ -2155,3 +2155,11 @@ Agência: LMA SHIPPING **
 --------------------------------------------------
 [05/09/2026 01:08:08] ALERTA: site fora do ar - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7fef00d79eb0>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[05/09/2026 01:38:57] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: JAG ARNAV
+Manobra: Desatracação
+Data/Hora: 04/09/26 21:53
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
