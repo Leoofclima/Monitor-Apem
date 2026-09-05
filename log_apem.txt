@@ -2191,3 +2191,27 @@ Agência: ORION RODOS**
 --------------------------------------------------
 [05/09/2026 11:35:34] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f1710e681d0>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[05/09/2026 12:56:50] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CAPE UNIVERSE
+Manobra: Atracação
+Data/Hora: 05/09/26 07:01
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LBH BRASIL**
+--------------------------------------------------
+[05/09/2026 12:56:50] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: GREAT BLOSSOM
+Manobra: Desatracação
+Data/Hora: 05/09/26 07:01
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[05/09/2026 12:56:50] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: AMAZON PATHFINDER
+Manobra: Desatracação
+Data/Hora: 05/09/26 07:16
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
