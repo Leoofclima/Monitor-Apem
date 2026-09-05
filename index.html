@@ -543,6 +543,10 @@ function montarRotaCliente(baseLat, baseLon, listaNavios){
 }
 
 function linkMarineTraffic(navio){
+  if (navio.imo && navio.imo !== "?" && navio.imo.trim() !== ""){
+    return `https://www.marinetraffic.com/en/ais/details/ships/imo:${navio.imo.trim()}`;
+  }
+  // Reserva: se não tiver IMO, ao menos centraliza o mapa deles no ponto que temos
   return `https://www.marinetraffic.com/en/ais/home/centerx:${navio.lon}/centery:${navio.lat}/zoom:12`;
 }
 
@@ -631,6 +635,7 @@ function desenharRota(listaNavios){
         `<b>${numeroExibido}. ${navio.nome}</b><br>` +
         `Área: ${navio.area || '—'}<br>` +
         `Agência: ${navio.agencia || '—'}<br>` +
+        `IMO: ${navio.imo || '—'}<br>` +
         `${textoUrgencia(navio.tempo_restante_horas)}<br>` +
         `${navio.distancia_trecho_km} km do ponto anterior<br>` +
         `<a class="popup-link" href="${linkMarineTraffic(navio)}" target="_blank" rel="noopener">Ver ao vivo no MarineTraffic ↗</a>`
@@ -659,6 +664,7 @@ function desenharEmBreve(lista){
       .bindPopup(
         `<b>${navio.nome}</b> (fora da rota)<br>` +
         `Área: ${navio.area || '—'}<br>` +
+        `IMO: ${navio.imo || '—'}<br>` +
         `${textoUrgencia(navio.tempo_restante_horas)} — em processo de atracação<br>` +
         `<a class="popup-link" href="${linkMarineTraffic(navio)}" target="_blank" rel="noopener">Ver ao vivo no MarineTraffic ↗</a>`
       );
