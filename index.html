@@ -356,9 +356,21 @@
   .popup-link{ color:var(--brass); display:inline-block; margin-top:4px; }
 
   @media (max-width: 860px){
-    .layout{ grid-template-columns:1fr; grid-template-rows:50vh 1fr; }
-    .layout.sem-mapa{ grid-template-rows:1fr; }
-    .sidebar{ border-left:none; border-top:1px solid var(--line); }
+    html, body{ height:auto; min-height:100%; }
+    body{ overflow-y:auto; }
+    .layout{ display:block; flex:none; }
+    .layout.sem-mapa #mapa{ display:none; }
+    #mapa{ height:320px; }
+    .sidebar{
+      border-left:none;
+      border-top:1px solid var(--line);
+      display:block;
+      height:auto;
+    }
+    .rota-lista{
+      overflow-y:visible;
+      flex:none;
+    }
   }
 </style>
 </head>
@@ -386,6 +398,7 @@
   <div class="toolbar">
     <button id="btn-toggle-mapa">Ocultar mapa</button>
     <button id="btn-copiar">Copiar lista</button>
+    <button id="btn-toggle-em-breve">Ocultar "atracando em breve" no mapa</button>
   </div>
 
   <div class="layout" id="layout">
@@ -462,6 +475,7 @@ let poolAtual = [];        // navios elegíveis depois do filtro de data
 let selecionados = new Set();
 let ultimaRotaCalculada = [];
 let mapaOculto = false;
+let emBreveOculto = false;
 
 // ---------- utilidades ----------
 
@@ -865,6 +879,18 @@ function alternarMapa(){
   }
 }
 
+function alternarEmBreve(){
+  emBreveOculto = !emBreveOculto;
+  const btn = document.getElementById('btn-toggle-em-breve');
+  if (emBreveOculto){
+    mapaGlobal.removeLayer(camadaEmBreve);
+    btn.textContent = 'Mostrar "atracando em breve" no mapa';
+  } else {
+    mapaGlobal.addLayer(camadaEmBreve);
+    btn.textContent = 'Ocultar "atracando em breve" no mapa';
+  }
+}
+
 // ---------- ciclo de vida ----------
 
 function renderizarTudo(){
@@ -926,6 +952,7 @@ async function atualizarPeriodicamente(){
     recalcularRota();
   });
   document.getElementById('btn-toggle-mapa').addEventListener('click', alternarMapa);
+  document.getElementById('btn-toggle-em-breve').addEventListener('click', alternarEmBreve);
   document.getElementById('btn-copiar').addEventListener('click', copiarLista);
 
   setInterval(atualizarPeriodicamente, ATUALIZACAO_INTERVALO_MS);
