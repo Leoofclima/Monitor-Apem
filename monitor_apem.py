@@ -23,10 +23,20 @@ import math
 import os
 import sys
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
+
+
+def agora_br():
+    """Retorna o horário atual de São Luís/MA (UTC-3), sem fuso anexado.
+
+    Necessário porque o GitHub Actions roda os scripts em UTC por padrão —
+    sem isso, todos os horários salvos apareceriam 3h adiantados.
+    """
+    return datetime.now(ZoneInfo("America/Sao_Paulo")).replace(tzinfo=None)
 
 # ======================= CONFIGURAÇÃO =======================
 
@@ -69,6 +79,12 @@ HISTORICO_ATRACACOES_FILE = os.path.join(
 BASE_LAT = float(os.environ.get("BASE_LAT", "-2.66098123540369"))
 BASE_LON = float(os.environ.get("BASE_LON", "-44.356990008636686"))
 BASE_NOME = os.environ.get("BASE_NOME", "Porto Grande - São Luís")
+
+# Tempo mínimo (em horas) que um navio precisa ainda ter fundeado pra valer a
+# pena incluir ele na rota — o processo de visita (deslocamento + operação)
+# leva algumas horas, então um navio que já vai atracar em breve não deve
+# entrar na rota, mesmo que esteja pertinho.
+TEMPO_MINIMO_VISITA_HORAS = float(os.environ.get("TEMPO_MINIMO_VISITA_HORAS", "3"))
 
 # =============================================================
 
@@ -251,6 +267,7 @@ def buscar_navios_fundeados():
                     "area": area_atual,
                     "nome": nome,
                     "bandeira": valores[1] if len(valores) > 1 else "?",
+                    "imo": valores[5] if len(valores) > 5 else "?",
                     "agencia": valores[8] if len(valores) > 8 else "?",
                     "lat": lat,
                     "lon": lon,
@@ -269,7 +286,7 @@ def enriquecer_fundeados_com_previsao(navios_fundeados, atual_dados):
     quando possível, quando cada navio tem atracação agendada — e assim
     estimar quanto tempo ele ainda vai ficar fundeado.
     """
-    agora = datetime.now()
+    agora = agora_br()
 
     previsoes_por_navio = {}
     for dados in atual_dados.values():
@@ -308,7 +325,11 @@ def montar_rota_otimizada(base_lat, base_lon, navios_fundeados):
     É uma heurística gulosa simples (escolhe sempre o próximo "melhor"
     ponto), pensada como apoio de planejamento — não é navegação certificada.
     """
-    candidatos = [n for n in navios_fundeados if n.get("lat") is not None and n.get("lon") is not None]
+    candidatos = [
+        n for n in navios_fundeados
+        if n.get("lat") is not None and n.get("lon") is not None
+        and (n.get("tempo_restante_horas") is None or n["tempo_restante_horas"] >= TEMPO_MINIMO_VISITA_HORAS)
+    ]
     restantes = candidatos.copy()
     rota = []
     pos_lat, pos_lon = base_lat, base_lon
@@ -453,7 +474,7 @@ def salvar_estado(estado):
 
 def registrar_log(mensagem):
     """Adiciona uma entrada com data/hora no arquivo de histórico."""
-    carimbo = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+    carimbo = agora_br().strftime("%d/%m/%Y %H:%M:%S")
     with open(LOG_FILE, "a", encoding="utf-8") as f:
         f.write(f"[{carimbo}] {mensagem}\n")
         f.write("-" * 50 + "\n")
@@ -477,7 +498,7 @@ def registrar_atracacao_historico(dados):
             "De": dados.get("de", "?"),
             "Berco": dados.get("berco", "?"),
             "Agencia": dados.get("agencia", "?"),
-            "DetectadoEm": datetime.now().strftime("%d/%m/%Y %H:%M:%S"),
+            "DetectadoEm": agora_br().strftime("%d/%m/%Y %H:%M:%S"),
         })
 
 
@@ -513,7 +534,7 @@ def enviar_whatsapp(mensagem):
 
 
 def main():
-    print(f"[{datetime.now()}] Verificando manobras...")
+    print(f"[{agora_br()}] Verificando manobras...")
 
     try:
         df = buscar_tabela()
@@ -679,11 +700,26 @@ def main():
     navios_fundeados = enriquecer_fundeados_com_previsao(navios_fundeados, atual_dados)
     rota_sugerida = montar_rota_otimizada(BASE_LAT, BASE_LON, navios_fundeados)
 
+    # Navios que aparecem fundeados MAS já têm atracação prevista em breve
+    # demais (menos que TEMPO_MINIMO_VISITA_HORAS) — não entram na rota
+    # porque não dá tempo de visitar, mas ficam listados por transparência.
+    nomes_na_rota = {n["nome"] for n in rota_sugerida}
+    navios_atracando_em_breve = sorted(
+        [
+            n for n in navios_fundeados
+            if n["nome"] not in nomes_na_rota
+            and n.get("tempo_restante_horas") is not None
+            and n["tempo_restante_horas"] < TEMPO_MINIMO_VISITA_HORAS
+        ],
+        key=lambda n: n["tempo_restante_horas"],
+    )
+
     painel = {
-        "atualizado_em": datetime.now().strftime("%d/%m/%Y %H:%M:%S"),
+        "atualizado_em": agora_br().strftime("%d/%m/%Y %H:%M:%S"),
         "base": {"lat": BASE_LAT, "lon": BASE_LON, "nome": BASE_NOME},
         "navios_fundeados": navios_fundeados,
         "rota_sugerida": rota_sugerida,
+        "navios_atracando_em_breve": navios_atracando_em_breve,
     }
     with open(PAINEL_FILE, "w", encoding="utf-8") as f:
         json.dump(painel, f, ensure_ascii=False, indent=2)
