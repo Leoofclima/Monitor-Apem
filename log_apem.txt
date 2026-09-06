@@ -2407,3 +2407,11 @@ De: 103/NORTE
 Para/Berço: ILHA DO MEDO
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[06/09/2026 16:42:49] NOVA MANOBRA:
+Navio: CORAL VI
+Manobra: Atracação
+Data/Hora: 06/09/26 21:01
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: WILSON SONS **
+--------------------------------------------------
