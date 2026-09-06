@@ -2451,3 +2451,19 @@ Antes: 06/09/26 21:01
 Agora: 07/09/26 14:23
 Agência: WILSON SONS **
 --------------------------------------------------
+[06/09/2026 19:03:59] DESATRACAÇÃO ADIADA (navio ainda encontrado em Navios Atracados):
+Navio: AQUILA OCEAN
+Manobra: Desatracação
+Data/Hora: 07/09/26 00:57
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[06/09/2026 19:03:59] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: YOGA
+Manobra: Atracação
+Data/Hora: 07/09/26 01:27
+De: BOIA 19-24
+Para/Berço: 105
+Agência: ALPHAMAR**
+--------------------------------------------------
