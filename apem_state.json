@@ -4,5 +4,7 @@
   "SYLVANA | 06/09/26 | 21:31 | DS | ILHA DO MEDO": "Navio: SYLVANA\nManobra: Desatracação\nData/Hora: 06/09/26 21:31\nDe: 103/NORTE\nPara/Berço: ILHA DO MEDO\nAgência: FERTIMPORT - S.L **",
   "AQUILA OCEAN | 07/09/26 | 00:57 | DS | ILHA DO MEDO": "Navio: AQUILA OCEAN\nManobra: Desatracação\nData/Hora: 07/09/26 00:57\nDe: 105\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
   "YOGA | 07/09/26 | 01:27 | EA | 105": "Navio: YOGA\nManobra: Atracação\nData/Hora: 07/09/26 01:27\nDe: BOIA 19-24\nPara/Berço: 105\nAgência: ALPHAMAR**",
+  "AIN ATHUM | 07/09/26 | 01:27 | DS | ILHA DO MEDO": "Navio: AIN ATHUM\nManobra: Desatracação\nData/Hora: 07/09/26 01:27\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "ORE AMAZONAS | 07/09/26 | 01:27 | EA | PIER 4 NORTE": "Navio: ORE AMAZONAS\nManobra: Atracação\nData/Hora: 07/09/26 01:27\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE\nAgência: ISS**",
   "LUCIO COSTA | 07/09/26 | 14:23 | EA | 104": "Navio: LUCIO COSTA\nManobra: Atracação\nData/Hora: 07/09/26 14:23\nDe: BOIA 19-24\nPara/Berço: 104\nAgência: WILHELMSEN PORT**"
 }

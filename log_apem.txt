@@ -2423,3 +2423,19 @@ De: BOIA 19-24
 Para/Berço: 104
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[06/09/2026 18:18:05] NOVA MANOBRA:
+Navio: AIN ATHUM
+Manobra: Desatracação
+Data/Hora: 07/09/26 01:27
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[06/09/2026 18:18:05] NOVA MANOBRA:
+Navio: ORE AMAZONAS
+Manobra: Atracação
+Data/Hora: 07/09/26 01:27
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: ISS**
+--------------------------------------------------
