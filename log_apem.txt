@@ -2329,3 +2329,19 @@ Agência: WILSON SONS **
 --------------------------------------------------
 [05/09/2026 21:52:00] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f6b1da63800>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[05/09/2026 23:05:20] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AIN ATHUM
+Manobra: Atracação
+Data/Hora: 05/09/26 22:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[05/09/2026 23:05:20] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ORE BRASIL
+Manobra: Atracação
+Data/Hora: 05/09/26 22:30 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
