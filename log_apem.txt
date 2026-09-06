@@ -2367,3 +2367,5 @@ De: BOIA 19-24
 Para/Berço: 106
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[06/09/2026 11:40:00] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f1010cdd370>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
+--------------------------------------------------
