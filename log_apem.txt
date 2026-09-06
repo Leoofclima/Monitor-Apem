@@ -2415,3 +2415,11 @@ De: BOIA 19-24
 Para/Berço: 103/NORTE
 Agência: WILSON SONS **
 --------------------------------------------------
+[06/09/2026 16:52:28] NOVA MANOBRA:
+Navio: LUCIO COSTA
+Manobra: Atracação
+Data/Hora: 07/09/26 14:23
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
