@@ -2399,3 +2399,11 @@ De: BOIA 19-24
 Para/Berço: 105
 Agência: ALPHAMAR**
 --------------------------------------------------
+[06/09/2026 16:34:41] NOVA MANOBRA:
+Navio: SYLVANA
+Manobra: Desatracação
+Data/Hora: 06/09/26 21:31
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
