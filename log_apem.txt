@@ -2351,3 +2351,19 @@ Agência: LMA SHIPPING **
 --------------------------------------------------
 [06/09/2026 06:19:52] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f06c101fc20>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[06/09/2026 10:29:36] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SEA PENGUIN
+Manobra: Desatracação
+Data/Hora: 06/09/26 08:04
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: GAC**
+--------------------------------------------------
+[06/09/2026 10:29:36] MANOBRA CONCLUÍDA (navio atracou):
+Navio: HORIZON THEANO
+Manobra: Atracação
+Data/Hora: 06/09/26 10:20 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 106
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
