@@ -2493,3 +2493,11 @@ Antes: 07/09/26 09:59
 Agora: 07/09/26 09:29
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[06/09/2026 21:51:49] NOVA MANOBRA:
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Atracação
+Data/Hora: 07/09/26 02:12
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
