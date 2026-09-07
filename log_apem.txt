@@ -2539,3 +2539,11 @@ De: PIER 3 SUL
 Para/Berço: ILHA DO MEDO
 Agência: LBH BRASIL**
 --------------------------------------------------
+[07/09/2026 02:37:15] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AIN ATHUM
+Manobra: Desatracação
+Data/Hora: 07/09/26 01:27
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
