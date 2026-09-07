@@ -2607,3 +2607,19 @@ De: PIER 3 SUL
 Para/Berço: ILHA DO MEDO
 Agência: LBH BRASIL**
 --------------------------------------------------
+[07/09/2026 11:58:44] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BERGE NEBLINA
+Manobra: Desatracação
+Data/Hora: 07/09/26 09:29
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[07/09/2026 11:58:44] MANOBRA CONCLUÍDA (navio atracou):
+Navio: GENCO INTREPID
+Manobra: Atracação
+Data/Hora: 07/09/26 11:50 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
