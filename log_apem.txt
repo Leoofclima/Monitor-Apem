@@ -2523,3 +2523,19 @@ Agência: ORION RODOS**
 --------------------------------------------------
 [07/09/2026 00:22:33] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7ff4f32711c0>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[07/09/2026 01:11:15] NOVA MANOBRA:
+Navio: GENCO INTREPID
+Manobra: Atracação
+Data/Hora: 07/09/26 09:59
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[07/09/2026 01:11:15] NOVA MANOBRA:
+Navio: CAPE UNIVERSE
+Manobra: Desatracação
+Data/Hora: 07/09/26 09:59
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
