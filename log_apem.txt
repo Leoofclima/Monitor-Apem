@@ -2589,3 +2589,13 @@ Agência: NORTH STAR**
 --------------------------------------------------
 [07/09/2026 10:38:45] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7fbf95fa8650>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[07/09/2026 11:21:27] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: CORAL VI
+Manobra: Atracação
+Berço: 103/NORTE
+Antes: 07/09/26 14:23
+Agora: 07/09/26 22:47
+Agência: WILSON SONS **
+--------------------------------------------------
