@@ -2623,3 +2623,11 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 SUL
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[07/09/2026 12:54:32] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MARAN FUTURE
+Manobra: Atracação
+Data/Hora: 07/09/26 12:10 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
