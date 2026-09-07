@@ -2,7 +2,8 @@
   "LUCIO COSTA | 07/09/26 | 14:23 | EA | 104": "Navio: LUCIO COSTA\nManobra: Atracação\nData/Hora: 07/09/26 14:23\nDe: BOIA 19-24\nPara/Berço: 104\nAgência: WILHELMSEN PORT**",
   "UBC TACOMA | 07/09/26 | 15:38 | DS | ILHA DO MEDO": "Navio: UBC TACOMA\nManobra: Desatracação\nData/Hora: 07/09/26 15:38\nDe: ALUMAR 1\nPara/Berço: ILHA DO MEDO\nAgência: WILLIAMS**",
   "HORIZON EKAVI | 07/09/26 | 15:53 | EA | 108": "Navio: HORIZON EKAVI\nManobra: Atracação\nData/Hora: 07/09/26 15:53\nDe: PONTO ALPHA\nPara/Berço: 108\nAgência: NORTH STAR**",
+  "SEA LYNX | 07/09/26 | 21:47 | DS | ILHA DO MEDO": "Navio: SEA LYNX\nManobra: Desatracação\nData/Hora: 07/09/26 21:47\nDe: 100\nPara/Berço: ILHA DO MEDO\nAgência: CARGONAVE**",
   "CORAL VI | 07/09/26 | 22:47 | EA | 103/NORTE": "Navio: CORAL VI\nManobra: Atracação\nData/Hora: 07/09/26 22:47\nDe: BOIA 19-24\nPara/Berço: 103/NORTE\nAgência: WILSON SONS **",
-  "SHINAS MAX | 08/09/26 | 02:44 | EA | PIER 1": "Navio: SHINAS MAX\nManobra: Atracação\nData/Hora: 08/09/26 02:44\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: ISS**",
-  "ORE BRASIL | 08/09/26 | 02:44 | DS | ILHA DO MEDO": "Navio: ORE BRASIL\nManobra: Desatracação\nData/Hora: 08/09/26 02:44\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **"
+  "ORE BRASIL | 08/09/26 | 02:44 | DS | ILHA DO MEDO": "Navio: ORE BRASIL\nManobra: Desatracação\nData/Hora: 08/09/26 02:44\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
+  "SHINAS MAX | 08/09/26 | 02:44 | EA | PIER 1": "Navio: SHINAS MAX\nManobra: Atracação\nData/Hora: 08/09/26 02:44\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: ISS**"
 }
