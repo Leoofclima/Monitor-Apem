@@ -2547,3 +2547,11 @@ De: PIER 4 NORTE
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[07/09/2026 05:05:21] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ORE AMAZONAS
+Manobra: Atracação
+Data/Hora: 07/09/26 04:12 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: ISS**
+--------------------------------------------------
