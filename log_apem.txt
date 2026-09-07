@@ -2521,3 +2521,5 @@ De: ALUMAR 2
 Para/Berço: ILHA DO MEDO
 Agência: ORION RODOS**
 --------------------------------------------------
+[07/09/2026 00:22:33] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7ff4f32711c0>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
+--------------------------------------------------
