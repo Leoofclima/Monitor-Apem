@@ -2599,3 +2599,11 @@ Antes: 07/09/26 14:23
 Agora: 07/09/26 22:47
 Agência: WILSON SONS **
 --------------------------------------------------
+[07/09/2026 11:38:08] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: CAPE UNIVERSE
+Manobra: Desatracação
+Data/Hora: 07/09/26 09:59
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
