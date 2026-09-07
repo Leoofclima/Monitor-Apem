@@ -2569,3 +2569,11 @@ Agência: ORION RODOS**
 --------------------------------------------------
 [07/09/2026 08:22:45] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7fc6d7085550>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[07/09/2026 08:57:15] NOVA MANOBRA:
+Navio: UBC TACOMA
+Manobra: Desatracação
+Data/Hora: 07/09/26 15:38
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: WILLIAMS**
+--------------------------------------------------
