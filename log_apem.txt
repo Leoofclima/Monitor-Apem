@@ -2483,3 +2483,13 @@ De: PONTO ALPHA
 Para/Berço: PIER 4 SUL
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[06/09/2026 21:07:00] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: BERGE NEBLINA
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 07/09/26 09:59
+Agora: 07/09/26 09:29
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
