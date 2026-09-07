@@ -2659,3 +2659,19 @@ De: 100
 Para/Berço: ILHA DO MEDO
 Agência: CARGONAVE**
 --------------------------------------------------
+[07/09/2026 18:31:59] MANOBRA CONCLUÍDA (navio atracou):
+Navio: LUCIO COSTA
+Manobra: Atracação
+Data/Hora: 07/09/26 16:54 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[07/09/2026 18:31:59] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: UBC TACOMA
+Manobra: Desatracação
+Data/Hora: 07/09/26 15:38
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: WILLIAMS**
+--------------------------------------------------
