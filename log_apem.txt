@@ -2883,3 +2883,11 @@ De: PONTO ALPHA
 Para/Berço: PIER 4 SUL
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[08/09/2026 10:48:58] NOVA MANOBRA:
+Navio: COSCO SHIPPING RUYI
+Manobra: Desatracação
+Data/Hora: 08/09/26 15:25
+De: 99
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
