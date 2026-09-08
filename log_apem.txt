@@ -2919,3 +2919,19 @@ De: ALUMAR 2
 Para/Berço: ILHA DO MEDO
 Agência: ORION RODOS**
 --------------------------------------------------
+[08/09/2026 14:22:16] NOVA MANOBRA:
+Navio: JI XIAN FENG
+Manobra: Atracação
+Data/Hora: 08/09/26 22:21
+De: PONTO ALPHA
+Para/Berço: 99
+Agência: WILSON SONS **
+--------------------------------------------------
+[08/09/2026 14:22:16] NOVA MANOBRA:
+Navio: HAFNIA NESO
+Manobra: Atracação
+Data/Hora: 08/09/26 22:51
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: GAC**
+--------------------------------------------------
