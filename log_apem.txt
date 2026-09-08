@@ -2747,3 +2747,21 @@ Antes: 08/09/26 02:44
 Agora: 08/09/26 11:04
 Agência: WILSON SONS **
 --------------------------------------------------
+[08/09/2026 00:24:28] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: SHINAS MAX
+Manobra: Atracação
+Berço: PIER 1
+Antes: 08/09/26 02:44
+Agora: 08/09/26 11:04
+Agência: ISS**
+--------------------------------------------------
+[08/09/2026 00:24:28] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SEA LYNX
+Manobra: Desatracação
+Data/Hora: 07/09/26 21:47
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: CARGONAVE**
+--------------------------------------------------
