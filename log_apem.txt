@@ -2775,3 +2775,19 @@ Antes: 08/09/26 02:44
 Agora: 08/09/26 11:04
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[08/09/2026 00:49:54] NOVA MANOBRA:
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Desatracação
+Data/Hora: 08/09/26 11:19
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[08/09/2026 00:49:54] NOVA MANOBRA:
+Navio: AMAZON COURAGE
+Manobra: Atracação
+Data/Hora: 08/09/26 16:10
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
