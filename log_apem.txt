@@ -2825,3 +2825,23 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 1
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[08/09/2026 06:38:24] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: GU IMABARI
+Manobra: Atracação
+Berço: 100
+Antes: 08/09/26 11:34
+Agora: 08/09/26 10:34
+Agência: ALPHAMAR**
+--------------------------------------------------
+[08/09/2026 06:38:24] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: MAREM
+Manobra: Atracação
+Berço: 101/SUL
+Antes: 08/09/26 11:34
+Agora: 08/09/26 15:25
+Agência: LBH BRASIL**
+--------------------------------------------------
