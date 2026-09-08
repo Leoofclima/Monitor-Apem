@@ -2943,3 +2943,27 @@ De: PONTO ALPHA
 Para/Berço: PIER 1
 Agência: ISS**
 --------------------------------------------------
+[08/09/2026 16:44:53] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: MARAN FUTURE
+Manobra: Desatracação
+Data/Hora: 08/09/26 15:25
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[08/09/2026 16:44:53] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CORAL VI
+Manobra: Atracação
+Data/Hora: 08/09/26 16:30 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: WILSON SONS **
+--------------------------------------------------
+[08/09/2026 16:44:53] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: COSCO SHIPPING RUYI
+Manobra: Desatracação
+Data/Hora: 08/09/26 15:25
+De: 99
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
