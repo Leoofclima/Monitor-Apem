@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/09/2026 13:56:22",
+  "atualizado_em": "08/09/2026 14:07:24",
   "base": {
     "lat": -2.66098123540369,
     "lon": -44.356990008636686,
@@ -16,9 +16,9 @@
       "lon": -44.084833,
       "data_fundeio": "22/08/26",
       "hora_fundeio": "14:19",
-      "tempo_fundeado_horas": 407.6,
+      "tempo_fundeado_horas": 407.8,
       "previsao_atracacao": "08/09/2026 15:25",
-      "tempo_restante_horas": 1.5
+      "tempo_restante_horas": 1.3
     },
     {
       "area": "AREA 2",
@@ -30,7 +30,7 @@
       "lon": -44.088667,
       "data_fundeio": "01/09/26",
       "hora_fundeio": "08:40",
-      "tempo_fundeado_horas": 173.3,
+      "tempo_fundeado_horas": 173.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -44,7 +44,7 @@
       "lon": -44.0635,
       "data_fundeio": "04/09/26",
       "hora_fundeio": "04:12",
-      "tempo_fundeado_horas": 105.7,
+      "tempo_fundeado_horas": 105.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -58,7 +58,7 @@
       "lon": -44.099833,
       "data_fundeio": "05/09/26",
       "hora_fundeio": "14:18",
-      "tempo_fundeado_horas": 71.6,
+      "tempo_fundeado_horas": 71.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -72,7 +72,7 @@
       "lon": -44.078333,
       "data_fundeio": "06/09/26",
       "hora_fundeio": "08:00",
-      "tempo_fundeado_horas": 53.9,
+      "tempo_fundeado_horas": 54.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -86,7 +86,7 @@
       "lon": -44.163,
       "data_fundeio": "19/08/26",
       "hora_fundeio": "21:22",
-      "tempo_fundeado_horas": 472.6,
+      "tempo_fundeado_horas": 472.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -100,7 +100,7 @@
       "lon": -44.1555,
       "data_fundeio": "30/08/26",
       "hora_fundeio": "03:40",
-      "tempo_fundeado_horas": 226.3,
+      "tempo_fundeado_horas": 226.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -114,7 +114,7 @@
       "lon": -44.183167,
       "data_fundeio": "04/09/26",
       "hora_fundeio": "08:16",
-      "tempo_fundeado_horas": 101.7,
+      "tempo_fundeado_horas": 101.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -128,9 +128,9 @@
       "lon": -44.1495,
       "data_fundeio": "04/09/26",
       "hora_fundeio": "09:10",
-      "tempo_fundeado_horas": 100.8,
+      "tempo_fundeado_horas": 101.0,
       "previsao_atracacao": "08/09/2026 16:10",
-      "tempo_restante_horas": 2.2
+      "tempo_restante_horas": 2.0
     },
     {
       "area": "AREA 3",
@@ -142,7 +142,7 @@
       "lon": -44.193167,
       "data_fundeio": "04/09/26",
       "hora_fundeio": "09:56",
-      "tempo_fundeado_horas": 100.0,
+      "tempo_fundeado_horas": 100.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -156,9 +156,9 @@
       "lon": -44.171167,
       "data_fundeio": "05/09/26",
       "hora_fundeio": "16:34",
-      "tempo_fundeado_horas": 69.4,
+      "tempo_fundeado_horas": 69.6,
       "previsao_atracacao": "08/09/2026 11:04",
-      "tempo_restante_horas": -2.9
+      "tempo_restante_horas": -3.1
     },
     {
       "area": "AREA 3",
@@ -170,9 +170,9 @@
       "lon": -44.109833,
       "data_fundeio": "07/09/26",
       "hora_fundeio": "08:18",
-      "tempo_fundeado_horas": 29.6,
+      "tempo_fundeado_horas": 29.8,
       "previsao_atracacao": "08/09/2026 15:25",
-      "tempo_restante_horas": 1.5
+      "tempo_restante_horas": 1.3
     },
     {
       "area": "AREA 3",
@@ -184,7 +184,7 @@
       "lon": -44.175167,
       "data_fundeio": "07/09/26",
       "hora_fundeio": "21:34",
-      "tempo_fundeado_horas": 16.4,
+      "tempo_fundeado_horas": 16.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -198,7 +198,7 @@
       "lon": -44.331833,
       "data_fundeio": "23/06/26",
       "hora_fundeio": "00:00",
-      "tempo_fundeado_horas": 1861.9,
+      "tempo_fundeado_horas": 1862.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -212,7 +212,7 @@
       "lon": -44.196167,
       "data_fundeio": "25/08/26",
       "hora_fundeio": "16:12",
-      "tempo_fundeado_horas": 333.7,
+      "tempo_fundeado_horas": 333.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -226,7 +226,7 @@
       "lon": -44.260167,
       "data_fundeio": "28/08/26",
       "hora_fundeio": "09:50",
-      "tempo_fundeado_horas": 268.1,
+      "tempo_fundeado_horas": 268.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -240,7 +240,7 @@
       "lon": -44.2155,
       "data_fundeio": "01/09/26",
       "hora_fundeio": "20:22",
-      "tempo_fundeado_horas": 161.6,
+      "tempo_fundeado_horas": 161.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -254,7 +254,7 @@
       "lon": -44.282167,
       "data_fundeio": "02/09/26",
       "hora_fundeio": "11:40",
-      "tempo_fundeado_horas": 146.3,
+      "tempo_fundeado_horas": 146.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -268,7 +268,7 @@
       "lon": -44.257667,
       "data_fundeio": "04/09/26",
       "hora_fundeio": "09:54",
-      "tempo_fundeado_horas": 100.0,
+      "tempo_fundeado_horas": 100.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -282,7 +282,7 @@
       "lon": -44.310833,
       "data_fundeio": "06/09/26",
       "hora_fundeio": "12:32",
-      "tempo_fundeado_horas": 49.4,
+      "tempo_fundeado_horas": 49.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -296,7 +296,7 @@
       "lon": -44.2935,
       "data_fundeio": "06/09/26",
       "hora_fundeio": "18:53",
-      "tempo_fundeado_horas": 43.1,
+      "tempo_fundeado_horas": 43.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -310,7 +310,7 @@
       "lon": -44.286333,
       "data_fundeio": "06/09/26",
       "hora_fundeio": "22:00",
-      "tempo_fundeado_horas": 39.9,
+      "tempo_fundeado_horas": 40.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -324,7 +324,7 @@
       "lon": -44.255667,
       "data_fundeio": "07/09/26",
       "hora_fundeio": "09:00",
-      "tempo_fundeado_horas": 28.9,
+      "tempo_fundeado_horas": 29.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -338,7 +338,7 @@
       "lon": -44.270167,
       "data_fundeio": "07/09/26",
       "hora_fundeio": "12:35",
-      "tempo_fundeado_horas": 25.4,
+      "tempo_fundeado_horas": 25.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -352,7 +352,7 @@
       "lon": -44.344167,
       "data_fundeio": "29/06/26",
       "hora_fundeio": "12:07",
-      "tempo_fundeado_horas": 1705.8,
+      "tempo_fundeado_horas": 1706.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -366,7 +366,7 @@
       "lon": -44.356833,
       "data_fundeio": "27/08/26",
       "hora_fundeio": "18:51",
-      "tempo_fundeado_horas": 283.1,
+      "tempo_fundeado_horas": 283.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -380,7 +380,7 @@
       "lon": -44.3435,
       "data_fundeio": "28/08/26",
       "hora_fundeio": "16:36",
-      "tempo_fundeado_horas": 261.3,
+      "tempo_fundeado_horas": 261.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -394,7 +394,7 @@
       "lon": -44.3205,
       "data_fundeio": "03/09/26",
       "hora_fundeio": "21:40",
-      "tempo_fundeado_horas": 112.3,
+      "tempo_fundeado_horas": 112.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -408,7 +408,7 @@
       "lon": -44.307667,
       "data_fundeio": "06/09/26",
       "hora_fundeio": "10:42",
-      "tempo_fundeado_horas": 51.2,
+      "tempo_fundeado_horas": 51.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -422,7 +422,7 @@
       "lon": -44.2095,
       "data_fundeio": "06/09/26",
       "hora_fundeio": "16:53",
-      "tempo_fundeado_horas": 45.1,
+      "tempo_fundeado_horas": 45.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -436,7 +436,7 @@
       "lon": null,
       "data_fundeio": "07/09/26",
       "hora_fundeio": "03:24",
-      "tempo_fundeado_horas": 34.5,
+      "tempo_fundeado_horas": 34.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -450,7 +450,7 @@
       "lon": -44.346333,
       "data_fundeio": "07/09/26",
       "hora_fundeio": "05:40",
-      "tempo_fundeado_horas": 32.3,
+      "tempo_fundeado_horas": 32.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -464,9 +464,9 @@
       "lon": -44.340833,
       "data_fundeio": "08/09/26",
       "hora_fundeio": "10:40",
-      "tempo_fundeado_horas": 3.3,
+      "tempo_fundeado_horas": 3.5,
       "previsao_atracacao": "08/09/2026 15:25",
-      "tempo_restante_horas": 1.5
+      "tempo_restante_horas": 1.3
     },
     {
       "area": "AREA 8",
@@ -478,21 +478,7 @@
       "lon": null,
       "data_fundeio": "21/01/24",
       "hora_fundeio": "20:00",
-      "tempo_fundeado_horas": 23057.9,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null
-    },
-    {
-      "area": "ILHA DO MEDO",
-      "nome": "ORE BRASIL",
-      "bandeira": "HONG KONG",
-      "imo": "9488918",
-      "agencia": "LMA SHIPPING **",
-      "lat": null,
-      "lon": null,
-      "data_fundeio": "08/09/26",
-      "hora_fundeio": "13:00",
-      "tempo_fundeado_horas": 0.9,
+      "tempo_fundeado_horas": 23058.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     }
@@ -508,7 +494,7 @@
       "lon": -44.2935,
       "data_fundeio": "06/09/26",
       "hora_fundeio": "18:53",
-      "tempo_fundeado_horas": 43.1,
+      "tempo_fundeado_horas": 43.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 1,
@@ -524,7 +510,7 @@
       "lon": -44.282167,
       "data_fundeio": "02/09/26",
       "hora_fundeio": "11:40",
-      "tempo_fundeado_horas": 146.3,
+      "tempo_fundeado_horas": 146.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 2,
@@ -540,7 +526,7 @@
       "lon": -44.270167,
       "data_fundeio": "07/09/26",
       "hora_fundeio": "12:35",
-      "tempo_fundeado_horas": 25.4,
+      "tempo_fundeado_horas": 25.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 3,
@@ -556,7 +542,7 @@
       "lon": -44.257667,
       "data_fundeio": "04/09/26",
       "hora_fundeio": "09:54",
-      "tempo_fundeado_horas": 100.0,
+      "tempo_fundeado_horas": 100.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 4,
@@ -572,7 +558,7 @@
       "lon": -44.260167,
       "data_fundeio": "28/08/26",
       "hora_fundeio": "09:50",
-      "tempo_fundeado_horas": 268.1,
+      "tempo_fundeado_horas": 268.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 5,
@@ -588,7 +574,7 @@
       "lon": -44.255667,
       "data_fundeio": "07/09/26",
       "hora_fundeio": "09:00",
-      "tempo_fundeado_horas": 28.9,
+      "tempo_fundeado_horas": 29.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 6,
@@ -604,7 +590,7 @@
       "lon": -44.286333,
       "data_fundeio": "06/09/26",
       "hora_fundeio": "22:00",
-      "tempo_fundeado_horas": 39.9,
+      "tempo_fundeado_horas": 40.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 7,
@@ -620,7 +606,7 @@
       "lon": -44.310833,
       "data_fundeio": "06/09/26",
       "hora_fundeio": "12:32",
-      "tempo_fundeado_horas": 49.4,
+      "tempo_fundeado_horas": 49.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 8,
@@ -636,7 +622,7 @@
       "lon": -44.356833,
       "data_fundeio": "27/08/26",
       "hora_fundeio": "18:51",
-      "tempo_fundeado_horas": 283.1,
+      "tempo_fundeado_horas": 283.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 9,
@@ -652,7 +638,7 @@
       "lon": -44.346333,
       "data_fundeio": "07/09/26",
       "hora_fundeio": "05:40",
-      "tempo_fundeado_horas": 32.3,
+      "tempo_fundeado_horas": 32.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 10,
@@ -668,7 +654,7 @@
       "lon": -44.3435,
       "data_fundeio": "28/08/26",
       "hora_fundeio": "16:36",
-      "tempo_fundeado_horas": 261.3,
+      "tempo_fundeado_horas": 261.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 11,
@@ -684,7 +670,7 @@
       "lon": -44.344167,
       "data_fundeio": "29/06/26",
       "hora_fundeio": "12:07",
-      "tempo_fundeado_horas": 1705.8,
+      "tempo_fundeado_horas": 1706.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 12,
@@ -700,7 +686,7 @@
       "lon": -44.331833,
       "data_fundeio": "23/06/26",
       "hora_fundeio": "00:00",
-      "tempo_fundeado_horas": 1861.9,
+      "tempo_fundeado_horas": 1862.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 13,
@@ -716,7 +702,7 @@
       "lon": -44.3205,
       "data_fundeio": "03/09/26",
       "hora_fundeio": "21:40",
-      "tempo_fundeado_horas": 112.3,
+      "tempo_fundeado_horas": 112.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 14,
@@ -732,7 +718,7 @@
       "lon": -44.307667,
       "data_fundeio": "06/09/26",
       "hora_fundeio": "10:42",
-      "tempo_fundeado_horas": 51.2,
+      "tempo_fundeado_horas": 51.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 15,
@@ -748,7 +734,7 @@
       "lon": -44.2095,
       "data_fundeio": "06/09/26",
       "hora_fundeio": "16:53",
-      "tempo_fundeado_horas": 45.1,
+      "tempo_fundeado_horas": 45.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 16,
@@ -764,7 +750,7 @@
       "lon": -44.2155,
       "data_fundeio": "01/09/26",
       "hora_fundeio": "20:22",
-      "tempo_fundeado_horas": 161.6,
+      "tempo_fundeado_horas": 161.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 17,
@@ -780,7 +766,7 @@
       "lon": -44.196167,
       "data_fundeio": "25/08/26",
       "hora_fundeio": "16:12",
-      "tempo_fundeado_horas": 333.7,
+      "tempo_fundeado_horas": 333.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 18,
@@ -796,7 +782,7 @@
       "lon": -44.193167,
       "data_fundeio": "04/09/26",
       "hora_fundeio": "09:56",
-      "tempo_fundeado_horas": 100.0,
+      "tempo_fundeado_horas": 100.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 19,
@@ -812,7 +798,7 @@
       "lon": -44.175167,
       "data_fundeio": "07/09/26",
       "hora_fundeio": "21:34",
-      "tempo_fundeado_horas": 16.4,
+      "tempo_fundeado_horas": 16.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 20,
@@ -828,7 +814,7 @@
       "lon": -44.183167,
       "data_fundeio": "04/09/26",
       "hora_fundeio": "08:16",
-      "tempo_fundeado_horas": 101.7,
+      "tempo_fundeado_horas": 101.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 21,
@@ -844,7 +830,7 @@
       "lon": -44.163,
       "data_fundeio": "19/08/26",
       "hora_fundeio": "21:22",
-      "tempo_fundeado_horas": 472.6,
+      "tempo_fundeado_horas": 472.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 22,
@@ -860,7 +846,7 @@
       "lon": -44.1555,
       "data_fundeio": "30/08/26",
       "hora_fundeio": "03:40",
-      "tempo_fundeado_horas": 226.3,
+      "tempo_fundeado_horas": 226.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 23,
@@ -876,7 +862,7 @@
       "lon": -44.099833,
       "data_fundeio": "05/09/26",
       "hora_fundeio": "14:18",
-      "tempo_fundeado_horas": 71.6,
+      "tempo_fundeado_horas": 71.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 24,
@@ -892,7 +878,7 @@
       "lon": -44.088667,
       "data_fundeio": "01/09/26",
       "hora_fundeio": "08:40",
-      "tempo_fundeado_horas": 173.3,
+      "tempo_fundeado_horas": 173.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 25,
@@ -908,7 +894,7 @@
       "lon": -44.078333,
       "data_fundeio": "06/09/26",
       "hora_fundeio": "08:00",
-      "tempo_fundeado_horas": 53.9,
+      "tempo_fundeado_horas": 54.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 26,
@@ -924,7 +910,7 @@
       "lon": -44.0635,
       "data_fundeio": "04/09/26",
       "hora_fundeio": "04:12",
-      "tempo_fundeado_horas": 105.7,
+      "tempo_fundeado_horas": 105.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 27,
@@ -942,9 +928,9 @@
       "lon": -44.171167,
       "data_fundeio": "05/09/26",
       "hora_fundeio": "16:34",
-      "tempo_fundeado_horas": 69.4,
+      "tempo_fundeado_horas": 69.6,
       "previsao_atracacao": "08/09/2026 11:04",
-      "tempo_restante_horas": -2.9
+      "tempo_restante_horas": -3.1
     },
     {
       "area": "AREA 2",
@@ -956,9 +942,9 @@
       "lon": -44.084833,
       "data_fundeio": "22/08/26",
       "hora_fundeio": "14:19",
-      "tempo_fundeado_horas": 407.6,
+      "tempo_fundeado_horas": 407.8,
       "previsao_atracacao": "08/09/2026 15:25",
-      "tempo_restante_horas": 1.5
+      "tempo_restante_horas": 1.3
     },
     {
       "area": "AREA 3",
@@ -970,9 +956,9 @@
       "lon": -44.109833,
       "data_fundeio": "07/09/26",
       "hora_fundeio": "08:18",
-      "tempo_fundeado_horas": 29.6,
+      "tempo_fundeado_horas": 29.8,
       "previsao_atracacao": "08/09/2026 15:25",
-      "tempo_restante_horas": 1.5
+      "tempo_restante_horas": 1.3
     },
     {
       "area": "AREA 5",
@@ -984,9 +970,9 @@
       "lon": -44.340833,
       "data_fundeio": "08/09/26",
       "hora_fundeio": "10:40",
-      "tempo_fundeado_horas": 3.3,
+      "tempo_fundeado_horas": 3.5,
       "previsao_atracacao": "08/09/2026 15:25",
-      "tempo_restante_horas": 1.5
+      "tempo_restante_horas": 1.3
     },
     {
       "area": "AREA 3",
@@ -998,9 +984,9 @@
       "lon": -44.1495,
       "data_fundeio": "04/09/26",
       "hora_fundeio": "09:10",
-      "tempo_fundeado_horas": 100.8,
+      "tempo_fundeado_horas": 101.0,
       "previsao_atracacao": "08/09/2026 16:10",
-      "tempo_restante_horas": 2.2
+      "tempo_restante_horas": 2.0
     }
   ]
 }
