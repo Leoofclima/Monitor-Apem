@@ -638,6 +638,11 @@ def main():
     navios_atracados_detalhado = buscar_navios_atracados_detalhado()
     navios_atracados = {navio["nome"] for navio in navios_atracados_detalhado}
 
+    # Busca aqui (mais cedo) pra poder checar se um navio "sumido" das
+    # Manobras Previstas voltou pro fundeio, em vez de ter atracado/cancelado.
+    navios_fundeados_atual = buscar_navios_fundeados()
+    navios_fundeados_nomes = {navio["nome"] for navio in navios_fundeados_atual}
+
     eventos = []  # cada item guarda a mensagem + como "desfazer" se o envio falhar
 
     for chave, texto in novas.items():
@@ -674,6 +679,8 @@ def main():
 
         if tipo_manobra == "EA":
             # Manobra era uma ATRACAÇÃO: se o navio está na lista de atracados, deu certo.
+            esta_fundeado = nome_navio in navios_fundeados_nomes
+
             if esta_atracado:
                 registro_real = next((n for n in navios_atracados_detalhado if n["nome"] == nome_navio), None)
                 texto_corrigido = com_horario_real_de_atracacao(texto, nome_navio, navios_atracados_detalhado)
@@ -692,9 +699,26 @@ def main():
                     "berco": partes_chave[4] if len(partes_chave) > 4 else "?",
                     "agencia": texto.split("Agência: ")[1].split("\n")[0] if "Agência: " in texto else "?",
                 })
+            elif esta_fundeado:
+                # Não atracou, mas continua fundeado: a atracação foi adiada,
+                # não é um cancelamento de verdade.
+                agencia_txt = texto.split("Agência: ")[1].split("\n")[0] if "Agência: " in texto else "?"
+                de_txt = texto.split("De: ")[1].split("\n")[0] if "De: " in texto else "?"
+                berco_txt = partes_chave[4] if len(partes_chave) > 4 else "?"
+                previsao_anterior = f"{partes_chave[1]} {partes_chave[2]}" if len(partes_chave) > 2 else "?"
+                msg = (
+                    f"🔄 MANOBRA CANCELADA — {nome_navio} permanece no fundeio\n\n"
+                    f"Navio: {nome_navio}\n"
+                    f"Manobra: Atracação (cancelada)\n"
+                    f"Previsão anterior: {previsao_anterior}\n"
+                    f"De: {de_txt}\n"
+                    f"Para/Berço: {berco_txt}\n"
+                    f"Agência: {agencia_txt}"
+                )
+                registrar_log(f"MANOBRA CANCELADA (navio permanece no fundeio):\n{msg}")
             else:
                 msg = f"⚠️ MANOBRA SAIU DA LISTA (possível cancelamento/desmarcação)\n\n{texto}"
-                registrar_log(f"MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):\n{texto}")
+                registrar_log(f"MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados nem Fundeados):\n{texto}")
 
         elif tipo_manobra == "DS":
             # Manobra era uma DESATRACAÇÃO: a lógica é invertida — se o navio
@@ -755,8 +779,7 @@ def main():
         print("Nenhuma mudança detectada.")
 
     # Monta o painel web: Navios Fundeados + rota sugerida pra embarcação
-    navios_fundeados = buscar_navios_fundeados()
-    navios_fundeados = enriquecer_fundeados_com_previsao(navios_fundeados, atual_dados)
+    navios_fundeados = enriquecer_fundeados_com_previsao(navios_fundeados_atual, atual_dados)
     rota_sugerida = montar_rota_otimizada(BASE_LAT, BASE_LON, navios_fundeados)
 
     # Navios que aparecem fundeados MAS já têm atracação prevista em breve
