@@ -3113,3 +3113,29 @@ De: PIER 4 NORTE
 Para/Berço: ILHA DO MEDO
 Agência: ISS**
 --------------------------------------------------
+[09/09/2026 01:49:02] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: GENCO INTREPID
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 09/09/26 03:44
+Agora: 09/09/26 12:01
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[09/09/2026 01:49:02] MANOBRA CONCLUÍDA (navio atracou):
+Navio: HAFNIA NESO
+Manobra: Atracação
+Data/Hora: 09/09/26 01:13 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: GAC**
+--------------------------------------------------
+[09/09/2026 01:49:02] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AQUILA OCEAN
+Manobra: Desatracação
+Data/Hora: 08/09/26 23:51
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
