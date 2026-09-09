@@ -3257,3 +3257,11 @@ De: BOIA 19-24
 Para/Berço: 104
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[09/09/2026 13:22:35] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: GENCO INTREPID
+Manobra: Desatracação
+Data/Hora: 09/09/26 12:01
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
