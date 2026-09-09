@@ -3139,3 +3139,27 @@ De: 105
 Para/Berço: ILHA DO MEDO
 Agência: ORION RODOS**
 --------------------------------------------------
+[09/09/2026 02:55:50] MANOBRA CONCLUÍDA (navio atracou):
+Navio: YOGA
+Manobra: Atracação
+Data/Hora: 09/09/26 01:20 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: ALPHAMAR**
+--------------------------------------------------
+[09/09/2026 02:55:50] MANOBRA CONCLUÍDA (navio atracou):
+Navio: JI XIAN FENG
+Manobra: Atracação
+Data/Hora: 09/09/26 02:05 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 99
+Agência: WILSON SONS **
+--------------------------------------------------
+[09/09/2026 02:55:50] MANOBRA CONCLUÍDA (navio atracou):
+Navio: FREJA BULKER
+Manobra: Atracação
+Data/Hora: 09/09/26 02:10 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: AMART **
+--------------------------------------------------
