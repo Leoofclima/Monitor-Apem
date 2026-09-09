@@ -3319,3 +3319,11 @@ Agência: ORION RODOS**
 --------------------------------------------------
 [09/09/2026 15:25:11] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f8d87378470>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[09/09/2026 15:39:34] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ELANDRA STAR
+Manobra: Atracação
+Data/Hora: 09/09/26 13:50 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 106 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
