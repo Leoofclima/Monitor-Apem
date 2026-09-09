@@ -3249,3 +3249,11 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[09/09/2026 12:04:15] NOVA MANOBRA:
+Navio: HONESTY
+Manobra: Atracação
+Data/Hora: 09/09/26 16:14
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
