@@ -2,5 +2,7 @@
   "ELANDRA STAR | 09/09/26 | 11:31 | EA | 106 EXT": "Navio: ELANDRA STAR\nManobra: Atracação\nData/Hora: 09/09/26 11:31\nDe: BOIA 19-24\nPara/Berço: 106 EXT\nAgência: WILHELMSEN PORT**",
   "ORE AMAZONAS | 09/09/26 | 12:01 | DS | ILHA DO MEDO": "Navio: ORE AMAZONAS\nManobra: Desatracação\nData/Hora: 09/09/26 12:01\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
   "GENCO INTREPID | 09/09/26 | 12:01 | DS | ILHA DO MEDO": "Navio: GENCO INTREPID\nManobra: Desatracação\nData/Hora: 09/09/26 12:01\nDe: PIER 3 SUL\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "SEA TUBARAO | 09/09/26 | 16:14 | EA | PIER 4 NORTE": "Navio: SEA TUBARAO\nManobra: Atracação\nData/Hora: 09/09/26 16:14\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE\nAgência: LMA SHIPPING **"
+  "SEA TUBARAO | 09/09/26 | 16:14 | EA | PIER 4 NORTE": "Navio: SEA TUBARAO\nManobra: Atracação\nData/Hora: 09/09/26 16:14\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE\nAgência: LMA SHIPPING **",
+  "AMAZON COURAGE | 09/09/26 | 16:29 | DS | ILHA DO MEDO": "Navio: AMAZON COURAGE\nManobra: Desatracação\nData/Hora: 09/09/26 16:29\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
+  "AMAZON COMMANDER | 09/09/26 | 16:59 | EA | ALUMAR 2": "Navio: AMAZON COMMANDER\nManobra: Atracação\nData/Hora: 09/09/26 16:59\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 2\nAgência: ORION RODOS**"
 }

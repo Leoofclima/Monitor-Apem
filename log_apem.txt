@@ -3233,3 +3233,19 @@ De: PONTO ALPHA
 Para/Berço: PIER 4 NORTE
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[09/09/2026 09:58:38] NOVA MANOBRA:
+Navio: AMAZON COURAGE
+Manobra: Desatracação
+Data/Hora: 09/09/26 16:29
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[09/09/2026 09:58:38] NOVA MANOBRA:
+Navio: AMAZON COMMANDER
+Manobra: Atracação
+Data/Hora: 09/09/26 16:59
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
