@@ -3097,3 +3097,19 @@ De: BOIA 19-24
 Para/Berço: 106
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[09/09/2026 01:38:14] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: LUCIO COSTA
+Manobra: Desatracação
+Data/Hora: 08/09/26 23:51
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[09/09/2026 01:38:14] DESATRACAÇÃO ADIADA (navio ainda encontrado em Navios Atracados):
+Navio: ORE AMAZONAS
+Manobra: Desatracação
+Data/Hora: 09/09/26 03:44
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
