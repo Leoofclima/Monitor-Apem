@@ -3187,3 +3187,41 @@ De: PONTO ALPHA
 Para/Berço: PIER 4 NORTE
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[09/09/2026 08:37:19] NOVA MANOBRA:
+Navio: ELANDRA STAR
+Manobra: Atracação
+Data/Hora: 09/09/26 11:31
+De: BOIA 19-24
+Para/Berço: 106 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[09/09/2026 08:37:19] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: ORE AMAZONAS
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 09/09/26 11:31
+Agora: 09/09/26 12:01
+Agência: ISS**
+--------------------------------------------------
+[09/09/2026 08:37:19] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — ELANDRA STAR permanece no fundeio
+
+Navio: ELANDRA STAR
+Manobra: Atracação (cancelada)
+Previsão anterior: 09/09/26 11:31
+De: BOIA 19-24
+Para/Berço: 106
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[09/09/2026 08:37:19] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — SEA TUBARAO permanece no fundeio
+
+Navio: SEA TUBARAO
+Manobra: Atracação (cancelada)
+Previsão anterior: 09/09/26 12:01
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
