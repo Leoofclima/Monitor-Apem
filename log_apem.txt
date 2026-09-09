@@ -3299,3 +3299,21 @@ De: PIER 4 NORTE
 Para/Berço: ILHA DO MEDO
 Agência: ISS**
 --------------------------------------------------
+[09/09/2026 15:05:47] DESATRACAÇÃO ADIADA (navio ainda encontrado em Navios Atracados):
+Navio: AMAZON COURAGE
+Manobra: Desatracação
+Data/Hora: 09/09/26 16:29
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[09/09/2026 15:05:47] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — AMAZON COMMANDER permanece no fundeio
+
+Navio: AMAZON COMMANDER
+Manobra: Atracação (cancelada)
+Previsão anterior: 09/09/26 16:59
+De: PONTO ALPHA
+Para/Berço: ALUMAR 1
+Agência: ORION RODOS**
+--------------------------------------------------
