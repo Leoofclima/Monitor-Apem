@@ -3387,3 +3387,11 @@ De: PIER 1
 Para/Berço: ILHA DO MEDO
 Agência: ISS**
 --------------------------------------------------
+[10/09/2026 02:36:48] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AMAZON COURAGE
+Manobra: Desatracação
+Data/Hora: 10/09/26 00:27
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
