@@ -3477,3 +3477,27 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 NORTE
 Agência: ISS**
 --------------------------------------------------
+[10/09/2026 18:47:44] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FREJA BULKER
+Manobra: Desatracação
+Data/Hora: 10/09/26 16:27
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: AMART **
+--------------------------------------------------
+[10/09/2026 18:47:44] MANOBRA CONCLUÍDA (navio atracou):
+Navio: WADOWICE II
+Manobra: Atracação
+Data/Hora: 10/09/26 18:21 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: LBH BRASIL**
+--------------------------------------------------
+[10/09/2026 18:47:44] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: HORIZON EKAVI
+Manobra: Desatracação
+Data/Hora: 10/09/26 17:57
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
