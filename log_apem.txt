@@ -3443,3 +3443,13 @@ De: BOIA 19-24
 Para/Berço: 102/CENTRO
 Agência: LBH BRASIL**
 --------------------------------------------------
+[10/09/2026 14:53:42] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: WADOWICE II
+Manobra: Atracação
+Berço: 102/CENTRO
+Antes: 10/09/26 17:57
+Agora: 10/09/26 16:57
+Agência: LBH BRASIL**
+--------------------------------------------------
