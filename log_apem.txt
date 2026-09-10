@@ -3453,3 +3453,19 @@ Antes: 10/09/26 17:57
 Agora: 10/09/26 16:57
 Agência: LBH BRASIL**
 --------------------------------------------------
+[10/09/2026 15:22:40] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ELANDRA STAR
+Manobra: Desatracação
+Data/Hora: 10/09/26 12:19
+De: 106 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[10/09/2026 15:22:40] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SHINAS MAX
+Manobra: Desatracação
+Data/Hora: 10/09/26 12:49
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
