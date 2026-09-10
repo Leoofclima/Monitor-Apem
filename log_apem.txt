@@ -3379,3 +3379,11 @@ De: 106 EXT
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[10/09/2026 02:09:34] NOVA MANOBRA:
+Navio: SHINAS MAX
+Manobra: Desatracação
+Data/Hora: 10/09/26 12:49
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
