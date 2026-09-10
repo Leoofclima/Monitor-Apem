@@ -3403,3 +3403,11 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 NORTE
 Agência: ISS**
 --------------------------------------------------
+[10/09/2026 07:54:39] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AMAZON COMMANDER
+Manobra: Atracação
+Data/Hora: 10/09/26 07:25 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
