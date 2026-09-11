@@ -4017,3 +4017,11 @@ De: BOIA 19-24
 Para/Berço: 104
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[11/09/2026 18:28:55] NOVA MANOBRA:
+Navio: ELANDRA STAR
+Manobra: Desatracação
+Data/Hora: 12/09/26 02:12
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
