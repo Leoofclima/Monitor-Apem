@@ -3771,3 +3771,13 @@ Agência: ROCHAMAR**
 --------------------------------------------------
 [11/09/2026 11:49:43] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f2d53bc91c0>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[11/09/2026 11:58:31] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: JI XIAN FENG
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 11/09/26 13:53
+Agora: 11/09/26 15:00
+Agência: WILSON SONS **
+--------------------------------------------------
