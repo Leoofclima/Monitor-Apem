@@ -4033,3 +4033,11 @@ De: BOIA 19-24
 Para/Berço: 105
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[11/09/2026 20:27:38] MANOBRA CONCLUÍDA (navio atracou):
+Navio: QUETZAL ARROW
+Manobra: Atracação
+Data/Hora: 11/09/26 20:15 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 99
+Agência: ROCHAMAR**
+--------------------------------------------------
