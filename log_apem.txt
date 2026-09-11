@@ -3649,3 +3649,11 @@ De: PONTO ALPHA
 Para/Berço: PIER 4 NORTE
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[11/09/2026 07:48:01] NOVA MANOBRA:
+Navio: HONESTY
+Manobra: Desatracação
+Data/Hora: 11/09/26 13:53
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
