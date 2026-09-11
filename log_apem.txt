@@ -3895,3 +3895,21 @@ De: PONTO ALPHA
 Para/Berço: PIER 1
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[11/09/2026 17:36:17] NOVA MANOBRA:
+Navio: GOLDEN BEIJING
+Manobra: Atracação
+Data/Hora: 12/09/26 01:42
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: ISS**
+--------------------------------------------------
+[11/09/2026 17:36:17] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — PAN ACACIA permanece no fundeio
+
+Navio: PAN ACACIA
+Manobra: Atracação (cancelada)
+Previsão anterior: 12/09/26 01:42
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
