@@ -3665,3 +3665,27 @@ De: BOIA 19-24
 Para/Berço: 104
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[11/09/2026 08:20:48] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: CORAL VI
+Manobra: Desatracação
+Data/Hora: 11/09/26 04:40
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[11/09/2026 08:20:48] MANOBRA CONCLUÍDA (navio atracou):
+Navio: KYBELE HORIZON
+Manobra: Atracação
+Data/Hora: 11/09/26 08:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: LACHMANN**
+--------------------------------------------------
+[11/09/2026 08:20:48] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SAO MASTER
+Manobra: Desatracação
+Data/Hora: 11/09/26 05:10
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
