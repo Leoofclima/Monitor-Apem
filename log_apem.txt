@@ -3731,3 +3731,23 @@ De: 99
 Para/Berço: ILHA DO MEDO
 Agência: WILSON SONS **
 --------------------------------------------------
+[11/09/2026 10:37:29] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: SEA TUBARAO
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 11/09/26 13:23
+Agora: 11/09/26 12:53
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[11/09/2026 10:37:29] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — SEMIRAMIS permanece no fundeio
+
+Navio: SEMIRAMIS
+Manobra: Atracação (cancelada)
+Previsão anterior: 11/09/26 13:53
+De: BOIA 19-24
+Para/Berço: 105
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
