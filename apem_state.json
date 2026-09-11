@@ -1,1 +1,8 @@
-{}
+{
+  "CORAL VI | 11/09/26 | 04:40 | DS | ILHA DO MEDO": "Navio: CORAL VI\nManobra: Desatracação\nData/Hora: 11/09/26 04:40\nDe: 103/NORTE\nPara/Berço: ILHA DO MEDO\nAgência: WILSON SONS **",
+  "AROSA | 11/09/26 | 05:10 | EA | 103/NORTE": "Navio: AROSA\nManobra: Atracação\nData/Hora: 11/09/26 05:10\nDe: BOIA 19-24\nPara/Berço: 103/NORTE\nAgência: ALPHAMAR**",
+  "KYBELE HORIZON | 11/09/26 | 05:10 | EA | PIER 4 SUL": "Navio: KYBELE HORIZON\nManobra: Atracação\nData/Hora: 11/09/26 05:10\nDe: PONTO ALPHA\nPara/Berço: PIER 4 SUL\nAgência: LACHMANN**",
+  "SAO MASTER | 11/09/26 | 05:10 | DS | ILHA DO MEDO": "Navio: SAO MASTER\nManobra: Desatracação\nData/Hora: 11/09/26 05:10\nDe: PIER 4 SUL\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
+  "SEMIRAMIS | 11/09/26 | 13:23 | EA | 105": "Navio: SEMIRAMIS\nManobra: Atracação\nData/Hora: 11/09/26 13:23\nDe: BOIA 19-24\nPara/Berço: 105\nAgência: FERTIMPORT - S.L **",
+  "YOGA | 11/09/26 | 13:53 | DS | ILHA DO MEDO": "Navio: YOGA\nManobra: Desatracação\nData/Hora: 11/09/26 13:53\nDe: 105\nPara/Berço: ILHA DO MEDO\nAgência: ALPHAMAR**"
+}
