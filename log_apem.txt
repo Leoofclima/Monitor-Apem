@@ -3913,3 +3913,59 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 NORTE
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[11/09/2026 18:04:04] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: JI XIAN FENG
+Manobra: Desatracação
+Data/Hora: 11/09/26 16:00
+De: 99
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[11/09/2026 18:04:04] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — SEMIRAMIS permanece no fundeio
+
+Navio: SEMIRAMIS
+Manobra: Atracação (cancelada)
+Previsão anterior: 11/09/26 17:32
+De: BOIA 19-24
+Para/Berço: 105
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[11/09/2026 18:04:04] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — QUETZAL ARROW permanece no fundeio
+
+Navio: QUETZAL ARROW
+Manobra: Atracação (cancelada)
+Previsão anterior: 11/09/26 18:32
+De: BOIA 19-24
+Para/Berço: 99
+Agência: ROCHAMAR**
+--------------------------------------------------
+[11/09/2026 18:04:04] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — GOLDEN BEIJING permanece no fundeio
+
+Navio: GOLDEN BEIJING
+Manobra: Atracação (cancelada)
+Previsão anterior: 12/09/26 01:42
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: ISS**
+--------------------------------------------------
+[11/09/2026 18:04:04] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — ORE SHANDONG permanece no fundeio
+
+Navio: ORE SHANDONG
+Manobra: Atracação (cancelada)
+Previsão anterior: 12/09/26 01:42
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[11/09/2026 18:04:04] DESATRACAÇÃO ADIADA (navio ainda encontrado em Navios Atracados):
+Navio: SOLAR HOPE
+Manobra: Desatracação
+Data/Hora: 12/09/26 01:42
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
