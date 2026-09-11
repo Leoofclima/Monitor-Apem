@@ -3509,3 +3509,27 @@ De: 100
 Para/Berço: ILHA DO MEDO
 Agência: ALPHAMAR**
 --------------------------------------------------
+[10/09/2026 22:19:14] NOVA MANOBRA:
+Navio: KYBELE HORIZON
+Manobra: Atracação
+Data/Hora: 11/09/26 05:10
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: LACHMANN**
+--------------------------------------------------
+[10/09/2026 22:19:14] NOVA MANOBRA:
+Navio: SAO MASTER
+Manobra: Desatracação
+Data/Hora: 11/09/26 05:10
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[10/09/2026 22:19:14] DESATRACAÇÃO ADIADA (navio ainda encontrado em Navios Atracados):
+Navio: GU IMABARI
+Manobra: Desatracação
+Data/Hora: 11/09/26 01:01
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
