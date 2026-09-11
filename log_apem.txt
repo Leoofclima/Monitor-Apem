@@ -3715,3 +3715,11 @@ Antes: 11/09/26 13:23
 Agora: 11/09/26 13:53
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[11/09/2026 09:41:45] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AROSA
+Manobra: Atracação
+Data/Hora: 11/09/26 06:20 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: ALPHAMAR**
+--------------------------------------------------
