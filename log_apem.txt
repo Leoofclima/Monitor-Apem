@@ -3811,3 +3811,27 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 NORTE
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[11/09/2026 15:04:53] NOVA MANOBRA:
+Navio: SAO OASIS
+Manobra: Atracação
+Data/Hora: 12/09/26 01:42
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[11/09/2026 15:04:53] NOVA MANOBRA:
+Navio: SOLAR HOPE
+Manobra: Desatracação
+Data/Hora: 12/09/26 01:42
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[11/09/2026 15:04:53] NOVA MANOBRA:
+Navio: PAN ACACIA
+Manobra: Atracação
+Data/Hora: 12/09/26 01:42
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
