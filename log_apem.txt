@@ -3549,3 +3549,35 @@ De: BOIA 19-24
 Para/Berço: 103/NORTE
 Agência: ALPHAMAR**
 --------------------------------------------------
+[11/09/2026 01:24:02] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: CORAL VI
+Manobra: Desatracação
+Data/Hora: 11/09/26 04:40
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[11/09/2026 01:24:02] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados nem Fundeados):
+Navio: AROSA
+Manobra: Atracação
+Data/Hora: 11/09/26 05:10
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: ALPHAMAR**
+--------------------------------------------------
+[11/09/2026 01:24:02] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados nem Fundeados):
+Navio: KYBELE HORIZON
+Manobra: Atracação
+Data/Hora: 11/09/26 05:10
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: LACHMANN**
+--------------------------------------------------
+[11/09/2026 01:24:02] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SAO MASTER
+Manobra: Desatracação
+Data/Hora: 11/09/26 05:10
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
