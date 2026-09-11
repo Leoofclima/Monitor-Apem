@@ -3629,3 +3629,5 @@ De: 105
 Para/Berço: ILHA DO MEDO
 Agência: ALPHAMAR**
 --------------------------------------------------
+[11/09/2026 03:26:08] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f22c1921760>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
+--------------------------------------------------
