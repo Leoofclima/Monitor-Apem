@@ -3853,3 +3853,11 @@ Agência: WILHELMSEN PORT**
 --------------------------------------------------
 [11/09/2026 15:49:29] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f863e51a150>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[11/09/2026 15:56:16] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: YOGA
+Manobra: Desatracação
+Data/Hora: 11/09/26 13:53
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
