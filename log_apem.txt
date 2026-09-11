@@ -3501,3 +3501,11 @@ De: 108
 Para/Berço: ILHA DO MEDO
 Agência: NORTH STAR**
 --------------------------------------------------
+[10/09/2026 22:05:00] NOVA MANOBRA:
+Navio: GU IMABARI
+Manobra: Desatracação
+Data/Hora: 11/09/26 01:01
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
