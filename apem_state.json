@@ -3,9 +3,10 @@
   "AROSA | 11/09/26 | 05:10 | EA | 103/NORTE": "Navio: AROSA\nManobra: Atracação\nData/Hora: 11/09/26 05:10\nDe: BOIA 19-24\nPara/Berço: 103/NORTE\nAgência: ALPHAMAR**",
   "KYBELE HORIZON | 11/09/26 | 05:10 | EA | PIER 4 SUL": "Navio: KYBELE HORIZON\nManobra: Atracação\nData/Hora: 11/09/26 05:10\nDe: PONTO ALPHA\nPara/Berço: PIER 4 SUL\nAgência: LACHMANN**",
   "SAO MASTER | 11/09/26 | 05:10 | DS | ILHA DO MEDO": "Navio: SAO MASTER\nManobra: Desatracação\nData/Hora: 11/09/26 05:10\nDe: PIER 4 SUL\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
+  "ORE SALVADOR | 11/09/26 | 13:23 | EA | PIER 4 NORTE": "Navio: ORE SALVADOR\nManobra: Atracação\nData/Hora: 11/09/26 13:23\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE\nAgência: LMA SHIPPING **",
   "SEMIRAMIS | 11/09/26 | 13:23 | EA | 105": "Navio: SEMIRAMIS\nManobra: Atracação\nData/Hora: 11/09/26 13:23\nDe: BOIA 19-24\nPara/Berço: 105\nAgência: FERTIMPORT - S.L **",
   "SEA TUBARAO | 11/09/26 | 13:23 | DS | ILHA DO MEDO": "Navio: SEA TUBARAO\nManobra: Desatracação\nData/Hora: 11/09/26 13:23\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
-  "ORE SALVADOR | 11/09/26 | 13:23 | EA | PIER 4 NORTE": "Navio: ORE SALVADOR\nManobra: Atracação\nData/Hora: 11/09/26 13:23\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE\nAgência: LMA SHIPPING **",
   "YOGA | 11/09/26 | 13:53 | DS | ILHA DO MEDO": "Navio: YOGA\nManobra: Desatracação\nData/Hora: 11/09/26 13:53\nDe: 105\nPara/Berço: ILHA DO MEDO\nAgência: ALPHAMAR**",
-  "HONESTY | 11/09/26 | 13:53 | DS | ILHA DO MEDO": "Navio: HONESTY\nManobra: Desatracação\nData/Hora: 11/09/26 13:53\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**"
+  "HONESTY | 11/09/26 | 13:53 | DS | ILHA DO MEDO": "Navio: HONESTY\nManobra: Desatracação\nData/Hora: 11/09/26 13:53\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "ELANDRA STAR | 11/09/26 | 13:53 | EA | 104": "Navio: ELANDRA STAR\nManobra: Atracação\nData/Hora: 11/09/26 13:53\nDe: BOIA 19-24\nPara/Berço: 104\nAgência: WILHELMSEN PORT**"
 }
