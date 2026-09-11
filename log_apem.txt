@@ -3689,3 +3689,29 @@ De: PIER 4 SUL
 Para/Berço: ILHA DO MEDO
 Agência: ISS**
 --------------------------------------------------
+[11/09/2026 09:05:45] NOVA MANOBRA:
+Navio: PAN ACACIA
+Manobra: Atracação
+Data/Hora: 11/09/26 17:32
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[11/09/2026 09:05:45] NOVA MANOBRA:
+Navio: SOLAR HOPE
+Manobra: Desatracação
+Data/Hora: 11/09/26 17:32
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[11/09/2026 09:05:45] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: SEMIRAMIS
+Manobra: Atracação
+Berço: 105
+Antes: 11/09/26 13:23
+Agora: 11/09/26 13:53
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
