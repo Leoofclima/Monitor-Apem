@@ -3793,3 +3793,21 @@ Antes: 11/09/26 15:00
 Agora: 11/09/26 16:00
 Agência: WILSON SONS **
 --------------------------------------------------
+[11/09/2026 14:30:57] DESATRACAÇÃO ADIADA (navio ainda encontrado em Navios Atracados):
+Navio: SOLAR HOPE
+Manobra: Desatracação
+Data/Hora: 11/09/26 17:32
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[11/09/2026 14:30:57] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — PAN ACACIA permanece no fundeio
+
+Navio: PAN ACACIA
+Manobra: Atracação (cancelada)
+Previsão anterior: 11/09/26 17:32
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
