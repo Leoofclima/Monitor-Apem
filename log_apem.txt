@@ -3861,3 +3861,19 @@ De: 105
 Para/Berço: ILHA DO MEDO
 Agência: ALPHAMAR**
 --------------------------------------------------
+[11/09/2026 16:46:44] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ORE SALVADOR
+Manobra: Atracação
+Data/Hora: 11/09/26 16:30 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[11/09/2026 16:46:44] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ELANDRA STAR
+Manobra: Atracação
+Data/Hora: 11/09/26 16:00 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
