@@ -3877,3 +3877,21 @@ De: BOIA 19-24
 Para/Berço: 104
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[11/09/2026 17:20:28] NOVA MANOBRA:
+Navio: ORE SHANDONG
+Manobra: Atracação
+Data/Hora: 12/09/26 01:42
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[11/09/2026 17:20:28] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — SAO OASIS permanece no fundeio
+
+Navio: SAO OASIS
+Manobra: Atracação (cancelada)
+Previsão anterior: 12/09/26 01:42
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
