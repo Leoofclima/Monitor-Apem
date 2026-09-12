@@ -4225,3 +4225,11 @@ De: ALUMAR 2
 Para/Berço: ILHA DO MEDO
 Agência: ORION RODOS**
 --------------------------------------------------
+[12/09/2026 09:38:59] NOVA MANOBRA:
+Navio: MAREM
+Manobra: Desatracação
+Data/Hora: 12/09/26 17:34
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
