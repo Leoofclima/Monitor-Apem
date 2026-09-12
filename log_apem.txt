@@ -4309,3 +4309,11 @@ De: 103/NORTE
 Para/Berço: ILHA DO MEDO
 Agência: ALPHAMAR**
 --------------------------------------------------
+[12/09/2026 19:40:42] NOVA MANOBRA:
+Navio: HOANH SON PACIFIC
+Manobra: Atracação
+Data/Hora: 13/09/26 02:44
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: WILSON SONS **
+--------------------------------------------------
