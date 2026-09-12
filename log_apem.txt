@@ -4269,3 +4269,27 @@ Agência: LACHMANN**
 --------------------------------------------------
 [12/09/2026 16:26:25] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f1d0505c4a0>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[12/09/2026 16:44:08] NOVA MANOBRA:
+Navio: ORE SALVADOR
+Manobra: Desatracação
+Data/Hora: 13/09/26 01:44
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[12/09/2026 16:44:08] NOVA MANOBRA:
+Navio: PAN ACACIA
+Manobra: Atracação
+Data/Hora: 13/09/26 02:14
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[12/09/2026 16:44:08] MANOBRA CONCLUÍDA (navio atracou):
+Navio: YUAN SHEN HAI
+Manobra: Atracação
+Data/Hora: 12/09/26 16:43 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: ISS**
+--------------------------------------------------
