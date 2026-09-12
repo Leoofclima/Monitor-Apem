@@ -4249,3 +4249,13 @@ De: PONTO ALPHA
 Para/Berço: 108
 Agência: LACHMANN**
 --------------------------------------------------
+[12/09/2026 15:20:57] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: MAREM
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 12/09/26 17:34
+Agora: 13/09/26 02:44
+Agência: LBH BRASIL**
+--------------------------------------------------
