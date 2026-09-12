@@ -4189,3 +4189,11 @@ De: PIER 3 NORTE
 Para/Berço: ILHA DO MEDO
 Agência: ISS**
 --------------------------------------------------
+[12/09/2026 04:03:59] MANOBRA CONCLUÍDA (navio atracou):
+Navio: FLUMAR BRASIL
+Manobra: Atracação
+Data/Hora: 12/09/26 03:19 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
