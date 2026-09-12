@@ -4293,3 +4293,19 @@ De: PONTO ALPHA
 Para/Berço: PIER 4 SUL
 Agência: ISS**
 --------------------------------------------------
+[12/09/2026 18:55:03] NOVA MANOBRA:
+Navio: GU IMABARI
+Manobra: DA
+Data/Hora: 13/09/26 02:14
+De: 100
+Para/Berço: 100
+Agência: ALPHAMAR**
+--------------------------------------------------
+[12/09/2026 18:55:03] NOVA MANOBRA:
+Navio: AROSA
+Manobra: Desatracação
+Data/Hora: 13/09/26 02:44
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
