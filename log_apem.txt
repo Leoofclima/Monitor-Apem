@@ -4259,3 +4259,11 @@ Antes: 12/09/26 17:34
 Agora: 13/09/26 02:44
 Agência: LBH BRASIL**
 --------------------------------------------------
+[12/09/2026 15:45:29] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: KYBELE HORIZON
+Manobra: Desatracação
+Data/Hora: 12/09/26 13:31
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LACHMANN**
+--------------------------------------------------
