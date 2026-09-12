@@ -4241,3 +4241,11 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[12/09/2026 10:04:06] NOVA MANOBRA:
+Navio: BALTIC CHAMPION
+Manobra: Atracação
+Data/Hora: 12/09/26 19:34
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: LACHMANN**
+--------------------------------------------------
