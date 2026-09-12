@@ -4157,3 +4157,27 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[12/09/2026 03:39:18] NOVA MANOBRA:
+Navio: KYBELE HORIZON
+Manobra: Desatracação
+Data/Hora: 12/09/26 13:31
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LACHMANN**
+--------------------------------------------------
+[12/09/2026 03:39:18] NOVA MANOBRA:
+Navio: YUAN SHEN HAI
+Manobra: Atracação
+Data/Hora: 12/09/26 14:01
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: ISS**
+--------------------------------------------------
+[12/09/2026 03:39:18] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ELANDRA STAR
+Manobra: Desatracação
+Data/Hora: 12/09/26 02:12
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
