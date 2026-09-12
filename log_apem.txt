@@ -4181,3 +4181,11 @@ De: 104
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[12/09/2026 03:51:00] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SOLAR HOPE
+Manobra: Desatracação
+Data/Hora: 12/09/26 01:42
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
