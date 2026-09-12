@@ -3,5 +3,7 @@
   "ORE SHANDONG | 12/09/26 | 01:42 | EA | PIER 1": "Navio: ORE SHANDONG\nManobra: Atracação\nData/Hora: 12/09/26 01:42\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: WILHELMSEN PORT**",
   "SOLAR HOPE | 12/09/26 | 01:42 | DS | ILHA DO MEDO": "Navio: SOLAR HOPE\nManobra: Desatracação\nData/Hora: 12/09/26 01:42\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
   "FLUMAR BRASIL | 12/09/26 | 01:42 | EA | 104": "Navio: FLUMAR BRASIL\nManobra: Atracação\nData/Hora: 12/09/26 01:42\nDe: BOIA 19-24\nPara/Berço: 104\nAgência: WILHELMSEN PORT**",
-  "ELANDRA STAR | 12/09/26 | 02:12 | DS | ILHA DO MEDO": "Navio: ELANDRA STAR\nManobra: Desatracação\nData/Hora: 12/09/26 02:12\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**"
+  "ELANDRA STAR | 12/09/26 | 02:12 | DS | ILHA DO MEDO": "Navio: ELANDRA STAR\nManobra: Desatracação\nData/Hora: 12/09/26 02:12\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "AMAZON COMMANDER | 12/09/26 | 06:08 | DS | ILHA DO MEDO": "Navio: AMAZON COMMANDER\nManobra: Desatracação\nData/Hora: 12/09/26 06:08\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
+  "AMAZON PIONEER | 12/09/26 | 06:23 | EA | ALUMAR 2": "Navio: AMAZON PIONEER\nManobra: Atracação\nData/Hora: 12/09/26 06:23\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 2\nAgência: ORION RODOS**"
 }
