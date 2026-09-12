@@ -4233,3 +4233,11 @@ De: 101/SUL
 Para/Berço: ILHA DO MEDO
 Agência: LBH BRASIL**
 --------------------------------------------------
+[12/09/2026 09:50:37] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AMAZON PIONEER
+Manobra: Atracação
+Data/Hora: 12/09/26 09:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
