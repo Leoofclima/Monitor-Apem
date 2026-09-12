@@ -4139,3 +4139,5 @@ Antes: 12/09/26 02:12
 Agora: 12/09/26 01:42
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[11/09/2026 22:28:30] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7fb2062efbc0>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
+--------------------------------------------------
