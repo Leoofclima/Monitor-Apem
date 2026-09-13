@@ -4561,3 +4561,11 @@ Antes: 13/09/26 18:38
 Agora: 14/09/26 02:53
 Agência: ISS**
 --------------------------------------------------
+[13/09/2026 20:29:02] NOVA MANOBRA:
+Navio: SAO OASIS
+Manobra: Atracação
+Data/Hora: 14/09/26 06:59
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
