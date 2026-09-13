@@ -4345,3 +4345,21 @@ Agência: ALPHAMAR**
 --------------------------------------------------
 [12/09/2026 22:54:46] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7efe6ff92150>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[13/09/2026 02:54:42] DESATRACAÇÃO ADIADA (navio ainda encontrado em Navios Atracados):
+Navio: SEMIRAMIS
+Manobra: Desatracação
+Data/Hora: 13/09/26 05:55
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[13/09/2026 02:54:42] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — ANDROS permanece no fundeio
+
+Navio: ANDROS
+Manobra: Atracação (cancelada)
+Previsão anterior: 13/09/26 06:25
+De: BOIA 19-24
+Para/Berço: 105
+Agência: ALPHAMAR**
+--------------------------------------------------
