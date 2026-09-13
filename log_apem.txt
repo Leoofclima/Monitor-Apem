@@ -4429,3 +4429,19 @@ De: BOIA 19-24
 Para/Berço: 105
 Agência: ALPHAMAR**
 --------------------------------------------------
+[13/09/2026 11:19:04] NOVA MANOBRA:
+Navio: AMAZON PIONEER
+Manobra: Desatracação
+Data/Hora: 13/09/26 18:53
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[13/09/2026 11:19:04] NOVA MANOBRA:
+Navio: FORTE DE SAO FELIPE
+Manobra: Atracação
+Data/Hora: 13/09/26 19:08
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
