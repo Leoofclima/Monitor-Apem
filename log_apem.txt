@@ -4473,3 +4473,13 @@ De: BOIA 19-24
 Para/Berço: 102/CENTRO
 Agência: ROCHAMAR**
 --------------------------------------------------
+[13/09/2026 13:04:45] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: ANDROS
+Manobra: Atracação
+Berço: 105
+Antes: 13/09/26 14:34
+Agora: 13/09/26 15:04
+Agência: ALPHAMAR**
+--------------------------------------------------
