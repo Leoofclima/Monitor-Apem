@@ -4445,3 +4445,21 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[13/09/2026 11:52:44] NOVA MANOBRA:
+Navio: WADOWICE II
+Manobra: Desatracação
+Data/Hora: 13/09/26 18:08
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
+[13/09/2026 11:52:44] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: ANDROS
+Manobra: Atracação
+Berço: 105
+Antes: 13/09/26 15:04
+Agora: 13/09/26 14:34
+Agência: ALPHAMAR**
+--------------------------------------------------
