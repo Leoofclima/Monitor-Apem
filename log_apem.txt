@@ -4319,3 +4319,11 @@ Agência: WILSON SONS **
 --------------------------------------------------
 [12/09/2026 20:04:22] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7fb89d95e960>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[12/09/2026 21:06:08] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BALTIC CHAMPION
+Manobra: Atracação
+Data/Hora: 12/09/26 21:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: LACHMANN**
+--------------------------------------------------
