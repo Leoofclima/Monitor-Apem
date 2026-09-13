@@ -4465,3 +4465,11 @@ Agência: ALPHAMAR**
 --------------------------------------------------
 [13/09/2026 12:19:23] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7fccc5b611c0>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[13/09/2026 12:40:40] NOVA MANOBRA:
+Navio: TEAL ARROW
+Manobra: Atracação
+Data/Hora: 13/09/26 18:38
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: ROCHAMAR**
+--------------------------------------------------
