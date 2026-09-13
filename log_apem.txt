@@ -4463,3 +4463,5 @@ Antes: 13/09/26 15:04
 Agora: 13/09/26 14:34
 Agência: ALPHAMAR**
 --------------------------------------------------
+[13/09/2026 12:19:23] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7fccc5b611c0>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
+--------------------------------------------------
