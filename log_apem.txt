@@ -4587,3 +4587,35 @@ Antes: 14/09/26 06:59
 Agora: 14/09/26 02:53
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[13/09/2026 20:46:22] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: WADOWICE II
+Manobra: Desatracação
+Data/Hora: 13/09/26 18:08
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
+[13/09/2026 20:46:22] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FLUMAR BRASIL
+Manobra: Desatracação
+Data/Hora: 13/09/26 18:08
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[13/09/2026 20:46:22] MANOBRA CONCLUÍDA (navio atracou):
+Navio: DARCY RIBEIRO
+Manobra: Atracação
+Data/Hora: 13/09/26 20:08 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[13/09/2026 20:46:22] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: HAFNIA NESO
+Manobra: Desatracação
+Data/Hora: 13/09/26 19:38
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: GAC**
+--------------------------------------------------
