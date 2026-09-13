@@ -4483,3 +4483,19 @@ Antes: 13/09/26 14:34
 Agora: 13/09/26 15:04
 Agência: ALPHAMAR**
 --------------------------------------------------
+[13/09/2026 13:20:04] NOVA MANOBRA:
+Navio: FLUMAR BRASIL
+Manobra: Desatracação
+Data/Hora: 13/09/26 18:08
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[13/09/2026 13:20:04] NOVA MANOBRA:
+Navio: DARCY RIBEIRO
+Manobra: Atracação
+Data/Hora: 13/09/26 18:38
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
