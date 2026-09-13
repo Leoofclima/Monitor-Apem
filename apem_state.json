@@ -2,5 +2,7 @@
   "TEAL ARROW | 13/09/26 | 18:38 | EA | 102/CENTRO": "Navio: TEAL ARROW\nManobra: Atracação\nData/Hora: 13/09/26 18:38\nDe: BOIA 19-24\nPara/Berço: 102/CENTRO\nAgência: ROCHAMAR**",
   "SAO OASIS | 14/09/26 | 02:53 | EA | PIER 1": "Navio: SAO OASIS\nManobra: Atracação\nData/Hora: 14/09/26 02:53\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: WILHELMSEN PORT**",
   "GOLDEN BEIJING | 14/09/26 | 02:53 | DS | ILHA DO MEDO": "Navio: GOLDEN BEIJING\nManobra: Desatracação\nData/Hora: 14/09/26 02:53\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
-  "ORE SHANDONG | 14/09/26 | 02:53 | DS | ILHA DO MEDO": "Navio: ORE SHANDONG\nManobra: Desatracação\nData/Hora: 14/09/26 02:53\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**"
+  "ORE SHANDONG | 14/09/26 | 02:53 | DS | ILHA DO MEDO": "Navio: ORE SHANDONG\nManobra: Desatracação\nData/Hora: 14/09/26 02:53\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "AMAZON PIONEER | 14/09/26 | 07:14 | DS | ILHA DO MEDO": "Navio: AMAZON PIONEER\nManobra: Desatracação\nData/Hora: 14/09/26 07:14\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
+  "FORTE DE SAO FELIPE | 14/09/26 | 07:44 | EA | ALUMAR 2": "Navio: FORTE DE SAO FELIPE\nManobra: Atracação\nData/Hora: 14/09/26 07:44\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 2\nAgência: ORION RODOS**"
 }
