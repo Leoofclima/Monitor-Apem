@@ -4509,3 +4509,11 @@ Agência: GAC**
 --------------------------------------------------
 [13/09/2026 14:28:45] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f59ea0481d0>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[13/09/2026 15:22:04] NOVA MANOBRA:
+Navio: GOLDEN BEIJING
+Manobra: Desatracação
+Data/Hora: 13/09/26 18:38
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
