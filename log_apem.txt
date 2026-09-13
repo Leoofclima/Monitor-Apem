@@ -4403,3 +4403,11 @@ De: BOIA 19-24
 Para/Berço: 103/NORTE
 Agência: WILSON SONS **
 --------------------------------------------------
+[13/09/2026 05:51:52] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PAN ACACIA
+Manobra: Atracação
+Data/Hora: 13/09/26 05:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
