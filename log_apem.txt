@@ -4413,3 +4413,19 @@ Agência: LMA SHIPPING **
 --------------------------------------------------
 [13/09/2026 07:36:43] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f1c9f6b2150>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[13/09/2026 09:50:49] NOVA MANOBRA:
+Navio: SEMIRAMIS
+Manobra: Desatracação
+Data/Hora: 13/09/26 15:04
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[13/09/2026 09:50:49] NOVA MANOBRA:
+Navio: ANDROS
+Manobra: Atracação
+Data/Hora: 13/09/26 15:04
+De: BOIA 19-24
+Para/Berço: 105
+Agência: ALPHAMAR**
+--------------------------------------------------
