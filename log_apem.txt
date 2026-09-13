@@ -4551,3 +4551,13 @@ De: BOIA 19-24
 Para/Berço: 105
 Agência: ALPHAMAR**
 --------------------------------------------------
+[13/09/2026 18:18:51] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: GOLDEN BEIJING
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 13/09/26 18:38
+Agora: 14/09/26 02:53
+Agência: ISS**
+--------------------------------------------------
