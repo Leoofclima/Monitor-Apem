@@ -4569,3 +4569,21 @@ De: PONTO ALPHA
 Para/Berço: PIER 1
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[13/09/2026 20:38:44] NOVA MANOBRA:
+Navio: ORE SHANDONG
+Manobra: Desatracação
+Data/Hora: 14/09/26 02:53
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[13/09/2026 20:38:44] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: SAO OASIS
+Manobra: Atracação
+Berço: PIER 1
+Antes: 14/09/26 06:59
+Agora: 14/09/26 02:53
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
