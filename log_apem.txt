@@ -4635,3 +4635,11 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[13/09/2026 21:29:27] MANOBRA CONCLUÍDA (navio atracou):
+Navio: TEAL ARROW
+Manobra: Atracação
+Data/Hora: 13/09/26 20:40 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: ROCHAMAR**
+--------------------------------------------------
