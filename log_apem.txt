@@ -4717,3 +4717,11 @@ De: PTO EMBARQUE LC
 Para/Berço: PLATAFORMA 1
 Agência: GEM - PARNAIBA
 --------------------------------------------------
+[14/09/2026 16:41:01] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: QUETZAL ARROW
+Manobra: Desatracação
+Data/Hora: 14/09/26 15:02
+De: 99
+Para/Berço: ILHA DO MEDO
+Agência: ROCHAMAR**
+--------------------------------------------------
