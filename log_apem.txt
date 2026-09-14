@@ -4643,3 +4643,19 @@ De: BOIA 19-24
 Para/Berço: 102/CENTRO
 Agência: ROCHAMAR**
 --------------------------------------------------
+[14/09/2026 04:50:43] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: GOLDEN BEIJING
+Manobra: Desatracação
+Data/Hora: 14/09/26 02:53
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[14/09/2026 04:50:43] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ORE SHANDONG
+Manobra: Desatracação
+Data/Hora: 14/09/26 02:53
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
