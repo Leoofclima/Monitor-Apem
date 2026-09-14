@@ -4659,3 +4659,11 @@ De: PIER 1
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[14/09/2026 05:38:50] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SAO OASIS
+Manobra: Atracação
+Data/Hora: 14/09/26 05:25 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
