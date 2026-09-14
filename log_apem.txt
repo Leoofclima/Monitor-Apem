@@ -4725,3 +4725,11 @@ De: 99
 Para/Berço: ILHA DO MEDO
 Agência: ROCHAMAR**
 --------------------------------------------------
+[14/09/2026 17:20:52] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CLEAROCEAN MELODY
+Manobra: Atracação
+Data/Hora: 14/09/26 16:55 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
