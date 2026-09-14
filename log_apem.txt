@@ -4741,3 +4741,11 @@ De: PIER 4 NORTE
 Para/Berço: ILHA DO MEDO
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[14/09/2026 19:57:20] NOVA MANOBRA:
+Navio: HAFNIA AMMOLITE
+Manobra: Atracação
+Data/Hora: 15/09/26 07:31
+De: BOIA 19-24
+Para/Berço: 104
+Agência: NORTH STAR**
+--------------------------------------------------
