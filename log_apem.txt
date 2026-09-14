@@ -4733,3 +4733,11 @@ De: PONTO ALPHA
 Para/Berço: 106
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[14/09/2026 18:56:50] NOVA MANOBRA:
+Navio: PAN ACACIA
+Manobra: Desatracação
+Data/Hora: 15/09/26 03:19
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
