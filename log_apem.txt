@@ -4981,3 +4981,19 @@ De: 103/NORTE
 Para/Berço: ILHA DO MEDO
 Agência: WILSON SONS **
 --------------------------------------------------
+[15/09/2026 17:54:09] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SEA INDONESIA
+Manobra: Atracação
+Data/Hora: 15/09/26 17:50 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[15/09/2026 17:54:09] MANOBRA CONCLUÍDA (navio atracou):
+Navio: KALLISTI
+Manobra: Atracação
+Data/Hora: 15/09/26 17:30 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: THP SHIPPING**
+--------------------------------------------------
