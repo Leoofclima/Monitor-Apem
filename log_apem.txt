@@ -4815,3 +4815,11 @@ De: BOIA 19-24
 Para/Berço: 105
 Agência: THP SHIPPING**
 --------------------------------------------------
+[15/09/2026 07:57:33] NOVA MANOBRA:
+Navio: KONTA III
+Manobra: Desatracação
+Data/Hora: 15/09/26 07:52
+De: PLATAFORMA 1
+Para/Berço: PTO EMBARQUE LC
+Agência: GEM - PARNAIBA
+--------------------------------------------------
