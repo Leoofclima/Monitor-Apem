@@ -4831,3 +4831,27 @@ De: 103/NORTE
 Para/Berço: ILHA DO MEDO
 Agência: WILSON SONS **
 --------------------------------------------------
+[15/09/2026 09:05:39] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: DARCY RIBEIRO
+Manobra: Desatracação
+Data/Hora: 15/09/26 07:01
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[15/09/2026 09:05:39] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: YUAN SHEN HAI
+Manobra: Desatracação
+Data/Hora: 15/09/26 07:31
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[15/09/2026 09:05:39] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: KONTA III
+Manobra: Desatracação
+Data/Hora: 15/09/26 07:52
+De: PLATAFORMA 1
+Para/Berço: PTO EMBARQUE LC
+Agência: GEM - PARNAIBA
+--------------------------------------------------
