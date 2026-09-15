@@ -4957,3 +4957,11 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 SUL
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[15/09/2026 17:20:13] NOVA MANOBRA:
+Navio: TEAL ARROW
+Manobra: Desatracação
+Data/Hora: 15/09/26 20:44
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: ROCHAMAR**
+--------------------------------------------------
