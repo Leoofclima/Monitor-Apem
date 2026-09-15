@@ -4997,3 +4997,5 @@ De: BOIA 19-24
 Para/Berço: 105
 Agência: THP SHIPPING**
 --------------------------------------------------
+[15/09/2026 18:19:42] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f877fb044a0>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
+--------------------------------------------------
