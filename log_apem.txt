@@ -4823,3 +4823,11 @@ De: PLATAFORMA 1
 Para/Berço: PTO EMBARQUE LC
 Agência: GEM - PARNAIBA
 --------------------------------------------------
+[15/09/2026 08:46:20] NOVA MANOBRA:
+Navio: HOANH SON PACIFIC
+Manobra: Desatracação
+Data/Hora: 15/09/26 16:04
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
