@@ -4855,3 +4855,27 @@ De: PLATAFORMA 1
 Para/Berço: PTO EMBARQUE LC
 Agência: GEM - PARNAIBA
 --------------------------------------------------
+[15/09/2026 09:41:46] NOVA MANOBRA:
+Navio: GU IMABARI
+Manobra: Desatracação
+Data/Hora: 15/09/26 16:04
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[15/09/2026 09:41:46] NOVA MANOBRA:
+Navio: THEMIS
+Manobra: Atracação
+Data/Hora: 15/09/26 16:04
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[15/09/2026 09:41:46] NOVA MANOBRA:
+Navio: ECO CROSSFIRE
+Manobra: Atracação
+Data/Hora: 16/09/26 04:23
+De: BOIA 19-24
+Para/Berço: 101/SUL
+Agência: ORION RODOS**
+--------------------------------------------------
