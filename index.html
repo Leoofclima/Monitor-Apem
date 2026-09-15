@@ -484,6 +484,11 @@
         <div id="em-breve-lista"></div>
       </div>
 
+      <div class="em-breve-section" id="fora-area-section" style="display:none;">
+        <div class="em-breve-titulo">Fora da área navegável</div>
+        <div id="fora-area-lista"></div>
+      </div>
+
       <div class="legenda">
         <div class="legenda-item"><span class="legenda-bola" style="background:#C1543F;"></span> Menos de 3h para atracar</div>
         <div class="legenda-item"><span class="legenda-bola" style="background:#45B26B;"></span> Entre 3h e 12h para atracar</div>
@@ -514,6 +519,7 @@ const LIMITE_DESATUALIZADO_MIN = 25; // avisa se não atualizar há mais que iss
 let mapaGlobal = null;
 let camadaRota = null;
 let camadaEmBreve = null;
+let camadaForaArea = null;
 let marcadoresPorNome = {};
 let dadosAtuais = null;
 let poolAtual = [];        // navios elegíveis depois do filtro de data
@@ -622,6 +628,16 @@ function haversineKm(lat1, lon1, lat2, lon2){
 // Pontos do canal navegável de saída da base até o mar aberto — usados só
 // na primeira perna da rota, pra não desenhar/calcular linha reta cortando
 // terra. Depois do mar aberto, assume-se água livre entre os fundeios.
+// Áreas de fundeio onde a embarcação consegue navegar de verdade — navios
+// fundeados fora dessas áreas não aparecem no site (mapa, rota nem "em breve"),
+// mesmo que estejam tecnicamente fundeados em algum lugar. Pra mudar, só
+// editar essa lista.
+const AREAS_NAVEGAVEIS = ["AREA 4", "AREA 5"];
+
+function apenasAreasNavegaveis(lista){
+  return (lista || []).filter((n) => AREAS_NAVEGAVEIS.includes((n.area || "").trim().toUpperCase()));
+}
+
 const CANAL_SAIDA = [
   [-2.656008651124698, -44.359276648104576],
   [-2.6483581103731697, -44.35935696764403],
@@ -738,6 +754,7 @@ function inicializarMapa(dados){
 
   camadaRota = L.layerGroup().addTo(mapaGlobal);
   camadaEmBreve = L.layerGroup().addTo(mapaGlobal);
+  camadaForaArea = L.layerGroup().addTo(mapaGlobal);
 }
 
 function iconeNavio(cor, corBorda){
@@ -794,21 +811,29 @@ function desenharRota(listaNavios){
   }
 }
 
-function desenharEmBreve(lista){
-  camadaEmBreve.clearLayers();
+function desenharListaMuted(camada, lista, motivoTexto){
+  camada.clearLayers();
   lista.forEach((navio) => {
     if (navio.lat == null || navio.lon == null) return;
     const icone = iconeNavio("#5A6B7A", "#17191A");
     L.marker([navio.lat, navio.lon], { icon: icone })
-      .addTo(camadaEmBreve)
+      .addTo(camada)
       .bindPopup(
         `<b>${navio.nome}</b> (fora da rota)<br>` +
         `Área: ${navio.area || '—'}<br>` +
         `IMO: ${navio.imo || '—'}<br>` +
-        `${textoUrgencia(navio.tempo_restante_horas)} — em processo de atracação<br>` +
+        `${motivoTexto(navio)}<br>` +
         `<a class="popup-link" href="${linkMarineTraffic(navio)}" target="_blank" rel="noopener">Ver ao vivo no MarineTraffic ↗</a>`
       );
   });
+}
+
+function desenharEmBreve(lista){
+  desenharListaMuted(camadaEmBreve, lista, (navio) => `${textoUrgencia(navio.tempo_restante_horas)} — em processo de atracação`);
+}
+
+function desenharForaArea(lista){
+  desenharListaMuted(camadaForaArea, lista, (navio) => `Área ${navio.area || '—'} — fora do alcance de navegação`);
 }
 
 // ---------- lista lateral ----------
@@ -912,9 +937,9 @@ function montarListaRota(listaNavios){
   });
 }
 
-function montarListaEmBreve(lista){
-  const secao = document.getElementById('em-breve-section');
-  const container = document.getElementById('em-breve-lista');
+function montarListaMuted(secaoId, containerId, lista, textoMeta){
+  const secao = document.getElementById(secaoId);
+  const container = document.getElementById(containerId);
   container.innerHTML = '';
 
   if (!lista || lista.length === 0){
@@ -926,7 +951,7 @@ function montarListaEmBreve(lista){
   lista.forEach((navio) => {
     const item = document.createElement('div');
     item.className = 'em-breve-item';
-    item.innerHTML = `<span>${navio.nome}</span><span>${textoUrgencia(navio.tempo_restante_horas)}</span>`;
+    item.innerHTML = `<span>${navio.nome}</span><span>${textoMeta(navio)}</span>`;
     item.addEventListener('click', () => {
       if (navio.lat != null && navio.lon != null){
         mapaGlobal.flyTo([navio.lat, navio.lon], 13, { duration: 0.8 });
@@ -934,6 +959,14 @@ function montarListaEmBreve(lista){
     });
     container.appendChild(item);
   });
+}
+
+function montarListaEmBreve(lista){
+  montarListaMuted('em-breve-section', 'em-breve-lista', lista, (navio) => textoUrgencia(navio.tempo_restante_horas));
+}
+
+function montarListaForaArea(lista){
+  montarListaMuted('fora-area-section', 'fora-area-lista', lista, (navio) => navio.area || '—');
 }
 
 function atualizarSelecaoInfo(){
@@ -952,19 +985,20 @@ function recalcularRota(){
 function aplicarFiltroData(){
   const notaEl = document.getElementById('filtro-nota');
   const valorSaida = document.getElementById('data-saida').value;
+  const baseNavegavel = apenasAreasNavegaveis(dadosAtuais.rota_sugerida);
 
   if (!valorSaida){
-    poolAtual = dadosAtuais.rota_sugerida.slice();
+    poolAtual = baseNavegavel.slice();
     notaEl.textContent = "Informe ao menos a data de saída pra filtrar por período.";
   } else {
     const dataSaida = new Date(valorSaida);
-    poolAtual = dadosAtuais.rota_sugerida.filter((navio) => {
+    poolAtual = baseNavegavel.filter((navio) => {
       if (!navio.previsao_atracacao) return true;
       const dtPrevisao = parseDataHoraBR(navio.previsao_atracacao);
       if (!dtPrevisao) return true;
       return dtPrevisao >= dataSaida;
     });
-    notaEl.textContent = `${poolAtual.length} de ${dadosAtuais.rota_sugerida.length} navios ainda estarão fundeados na saída.`;
+    notaEl.textContent = `${poolAtual.length} de ${baseNavegavel.length} navios ainda estarão fundeados na saída.`;
   }
 
   selecionados = new Set(poolAtual.map((n) => n.nome));
@@ -1026,12 +1060,17 @@ function renderizarTudo(){
   document.getElementById('base-info').textContent = `Rota de Fundeio · Base: ${dadosAtuais.base.nome}`;
   checarDadosDesatualizados();
 
-  poolAtual = dadosAtuais.rota_sugerida.slice();
+  poolAtual = apenasAreasNavegaveis(dadosAtuais.rota_sugerida);
+  const foraDaArea = (dadosAtuais.rota_sugerida || []).filter(
+    (n) => !AREAS_NAVEGAVEIS.includes((n.area || "").trim().toUpperCase())
+  );
   selecionados = new Set(poolAtual.map((n) => n.nome));
   atualizarSelecaoInfo();
   recalcularRota();
   montarListaEmBreve(dadosAtuais.navios_atracando_em_breve || []);
   desenharEmBreve(dadosAtuais.navios_atracando_em_breve || []);
+  montarListaForaArea(foraDaArea);
+  desenharForaArea(foraDaArea);
 }
 
 async function atualizarPeriodicamente(){
@@ -1039,11 +1078,15 @@ async function atualizarPeriodicamente(){
 
   // Preserva a seleção de quem continua na lista; novos navios entram
   // selecionados por padrão.
-  const nomesNovos = new Set((novosDados.rota_sugerida || []).map((n) => n.nome));
+  const listaFiltrada = apenasAreasNavegaveis(novosDados.rota_sugerida);
+  const nomesNovos = new Set(listaFiltrada.map((n) => n.nome));
   const selecionadosAntigos = new Set([...selecionados].filter((nome) => nomesNovos.has(nome)));
 
   dadosAtuais = novosDados;
-  poolAtual = dadosAtuais.rota_sugerida.slice();
+  poolAtual = listaFiltrada;
+  const foraDaArea = (dadosAtuais.rota_sugerida || []).filter(
+    (n) => !AREAS_NAVEGAVEIS.includes((n.area || "").trim().toUpperCase())
+  );
 
   const nomesPool = new Set(poolAtual.map((n) => n.nome));
   const jaExistiamAntes = selecionadosAntigos.size > 0 || selecionados.size > 0;
@@ -1060,6 +1103,8 @@ async function atualizarPeriodicamente(){
   recalcularRota();
   montarListaEmBreve(dadosAtuais.navios_atracando_em_breve || []);
   desenharEmBreve(dadosAtuais.navios_atracando_em_breve || []);
+  montarListaForaArea(foraDaArea);
+  desenharForaArea(foraDaArea);
 }
 
 (async function iniciar(){
