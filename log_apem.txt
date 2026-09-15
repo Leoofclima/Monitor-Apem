@@ -4937,3 +4937,11 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 SUL
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[15/09/2026 13:38:03] NOVA MANOBRA:
+Navio: SUNNY VICTORY
+Manobra: Atracação
+Data/Hora: 15/09/26 20:29
+De: PONTO ALPHA
+Para/Berço: ALUMAR 1
+Agência: GAC**
+--------------------------------------------------
