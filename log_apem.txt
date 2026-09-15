@@ -5043,3 +5043,21 @@ Agência: GAC**
 --------------------------------------------------
 [15/09/2026 18:55:46] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f542c9e1760>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[15/09/2026 19:19:44] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: ECO CROSSFIRE
+Manobra: Atracação
+Berço: 101/SUL
+Antes: 16/09/26 04:23
+Agora: 16/09/26 03:53
+Agência: ORION RODOS**
+--------------------------------------------------
+[15/09/2026 19:19:44] MANOBRA CONCLUÍDA (navio atracou):
+Navio: GOLDEN FRIEND
+Manobra: Atracação
+Data/Hora: 15/09/26 18:50 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 100
+Agência: ZYON
+--------------------------------------------------
