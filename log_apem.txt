@@ -4759,3 +4759,35 @@ De: 104
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[14/09/2026 23:13:58] NOVA MANOBRA:
+Navio: YUAN SHEN HAI
+Manobra: Desatracação
+Data/Hora: 15/09/26 07:31
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[14/09/2026 23:13:58] NOVA MANOBRA:
+Navio: ORE NOUMEA
+Manobra: Atracação
+Data/Hora: 15/09/26 07:31
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: ISS**
+--------------------------------------------------
+[14/09/2026 23:13:58] NOVA MANOBRA:
+Navio: GENCO LIBERTY
+Manobra: Atracação
+Data/Hora: 15/09/26 15:34
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[14/09/2026 23:13:58] NOVA MANOBRA:
+Navio: SEA INDONESIA
+Manobra: Atracação
+Data/Hora: 15/09/26 15:34
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
