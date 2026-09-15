@@ -4905,3 +4905,27 @@ Agência: NORTH STAR**
 --------------------------------------------------
 [15/09/2026 10:30:34] FALHA DE ENVIO — mudanças desta rodada NÃO confirmadas, serão re-tentadas.
 --------------------------------------------------
+[15/09/2026 10:43:27] NOVA MANOBRA:
+Navio: GOLDEN FRIEND
+Manobra: Atracação
+Data/Hora: 15/09/26 16:04
+De: BOIA 19-24
+Para/Berço: 100
+Agência: ZYON
+--------------------------------------------------
+[15/09/2026 10:43:27] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ORE NOUMEA
+Manobra: Atracação
+Data/Hora: 15/09/26 10:20 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: ISS**
+--------------------------------------------------
+[15/09/2026 10:43:27] MANOBRA CONCLUÍDA (navio atracou):
+Navio: HAFNIA AMMOLITE
+Manobra: Atracação
+Data/Hora: 15/09/26 09:25 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: NORTH STAR**
+--------------------------------------------------
