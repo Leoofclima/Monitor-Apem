@@ -5031,3 +5031,13 @@ De: BOIA 19-24
 Para/Berço: 103/NORTE
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[15/09/2026 18:40:04] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — SUNNY VICTORY permanece no fundeio
+
+Navio: SUNNY VICTORY
+Manobra: Atracação (cancelada)
+Previsão anterior: 15/09/26 20:29
+De: PONTO ALPHA
+Para/Berço: ALUMAR 1
+Agência: GAC**
+--------------------------------------------------
