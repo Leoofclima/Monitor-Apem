@@ -4791,3 +4791,11 @@ De: PONTO ALPHA
 Para/Berço: PIER 4 NORTE
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[15/09/2026 03:29:03] NOVA MANOBRA:
+Navio: ANDROS
+Manobra: Desatracação
+Data/Hora: 15/09/26 16:04
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
