@@ -4807,3 +4807,11 @@ De: PIER 4 NORTE
 Para/Berço: ILHA DO MEDO
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[15/09/2026 07:10:08] NOVA MANOBRA:
+Navio: KALLISTI
+Manobra: Atracação
+Data/Hora: 15/09/26 16:04
+De: BOIA 19-24
+Para/Berço: 105
+Agência: THP SHIPPING**
+--------------------------------------------------
