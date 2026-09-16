@@ -5205,3 +5205,21 @@ De: PONTO ALPHA
 Para/Berço: 104
 Agência: NORTH STAR**
 --------------------------------------------------
+[16/09/2026 09:52:04] NOVA MANOBRA:
+Navio: YUAN ZHUO HAI
+Manobra: Atracação
+Data/Hora: 16/09/26 16:04
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
+[16/09/2026 09:52:04] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — PACIFIC FLOURISH permanece no fundeio
+
+Navio: PACIFIC FLOURISH
+Manobra: Atracação (cancelada)
+Previsão anterior: 16/09/26 16:04
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
