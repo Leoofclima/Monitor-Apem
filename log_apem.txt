@@ -5163,3 +5163,11 @@ Agência: ISS**
 --------------------------------------------------
 [16/09/2026 06:21:30] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f9f2755e750>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[16/09/2026 06:37:38] NOVA MANOBRA:
+Navio: SAO OASIS
+Manobra: Desatracação
+Data/Hora: 16/09/26 16:04
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
