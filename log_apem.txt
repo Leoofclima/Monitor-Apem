@@ -5241,3 +5241,29 @@ De: PONTO ALPHA
 Para/Berço: PIER 1
 Agência: ISS**
 --------------------------------------------------
+[16/09/2026 10:37:53] NOVA MANOBRA:
+Navio: PACIFIC FLOURISH
+Manobra: Atracação
+Data/Hora: 16/09/26 16:04
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
+[16/09/2026 10:37:53] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FORTE DE SAO FELIPE
+Manobra: Desatracação
+Data/Hora: 16/09/26 08:17
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[16/09/2026 10:37:53] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — YUAN ZHUO HAI permanece no fundeio
+
+Navio: YUAN ZHUO HAI
+Manobra: Atracação (cancelada)
+Previsão anterior: 16/09/26 16:04
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
