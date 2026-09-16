@@ -5307,3 +5307,27 @@ De: BOIA 19-24
 Para/Berço: 99
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[16/09/2026 19:19:25] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SAO OASIS
+Manobra: Desatracação
+Data/Hora: 16/09/26 16:04
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[16/09/2026 19:19:25] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ECOMAR GARONNE
+Manobra: Atracação
+Data/Hora: 16/09/26 18:06 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 104
+Agência: NORTH STAR**
+--------------------------------------------------
+[16/09/2026 19:19:25] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: HAFNIA AMMOLITE
+Manobra: Desatracação
+Data/Hora: 16/09/26 16:34
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
