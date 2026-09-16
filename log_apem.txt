@@ -5153,3 +5153,11 @@ De: PIER 1
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[16/09/2026 06:04:53] NOVA MANOBRA:
+Navio: PACIFIC FLOURISH
+Manobra: Atracação
+Data/Hora: 16/09/26 16:04
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
