@@ -5299,3 +5299,11 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 1
 Agência: GAC**
 --------------------------------------------------
+[16/09/2026 16:04:12] NOVA MANOBRA:
+Navio: CITRIODORA
+Manobra: Atracação
+Data/Hora: 17/09/26 22:34
+De: BOIA 19-24
+Para/Berço: 99
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
