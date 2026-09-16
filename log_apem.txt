@@ -5135,3 +5135,21 @@ Antes: 16/09/26 03:53
 Agora: 16/09/26 08:02
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[16/09/2026 05:51:09] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — PACIFIC FLOURISH permanece no fundeio
+
+Navio: PACIFIC FLOURISH
+Manobra: Atracação (cancelada)
+Previsão anterior: 16/09/26 08:02
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
+[16/09/2026 05:51:09] DESATRACAÇÃO ADIADA (navio ainda encontrado em Navios Atracados):
+Navio: SAO OASIS
+Manobra: Desatracação
+Data/Hora: 16/09/26 08:02
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
