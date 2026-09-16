@@ -5331,3 +5331,11 @@ De: 104
 Para/Berço: ILHA DO MEDO
 Agência: NORTH STAR**
 --------------------------------------------------
+[16/09/2026 19:45:03] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PACIFIC FLOURISH
+Manobra: Atracação
+Data/Hora: 16/09/26 19:10 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
