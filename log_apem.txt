@@ -5231,3 +5231,13 @@ De: PONTO ALPHA
 Para/Berço: PIER 1
 Agência: ISS**
 --------------------------------------------------
+[16/09/2026 10:23:00] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — PACIFIC FLOURISH permanece no fundeio
+
+Navio: PACIFIC FLOURISH
+Manobra: Atracação (cancelada)
+Previsão anterior: 16/09/26 16:04
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
