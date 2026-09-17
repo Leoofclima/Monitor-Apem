@@ -5375,3 +5375,5 @@ Antes: 17/09/26 08:44
 Agora: 17/09/26 04:59
 Agência: ORION RODOS**
 --------------------------------------------------
+[17/09/2026 02:05:52] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7ff612ed7ad0>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
+--------------------------------------------------
