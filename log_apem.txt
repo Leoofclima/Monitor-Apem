@@ -5617,3 +5617,11 @@ De: 106
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[17/09/2026 20:03:41] NOVA MANOBRA:
+Navio: ATLANTIC ELM
+Manobra: Atracação
+Data/Hora: 18/09/26 05:16
+De: BOIA 19-24
+Para/Berço: 105
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
