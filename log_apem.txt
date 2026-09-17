@@ -5339,3 +5339,11 @@ De: PONTO ALPHA
 Para/Berço: PIER 1
 Agência: ISS**
 --------------------------------------------------
+[16/09/2026 22:10:24] NOVA MANOBRA:
+Navio: ECOMAR GARONNE
+Manobra: Desatracação
+Data/Hora: 17/09/26 04:59
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
