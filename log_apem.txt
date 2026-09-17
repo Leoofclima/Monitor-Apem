@@ -5449,3 +5449,51 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 SUL
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[17/09/2026 07:22:49] NOVA MANOBRA:
+Navio: ORE NOUMEA
+Manobra: Desatracação
+Data/Hora: 17/09/26 16:14
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[17/09/2026 07:22:49] NOVA MANOBRA:
+Navio: YUAN ZHUO HAI
+Manobra: Atracação
+Data/Hora: 17/09/26 16:44
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: ISS**
+--------------------------------------------------
+[17/09/2026 07:22:49] NOVA MANOBRA:
+Navio: GENCO LIBERTY
+Manobra: Desatracação
+Data/Hora: 17/09/26 21:04
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[17/09/2026 07:22:49] NOVA MANOBRA:
+Navio: AOM BIANCA
+Manobra: Atracação
+Data/Hora: 17/09/26 21:04
+De: BOIA 19-24
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[17/09/2026 07:22:49] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ECO CROSSFIRE
+Manobra: Desatracação
+Data/Hora: 17/09/26 04:59
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[17/09/2026 07:22:49] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ECOMAR GARONNE
+Manobra: Desatracação
+Data/Hora: 17/09/26 04:59
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
