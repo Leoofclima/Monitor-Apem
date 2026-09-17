@@ -5635,3 +5635,11 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 SUL
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[17/09/2026 20:52:40] MANOBRA CONCLUÍDA (navio atracou):
+Navio: YUAN ZHUO HAI
+Manobra: Atracação
+Data/Hora: 17/09/26 20:30 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: ISS**
+--------------------------------------------------
