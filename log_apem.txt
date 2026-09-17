@@ -5531,3 +5531,13 @@ De: BOIA 19-24
 Para/Berço: 102/CENTRO
 Agência: NML TANKERS  - SLZ **
 --------------------------------------------------
+[17/09/2026 14:29:28] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: KALLISTI
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 17/09/26 20:34
+Agora: 17/09/26 22:04
+Agência: THP SHIPPING**
+--------------------------------------------------
