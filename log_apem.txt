@@ -5559,3 +5559,11 @@ De: BOIA 19-24
 Para/Berço: 106
 Agência: WILSON SONS **
 --------------------------------------------------
+[17/09/2026 16:55:34] DESATRACAÇÃO ADIADA (navio ainda encontrado em Navios Atracados):
+Navio: GENCO LIBERTY
+Manobra: Desatracação
+Data/Hora: 17/09/26 16:44
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
