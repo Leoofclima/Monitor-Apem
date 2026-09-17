@@ -5497,3 +5497,11 @@ De: 104
 Para/Berço: ILHA DO MEDO
 Agência: NORTH STAR**
 --------------------------------------------------
+[17/09/2026 10:29:41] NOVA MANOBRA:
+Navio: KALLISTI
+Manobra: Desatracação
+Data/Hora: 17/09/26 20:34
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: THP SHIPPING**
+--------------------------------------------------
