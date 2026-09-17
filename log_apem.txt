@@ -5365,3 +5365,13 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 1
 Agência: GAC**
 --------------------------------------------------
+[17/09/2026 00:49:16] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: ECO CROSSFIRE
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 17/09/26 08:44
+Agora: 17/09/26 04:59
+Agência: ORION RODOS**
+--------------------------------------------------
