@@ -5505,3 +5505,11 @@ De: 105
 Para/Berço: ILHA DO MEDO
 Agência: THP SHIPPING**
 --------------------------------------------------
+[17/09/2026 11:23:16] NOVA MANOBRA:
+Navio: CLEAROCEAN MELODY
+Manobra: Desatracação
+Data/Hora: 17/09/26 16:14
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
