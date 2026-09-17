@@ -5441,3 +5441,11 @@ De: BOIA 19-24
 Para/Berço: 99
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[17/09/2026 05:36:58] NOVA MANOBRA:
+Navio: MINOAS
+Manobra: Atracação
+Data/Hora: 17/09/26 16:44
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
