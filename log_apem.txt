@@ -5551,3 +5551,11 @@ De: PIER 4 NORTE
 Para/Berço: ILHA DO MEDO
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[17/09/2026 15:52:40] NOVA MANOBRA:
+Navio: STRENGTH
+Manobra: Atracação
+Data/Hora: 18/09/26 04:46
+De: BOIA 19-24
+Para/Berço: 106
+Agência: WILSON SONS **
+--------------------------------------------------
