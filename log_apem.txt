@@ -5575,3 +5575,13 @@ De: PIER 3 NORTE
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[17/09/2026 17:21:13] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: CITRIODORA
+Manobra: Atracação
+Berço: 99
+Antes: 17/09/26 22:34
+Agora: 18/09/26 04:46
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
