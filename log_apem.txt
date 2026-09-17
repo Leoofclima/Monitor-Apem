@@ -5543,3 +5543,11 @@ Agência: THP SHIPPING**
 --------------------------------------------------
 [17/09/2026 15:06:05] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f7005d66720>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[17/09/2026 15:24:03] NOVA MANOBRA:
+Navio: SEA INDONESIA
+Manobra: Desatracação
+Data/Hora: 17/09/26 21:34
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
