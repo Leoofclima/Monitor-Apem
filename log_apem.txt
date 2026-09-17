@@ -5567,3 +5567,11 @@ De: PIER 3 NORTE
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[17/09/2026 17:05:11] NOVA MANOBRA:
+Navio: GENCO LIBERTY
+Manobra: Desatracação
+Data/Hora: 17/09/26 21:04
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
