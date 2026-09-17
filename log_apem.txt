@@ -5513,3 +5513,21 @@ De: 106
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[17/09/2026 12:28:25] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: GENCO LIBERTY
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 17/09/26 21:04
+Agora: 17/09/26 16:44
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[17/09/2026 12:28:25] MANOBRA CONCLUÍDA (navio atracou):
+Navio: DA XIANG
+Manobra: Atracação
+Data/Hora: 17/09/26 12:10 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: NML TANKERS  - SLZ **
+--------------------------------------------------
