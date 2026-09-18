@@ -5713,3 +5713,11 @@ De: BOIA 19-24
 Para/Berço: 106
 Agência: WILSON SONS **
 --------------------------------------------------
+[18/09/2026 08:04:34] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ATLANTIC ELM
+Manobra: Atracação
+Data/Hora: 18/09/26 07:20 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
