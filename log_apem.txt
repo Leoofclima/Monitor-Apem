@@ -5685,3 +5685,13 @@ De: PONTO ALPHA
 Para/Berço: PIER 4 NORTE
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[18/09/2026 02:04:40] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: AMAZON PATHFINDER
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 18/09/26 05:31
+Agora: 18/09/26 09:49
+Agência: ORION RODOS**
+--------------------------------------------------
