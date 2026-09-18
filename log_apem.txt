@@ -5769,3 +5769,11 @@ De: PIER 1
 Para/Berço: ILHA DO MEDO
 Agência: ISS**
 --------------------------------------------------
+[18/09/2026 14:35:38] NOVA MANOBRA:
+Navio: SEA PONTA DA MADEIRA
+Manobra: Atracação
+Data/Hora: 18/09/26 22:02
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
