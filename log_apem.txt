@@ -5643,3 +5643,5 @@ De: PONTO ALPHA
 Para/Berço: PIER 4 SUL
 Agência: ISS**
 --------------------------------------------------
+[17/09/2026 22:19:51] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f62e66eaae0>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
+--------------------------------------------------
