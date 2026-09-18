@@ -5721,3 +5721,19 @@ De: BOIA 19-24
 Para/Berço: 105
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[18/09/2026 10:04:10] NOVA MANOBRA:
+Navio: LUCIO COSTA
+Manobra: Atracação
+Data/Hora: 18/09/26 17:36
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[18/09/2026 10:04:10] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PACIFIC PROSPERITY
+Manobra: Atracação
+Data/Hora: 18/09/26 07:30 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
