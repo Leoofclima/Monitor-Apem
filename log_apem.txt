@@ -5785,3 +5785,13 @@ De: BOIA 19-24
 Para/Berço: 100
 Agência: ALPHAMAR**
 --------------------------------------------------
+[18/09/2026 15:04:56] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: LUCIO COSTA
+Manobra: Atracação
+Berço: 104
+Antes: 18/09/26 17:36
+Agora: 18/09/26 18:06
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
