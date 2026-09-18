@@ -5697,3 +5697,19 @@ Agência: ORION RODOS**
 --------------------------------------------------
 [18/09/2026 05:56:59] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7faa5f9e25d0>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[18/09/2026 07:36:42] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CITRIODORA
+Manobra: Atracação
+Data/Hora: 18/09/26 06:20 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 99
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[18/09/2026 07:36:42] MANOBRA CONCLUÍDA (navio atracou):
+Navio: STRENGTH
+Manobra: Atracação
+Data/Hora: 18/09/26 06:30 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 106
+Agência: WILSON SONS **
+--------------------------------------------------
