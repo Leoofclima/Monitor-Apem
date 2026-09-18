@@ -5745,3 +5745,11 @@ De: ALUMAR 2
 Para/Berço: ILHA DO MEDO
 Agência: ORION RODOS**
 --------------------------------------------------
+[18/09/2026 12:36:19] MANOBRA CONCLUÍDA (navio atracou):
+Navio: EC TURAN
+Manobra: Atracação
+Data/Hora: 18/09/26 11:55 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 2
+Agência: LACHMANN**
+--------------------------------------------------
