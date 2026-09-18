@@ -5661,3 +5661,19 @@ De: PIER 4 NORTE
 Para/Berço: ILHA DO MEDO
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[17/09/2026 23:20:16] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AOM BIANCA
+Manobra: Atracação
+Data/Hora: 17/09/26 23:14 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[17/09/2026 23:20:16] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: KALLISTI
+Manobra: Desatracação
+Data/Hora: 17/09/26 22:04
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: THP SHIPPING**
+--------------------------------------------------
