@@ -5797,3 +5797,19 @@ Agência: WILHELMSEN PORT**
 --------------------------------------------------
 [18/09/2026 19:05:28] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f4e594cba70>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[18/09/2026 20:38:44] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: GOLDEN FRIEND
+Manobra: Desatracação
+Data/Hora: 18/09/26 18:06
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: ZYON
+--------------------------------------------------
+[18/09/2026 20:38:44] MANOBRA CONCLUÍDA (navio atracou):
+Navio: LUCIO COSTA
+Manobra: Atracação
+Data/Hora: 18/09/26 20:06 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
