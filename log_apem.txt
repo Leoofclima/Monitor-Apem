@@ -5777,3 +5777,11 @@ De: PONTO ALPHA
 Para/Berço: PIER 1
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[18/09/2026 14:52:47] NOVA MANOBRA:
+Navio: DE XIN HAI
+Manobra: Atracação
+Data/Hora: 18/09/26 18:06
+De: BOIA 19-24
+Para/Berço: 100
+Agência: ALPHAMAR**
+--------------------------------------------------
