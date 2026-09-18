@@ -5761,3 +5761,11 @@ De: 100
 Para/Berço: ILHA DO MEDO
 Agência: ZYON
 --------------------------------------------------
+[18/09/2026 14:27:36] NOVA MANOBRA:
+Navio: PACIFIC FLOURISH
+Manobra: Desatracação
+Data/Hora: 18/09/26 22:02
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
