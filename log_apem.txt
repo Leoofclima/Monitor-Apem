@@ -5753,3 +5753,11 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 2
 Agência: LACHMANN**
 --------------------------------------------------
+[18/09/2026 13:44:53] NOVA MANOBRA:
+Navio: GOLDEN FRIEND
+Manobra: Desatracação
+Data/Hora: 18/09/26 18:06
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: ZYON
+--------------------------------------------------
