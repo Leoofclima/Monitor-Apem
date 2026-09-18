@@ -5737,3 +5737,11 @@ De: PONTO ALPHA
 Para/Berço: PIER 4 NORTE
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[18/09/2026 11:47:50] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AMAZON PATHFINDER
+Manobra: Desatracação
+Data/Hora: 18/09/26 09:49
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
