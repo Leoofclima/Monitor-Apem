@@ -5909,3 +5909,5 @@ De: BOIA 19-24
 Para/Berço: 103/NORTE
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[19/09/2026 09:39:18] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f1d95fb1eb0>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
+--------------------------------------------------
