@@ -6037,3 +6037,11 @@ Antes: 19/09/26 22:44
 Agora: 20/09/26 08:14
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[19/09/2026 19:04:02] NOVA MANOBRA:
+Navio: ATLANTIC ELM
+Manobra: Desatracação
+Data/Hora: 20/09/26 00:14
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
