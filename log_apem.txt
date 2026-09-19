@@ -6045,3 +6045,19 @@ De: 105
 Para/Berço: ILHA DO MEDO
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[19/09/2026 19:46:02] NOVA MANOBRA:
+Navio: FORTE DE SAO JOSE
+Manobra: Atracação
+Data/Hora: 19/09/26 23:59
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[19/09/2026 19:46:02] NOVA MANOBRA:
+Navio: DA XIANG
+Manobra: Desatracação
+Data/Hora: 20/09/26 00:14
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: NML TANKERS  - SLZ **
+--------------------------------------------------
