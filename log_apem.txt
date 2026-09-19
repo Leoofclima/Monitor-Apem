@@ -6121,3 +6121,59 @@ De: 104
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[19/09/2026 20:17:27] NOVA MANOBRA:
+Navio: HANNA
+Manobra: Desatracação
+Data/Hora: 19/09/26 18:25
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[19/09/2026 20:17:27] NOVA MANOBRA:
+Navio: AOM BIANCA
+Manobra: Desatracação
+Data/Hora: 19/09/26 18:55
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[19/09/2026 20:17:27] NOVA MANOBRA:
+Navio: EC TURAN
+Manobra: Desatracação
+Data/Hora: 19/09/26 19:10
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: LACHMANN**
+--------------------------------------------------
+[19/09/2026 20:17:27] NOVA MANOBRA:
+Navio: FORTE DE SAO JOSE
+Manobra: Atracação
+Data/Hora: 19/09/26 23:59
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[19/09/2026 20:17:27] NOVA MANOBRA:
+Navio: DA XIANG
+Manobra: Desatracação
+Data/Hora: 20/09/26 00:14
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: NML TANKERS  - SLZ **
+--------------------------------------------------
+[19/09/2026 20:17:27] NOVA MANOBRA:
+Navio: ATLANTIC ELM
+Manobra: Desatracação
+Data/Hora: 20/09/26 00:14
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[19/09/2026 20:17:27] NOVA MANOBRA:
+Navio: LUCIO COSTA
+Manobra: Desatracação
+Data/Hora: 20/09/26 08:14
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------

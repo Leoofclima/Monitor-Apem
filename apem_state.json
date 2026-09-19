@@ -1,1 +1,9 @@
-{}
+{
+  "HANNA | 19/09/26 | 18:25 | DS | ILHA DO MEDO": "Navio: HANNA\nManobra: Desatracação\nData/Hora: 19/09/26 18:25\nDe: 108\nPara/Berço: ILHA DO MEDO\nAgência: NORTH STAR**",
+  "AOM BIANCA | 19/09/26 | 18:55 | DS | ILHA DO MEDO": "Navio: AOM BIANCA\nManobra: Desatracação\nData/Hora: 19/09/26 18:55\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
+  "EC TURAN | 19/09/26 | 19:10 | DS | ILHA DO MEDO": "Navio: EC TURAN\nManobra: Desatracação\nData/Hora: 19/09/26 19:10\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: LACHMANN**",
+  "FORTE DE SAO JOSE | 19/09/26 | 23:59 | EA | ALUMAR 2": "Navio: FORTE DE SAO JOSE\nManobra: Atracação\nData/Hora: 19/09/26 23:59\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 2\nAgência: ORION RODOS**",
+  "DA XIANG | 20/09/26 | 00:14 | DS | ILHA DO MEDO": "Navio: DA XIANG\nManobra: Desatracação\nData/Hora: 20/09/26 00:14\nDe: 102/CENTRO\nPara/Berço: ILHA DO MEDO\nAgência: NML TANKERS  - SLZ **",
+  "ATLANTIC ELM | 20/09/26 | 00:14 | DS | ILHA DO MEDO": "Navio: ATLANTIC ELM\nManobra: Desatracação\nData/Hora: 20/09/26 00:14\nDe: 105\nPara/Berço: ILHA DO MEDO\nAgência: FERTIMPORT - S.L **",
+  "LUCIO COSTA | 20/09/26 | 08:14 | DS | ILHA DO MEDO": "Navio: LUCIO COSTA\nManobra: Desatracação\nData/Hora: 20/09/26 08:14\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**"
+}
