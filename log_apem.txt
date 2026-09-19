@@ -5829,3 +5829,11 @@ De: 103/NORTE
 Para/Berço: ILHA DO MEDO
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[18/09/2026 21:40:57] MANOBRA CONCLUÍDA (navio atracou):
+Navio: DE XIN HAI
+Manobra: Atracação
+Data/Hora: 18/09/26 21:05 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 100
+Agência: ALPHAMAR**
+--------------------------------------------------
