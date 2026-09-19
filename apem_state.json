@@ -1,5 +1,7 @@
 {
   "DE XIN HAI | 18/09/26 | 18:06 | EA | 100": "Navio: DE XIN HAI\nManobra: Atracação\nData/Hora: 18/09/26 18:06\nDe: BOIA 19-24\nPara/Berço: 100\nAgência: ALPHAMAR**",
   "SEA PONTA DA MADEIRA | 18/09/26 | 22:02 | EA | PIER 1": "Navio: SEA PONTA DA MADEIRA\nManobra: Atracação\nData/Hora: 18/09/26 22:02\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: LMA SHIPPING **",
-  "PACIFIC FLOURISH | 18/09/26 | 22:02 | DS | ILHA DO MEDO": "Navio: PACIFIC FLOURISH\nManobra: Desatracação\nData/Hora: 18/09/26 22:02\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: ISS**"
+  "PACIFIC FLOURISH | 18/09/26 | 22:02 | DS | ILHA DO MEDO": "Navio: PACIFIC FLOURISH\nManobra: Desatracação\nData/Hora: 18/09/26 22:02\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
+  "SAFEEN AL SAFA | 19/09/26 | 06:19 | EA | 103/NORTE": "Navio: SAFEEN AL SAFA\nManobra: Atracação\nData/Hora: 19/09/26 06:19\nDe: BOIA 19-24\nPara/Berço: 103/NORTE\nAgência: FERTIMPORT - S.L **",
+  "THEMIS | 19/09/26 | 06:49 | DS | ILHA DO MEDO": "Navio: THEMIS\nManobra: Desatracação\nData/Hora: 19/09/26 06:49\nDe: 103/NORTE\nPara/Berço: ILHA DO MEDO\nAgência: FERTIMPORT - S.L **"
 }

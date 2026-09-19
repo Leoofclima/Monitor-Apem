@@ -5813,3 +5813,19 @@ De: BOIA 19-24
 Para/Berço: 104
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[18/09/2026 21:26:44] NOVA MANOBRA:
+Navio: SAFEEN AL SAFA
+Manobra: Atracação
+Data/Hora: 19/09/26 06:19
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[18/09/2026 21:26:44] NOVA MANOBRA:
+Navio: THEMIS
+Manobra: Desatracação
+Data/Hora: 19/09/26 06:49
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
