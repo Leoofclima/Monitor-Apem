@@ -6177,3 +6177,27 @@ De: 104
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[19/09/2026 20:52:30] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: HANNA
+Manobra: Desatracação
+Data/Hora: 19/09/26 18:25
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[19/09/2026 20:52:30] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AOM BIANCA
+Manobra: Desatracação
+Data/Hora: 19/09/26 18:55
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[19/09/2026 20:52:30] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: EC TURAN
+Manobra: Desatracação
+Data/Hora: 19/09/26 19:10
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: LACHMANN**
+--------------------------------------------------
