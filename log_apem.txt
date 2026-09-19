@@ -5931,3 +5931,11 @@ De: 108
 Para/Berço: ILHA DO MEDO
 Agência: NORTH STAR**
 --------------------------------------------------
+[19/09/2026 13:04:29] NOVA MANOBRA:
+Navio: EC TURAN
+Manobra: Desatracação
+Data/Hora: 19/09/26 19:10
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: LACHMANN**
+--------------------------------------------------
