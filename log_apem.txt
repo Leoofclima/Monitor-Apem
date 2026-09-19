@@ -5911,3 +5911,11 @@ Agência: FERTIMPORT - S.L **
 --------------------------------------------------
 [19/09/2026 09:39:18] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f1d95fb1eb0>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[19/09/2026 11:29:36] NOVA MANOBRA:
+Navio: LUCIO COSTA
+Manobra: Desatracação
+Data/Hora: 19/09/26 22:44
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
