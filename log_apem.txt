@@ -5961,3 +5961,35 @@ Agência: GEM**
 --------------------------------------------------
 [19/09/2026 16:16:55] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f5e7f979ee0>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[19/09/2026 17:04:03] DESATRACAÇÃO ADIADA (navio ainda encontrado em Navios Atracados):
+Navio: HANNA
+Manobra: Desatracação
+Data/Hora: 19/09/26 18:25
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[19/09/2026 17:04:03] DESATRACAÇÃO ADIADA (navio ainda encontrado em Navios Atracados):
+Navio: AOM BIANCA
+Manobra: Desatracação
+Data/Hora: 19/09/26 18:55
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[19/09/2026 17:04:03] DESATRACAÇÃO ADIADA (navio ainda encontrado em Navios Atracados):
+Navio: EC TURAN
+Manobra: Desatracação
+Data/Hora: 19/09/26 19:10
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: LACHMANN**
+--------------------------------------------------
+[19/09/2026 17:04:03] DESATRACAÇÃO ADIADA (navio ainda encontrado em Navios Atracados):
+Navio: LUCIO COSTA
+Manobra: Desatracação
+Data/Hora: 19/09/26 22:44
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
