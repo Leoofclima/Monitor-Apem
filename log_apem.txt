@@ -6377,3 +6377,11 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 NORTE
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[20/09/2026 18:54:58] NOVA MANOBRA:
+Navio: PEGASOS
+Manobra: Atracação
+Data/Hora: 20/09/26 19:46
+De: BOIA 19-24
+Para/Berço: 100
+Agência: CARGONAVE**
+--------------------------------------------------
