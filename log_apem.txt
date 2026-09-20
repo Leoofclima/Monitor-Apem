@@ -6209,3 +6209,13 @@ De: PIER 4 SUL
 Para/Berço: ILHA DO MEDO
 Agência: ISS**
 --------------------------------------------------
+[19/09/2026 22:06:38] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: ATLANTIC ELM
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 20/09/26 00:14
+Agora: 20/09/26 08:14
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
