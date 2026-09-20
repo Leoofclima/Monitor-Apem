@@ -6309,3 +6309,37 @@ De: 104
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[20/09/2026 14:48:34] NOVA MANOBRA:
+Navio: SSI VIGILANT
+Manobra: Atracação
+Data/Hora: 20/09/26 20:16
+De: BOIA 19-24
+Para/Berço: 105
+Agência: CARGONAVE**
+--------------------------------------------------
+[20/09/2026 14:48:34] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: MINOAS
+Manobra: Desatracação
+Data/Hora: 20/09/26 12:16
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[20/09/2026 14:48:34] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: DE XIN HAI
+Manobra: Desatracação
+Data/Hora: 20/09/26 13:16
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[20/09/2026 14:48:34] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — LIGNUM NETWORK permanece no fundeio
+
+Navio: LIGNUM NETWORK
+Manobra: Atracação (cancelada)
+Previsão anterior: 20/09/26 13:46
+De: BOIA 19-24
+Para/Berço: 100
+Agência: LBH BRASIL**
+--------------------------------------------------
