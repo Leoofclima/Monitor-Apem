@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "19/09/2026 22:19:00",
+  "atualizado_em": "20/09/2026 03:24:15",
   "base": {
     "lat": -2.66098123540369,
     "lon": -44.356990008636686,
@@ -16,7 +16,7 @@
       "lon": null,
       "data_fundeio": "12/09/26",
       "hora_fundeio": "14:20",
-      "tempo_fundeado_horas": 176.0,
+      "tempo_fundeado_horas": 181.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -30,7 +30,7 @@
       "lon": -44.0975,
       "data_fundeio": "13/09/26",
       "hora_fundeio": "00:16",
-      "tempo_fundeado_horas": 166.1,
+      "tempo_fundeado_horas": 171.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -44,7 +44,7 @@
       "lon": -44.061833,
       "data_fundeio": "15/09/26",
       "hora_fundeio": "18:31",
-      "tempo_fundeado_horas": 99.8,
+      "tempo_fundeado_horas": 104.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -58,7 +58,7 @@
       "lon": -44.126,
       "data_fundeio": "18/09/26",
       "hora_fundeio": "20:27",
-      "tempo_fundeado_horas": 25.9,
+      "tempo_fundeado_horas": 31.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -72,7 +72,7 @@
       "lon": -44.090667,
       "data_fundeio": "19/09/26",
       "hora_fundeio": "19:43",
-      "tempo_fundeado_horas": 2.6,
+      "tempo_fundeado_horas": 7.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -86,7 +86,7 @@
       "lon": -44.163,
       "data_fundeio": "19/08/26",
       "hora_fundeio": "21:22",
-      "tempo_fundeado_horas": 745.0,
+      "tempo_fundeado_horas": 750.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -100,7 +100,7 @@
       "lon": -44.154167,
       "data_fundeio": "09/09/26",
       "hora_fundeio": "20:33",
-      "tempo_fundeado_horas": 241.8,
+      "tempo_fundeado_horas": 246.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -114,7 +114,7 @@
       "lon": null,
       "data_fundeio": "11/09/26",
       "hora_fundeio": "22:21",
-      "tempo_fundeado_horas": 192.0,
+      "tempo_fundeado_horas": 197.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -128,7 +128,7 @@
       "lon": -44.140667,
       "data_fundeio": "13/09/26",
       "hora_fundeio": "17:48",
-      "tempo_fundeado_horas": 148.5,
+      "tempo_fundeado_horas": 153.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -142,9 +142,9 @@
       "lon": -44.178,
       "data_fundeio": "14/09/26",
       "hora_fundeio": "04:12",
-      "tempo_fundeado_horas": 138.1,
+      "tempo_fundeado_horas": 143.2,
       "previsao_atracacao": "19/09/2026 23:59",
-      "tempo_restante_horas": 1.7
+      "tempo_restante_horas": -3.4
     },
     {
       "area": "AREA 3",
@@ -156,7 +156,7 @@
       "lon": -44.1015,
       "data_fundeio": "14/09/26",
       "hora_fundeio": "23:03",
-      "tempo_fundeado_horas": 119.3,
+      "tempo_fundeado_horas": 124.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -170,7 +170,7 @@
       "lon": -44.117167,
       "data_fundeio": "16/09/26",
       "hora_fundeio": "09:45",
-      "tempo_fundeado_horas": 84.6,
+      "tempo_fundeado_horas": 89.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -184,7 +184,7 @@
       "lon": -44.172167,
       "data_fundeio": "18/09/26",
       "hora_fundeio": "18:44",
-      "tempo_fundeado_horas": 27.6,
+      "tempo_fundeado_horas": 32.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -198,7 +198,7 @@
       "lon": -44.195167,
       "data_fundeio": "19/09/26",
       "hora_fundeio": "09:57",
-      "tempo_fundeado_horas": 12.4,
+      "tempo_fundeado_horas": 17.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -212,7 +212,7 @@
       "lon": -44.331833,
       "data_fundeio": "23/06/26",
       "hora_fundeio": "00:00",
-      "tempo_fundeado_horas": 2134.3,
+      "tempo_fundeado_horas": 2139.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -226,7 +226,7 @@
       "lon": -44.2155,
       "data_fundeio": "01/09/26",
       "hora_fundeio": "20:22",
-      "tempo_fundeado_horas": 434.0,
+      "tempo_fundeado_horas": 439.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -240,7 +240,7 @@
       "lon": -44.282167,
       "data_fundeio": "02/09/26",
       "hora_fundeio": "11:40",
-      "tempo_fundeado_horas": 418.7,
+      "tempo_fundeado_horas": 423.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -254,7 +254,7 @@
       "lon": -44.3025,
       "data_fundeio": "08/09/26",
       "hora_fundeio": "17:12",
-      "tempo_fundeado_horas": 269.1,
+      "tempo_fundeado_horas": 274.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -268,7 +268,7 @@
       "lon": -44.231833,
       "data_fundeio": "09/09/26",
       "hora_fundeio": "01:00",
-      "tempo_fundeado_horas": 261.3,
+      "tempo_fundeado_horas": 266.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -282,7 +282,7 @@
       "lon": -44.2085,
       "data_fundeio": "10/09/26",
       "hora_fundeio": "02:48",
-      "tempo_fundeado_horas": 235.5,
+      "tempo_fundeado_horas": 240.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -296,7 +296,7 @@
       "lon": -44.295167,
       "data_fundeio": "11/09/26",
       "hora_fundeio": "18:18",
-      "tempo_fundeado_horas": 196.0,
+      "tempo_fundeado_horas": 201.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -310,7 +310,7 @@
       "lon": -44.2795,
       "data_fundeio": "14/09/26",
       "hora_fundeio": "04:36",
-      "tempo_fundeado_horas": 137.7,
+      "tempo_fundeado_horas": 142.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -324,7 +324,7 @@
       "lon": -44.265333,
       "data_fundeio": "14/09/26",
       "hora_fundeio": "16:01",
-      "tempo_fundeado_horas": 126.3,
+      "tempo_fundeado_horas": 131.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -338,7 +338,7 @@
       "lon": -44.218333,
       "data_fundeio": "15/09/26",
       "hora_fundeio": "23:01",
-      "tempo_fundeado_horas": 95.3,
+      "tempo_fundeado_horas": 100.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -352,7 +352,21 @@
       "lon": -44.259333,
       "data_fundeio": "19/09/26",
       "hora_fundeio": "12:37",
-      "tempo_fundeado_horas": 9.7,
+      "tempo_fundeado_horas": 14.8,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null
+    },
+    {
+      "area": "AREA 4",
+      "nome": "NORD ARGENTUM",
+      "bandeira": "HONG KONG",
+      "imo": "9906049",
+      "agencia": "ISS**",
+      "lat": -2.384833,
+      "lon": -44.288,
+      "data_fundeio": "20/09/26",
+      "hora_fundeio": "01:22",
+      "tempo_fundeado_horas": 2.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -366,7 +380,7 @@
       "lon": -44.344167,
       "data_fundeio": "29/06/26",
       "hora_fundeio": "12:07",
-      "tempo_fundeado_horas": 1978.2,
+      "tempo_fundeado_horas": 1983.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -380,7 +394,7 @@
       "lon": -44.3205,
       "data_fundeio": "03/09/26",
       "hora_fundeio": "21:40",
-      "tempo_fundeado_horas": 384.7,
+      "tempo_fundeado_horas": 389.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -394,7 +408,7 @@
       "lon": -44.346333,
       "data_fundeio": "07/09/26",
       "hora_fundeio": "05:40",
-      "tempo_fundeado_horas": 304.7,
+      "tempo_fundeado_horas": 309.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -408,7 +422,7 @@
       "lon": -44.334333,
       "data_fundeio": "11/09/26",
       "hora_fundeio": "18:08",
-      "tempo_fundeado_horas": 196.2,
+      "tempo_fundeado_horas": 201.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -422,7 +436,7 @@
       "lon": -44.282833,
       "data_fundeio": "17/09/26",
       "hora_fundeio": "19:10",
-      "tempo_fundeado_horas": 51.2,
+      "tempo_fundeado_horas": 56.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -436,7 +450,7 @@
       "lon": null,
       "data_fundeio": "21/01/24",
       "hora_fundeio": "20:00",
-      "tempo_fundeado_horas": 23330.3,
+      "tempo_fundeado_horas": 23335.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     }
@@ -452,7 +466,7 @@
       "lon": -44.295167,
       "data_fundeio": "11/09/26",
       "hora_fundeio": "18:18",
-      "tempo_fundeado_horas": 196.0,
+      "tempo_fundeado_horas": 201.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 1,
@@ -468,7 +482,7 @@
       "lon": -44.282167,
       "data_fundeio": "02/09/26",
       "hora_fundeio": "11:40",
-      "tempo_fundeado_horas": 418.7,
+      "tempo_fundeado_horas": 423.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 2,
@@ -484,7 +498,7 @@
       "lon": -44.2795,
       "data_fundeio": "14/09/26",
       "hora_fundeio": "04:36",
-      "tempo_fundeado_horas": 137.7,
+      "tempo_fundeado_horas": 142.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 3,
@@ -500,7 +514,7 @@
       "lon": -44.282833,
       "data_fundeio": "17/09/26",
       "hora_fundeio": "19:10",
-      "tempo_fundeado_horas": 51.2,
+      "tempo_fundeado_horas": 56.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 4,
@@ -508,19 +522,35 @@
     },
     {
       "area": "AREA 4",
-      "nome": "OTSL HERA",
-      "bandeira": "LIBERIA",
-      "imo": "9539602",
+      "nome": "NORD ARGENTUM",
+      "bandeira": "HONG KONG",
+      "imo": "9906049",
       "agencia": "ISS**",
-      "lat": -2.419667,
-      "lon": -44.3025,
-      "data_fundeio": "08/09/26",
-      "hora_fundeio": "17:12",
-      "tempo_fundeado_horas": 269.1,
+      "lat": -2.384833,
+      "lon": -44.288,
+      "data_fundeio": "20/09/26",
+      "hora_fundeio": "01:22",
+      "tempo_fundeado_horas": 2.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 5,
-      "distancia_trecho_km": 2.8
+      "distancia_trecho_km": 2.2
+    },
+    {
+      "area": "AREA 4",
+      "nome": "DART",
+      "bandeira": "MARSHALL ISLANDS",
+      "imo": "9697222",
+      "agencia": "WILHELMSEN PORT**",
+      "lat": -2.380833,
+      "lon": -44.265333,
+      "data_fundeio": "14/09/26",
+      "hora_fundeio": "16:01",
+      "tempo_fundeado_horas": 131.4,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null,
+      "ordem": 6,
+      "distancia_trecho_km": 2.6
     },
     {
       "area": "AREA 4",
@@ -532,11 +562,11 @@
       "lon": -44.259333,
       "data_fundeio": "19/09/26",
       "hora_fundeio": "12:37",
-      "tempo_fundeado_horas": 9.7,
+      "tempo_fundeado_horas": 14.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 6,
-      "distancia_trecho_km": 4.8
+      "ordem": 7,
+      "distancia_trecho_km": 3.8
     },
     {
       "area": "AREA 4",
@@ -548,10 +578,10 @@
       "lon": -44.231833,
       "data_fundeio": "09/09/26",
       "hora_fundeio": "01:00",
-      "tempo_fundeado_horas": 261.3,
+      "tempo_fundeado_horas": 266.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 7,
+      "ordem": 8,
       "distancia_trecho_km": 3.2
     },
     {
@@ -564,10 +594,10 @@
       "lon": -44.2085,
       "data_fundeio": "10/09/26",
       "hora_fundeio": "02:48",
-      "tempo_fundeado_horas": 235.5,
+      "tempo_fundeado_horas": 240.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 8,
+      "ordem": 9,
       "distancia_trecho_km": 3.7
     },
     {
@@ -580,10 +610,10 @@
       "lon": -44.218333,
       "data_fundeio": "15/09/26",
       "hora_fundeio": "23:01",
-      "tempo_fundeado_horas": 95.3,
+      "tempo_fundeado_horas": 100.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 9,
+      "ordem": 10,
       "distancia_trecho_km": 1.8
     },
     {
@@ -596,43 +626,43 @@
       "lon": -44.2155,
       "data_fundeio": "01/09/26",
       "hora_fundeio": "20:22",
-      "tempo_fundeado_horas": 434.0,
+      "tempo_fundeado_horas": 439.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 10,
+      "ordem": 11,
       "distancia_trecho_km": 1.0
     },
     {
       "area": "AREA 4",
-      "nome": "DART",
-      "bandeira": "MARSHALL ISLANDS",
-      "imo": "9697222",
-      "agencia": "WILHELMSEN PORT**",
-      "lat": -2.380833,
-      "lon": -44.265333,
-      "data_fundeio": "14/09/26",
-      "hora_fundeio": "16:01",
-      "tempo_fundeado_horas": 126.3,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null,
-      "ordem": 11,
-      "distancia_trecho_km": 6.0
-    },
-    {
-      "area": "AREA 4",
-      "nome": "SAGA FRAM",
-      "bandeira": "BAHAMAS",
-      "imo": "9613874",
-      "agencia": "WILHELMSEN PORT**",
-      "lat": -2.373167,
-      "lon": -44.331833,
-      "data_fundeio": "23/06/26",
-      "hora_fundeio": "00:00",
-      "tempo_fundeado_horas": 2134.3,
+      "nome": "OTSL HERA",
+      "bandeira": "LIBERIA",
+      "imo": "9539602",
+      "agencia": "ISS**",
+      "lat": -2.419667,
+      "lon": -44.3025,
+      "data_fundeio": "08/09/26",
+      "hora_fundeio": "17:12",
+      "tempo_fundeado_horas": 274.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 12,
-      "distancia_trecho_km": 7.4
+      "distancia_trecho_km": 11.7
+    },
+    {
+      "area": "AREA 5",
+      "nome": "SSI VIGILANT",
+      "bandeira": "MARSHALL ISLANDS",
+      "imo": "9918743",
+      "agencia": "CARGONAVE**",
+      "lat": -2.389,
+      "lon": -44.346333,
+      "data_fundeio": "07/09/26",
+      "hora_fundeio": "05:40",
+      "tempo_fundeado_horas": 309.7,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null,
+      "ordem": 13,
+      "distancia_trecho_km": 5.9
     },
     {
       "area": "AREA 5",
@@ -644,10 +674,26 @@
       "lon": -44.344167,
       "data_fundeio": "29/06/26",
       "hora_fundeio": "12:07",
-      "tempo_fundeado_horas": 1978.2,
+      "tempo_fundeado_horas": 1983.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 13,
+      "ordem": 14,
+      "distancia_trecho_km": 2.3
+    },
+    {
+      "area": "AREA 4",
+      "nome": "SAGA FRAM",
+      "bandeira": "BAHAMAS",
+      "imo": "9613874",
+      "agencia": "WILHELMSEN PORT**",
+      "lat": -2.373167,
+      "lon": -44.331833,
+      "data_fundeio": "23/06/26",
+      "hora_fundeio": "00:00",
+      "tempo_fundeado_horas": 2139.4,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null,
+      "ordem": 15,
       "distancia_trecho_km": 1.5
     },
     {
@@ -660,11 +706,11 @@
       "lon": -44.334333,
       "data_fundeio": "11/09/26",
       "hora_fundeio": "18:08",
-      "tempo_fundeado_horas": 196.2,
+      "tempo_fundeado_horas": 201.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 14,
-      "distancia_trecho_km": 1.8
+      "ordem": 16,
+      "distancia_trecho_km": 1.9
     },
     {
       "area": "AREA 5",
@@ -676,27 +722,11 @@
       "lon": -44.3205,
       "data_fundeio": "03/09/26",
       "hora_fundeio": "21:40",
-      "tempo_fundeado_horas": 384.7,
+      "tempo_fundeado_horas": 389.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 15,
+      "ordem": 17,
       "distancia_trecho_km": 2.3
-    },
-    {
-      "area": "AREA 5",
-      "nome": "SSI VIGILANT",
-      "bandeira": "MARSHALL ISLANDS",
-      "imo": "9918743",
-      "agencia": "CARGONAVE**",
-      "lat": -2.389,
-      "lon": -44.346333,
-      "data_fundeio": "07/09/26",
-      "hora_fundeio": "05:40",
-      "tempo_fundeado_horas": 304.7,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null,
-      "ordem": 16,
-      "distancia_trecho_km": 6.0
     },
     {
       "area": "AREA 3",
@@ -708,11 +738,11 @@
       "lon": -44.195167,
       "data_fundeio": "19/09/26",
       "hora_fundeio": "09:57",
-      "tempo_fundeado_horas": 12.4,
+      "tempo_fundeado_horas": 17.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 17,
-      "distancia_trecho_km": 23.9
+      "ordem": 18,
+      "distancia_trecho_km": 18.2
     },
     {
       "area": "AREA 3",
@@ -724,10 +754,10 @@
       "lon": -44.172167,
       "data_fundeio": "18/09/26",
       "hora_fundeio": "18:44",
-      "tempo_fundeado_horas": 27.6,
+      "tempo_fundeado_horas": 32.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 18,
+      "ordem": 19,
       "distancia_trecho_km": 3.4
     },
     {
@@ -740,10 +770,10 @@
       "lon": -44.154167,
       "data_fundeio": "09/09/26",
       "hora_fundeio": "20:33",
-      "tempo_fundeado_horas": 241.8,
+      "tempo_fundeado_horas": 246.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 19,
+      "ordem": 20,
       "distancia_trecho_km": 3.5
     },
     {
@@ -756,10 +786,10 @@
       "lon": -44.163,
       "data_fundeio": "19/08/26",
       "hora_fundeio": "21:22",
-      "tempo_fundeado_horas": 745.0,
+      "tempo_fundeado_horas": 750.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 20,
+      "ordem": 21,
       "distancia_trecho_km": 1.6
     },
     {
@@ -772,10 +802,10 @@
       "lon": -44.140667,
       "data_fundeio": "13/09/26",
       "hora_fundeio": "17:48",
-      "tempo_fundeado_horas": 148.5,
+      "tempo_fundeado_horas": 153.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 21,
+      "ordem": 22,
       "distancia_trecho_km": 2.5
     },
     {
@@ -788,10 +818,10 @@
       "lon": -44.117167,
       "data_fundeio": "16/09/26",
       "hora_fundeio": "09:45",
-      "tempo_fundeado_horas": 84.6,
+      "tempo_fundeado_horas": 89.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 22,
+      "ordem": 23,
       "distancia_trecho_km": 2.7
     },
     {
@@ -804,10 +834,10 @@
       "lon": -44.126,
       "data_fundeio": "18/09/26",
       "hora_fundeio": "20:27",
-      "tempo_fundeado_horas": 25.9,
+      "tempo_fundeado_horas": 31.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 23,
+      "ordem": 24,
       "distancia_trecho_km": 4.5
     },
     {
@@ -820,10 +850,10 @@
       "lon": -44.0975,
       "data_fundeio": "13/09/26",
       "hora_fundeio": "00:16",
-      "tempo_fundeado_horas": 166.1,
+      "tempo_fundeado_horas": 171.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 24,
+      "ordem": 25,
       "distancia_trecho_km": 3.2
     },
     {
@@ -836,10 +866,10 @@
       "lon": -44.1015,
       "data_fundeio": "14/09/26",
       "hora_fundeio": "23:03",
-      "tempo_fundeado_horas": 119.3,
+      "tempo_fundeado_horas": 124.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 25,
+      "ordem": 26,
       "distancia_trecho_km": 3.2
     },
     {
@@ -852,10 +882,10 @@
       "lon": -44.090667,
       "data_fundeio": "19/09/26",
       "hora_fundeio": "19:43",
-      "tempo_fundeado_horas": 2.6,
+      "tempo_fundeado_horas": 7.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 26,
+      "ordem": 27,
       "distancia_trecho_km": 2.9
     },
     {
@@ -868,10 +898,10 @@
       "lon": -44.061833,
       "data_fundeio": "15/09/26",
       "hora_fundeio": "18:31",
-      "tempo_fundeado_horas": 99.8,
+      "tempo_fundeado_horas": 104.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 27,
+      "ordem": 28,
       "distancia_trecho_km": 3.3
     }
   ],
@@ -886,9 +916,9 @@
       "lon": -44.178,
       "data_fundeio": "14/09/26",
       "hora_fundeio": "04:12",
-      "tempo_fundeado_horas": 138.1,
+      "tempo_fundeado_horas": 143.2,
       "previsao_atracacao": "19/09/2026 23:59",
-      "tempo_restante_horas": 1.7
+      "tempo_restante_horas": -3.4
     }
   ]
 }

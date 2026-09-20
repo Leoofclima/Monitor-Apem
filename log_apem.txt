@@ -6219,3 +6219,11 @@ Antes: 20/09/26 00:14
 Agora: 20/09/26 08:14
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[20/09/2026 03:24:14] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: DA XIANG
+Manobra: Desatracação
+Data/Hora: 20/09/26 00:14
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: NML TANKERS  - SLZ **
+--------------------------------------------------
