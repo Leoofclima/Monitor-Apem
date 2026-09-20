@@ -6343,3 +6343,37 @@ De: BOIA 19-24
 Para/Berço: 100
 Agência: LBH BRASIL**
 --------------------------------------------------
+[20/09/2026 16:49:37] NOVA MANOBRA:
+Navio: MINERAL SAKURA
+Manobra: Atracação
+Data/Hora: 21/09/26 00:34
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[20/09/2026 16:49:37] NOVA MANOBRA:
+Navio: FORTE DE SAO JOSE
+Manobra: Desatracação
+Data/Hora: 21/09/26 00:49
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[20/09/2026 16:49:37] NOVA MANOBRA:
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Atracação
+Data/Hora: 21/09/26 01:19
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[20/09/2026 16:49:37] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — MINERAL SAKURA permanece no fundeio
+
+Navio: MINERAL SAKURA
+Manobra: Atracação (cancelada)
+Previsão anterior: 20/09/26 20:16
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
