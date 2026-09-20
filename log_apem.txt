@@ -6229,3 +6229,83 @@ Agência: NML TANKERS  - SLZ **
 --------------------------------------------------
 [20/09/2026 08:39:58] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7fb484c9af60>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[20/09/2026 11:50:57] NOVA MANOBRA:
+Navio: MINOAS
+Manobra: Desatracação
+Data/Hora: 20/09/26 12:16
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[20/09/2026 11:50:57] NOVA MANOBRA:
+Navio: DE XIN HAI
+Manobra: Desatracação
+Data/Hora: 20/09/26 13:16
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[20/09/2026 11:50:57] NOVA MANOBRA:
+Navio: LIGNUM NETWORK
+Manobra: Atracação
+Data/Hora: 20/09/26 13:46
+De: BOIA 19-24
+Para/Berço: 100
+Agência: LBH BRASIL**
+--------------------------------------------------
+[20/09/2026 11:50:57] NOVA MANOBRA:
+Navio: STRENGTH
+Manobra: Desatracação
+Data/Hora: 20/09/26 19:46
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[20/09/2026 11:50:57] NOVA MANOBRA:
+Navio: NEXUS VICTORIA
+Manobra: Atracação
+Data/Hora: 20/09/26 19:46
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: ORION RODOS**
+--------------------------------------------------
+[20/09/2026 11:50:57] NOVA MANOBRA:
+Navio: MINERAL SAKURA
+Manobra: Atracação
+Data/Hora: 20/09/26 20:16
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[20/09/2026 11:50:57] MANOBRA CONCLUÍDA (navio atracou):
+Navio: FORTE DE SAO JOSE
+Manobra: Atracação
+Data/Hora: 20/09/26 02:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[20/09/2026 11:50:57] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: YUAN ZHUO HAI
+Manobra: Desatracação
+Data/Hora: 20/09/26 07:44
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[20/09/2026 11:50:57] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ATLANTIC ELM
+Manobra: Desatracação
+Data/Hora: 20/09/26 08:14
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[20/09/2026 11:50:57] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: LUCIO COSTA
+Manobra: Desatracação
+Data/Hora: 20/09/26 08:14
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
