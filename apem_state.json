@@ -1,9 +1,8 @@
 {
   "PEGASOS | 20/09/26 | 19:46 | EA | 100": "Navio: PEGASOS\nManobra: Atracação\nData/Hora: 20/09/26 19:46\nDe: BOIA 19-24\nPara/Berço: 100\nAgência: CARGONAVE**",
-  "STRENGTH | 20/09/26 | 19:46 | DS | ILHA DO MEDO": "Navio: STRENGTH\nManobra: Desatracação\nData/Hora: 20/09/26 19:46\nDe: 106\nPara/Berço: ILHA DO MEDO\nAgência: WILSON SONS **",
   "NEXUS VICTORIA | 20/09/26 | 19:46 | EA | 106": "Navio: NEXUS VICTORIA\nManobra: Atracação\nData/Hora: 20/09/26 19:46\nDe: PONTO ALPHA\nPara/Berço: 106\nAgência: ORION RODOS**",
   "SSI VIGILANT | 20/09/26 | 20:16 | EA | 105": "Navio: SSI VIGILANT\nManobra: Atracação\nData/Hora: 20/09/26 20:16\nDe: BOIA 19-24\nPara/Berço: 105\nAgência: CARGONAVE**",
   "MINERAL SAKURA | 21/09/26 | 00:34 | EA | PIER 3 SUL": "Navio: MINERAL SAKURA\nManobra: Atracação\nData/Hora: 21/09/26 00:34\nDe: PONTO ALPHA\nPara/Berço: PIER 3 SUL\nAgência: LMA SHIPPING **",
-  "FORTE DE SAO JOSE | 21/09/26 | 00:49 | DS | ILHA DO MEDO": "Navio: FORTE DE SAO JOSE\nManobra: Desatracação\nData/Hora: 21/09/26 00:49\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
+  "FORTE DE SAO JOSE | 21/09/26 | 00:49 | DF | AREA 7": "Navio: FORTE DE SAO JOSE\nManobra: DF\nData/Hora: 21/09/26 00:49\nDe: ALUMAR 2\nPara/Berço: AREA 7\nAgência: ORION RODOS**",
   "CASTILLO DE SANTA MARIA | 21/09/26 | 01:19 | EA | ALUMAR 2": "Navio: CASTILLO DE SANTA MARIA\nManobra: Atracação\nData/Hora: 21/09/26 01:19\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 2\nAgência: ORION RODOS**"
 }
