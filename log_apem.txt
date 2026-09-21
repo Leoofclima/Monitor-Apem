@@ -6409,3 +6409,27 @@ De: ALUMAR 2
 Para/Berço: ILHA DO MEDO
 Agência: ORION RODOS**
 --------------------------------------------------
+[20/09/2026 22:43:17] NOVA MANOBRA:
+Navio: PACIFIC AZUR
+Manobra: Atracação
+Data/Hora: 21/09/26 08:32
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: NORTH STAR**
+--------------------------------------------------
+[20/09/2026 22:43:17] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PEGASOS
+Manobra: Atracação
+Data/Hora: 20/09/26 22:05 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 100
+Agência: CARGONAVE**
+--------------------------------------------------
+[20/09/2026 22:43:17] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SSI VIGILANT
+Manobra: Atracação
+Data/Hora: 20/09/26 22:25 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: CARGONAVE**
+--------------------------------------------------
