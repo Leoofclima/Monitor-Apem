@@ -6555,3 +6555,19 @@ De: BOIA 19-24
 Para/Berço: 103/NORTE
 Agência: ALPHAMAR**
 --------------------------------------------------
+[21/09/2026 19:47:44] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FEDERAL NAKAGAWA
+Manobra: Desatracação
+Data/Hora: 21/09/26 14:46
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[21/09/2026 19:47:44] MANOBRA CONCLUÍDA (navio atracou):
+Navio: FEDERAL MINNESOTA
+Manobra: Atracação
+Data/Hora: 21/09/26 18:00 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
