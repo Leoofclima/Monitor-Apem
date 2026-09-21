@@ -6435,3 +6435,83 @@ Agência: CARGONAVE**
 --------------------------------------------------
 [21/09/2026 04:14:17] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f6f73d7a4e0>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[21/09/2026 11:12:35] NOVA MANOBRA:
+Navio: YUAN BAO HAI
+Manobra: Atracação
+Data/Hora: 21/09/26 09:02
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[21/09/2026 11:12:35] NOVA MANOBRA:
+Navio: SAFEEN AL SAFA
+Manobra: Desatracação
+Data/Hora: 21/09/26 13:01
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[21/09/2026 11:12:35] NOVA MANOBRA:
+Navio: FORTE SAO MARCELO
+Manobra: Atracação
+Data/Hora: 21/09/26 13:31
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[21/09/2026 11:12:35] NOVA MANOBRA:
+Navio: PAXOS
+Manobra: Atracação
+Data/Hora: 21/09/26 13:31
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: ALPHAMAR**
+--------------------------------------------------
+[21/09/2026 11:12:35] NOVA MANOBRA:
+Navio: FEDERAL NAKAGAWA
+Manobra: Desatracação
+Data/Hora: 21/09/26 14:46
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[21/09/2026 11:12:35] NOVA MANOBRA:
+Navio: FEDERAL MINNESOTA
+Manobra: Atracação
+Data/Hora: 21/09/26 15:16
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
+[21/09/2026 11:12:35] MANOBRA CONCLUÍDA (navio atracou):
+Navio: NEXUS VICTORIA
+Manobra: Atracação
+Data/Hora: 20/09/26 22:10 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: ORION RODOS**
+--------------------------------------------------
+[21/09/2026 11:12:35] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MINERAL SAKURA
+Manobra: Atracação
+Data/Hora: 21/09/26 02:39 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[21/09/2026 11:12:35] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: FORTE DE SAO JOSE
+Manobra: DF
+Data/Hora: 21/09/26 00:49
+De: ALUMAR 2
+Para/Berço: AREA 7
+Agência: ORION RODOS**
+--------------------------------------------------
+[21/09/2026 11:12:35] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Atracação
+Data/Hora: 21/09/26 03:53 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
