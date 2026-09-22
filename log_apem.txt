@@ -6571,3 +6571,19 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 1
 Agência: GEM**
 --------------------------------------------------
+[21/09/2026 22:14:43] NOVA MANOBRA:
+Navio: ORE SHANGHAI
+Manobra: Atracação
+Data/Hora: 22/09/26 10:02
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[21/09/2026 22:14:43] NOVA MANOBRA:
+Navio: ELANDRA STAR
+Manobra: Atracação
+Data/Hora: 22/09/26 15:53
+De: BOIA 19-24
+Para/Berço: 106 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
