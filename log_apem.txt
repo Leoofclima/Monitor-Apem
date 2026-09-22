@@ -6619,3 +6619,67 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[22/09/2026 12:44:25] NOVA MANOBRA:
+Navio: PEGASOS
+Manobra: Desatracação
+Data/Hora: 22/09/26 15:53
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: CARGONAVE**
+--------------------------------------------------
+[22/09/2026 12:44:25] NOVA MANOBRA:
+Navio: LIGNUM NETWORK
+Manobra: Atracação
+Data/Hora: 22/09/26 15:53
+De: BOIA 19-24
+Para/Berço: 100
+Agência: LBH BRASIL**
+--------------------------------------------------
+[22/09/2026 12:44:25] NOVA MANOBRA:
+Navio: CITRIODORA
+Manobra: Desatracação
+Data/Hora: 22/09/26 15:53
+De: 99
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[22/09/2026 12:44:25] NOVA MANOBRA:
+Navio: FORTE SAO MARCELO
+Manobra: Desatracação
+Data/Hora: 22/09/26 22:23
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[22/09/2026 12:44:25] NOVA MANOBRA:
+Navio: LADYCHARM
+Manobra: Atracação
+Data/Hora: 22/09/26 22:23
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[22/09/2026 12:44:25] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: MINERAL SAKURA
+Manobra: Desatracação
+Data/Hora: 22/09/26 10:02
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[22/09/2026 12:44:25] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ORE SHANGHAI
+Manobra: Atracação
+Data/Hora: 22/09/26 12:15 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[22/09/2026 12:44:25] MANOBRA CONCLUÍDA (navio atracou):
+Navio: GLOBAL CONCORD
+Manobra: Atracação
+Data/Hora: 22/09/26 11:59 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: ISS**
+--------------------------------------------------
