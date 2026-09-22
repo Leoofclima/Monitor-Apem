@@ -6683,3 +6683,13 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 SUL
 Agência: ISS**
 --------------------------------------------------
+[22/09/2026 16:14:03] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: CITRIODORA
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 22/09/26 15:53
+Agora: 22/09/26 22:23
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
