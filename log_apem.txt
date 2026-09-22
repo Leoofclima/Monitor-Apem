@@ -6587,3 +6587,35 @@ De: BOIA 19-24
 Para/Berço: 106 EXT
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[22/09/2026 08:45:43] NOVA MANOBRA:
+Navio: MINERAL SAKURA
+Manobra: Desatracação
+Data/Hora: 22/09/26 10:02
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[22/09/2026 08:45:43] NOVA MANOBRA:
+Navio: GLOBAL CONCORD
+Manobra: Atracação
+Data/Hora: 22/09/26 10:02
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: ISS**
+--------------------------------------------------
+[22/09/2026 08:45:43] NOVA MANOBRA:
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Desatracação
+Data/Hora: 22/09/26 14:38
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[22/09/2026 08:45:43] NOVA MANOBRA:
+Navio: AMAZON COURAGE
+Manobra: Atracação
+Data/Hora: 22/09/26 15:08
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
