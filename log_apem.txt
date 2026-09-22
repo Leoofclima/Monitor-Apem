@@ -6693,3 +6693,43 @@ Antes: 22/09/26 15:53
 Agora: 22/09/26 22:23
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[22/09/2026 19:11:42] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Desatracação
+Data/Hora: 22/09/26 14:38
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[22/09/2026 19:11:42] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AMAZON COURAGE
+Manobra: Atracação
+Data/Hora: 22/09/26 17:40 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[22/09/2026 19:11:42] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ELANDRA STAR
+Manobra: Atracação
+Data/Hora: 22/09/26 18:15 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 106 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[22/09/2026 19:11:42] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PEGASOS
+Manobra: Desatracação
+Data/Hora: 22/09/26 15:53
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: CARGONAVE**
+--------------------------------------------------
+[22/09/2026 19:11:42] MANOBRA CONCLUÍDA (navio atracou):
+Navio: LIGNUM NETWORK
+Manobra: Atracação
+Data/Hora: 22/09/26 18:00 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 100
+Agência: LBH BRASIL**
+--------------------------------------------------
