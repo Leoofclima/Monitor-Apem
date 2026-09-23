@@ -6733,3 +6733,31 @@ De: BOIA 19-24
 Para/Berço: 100
 Agência: LBH BRASIL**
 --------------------------------------------------
+[22/09/2026 21:36:32] NOVA MANOBRA:
+Navio: FEDERAL MINNESOTA
+Manobra: Desatracação
+Data/Hora: 23/09/26 03:51
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[22/09/2026 21:36:32] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: LADYCHARM
+Manobra: Atracação
+Berço: PIER 3 NORTE
+Antes: 22/09/26 22:23
+Agora: 23/09/26 02:36
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[22/09/2026 21:36:32] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: FORTE SAO MARCELO
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 22/09/26 22:23
+Agora: 23/09/26 02:36
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
