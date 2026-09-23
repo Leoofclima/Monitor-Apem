@@ -6843,3 +6843,31 @@ Antes: 23/09/26 11:23
 Agora: 23/09/26 14:36
 Agência: CARGONAVE**
 --------------------------------------------------
+[23/09/2026 15:35:38] NOVA MANOBRA:
+Navio: FORTE DE SAO JOSE
+Manobra: SS
+Data/Hora: 23/09/26 17:00
+De: AREA 7
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[23/09/2026 15:35:38] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: YUAN BAO HAI
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 23/09/26 15:06
+Agora: 23/09/26 23:06
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[23/09/2026 15:35:38] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: ORE HONG KONG
+Manobra: Atracação
+Berço: PIER 1
+Antes: 23/09/26 15:06
+Agora: 23/09/26 23:06
+Agência: LMA SHIPPING **
+--------------------------------------------------
