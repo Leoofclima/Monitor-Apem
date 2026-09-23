@@ -1,6 +1,5 @@
 {
-  "LADYCHARM | 23/09/26 | 02:36 | EA | PIER 3 NORTE": "Navio: LADYCHARM\nManobra: Atracação\nData/Hora: 23/09/26 02:36\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: LMA SHIPPING **",
-  "FORTE SAO MARCELO | 23/09/26 | 02:36 | DS | ILHA DO MEDO": "Navio: FORTE SAO MARCELO\nManobra: Desatracação\nData/Hora: 23/09/26 02:36\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "FEDERAL MINNESOTA | 23/09/26 | 03:51 | DS | ILHA DO MEDO": "Navio: FEDERAL MINNESOTA\nManobra: Desatracação\nData/Hora: 23/09/26 03:51\nDe: ALUMAR 1\nPara/Berço: ILHA DO MEDO\nAgência: GEM**",
+  "SSI VIGILANT | 23/09/26 | 11:23 | DS | ILHA DO MEDO": "Navio: SSI VIGILANT\nManobra: Desatracação\nData/Hora: 23/09/26 11:23\nDe: 105\nPara/Berço: ILHA DO MEDO\nAgência: CARGONAVE**",
+  "YUAN BAO HAI | 23/09/26 | 15:06 | DS | ILHA DO MEDO": "Navio: YUAN BAO HAI\nManobra: Desatracação\nData/Hora: 23/09/26 15:06\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
   "ELANDRA STAR | 23/09/26 | 16:06 | DS | ILHA DO MEDO": "Navio: ELANDRA STAR\nManobra: Desatracação\nData/Hora: 23/09/26 16:06\nDe: 106 EXT\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**"
 }

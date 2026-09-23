@@ -6777,3 +6777,43 @@ De: 99
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[23/09/2026 06:54:53] NOVA MANOBRA:
+Navio: SSI VIGILANT
+Manobra: Desatracação
+Data/Hora: 23/09/26 11:23
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: CARGONAVE**
+--------------------------------------------------
+[23/09/2026 06:54:53] NOVA MANOBRA:
+Navio: YUAN BAO HAI
+Manobra: Desatracação
+Data/Hora: 23/09/26 15:06
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[23/09/2026 06:54:53] MANOBRA CONCLUÍDA (navio atracou):
+Navio: LADYCHARM
+Manobra: Atracação
+Data/Hora: 23/09/26 05:35 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[23/09/2026 06:54:53] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FORTE SAO MARCELO
+Manobra: Desatracação
+Data/Hora: 23/09/26 02:36
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[23/09/2026 06:54:53] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FEDERAL MINNESOTA
+Manobra: Desatracação
+Data/Hora: 23/09/26 03:51
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
