@@ -6871,3 +6871,27 @@ Antes: 23/09/26 15:06
 Agora: 23/09/26 23:06
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[23/09/2026 18:44:07] NOVA MANOBRA:
+Navio: PACIFIC AZUR
+Manobra: Desatracação
+Data/Hora: 24/09/26 04:17
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[23/09/2026 18:44:07] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SSI VIGILANT
+Manobra: Desatracação
+Data/Hora: 23/09/26 14:36
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: CARGONAVE**
+--------------------------------------------------
+[23/09/2026 18:44:07] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ELANDRA STAR
+Manobra: Desatracação
+Data/Hora: 23/09/26 16:06
+De: 106 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
