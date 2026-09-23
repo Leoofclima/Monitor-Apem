@@ -6817,3 +6817,29 @@ De: ALUMAR 1
 Para/Berço: ILHA DO MEDO
 Agência: GEM**
 --------------------------------------------------
+[23/09/2026 11:33:21] NOVA MANOBRA:
+Navio: ORE HONG KONG
+Manobra: Atracação
+Data/Hora: 23/09/26 15:06
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[23/09/2026 11:33:21] NOVA MANOBRA:
+Navio: LOWLANDS OBERLIN
+Manobra: Atracação
+Data/Hora: 23/09/26 15:51
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
+[23/09/2026 11:33:21] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: SSI VIGILANT
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 23/09/26 11:23
+Agora: 23/09/26 14:36
+Agência: CARGONAVE**
+--------------------------------------------------
