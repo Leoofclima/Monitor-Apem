@@ -6895,3 +6895,27 @@ De: 106 EXT
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[23/09/2026 20:59:29] NOVA MANOBRA:
+Navio: PAXOS
+Manobra: Desatracação
+Data/Hora: 23/09/26 23:36
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[23/09/2026 20:59:29] MANOBRA CONCLUÍDA (navio atracou):
+Navio: LOWLANDS OBERLIN
+Manobra: Atracação
+Data/Hora: 23/09/26 18:00 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
+[23/09/2026 20:59:29] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: FORTE DE SAO JOSE
+Manobra: SS
+Data/Hora: 23/09/26 17:00
+De: AREA 7
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
