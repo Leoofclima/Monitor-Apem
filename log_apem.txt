@@ -6935,3 +6935,83 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[24/09/2026 05:46:06] NOVA MANOBRA:
+Navio: ORE SHANGHAI
+Manobra: Desatracação
+Data/Hora: 24/09/26 11:04
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[24/09/2026 05:46:06] NOVA MANOBRA:
+Navio: NEXUS VICTORIA
+Manobra: Desatracação
+Data/Hora: 24/09/26 11:04
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[24/09/2026 05:46:06] NOVA MANOBRA:
+Navio: HE YING
+Manobra: Atracação
+Data/Hora: 24/09/26 11:34
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: ISS**
+--------------------------------------------------
+[24/09/2026 05:46:06] NOVA MANOBRA:
+Navio: NORD ARGENTUM
+Manobra: Atracação
+Data/Hora: 24/09/26 11:34
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: ISS**
+--------------------------------------------------
+[24/09/2026 05:46:06] NOVA MANOBRA:
+Navio: GLOBAL CONCORD
+Manobra: Desatracação
+Data/Hora: 24/09/26 11:34
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[24/09/2026 05:46:06] NOVA MANOBRA:
+Navio: BARBOSA LIMA SOBRINHO
+Manobra: Atracação
+Data/Hora: 24/09/26 15:46
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[24/09/2026 05:46:06] NOVA MANOBRA:
+Navio: CHAMPIONSHIP
+Manobra: Atracação
+Data/Hora: 24/09/26 15:46
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: ORION RODOS**
+--------------------------------------------------
+[24/09/2026 05:46:06] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: YUAN BAO HAI
+Manobra: Desatracação
+Data/Hora: 23/09/26 23:06
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[24/09/2026 05:46:06] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ORE HONG KONG
+Manobra: Atracação
+Data/Hora: 24/09/26 01:36 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[24/09/2026 05:46:06] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PAXOS
+Manobra: Desatracação
+Data/Hora: 23/09/26 23:36
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
