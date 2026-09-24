@@ -7115,3 +7115,13 @@ De: BOIA 19-24
 Para/Berço: 104
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[24/09/2026 20:54:37] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: LIGNUM NETWORK
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 24/09/26 23:21
+Agora: 24/09/26 23:51
+Agência: LBH BRASIL**
+--------------------------------------------------
