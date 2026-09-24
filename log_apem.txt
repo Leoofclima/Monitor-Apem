@@ -7039,3 +7039,45 @@ De: 108
 Para/Berço: ILHA DO MEDO
 Agência: NORTH STAR**
 --------------------------------------------------
+[24/09/2026 14:59:57] NOVA MANOBRA:
+Navio: LIGNUM NETWORK
+Manobra: Desatracação
+Data/Hora: 24/09/26 17:16
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
+[24/09/2026 14:59:57] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: CHAMPIONSHIP
+Manobra: Atracação
+Berço: PIER 4 SUL
+Antes: 24/09/26 15:46
+Agora: 24/09/26 23:51
+Agência: ORION RODOS**
+--------------------------------------------------
+[24/09/2026 14:59:57] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ORE SHANGHAI
+Manobra: Desatracação
+Data/Hora: 24/09/26 11:04
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[24/09/2026 14:59:57] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: NEXUS VICTORIA
+Manobra: Desatracação
+Data/Hora: 24/09/26 11:04
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[24/09/2026 14:59:57] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: GLOBAL CONCORD
+Manobra: Desatracação
+Data/Hora: 24/09/26 11:34
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
