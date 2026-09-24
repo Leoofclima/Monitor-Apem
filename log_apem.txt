@@ -7015,3 +7015,27 @@ De: 103/NORTE
 Para/Berço: ILHA DO MEDO
 Agência: ALPHAMAR**
 --------------------------------------------------
+[24/09/2026 10:49:04] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AMAZON COURAGE
+Manobra: Desatracação
+Data/Hora: 24/09/26 03:32
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[24/09/2026 10:49:04] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AMAZON COMMANDER
+Manobra: Atracação
+Data/Hora: 24/09/26 06:17 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[24/09/2026 10:49:04] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PACIFIC AZUR
+Manobra: Desatracação
+Data/Hora: 24/09/26 04:17
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
