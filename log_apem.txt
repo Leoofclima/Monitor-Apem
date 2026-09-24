@@ -7081,3 +7081,37 @@ De: PIER 3 SUL
 Para/Berço: ILHA DO MEDO
 Agência: ISS**
 --------------------------------------------------
+[24/09/2026 18:18:57] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: LIGNUM NETWORK
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 24/09/26 17:16
+Agora: 24/09/26 23:21
+Agência: LBH BRASIL**
+--------------------------------------------------
+[24/09/2026 18:18:57] MANOBRA CONCLUÍDA (navio atracou):
+Navio: HE YING
+Manobra: Atracação
+Data/Hora: 24/09/26 14:35 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: ISS**
+--------------------------------------------------
+[24/09/2026 18:18:57] MANOBRA CONCLUÍDA (navio atracou):
+Navio: NORD ARGENTUM
+Manobra: Atracação
+Data/Hora: 24/09/26 13:30 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: ISS**
+--------------------------------------------------
+[24/09/2026 18:18:57] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BARBOSA LIMA SOBRINHO
+Manobra: Atracação
+Data/Hora: 24/09/26 17:43 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
