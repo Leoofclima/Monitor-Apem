@@ -7141,3 +7141,11 @@ De: PONTO ALPHA
 Para/Berço: PIER 4 SUL
 Agência: ORION RODOS**
 --------------------------------------------------
+[25/09/2026 10:42:23] NOVA MANOBRA:
+Navio: HG BRISBANE
+Manobra: Atracação
+Data/Hora: 25/09/26 16:19
+De: BOIA 19-24
+Para/Berço: 105
+Agência: ZYON
+--------------------------------------------------
