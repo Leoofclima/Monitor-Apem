@@ -7149,3 +7149,43 @@ De: BOIA 19-24
 Para/Berço: 105
 Agência: ZYON
 --------------------------------------------------
+[25/09/2026 15:05:27] NOVA MANOBRA:
+Navio: BARBOSA LIMA SOBRINHO
+Manobra: Desatracação
+Data/Hora: 25/09/26 17:19
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[25/09/2026 15:05:27] NOVA MANOBRA:
+Navio: SSI DIGNITY
+Manobra: Atracação
+Data/Hora: 25/09/26 17:49
+De: BOIA 19-24
+Para/Berço: 100
+Agência: WILSON SONS **
+--------------------------------------------------
+[25/09/2026 15:05:27] NOVA MANOBRA:
+Navio: HORIZON EKAVI
+Manobra: Atracação
+Data/Hora: 25/09/26 23:59
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: NORTH STAR**
+--------------------------------------------------
+[25/09/2026 15:05:27] NOVA MANOBRA:
+Navio: ORE HONG KONG
+Manobra: Desatracação
+Data/Hora: 26/09/26 00:29
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[25/09/2026 15:05:27] NOVA MANOBRA:
+Navio: PACIFIC CAREER
+Manobra: Atracação
+Data/Hora: 26/09/26 00:29
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
