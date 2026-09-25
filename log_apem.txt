@@ -7125,3 +7125,19 @@ Antes: 24/09/26 23:21
 Agora: 24/09/26 23:51
 Agência: LBH BRASIL**
 --------------------------------------------------
+[25/09/2026 05:09:25] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: LIGNUM NETWORK
+Manobra: Desatracação
+Data/Hora: 24/09/26 23:51
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
+[25/09/2026 05:09:25] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CHAMPIONSHIP
+Manobra: Atracação
+Data/Hora: 25/09/26 01:53 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: ORION RODOS**
+--------------------------------------------------
