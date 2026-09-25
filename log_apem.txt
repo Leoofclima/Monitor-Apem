@@ -7189,3 +7189,27 @@ De: PONTO ALPHA
 Para/Berço: PIER 1
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[25/09/2026 18:29:57] NOVA MANOBRA:
+Navio: SAGA SKY
+Manobra: Atracação
+Data/Hora: 25/09/26 23:59
+De: BOIA 19-24
+Para/Berço: 99
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[25/09/2026 18:29:57] NOVA MANOBRA:
+Navio: SSI INEVITABLE
+Manobra: Atracação
+Data/Hora: 26/09/26 00:29
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[25/09/2026 18:29:57] NOVA MANOBRA:
+Navio: LADYCHARM
+Manobra: Desatracação
+Data/Hora: 26/09/26 00:29
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
