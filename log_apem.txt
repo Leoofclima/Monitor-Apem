@@ -7417,3 +7417,19 @@ De: BOIA 19-24
 Para/Berço: 101/SUL
 Agência: CARGONAVE**
 --------------------------------------------------
+[26/09/2026 19:41:35] NOVA MANOBRA:
+Navio: OMISHIMA
+Manobra: Atracação
+Data/Hora: 27/09/26 01:06
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: ORION RODOS**
+--------------------------------------------------
+[26/09/2026 19:41:35] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AMAZON COMMANDER
+Manobra: Desatracação
+Data/Hora: 26/09/26 17:12
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
