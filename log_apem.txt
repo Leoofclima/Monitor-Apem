@@ -7335,3 +7335,61 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 NORTE
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[26/09/2026 10:51:36] NOVA MANOBRA:
+Navio: ELIAS
+Manobra: Atracação
+Data/Hora: 26/09/26 12:51
+De: BOIA 19-24
+Para/Berço: 101/SUL
+Agência: CARGONAVE**
+--------------------------------------------------
+[26/09/2026 10:51:36] NOVA MANOBRA:
+Navio: TROMBETAS
+Manobra: Atracação
+Data/Hora: 26/09/26 17:42
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[26/09/2026 10:51:36] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: AMAZON COMMANDER
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 26/09/26 13:06
+Agora: 26/09/26 17:12
+Agência: ORION RODOS**
+--------------------------------------------------
+[26/09/2026 10:51:36] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: HE YING
+Manobra: Desatracação
+Data/Hora: 26/09/26 04:38
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[26/09/2026 10:51:36] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BERGE MAFADI
+Manobra: Atracação
+Data/Hora: 26/09/26 07:10 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: ISS**
+--------------------------------------------------
+[26/09/2026 10:51:36] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: LOWLANDS OBERLIN
+Manobra: Desatracação
+Data/Hora: 26/09/26 05:53
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[26/09/2026 10:51:36] MANOBRA CONCLUÍDA (navio atracou):
+Navio: HORIZON EKAVI
+Manobra: Atracação
+Data/Hora: 26/09/26 08:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: NORTH STAR**
+--------------------------------------------------
