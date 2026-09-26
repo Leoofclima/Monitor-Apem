@@ -7253,3 +7253,37 @@ De: BOIA 19-24
 Para/Berço: 100
 Agência: WILSON SONS **
 --------------------------------------------------
+[26/09/2026 01:48:15] NOVA MANOBRA:
+Navio: BERGE MAFADI
+Manobra: Atracação
+Data/Hora: 26/09/26 04:38
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: ISS**
+--------------------------------------------------
+[26/09/2026 01:48:15] NOVA MANOBRA:
+Navio: CHAMPIONSHIP
+Manobra: Desatracação
+Data/Hora: 26/09/26 12:21
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[26/09/2026 01:48:15] NOVA MANOBRA:
+Navio: SHENG MAY
+Manobra: Atracação
+Data/Hora: 26/09/26 12:51
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: ISS**
+--------------------------------------------------
+[26/09/2026 01:48:15] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: HORIZON EKAVI
+Manobra: Atracação
+Berço: 106
+Antes: 25/09/26 23:59
+Agora: 26/09/26 06:08
+Agência: NORTH STAR**
+--------------------------------------------------
