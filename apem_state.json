@@ -1,13 +1,9 @@
 {
-  "SAGA SKY | 25/09/26 | 23:59 | EA | 99": "Navio: SAGA SKY\nManobra: Atracação\nData/Hora: 25/09/26 23:59\nDe: BOIA 19-24\nPara/Berço: 99\nAgência: WILHELMSEN PORT**",
-  "ORE HONG KONG | 26/09/26 | 00:29 | DS | ILHA DO MEDO": "Navio: ORE HONG KONG\nManobra: Desatracação\nData/Hora: 26/09/26 00:29\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
-  "LADYCHARM | 26/09/26 | 00:29 | DS | ILHA DO MEDO": "Navio: LADYCHARM\nManobra: Desatracação\nData/Hora: 26/09/26 00:29\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
-  "PACIFIC CAREER | 26/09/26 | 00:29 | EA | PIER 1": "Navio: PACIFIC CAREER\nManobra: Atracação\nData/Hora: 26/09/26 00:29\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: WILHELMSEN PORT**",
-  "SSI INEVITABLE | 26/09/26 | 00:29 | EA | PIER 3 NORTE": "Navio: SSI INEVITABLE\nManobra: Atracação\nData/Hora: 26/09/26 00:29\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: LMA SHIPPING **",
   "HE YING | 26/09/26 | 04:38 | DS | ILHA DO MEDO": "Navio: HE YING\nManobra: Desatracação\nData/Hora: 26/09/26 04:38\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
   "BERGE MAFADI | 26/09/26 | 04:38 | EA | PIER 4 NORTE": "Navio: BERGE MAFADI\nManobra: Atracação\nData/Hora: 26/09/26 04:38\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE\nAgência: ISS**",
   "LOWLANDS OBERLIN | 26/09/26 | 05:53 | DS | ILHA DO MEDO": "Navio: LOWLANDS OBERLIN\nManobra: Desatracação\nData/Hora: 26/09/26 05:53\nDe: ALUMAR 1\nPara/Berço: ILHA DO MEDO\nAgência: GEM**",
   "HORIZON EKAVI | 26/09/26 | 06:08 | EA | 106": "Navio: HORIZON EKAVI\nManobra: Atracação\nData/Hora: 26/09/26 06:08\nDe: PONTO ALPHA\nPara/Berço: 106\nAgência: NORTH STAR**",
   "CHAMPIONSHIP | 26/09/26 | 12:21 | DS | ILHA DO MEDO": "Navio: CHAMPIONSHIP\nManobra: Desatracação\nData/Hora: 26/09/26 12:21\nDe: PIER 4 SUL\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
-  "SHENG MAY | 26/09/26 | 12:51 | EA | PIER 4 SUL": "Navio: SHENG MAY\nManobra: Atracação\nData/Hora: 26/09/26 12:51\nDe: PONTO ALPHA\nPara/Berço: PIER 4 SUL\nAgência: ISS**"
+  "SHENG MAY | 26/09/26 | 12:51 | EA | PIER 4 SUL": "Navio: SHENG MAY\nManobra: Atracação\nData/Hora: 26/09/26 12:51\nDe: PONTO ALPHA\nPara/Berço: PIER 4 SUL\nAgência: ISS**",
+  "AMAZON COMMANDER | 26/09/26 | 13:06 | DS | ILHA DO MEDO": "Navio: AMAZON COMMANDER\nManobra: Desatracação\nData/Hora: 26/09/26 13:06\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**"
 }

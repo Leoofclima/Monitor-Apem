@@ -7287,3 +7287,51 @@ Antes: 25/09/26 23:59
 Agora: 26/09/26 06:08
 Agência: NORTH STAR**
 --------------------------------------------------
+[26/09/2026 06:33:39] NOVA MANOBRA:
+Navio: AMAZON COMMANDER
+Manobra: Desatracação
+Data/Hora: 26/09/26 13:06
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[26/09/2026 06:33:39] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SAGA SKY
+Manobra: Atracação
+Data/Hora: 26/09/26 02:10 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 99
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[26/09/2026 06:33:39] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ORE HONG KONG
+Manobra: Desatracação
+Data/Hora: 26/09/26 00:29
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[26/09/2026 06:33:39] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: LADYCHARM
+Manobra: Desatracação
+Data/Hora: 26/09/26 00:29
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[26/09/2026 06:33:39] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PACIFIC CAREER
+Manobra: Atracação
+Data/Hora: 26/09/26 02:45 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[26/09/2026 06:33:39] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SSI INEVITABLE
+Manobra: Atracação
+Data/Hora: 26/09/26 02:40 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
