@@ -7433,3 +7433,19 @@ De: ALUMAR 2
 Para/Berço: ILHA DO MEDO
 Agência: ORION RODOS**
 --------------------------------------------------
+[27/09/2026 03:01:00] NOVA MANOBRA:
+Navio: DART
+Manobra: Atracação
+Data/Hora: 27/09/26 06:01
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[27/09/2026 03:01:00] MANOBRA CONCLUÍDA (navio atracou):
+Navio: TROMBETAS
+Manobra: Atracação
+Data/Hora: 26/09/26 20:15 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
