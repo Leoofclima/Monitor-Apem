@@ -7505,3 +7505,35 @@ De: PIER 3 SUL
 Para/Berço: ILHA DO MEDO
 Agência: ISS**
 --------------------------------------------------
+[27/09/2026 19:35:00] NOVA MANOBRA:
+Navio: SHENG MAY
+Manobra: Desatracação
+Data/Hora: 28/09/26 01:21
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[27/09/2026 19:35:00] NOVA MANOBRA:
+Navio: DARYA JAYA
+Manobra: Atracação
+Data/Hora: 28/09/26 01:51
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[27/09/2026 19:35:00] NOVA MANOBRA:
+Navio: YUAN YI HAI
+Manobra: Atracação
+Data/Hora: 28/09/26 01:51
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[27/09/2026 19:35:00] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AZUL BRISA
+Manobra: Atracação
+Data/Hora: 27/09/26 16:40 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: WILSON SONS **
+--------------------------------------------------
