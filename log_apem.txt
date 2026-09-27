@@ -7449,3 +7449,51 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[27/09/2026 08:55:19] NOVA MANOBRA:
+Navio: AZUL BRISA
+Manobra: Atracação
+Data/Hora: 27/09/26 13:25
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: WILSON SONS **
+--------------------------------------------------
+[27/09/2026 08:55:19] NOVA MANOBRA:
+Navio: NORD ARGENTUM
+Manobra: Desatracação
+Data/Hora: 27/09/26 13:25
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[27/09/2026 08:55:19] NOVA MANOBRA:
+Navio: ELANDRA STAR
+Manobra: Atracação
+Data/Hora: 27/09/26 17:32
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[27/09/2026 08:55:19] NOVA MANOBRA:
+Navio: JOSE ALENCAR
+Manobra: Atracação
+Data/Hora: 27/09/26 19:02
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[27/09/2026 08:55:19] MANOBRA CONCLUÍDA (navio atracou):
+Navio: OMISHIMA
+Manobra: Atracação
+Data/Hora: 27/09/26 03:15 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: ORION RODOS**
+--------------------------------------------------
+[27/09/2026 08:55:19] MANOBRA CONCLUÍDA (navio atracou):
+Navio: DART
+Manobra: Atracação
+Data/Hora: 27/09/26 08:30 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
