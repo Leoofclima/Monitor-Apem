@@ -7681,3 +7681,67 @@ De: 100
 Para/Berço: ILHA DO MEDO
 Agência: WILSON SONS **
 --------------------------------------------------
+[28/09/2026 17:44:14] NOVA MANOBRA:
+Navio: PHILIPPAKOS
+Manobra: Atracação
+Data/Hora: 28/09/26 18:06
+De: BOIA 19-24
+Para/Berço: 105
+Agência: WAYPOINT (SÃO LUIS)*
+--------------------------------------------------
+[28/09/2026 17:44:14] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BERGE MAFADI
+Manobra: Desatracação
+Data/Hora: 28/09/26 13:32
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[28/09/2026 17:44:14] MANOBRA CONCLUÍDA (navio atracou):
+Navio: HONG DAI
+Manobra: Atracação
+Data/Hora: 28/09/26 15:30 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 100
+Agência: ORION RODOS**
+--------------------------------------------------
+[28/09/2026 17:44:14] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SSI INEVITABLE
+Manobra: Desatracação
+Data/Hora: 28/09/26 14:02
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[28/09/2026 17:44:14] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AEGEAN CLOVER
+Manobra: Atracação
+Data/Hora: 28/09/26 16:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LACHMANN**
+--------------------------------------------------
+[28/09/2026 17:44:14] MANOBRA CONCLUÍDA (navio atracou):
+Navio: NEW ORLEANS
+Manobra: Atracação
+Data/Hora: 28/09/26 16:30 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: ISS**
+--------------------------------------------------
+[28/09/2026 17:44:14] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: HG BRISBANE
+Manobra: Desatracação
+Data/Hora: 28/09/26 14:32
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: ZYON
+--------------------------------------------------
+[28/09/2026 17:44:14] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ELANDRA STAR
+Manobra: Desatracação
+Data/Hora: 28/09/26 14:32
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
