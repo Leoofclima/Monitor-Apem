@@ -7785,3 +7785,45 @@ De: ALUMAR 1
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[29/09/2026 03:07:28] NOVA MANOBRA:
+Navio: FORTE DE SAO FELIPE
+Manobra: Atracação
+Data/Hora: 29/09/26 07:19
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[29/09/2026 03:07:28] NOVA MANOBRA:
+Navio: SAGA SKY
+Manobra: Desatracação
+Data/Hora: 29/09/26 08:04
+De: 99
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[29/09/2026 03:07:28] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: TROMBETAS
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 29/09/26 02:44
+Agora: 29/09/26 06:49
+Agência: ORION RODOS**
+--------------------------------------------------
+[29/09/2026 03:07:28] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SAO HEAVEN
+Manobra: Atracação
+Data/Hora: 28/09/26 21:30 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
+[29/09/2026 03:07:28] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AFRICAN GROUSE
+Manobra: Atracação
+Data/Hora: 28/09/26 21:30 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: ORION RODOS**
+--------------------------------------------------
