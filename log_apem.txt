@@ -7745,3 +7745,43 @@ De: 104
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[28/09/2026 21:35:17] NOVA MANOBRA:
+Navio: TROMBETAS
+Manobra: Desatracação
+Data/Hora: 29/09/26 02:44
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[28/09/2026 21:35:17] NOVA MANOBRA:
+Navio: BABITONGA
+Manobra: Atracação
+Data/Hora: 29/09/26 08:04
+De: PONTO ALPHA
+Para/Berço: 99
+Agência: ORION RODOS**
+--------------------------------------------------
+[28/09/2026 21:35:17] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PACIFIC CAREER
+Manobra: Desatracação
+Data/Hora: 28/09/26 18:06
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[28/09/2026 21:35:17] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PHILIPPAKOS
+Manobra: Atracação
+Data/Hora: 28/09/26 20:10 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: WAYPOINT (SÃO LUIS)*
+--------------------------------------------------
+[28/09/2026 21:35:17] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: DART
+Manobra: Desatracação
+Data/Hora: 28/09/26 18:21
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
