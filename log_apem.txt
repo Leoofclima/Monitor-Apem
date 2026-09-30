@@ -7877,3 +7877,51 @@ De: PONTO ALPHA
 Para/Berço: 99
 Agência: ORION RODOS**
 --------------------------------------------------
+[29/09/2026 22:22:34] NOVA MANOBRA:
+Navio: ELIAS
+Manobra: Desatracação
+Data/Hora: 30/09/26 03:34
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: CARGONAVE**
+--------------------------------------------------
+[29/09/2026 22:22:34] NOVA MANOBRA:
+Navio: DARYA JAYA
+Manobra: Desatracação
+Data/Hora: 30/09/26 03:34
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[29/09/2026 22:22:34] NOVA MANOBRA:
+Navio: TRUSTN TRADER
+Manobra: Atracação
+Data/Hora: 30/09/26 03:34
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: WILSON SONS **
+--------------------------------------------------
+[29/09/2026 22:22:34] NOVA MANOBRA:
+Navio: SUNNY PALMS
+Manobra: Atracação
+Data/Hora: 30/09/26 08:12
+De: PONTO ALPHA
+Para/Berço: 104
+Agência: ISS**
+--------------------------------------------------
+[29/09/2026 22:22:34] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AEGEAN CLOVER
+Manobra: Desatracação
+Data/Hora: 29/09/26 18:46
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LACHMANN**
+--------------------------------------------------
+[29/09/2026 22:22:34] MANOBRA CONCLUÍDA (navio atracou):
+Navio: OTSL HERA
+Manobra: Atracação
+Data/Hora: 29/09/26 21:10 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: ISS**
+--------------------------------------------------

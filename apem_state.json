@@ -1,4 +1,6 @@
 {
-  "AEGEAN CLOVER | 29/09/26 | 18:46 | DS | ILHA DO MEDO": "Navio: AEGEAN CLOVER\nManobra: Desatracação\nData/Hora: 29/09/26 18:46\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: LACHMANN**",
-  "OTSL HERA | 29/09/26 | 18:46 | EA | PIER 4 NORTE": "Navio: OTSL HERA\nManobra: Atracação\nData/Hora: 29/09/26 18:46\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE\nAgência: ISS**"
+  "ELIAS | 30/09/26 | 03:34 | DS | ILHA DO MEDO": "Navio: ELIAS\nManobra: Desatracação\nData/Hora: 30/09/26 03:34\nDe: 101/SUL\nPara/Berço: ILHA DO MEDO\nAgência: CARGONAVE**",
+  "DARYA JAYA | 30/09/26 | 03:34 | DS | ILHA DO MEDO": "Navio: DARYA JAYA\nManobra: Desatracação\nData/Hora: 30/09/26 03:34\nDe: 103/NORTE\nPara/Berço: ILHA DO MEDO\nAgência: FERTIMPORT - S.L **",
+  "TRUSTN TRADER | 30/09/26 | 03:34 | EA | 103/NORTE": "Navio: TRUSTN TRADER\nManobra: Atracação\nData/Hora: 30/09/26 03:34\nDe: BOIA 19-24\nPara/Berço: 103/NORTE\nAgência: WILSON SONS **",
+  "SUNNY PALMS | 30/09/26 | 08:12 | EA | 104": "Navio: SUNNY PALMS\nManobra: Atracação\nData/Hora: 30/09/26 08:12\nDe: PONTO ALPHA\nPara/Berço: 104\nAgência: ISS**"
 }
