@@ -8057,3 +8057,121 @@ De: 106
 Para/Berço: ILHA DO MEDO
 Agência: NORTH STAR**
 --------------------------------------------------
+[30/09/2026 15:28:49] NOVA MANOBRA:
+Navio: YUAN YI HAI
+Manobra: Desatracação
+Data/Hora: 30/09/26 19:23
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[30/09/2026 15:28:49] NOVA MANOBRA:
+Navio: FORTE DE SAO FELIPE
+Manobra: Desatracação
+Data/Hora: 30/09/26 19:38
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[30/09/2026 15:28:49] NOVA MANOBRA:
+Navio: CHANNEL PEARL
+Manobra: Atracação
+Data/Hora: 30/09/26 20:08
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: GEM**
+--------------------------------------------------
+[30/09/2026 15:28:49] NOVA MANOBRA:
+Navio: SUNNY PALMS
+Manobra: Desatracação
+Data/Hora: 30/09/26 20:23
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[30/09/2026 15:28:49] NOVA MANOBRA:
+Navio: NEW ORLEANS
+Manobra: Desatracação
+Data/Hora: 01/10/26 03:51
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[30/09/2026 15:28:49] NOVA MANOBRA:
+Navio: OTSL HERA
+Manobra: Desatracação
+Data/Hora: 01/10/26 03:51
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[30/09/2026 15:28:49] NOVA MANOBRA:
+Navio: ORE FUZHOU
+Manobra: Atracação
+Data/Hora: 01/10/26 03:51
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[30/09/2026 15:28:49] NOVA MANOBRA:
+Navio: SAO HEAVEN
+Manobra: Desatracação
+Data/Hora: 01/10/26 03:51
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[30/09/2026 15:28:49] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: PILATUS
+Manobra: Atracação
+Berço: PIER 3 SUL
+Antes: 30/09/26 15:16
+Agora: 30/09/26 19:23
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[30/09/2026 15:28:49] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: AZUL BRISA
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 30/09/26 15:16
+Agora: 30/09/26 19:23
+Agência: WILSON SONS **
+--------------------------------------------------
+[30/09/2026 15:28:49] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: ST. MARY
+Manobra: Atracação
+Berço: 104
+Antes: 30/09/26 15:16
+Agora: 30/09/26 20:23
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[30/09/2026 15:28:49] MANOBRA CONCLUÍDA (navio atracou):
+Navio: TRUSTN TRADER
+Manobra: Atracação
+Data/Hora: 30/09/26 09:10 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: WILSON SONS **
+--------------------------------------------------
+[30/09/2026 15:28:49] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SUNNY PALMS
+Manobra: Atracação
+Data/Hora: 30/09/26 10:20 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 104
+Agência: ISS**
+--------------------------------------------------
+[30/09/2026 15:28:49] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AFRICAN GROUSE
+Manobra: Desatracação
+Data/Hora: 30/09/26 08:27
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
