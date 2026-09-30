@@ -7925,3 +7925,71 @@ De: PONTO ALPHA
 Para/Berço: PIER 4 NORTE
 Agência: ISS**
 --------------------------------------------------
+[30/09/2026 03:57:33] NOVA MANOBRA:
+Navio: PHILIPPAKOS
+Manobra: Desatracação
+Data/Hora: 30/09/26 06:42
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: WAYPOINT (SÃO LUIS)*
+--------------------------------------------------
+[30/09/2026 03:57:33] NOVA MANOBRA:
+Navio: HG BRISBANE
+Manobra: Atracação
+Data/Hora: 30/09/26 07:12
+De: BOIA 19-24
+Para/Berço: 105
+Agência: ZYON
+--------------------------------------------------
+[30/09/2026 03:57:33] NOVA MANOBRA:
+Navio: HORIZON EKAVI
+Manobra: Desatracação
+Data/Hora: 30/09/26 08:12
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[30/09/2026 03:57:33] NOVA MANOBRA:
+Navio: AFRICAN GROUSE
+Manobra: Desatracação
+Data/Hora: 30/09/26 08:27
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[30/09/2026 03:57:33] NOVA MANOBRA:
+Navio: HORIZON THETIS
+Manobra: Atracação
+Data/Hora: 30/09/26 14:46
+De: BOIA 19-24
+Para/Berço: 106
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[30/09/2026 03:57:33] NOVA MANOBRA:
+Navio: ST. MARY
+Manobra: Atracação
+Data/Hora: 30/09/26 15:16
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[30/09/2026 03:57:33] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: DARYA JAYA
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 30/09/26 03:34
+Agora: 30/09/26 06:42
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[30/09/2026 03:57:33] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: TRUSTN TRADER
+Manobra: Atracação
+Berço: 103/NORTE
+Antes: 30/09/26 03:34
+Agora: 30/09/26 07:12
+Agência: WILSON SONS **
+--------------------------------------------------
