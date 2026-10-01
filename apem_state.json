@@ -6,5 +6,9 @@
   "NEW ORLEANS | 01/10/26 | 03:51 | DS | ILHA DO MEDO": "Navio: NEW ORLEANS\nManobra: Desatracação\nData/Hora: 01/10/26 03:51\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
   "SAO HEAVEN | 01/10/26 | 03:51 | DS | ILHA DO MEDO": "Navio: SAO HEAVEN\nManobra: Desatracação\nData/Hora: 01/10/26 03:51\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
   "ORE TIANJIN | 01/10/26 | 03:51 | EA | PIER 4 SUL": "Navio: ORE TIANJIN\nManobra: Atracação\nData/Hora: 01/10/26 03:51\nDe: PONTO ALPHA\nPara/Berço: PIER 4 SUL\nAgência: WILHELMSEN PORT**",
-  "ORE FUZHOU | 01/10/26 | 03:51 | EA | PIER 1": "Navio: ORE FUZHOU\nManobra: Atracação\nData/Hora: 01/10/26 03:51\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: WILHELMSEN PORT**"
+  "ORE FUZHOU | 01/10/26 | 03:51 | EA | PIER 1": "Navio: ORE FUZHOU\nManobra: Atracação\nData/Hora: 01/10/26 03:51\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: WILHELMSEN PORT**",
+  "FORTE DE SAO FELIPE | 01/10/26 | 04:06 | DS | ILHA DO MEDO": "Navio: FORTE DE SAO FELIPE\nManobra: Desatracação\nData/Hora: 01/10/26 04:06\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
+  "AZUL BRISA | 01/10/26 | 07:55 | DS | ILHA DO MEDO": "Navio: AZUL BRISA\nManobra: Desatracação\nData/Hora: 01/10/26 07:55\nDe: PIER 3 SUL\nPara/Berço: ILHA DO MEDO\nAgência: WILSON SONS **",
+  "OTSL HERA | 01/10/26 | 07:55 | DS | ILHA DO MEDO": "Navio: OTSL HERA\nManobra: Desatracação\nData/Hora: 01/10/26 07:55\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
+  "PILATUS | 01/10/26 | 07:55 | EA | PIER 3 SUL": "Navio: PILATUS\nManobra: Atracação\nData/Hora: 01/10/26 07:55\nDe: PONTO ALPHA\nPara/Berço: PIER 3 SUL\nAgência: WILHELMSEN PORT**"
 }
