@@ -8293,3 +8293,61 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 SUL
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[01/10/2026 04:22:46] NOVA MANOBRA:
+Navio: CHANNEL PEARL
+Manobra: DA
+Data/Hora: 01/10/26 08:10
+De: ALUMAR 1
+Para/Berço: ALUMAR 2
+Agência: GEM**
+--------------------------------------------------
+[01/10/2026 04:22:46] NOVA MANOBRA:
+Navio: MAZOWSZE
+Manobra: Atracação
+Data/Hora: 01/10/26 08:40
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
+[01/10/2026 04:22:46] NOVA MANOBRA:
+Navio: JOSE ALENCAR
+Manobra: Desatracação
+Data/Hora: 01/10/26 08:55
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[01/10/2026 04:22:46] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: FORTE DE SAO FELIPE
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 01/10/26 04:06
+Agora: 01/10/26 08:10
+Agência: ORION RODOS**
+--------------------------------------------------
+[01/10/2026 04:22:46] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CHANNEL PEARL
+Manobra: Atracação
+Data/Hora: 30/09/26 22:43 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
+[01/10/2026 04:22:46] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SUNNY PALMS
+Manobra: Desatracação
+Data/Hora: 30/09/26 20:23
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[01/10/2026 04:22:46] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ST. MARY
+Manobra: Atracação
+Data/Hora: 30/09/26 22:20 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
