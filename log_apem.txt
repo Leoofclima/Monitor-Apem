@@ -8487,3 +8487,27 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 1
 Agência: GEM**
 --------------------------------------------------
+[01/10/2026 20:26:59] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PHILIPPAKOS
+Manobra: Atracação
+Data/Hora: 01/10/26 18:18 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: WAYPOINT (SÃO LUIS)*
+--------------------------------------------------
+[01/10/2026 20:26:59] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: OMISHIMA
+Manobra: Desatracação
+Data/Hora: 01/10/26 16:31
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[01/10/2026 20:26:59] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: HG BRISBANE
+Manobra: Desatracação
+Data/Hora: 01/10/26 16:31
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: ZYON
+--------------------------------------------------
