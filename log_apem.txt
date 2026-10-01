@@ -8463,3 +8463,27 @@ De: 108
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[01/10/2026 16:47:23] NOVA MANOBRA:
+Navio: ST. MARY
+Manobra: Desatracação
+Data/Hora: 01/10/26 21:06
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[01/10/2026 16:47:23] NOVA MANOBRA:
+Navio: LUCIO COSTA
+Manobra: Atracação
+Data/Hora: 01/10/26 21:06
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[01/10/2026 16:47:23] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MAZOWSZE
+Manobra: Atracação
+Data/Hora: 01/10/26 10:56 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
