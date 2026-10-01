@@ -8351,3 +8351,115 @@ De: BOIA 19-24
 Para/Berço: 104
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[01/10/2026 11:38:06] NOVA MANOBRA:
+Navio: PHILIPPAKOS
+Manobra: Atracação
+Data/Hora: 01/10/26 16:01
+De: BOIA 19-24
+Para/Berço: 105
+Agência: WAYPOINT (SÃO LUIS)*
+--------------------------------------------------
+[01/10/2026 11:38:06] NOVA MANOBRA:
+Navio: OMISHIMA
+Manobra: Desatracação
+Data/Hora: 01/10/26 16:31
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[01/10/2026 11:38:06] NOVA MANOBRA:
+Navio: HG BRISBANE
+Manobra: Desatracação
+Data/Hora: 01/10/26 16:31
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: ZYON
+--------------------------------------------------
+[01/10/2026 11:38:06] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: YUAN YI HAI
+Manobra: Desatracação
+Data/Hora: 01/10/26 03:21
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[01/10/2026 11:38:06] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ORE TIANJIN
+Manobra: Atracação
+Data/Hora: 01/10/26 06:30 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[01/10/2026 11:38:06] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ORE FUZHOU
+Manobra: Atracação
+Data/Hora: 01/10/26 07:50 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[01/10/2026 11:38:06] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: NEW ORLEANS
+Manobra: Desatracação
+Data/Hora: 01/10/26 03:51
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[01/10/2026 11:38:06] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SAO HEAVEN
+Manobra: Desatracação
+Data/Hora: 01/10/26 03:51
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[01/10/2026 11:38:06] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: OTSL HERA
+Manobra: Desatracação
+Data/Hora: 01/10/26 07:55
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[01/10/2026 11:38:06] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PILATUS
+Manobra: Atracação
+Data/Hora: 01/10/26 10:15 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[01/10/2026 11:38:06] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AZUL BRISA
+Manobra: Desatracação
+Data/Hora: 01/10/26 07:55
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[01/10/2026 11:38:06] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FORTE DE SAO FELIPE
+Manobra: Desatracação
+Data/Hora: 01/10/26 08:10
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[01/10/2026 11:38:06] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CHANNEL PEARL
+Manobra: DA
+Data/Hora: 01/10/26 09:32 (horário real de atracação)
+De: ALUMAR 1
+Para/Berço: ALUMAR 2
+Agência: GEM**
+--------------------------------------------------
+[01/10/2026 11:38:06] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: JOSE ALENCAR
+Manobra: Desatracação
+Data/Hora: 01/10/26 08:55
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
