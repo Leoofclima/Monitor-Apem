@@ -8583,3 +8583,11 @@ De: PONTO ALPHA
 Para/Berço: 108
 Agência: ISS**
 --------------------------------------------------
+[02/10/2026 20:25:55] MANOBRA CONCLUÍDA (navio atracou):
+Navio: KAREN OLDENDORFF
+Manobra: Atracação
+Data/Hora: 02/10/26 18:20 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 100
+Agência: CARGONAVE**
+--------------------------------------------------
