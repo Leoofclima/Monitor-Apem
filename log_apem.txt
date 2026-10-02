@@ -8511,3 +8511,19 @@ De: 105
 Para/Berço: ILHA DO MEDO
 Agência: ZYON
 --------------------------------------------------
+[01/10/2026 23:24:50] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ST. MARY
+Manobra: Desatracação
+Data/Hora: 01/10/26 21:06
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[01/10/2026 23:24:50] MANOBRA CONCLUÍDA (navio atracou):
+Navio: LUCIO COSTA
+Manobra: Atracação
+Data/Hora: 01/10/26 22:50 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
