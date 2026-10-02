@@ -8527,3 +8527,59 @@ De: BOIA 19-24
 Para/Berço: 104
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[02/10/2026 16:53:58] NOVA MANOBRA:
+Navio: KAREN OLDENDORFF
+Manobra: Atracação
+Data/Hora: 02/10/26 16:21
+De: BOIA 19-24
+Para/Berço: 100
+Agência: CARGONAVE**
+--------------------------------------------------
+[02/10/2026 16:53:58] NOVA MANOBRA:
+Navio: ORE FUZHOU
+Manobra: Desatracação
+Data/Hora: 02/10/26 21:04
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[02/10/2026 16:53:58] NOVA MANOBRA:
+Navio: HAIZHU PROSPERITY
+Manobra: Atracação
+Data/Hora: 02/10/26 21:04
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
+[02/10/2026 16:53:58] NOVA MANOBRA:
+Navio: LIBERTY QUEEN
+Manobra: Atracação
+Data/Hora: 02/10/26 21:04
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: ISS**
+--------------------------------------------------
+[02/10/2026 16:53:58] NOVA MANOBRA:
+Navio: HORIZON THETIS
+Manobra: Desatracação
+Data/Hora: 02/10/26 22:04
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[02/10/2026 16:53:58] NOVA MANOBRA:
+Navio: MAZOWSZE
+Manobra: Desatracação
+Data/Hora: 02/10/26 22:19
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[02/10/2026 16:53:58] NOVA MANOBRA:
+Navio: KARIMATA
+Manobra: Atracação
+Data/Hora: 03/10/26 05:08
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: ISS**
+--------------------------------------------------
