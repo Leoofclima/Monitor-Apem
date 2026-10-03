@@ -8721,3 +8721,79 @@ De: ALUMAR 1
 Para/Berço: ILHA DO MEDO
 Agência: GEM**
 --------------------------------------------------
+[03/10/2026 10:18:47] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: CHANNEL PEARL
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 03/10/26 10:10
+Agora: 03/10/26 18:12
+Agência: GEM**
+--------------------------------------------------
+[03/10/2026 10:18:47] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: AMAZON PATHFINDER
+Manobra: Atracação
+Berço: ALUMAR 2
+Antes: 03/10/26 10:40
+Agora: 03/10/26 23:06
+Agência: ORION RODOS**
+--------------------------------------------------
+[03/10/2026 10:18:47] MANOBRA CONCLUÍDA (navio atracou):
+Navio: KARIMATA
+Manobra: Atracação
+Data/Hora: 03/10/26 07:30 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: ISS**
+--------------------------------------------------
+[03/10/2026 10:18:47] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: LUCIO COSTA
+Manobra: Desatracação
+Data/Hora: 03/10/26 05:38
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[03/10/2026 10:18:47] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MEDROSE
+Manobra: Atracação
+Data/Hora: 03/10/26 08:36 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: ALPHAMAR**
+--------------------------------------------------
+[03/10/2026 10:18:47] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: TRUSTN TRADER
+Manobra: Desatracação
+Data/Hora: 03/10/26 06:08
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[03/10/2026 10:18:47] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ANDREAS JR
+Manobra: Atracação
+Data/Hora: 03/10/26 08:08 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[03/10/2026 10:18:47] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PHILIPPAKOS
+Manobra: Desatracação
+Data/Hora: 03/10/26 06:08
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: WAYPOINT (SÃO LUIS)*
+--------------------------------------------------
+[03/10/2026 10:18:47] MANOBRA CONCLUÍDA (navio atracou):
+Navio: FLAG THENIA
+Manobra: Atracação
+Data/Hora: 03/10/26 09:30 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
