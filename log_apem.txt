@@ -8797,3 +8797,35 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 SUL
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[03/10/2026 14:25:23] NOVA MANOBRA:
+Navio: CLARITY
+Manobra: Atracação
+Data/Hora: 03/10/26 17:27
+De: BOIA 19-24
+Para/Berço: 106
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[03/10/2026 14:25:23] NOVA MANOBRA:
+Navio: BRASSIANA
+Manobra: Atracação
+Data/Hora: 03/10/26 17:27
+De: BOIA 19-24
+Para/Berço: 99
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[03/10/2026 14:25:23] NOVA MANOBRA:
+Navio: ARCTOS
+Manobra: Atracação
+Data/Hora: 03/10/26 17:57
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[03/10/2026 14:25:23] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PILATUS
+Manobra: Desatracação
+Data/Hora: 03/10/26 06:40
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
