@@ -4,5 +4,7 @@
   "LIBERTY QUEEN | 02/10/26 | 21:04 | EA | PIER 3 NORTE": "Navio: LIBERTY QUEEN\nManobra: Atracação\nData/Hora: 02/10/26 21:04\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: ISS**",
   "HORIZON THETIS | 02/10/26 | 22:04 | DS | ILHA DO MEDO": "Navio: HORIZON THETIS\nManobra: Desatracação\nData/Hora: 02/10/26 22:04\nDe: 106\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
   "MAZOWSZE | 02/10/26 | 22:19 | DS | ILHA DO MEDO": "Navio: MAZOWSZE\nManobra: Desatracação\nData/Hora: 02/10/26 22:19\nDe: ALUMAR 1\nPara/Berço: ILHA DO MEDO\nAgência: GEM**",
-  "KARIMATA | 03/10/26 | 05:08 | EA | 108": "Navio: KARIMATA\nManobra: Atracação\nData/Hora: 03/10/26 05:08\nDe: PONTO ALPHA\nPara/Berço: 108\nAgência: ISS**"
+  "KARIMATA | 03/10/26 | 05:08 | EA | 108": "Navio: KARIMATA\nManobra: Atracação\nData/Hora: 03/10/26 05:08\nDe: PONTO ALPHA\nPara/Berço: 108\nAgência: ISS**",
+  "LUCIO COSTA | 03/10/26 | 05:38 | DS | ILHA DO MEDO": "Navio: LUCIO COSTA\nManobra: Desatracação\nData/Hora: 03/10/26 05:38\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "BABITONGA | 03/10/26 | 05:38 | DA | 101/SUL": "Navio: BABITONGA\nManobra: DA\nData/Hora: 03/10/26 05:38\nDe: 99\nPara/Berço: 101/SUL\nAgência: ORION RODOS**"
 }
