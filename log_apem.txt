@@ -8901,3 +8901,35 @@ De: PIER 1
 Para/Berço: ILHA DO MEDO
 Agência: ISS**
 --------------------------------------------------
+[04/10/2026 15:10:39] NOVA MANOBRA:
+Navio: ORE TIANJIN
+Manobra: Desatracação
+Data/Hora: 04/10/26 19:23
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[04/10/2026 15:10:39] NOVA MANOBRA:
+Navio: LIBERTY QUEEN
+Manobra: Desatracação
+Data/Hora: 04/10/26 19:23
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[04/10/2026 15:10:39] NOVA MANOBRA:
+Navio: FORTE SAO MARCELO
+Manobra: Atracação
+Data/Hora: 04/10/26 19:23
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[04/10/2026 15:10:39] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AGHIA MARINA
+Manobra: Atracação
+Data/Hora: 04/10/26 14:00 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
