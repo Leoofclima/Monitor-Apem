@@ -8933,3 +8933,53 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 1
 Agência: GEM**
 --------------------------------------------------
+[04/10/2026 18:29:13] NOVA MANOBRA:
+Navio: SAMJOHN DREAM
+Manobra: Atracação
+Data/Hora: 04/10/26 23:55
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[04/10/2026 18:29:13] NOVA MANOBRA:
+Navio: FLAG THENIA
+Manobra: Desatracação
+Data/Hora: 04/10/26 23:55
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[04/10/2026 18:29:13] NOVA MANOBRA:
+Navio: CLARITY
+Manobra: Desatracação
+Data/Hora: 05/10/26 07:53
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[04/10/2026 18:29:13] NOVA MANOBRA:
+Navio: HORIZON ARMONIA
+Manobra: Atracação
+Data/Hora: 05/10/26 07:53
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[04/10/2026 18:29:13] NOVA MANOBRA:
+Navio: ARCTOS
+Manobra: Desatracação
+Data/Hora: 05/10/26 08:53
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[04/10/2026 18:29:13] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: ORE TIANJIN
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 04/10/26 19:23
+Agora: 04/10/26 23:55
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
