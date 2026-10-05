@@ -9019,3 +9019,51 @@ Antes: 04/10/26 23:55
 Agora: 08/10/26 08:23
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[05/10/2026 02:26:26] NOVA MANOBRA:
+Navio: AMAZON PATHFINDER
+Manobra: Desatracação
+Data/Hora: 05/10/26 08:38
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[05/10/2026 02:26:26] NOVA MANOBRA:
+Navio: FLUMAR BRASIL
+Manobra: Atracação
+Data/Hora: 05/10/26 14:29
+De: BOIA 19-24
+Para/Berço: 106 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[05/10/2026 02:26:26] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: HAIZHU PROSPERITY
+Manobra: Desatracação
+Data/Hora: 04/10/26 19:23
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[05/10/2026 02:26:26] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: LIBERTY QUEEN
+Manobra: Desatracação
+Data/Hora: 04/10/26 19:23
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[05/10/2026 02:26:26] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ORE KOREA
+Manobra: Atracação
+Data/Hora: 04/10/26 22:50 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
+[05/10/2026 02:26:26] MANOBRA CONCLUÍDA (navio atracou):
+Navio: FORTE SAO MARCELO
+Manobra: Atracação
+Data/Hora: 04/10/26 21:28 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
