@@ -9067,3 +9067,63 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 NORTE
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[05/10/2026 09:27:50] NOVA MANOBRA:
+Navio: KAREN OLDENDORFF
+Manobra: Desatracação
+Data/Hora: 05/10/26 08:23
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: CARGONAVE**
+--------------------------------------------------
+[05/10/2026 09:27:50] NOVA MANOBRA:
+Navio: MEDROSE
+Manobra: Desatracação
+Data/Hora: 05/10/26 12:29
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[05/10/2026 09:27:50] NOVA MANOBRA:
+Navio: IBIS BULKER
+Manobra: Atracação
+Data/Hora: 05/10/26 12:59
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[05/10/2026 09:27:50] NOVA MANOBRA:
+Navio: AMAZON PIONEER
+Manobra: Atracação
+Data/Hora: 05/10/26 13:44
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[05/10/2026 09:27:50] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: FLAG THENIA
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 08/10/26 08:23
+Agora: 05/10/26 08:23
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[05/10/2026 09:27:50] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: AMAZON PATHFINDER
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 05/10/26 08:38
+Agora: 05/10/26 13:14
+Agência: ORION RODOS**
+--------------------------------------------------
+[05/10/2026 09:27:50] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ORE TIANJIN
+Manobra: Desatracação
+Data/Hora: 04/10/26 23:55
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
