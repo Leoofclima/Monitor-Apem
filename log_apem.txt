@@ -9127,3 +9127,111 @@ De: PIER 4 SUL
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[05/10/2026 17:43:49] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: IBIS BULKER
+Manobra: Atracação
+Berço: 102/CENTRO
+Antes: 05/10/26 12:59
+Agora: 05/10/26 20:53
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[05/10/2026 17:43:49] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: MEDROSE
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 05/10/26 12:29
+Agora: 05/10/26 21:23
+Agência: ALPHAMAR**
+--------------------------------------------------
+[05/10/2026 17:43:49] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: CLARITY
+Manobra: Desatracação
+Data/Hora: 05/10/26 07:53
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[05/10/2026 17:43:49] MANOBRA CONCLUÍDA (navio atracou):
+Navio: HORIZON THETIS
+Manobra: Atracação
+Data/Hora: 05/10/26 10:20 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 108 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[05/10/2026 17:43:49] MANOBRA CONCLUÍDA (navio atracou):
+Navio: HORIZON ARMONIA
+Manobra: Atracação
+Data/Hora: 05/10/26 09:50 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[05/10/2026 17:43:49] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BOW CHEETAH
+Manobra: Atracação
+Data/Hora: 05/10/26 10:50 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: ROCHAMAR**
+--------------------------------------------------
+[05/10/2026 17:43:49] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SAMJOHN DREAM
+Manobra: Atracação
+Data/Hora: 05/10/26 10:20 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[05/10/2026 17:43:49] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: KAREN OLDENDORFF
+Manobra: Desatracação
+Data/Hora: 05/10/26 08:23
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: CARGONAVE**
+--------------------------------------------------
+[05/10/2026 17:43:49] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FLAG THENIA
+Manobra: Desatracação
+Data/Hora: 05/10/26 08:23
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[05/10/2026 17:43:49] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ARCTOS
+Manobra: Desatracação
+Data/Hora: 05/10/26 08:53
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[05/10/2026 17:43:49] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AMAZON PATHFINDER
+Manobra: Desatracação
+Data/Hora: 05/10/26 13:14
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[05/10/2026 17:43:49] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AMAZON PIONEER
+Manobra: Atracação
+Data/Hora: 05/10/26 16:10 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[05/10/2026 17:43:49] MANOBRA CONCLUÍDA (navio atracou):
+Navio: FLUMAR BRASIL
+Manobra: Atracação
+Data/Hora: 05/10/26 16:50 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 106 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
