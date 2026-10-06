@@ -9235,3 +9235,35 @@ De: BOIA 19-24
 Para/Berço: 106 EXT
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[05/10/2026 22:25:58] NOVA MANOBRA:
+Navio: HORIZON THETIS
+Manobra: Desatracação
+Data/Hora: 06/10/26 02:17
+De: 108 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[05/10/2026 22:25:58] NOVA MANOBRA:
+Navio: AGHIA MARINA
+Manobra: Desatracação
+Data/Hora: 06/10/26 02:32
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[05/10/2026 22:25:58] NOVA MANOBRA:
+Navio: FILIZ
+Manobra: Atracação
+Data/Hora: 06/10/26 10:14
+De: BOIA 19-24
+Para/Berço: 104
+Agência: NORTH STAR**
+--------------------------------------------------
+[05/10/2026 22:25:58] NOVA MANOBRA:
+Navio: JAL DHVANI
+Manobra: Atracação
+Data/Hora: 06/10/26 14:53
+De: PONTO ALPHA
+Para/Berço: ALUMAR 1
+Agência: HARMS**
+--------------------------------------------------
