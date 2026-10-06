@@ -1,6 +1,12 @@
 {
-  "NAVIOS AZALEA | 06/10/26 | 09:44 | EA | PIER 3 NORTE": "Navio: NAVIOS AZALEA\nManobra: Atracação\nData/Hora: 06/10/26 09:44\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: LMA SHIPPING **",
-  "FORTE SAO MARCELO | 06/10/26 | 09:44 | DS | ILHA DO MEDO": "Navio: FORTE SAO MARCELO\nManobra: Desatracação\nData/Hora: 06/10/26 09:44\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
   "FILIZ | 06/10/26 | 10:14 | EA | 104": "Navio: FILIZ\nManobra: Atracação\nData/Hora: 06/10/26 10:14\nDe: BOIA 19-24\nPara/Berço: 104\nAgência: NORTH STAR**",
-  "JAL DHVANI | 06/10/26 | 14:53 | EA | ALUMAR 1": "Navio: JAL DHVANI\nManobra: Atracação\nData/Hora: 06/10/26 14:53\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 1\nAgência: HARMS**"
+  "LIVORNO | 06/10/26 | 10:14 | EA | 105": "Navio: LIVORNO\nManobra: Atracação\nData/Hora: 06/10/26 10:14\nDe: BOIA 19-24\nPara/Berço: 105\nAgência: ALPHAMAR**",
+  "ANDREAS JR | 06/10/26 | 10:14 | DS | ILHA DO MEDO": "Navio: ANDREAS JR\nManobra: Desatracação\nData/Hora: 06/10/26 10:14\nDe: 105\nPara/Berço: ILHA DO MEDO\nAgência: FERTIMPORT - S.L **",
+  "BOW CHEETAH | 06/10/26 | 10:14 | DS | ILHA DO MEDO": "Navio: BOW CHEETAH\nManobra: Desatracação\nData/Hora: 06/10/26 10:14\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: ROCHAMAR**",
+  "LANGLOIS SKIATHOS | 06/10/26 | 14:08 | EA | 103/NORTE": "Navio: LANGLOIS SKIATHOS\nManobra: Atracação\nData/Hora: 06/10/26 14:08\nDe: BOIA 19-24\nPara/Berço: 103/NORTE\nAgência: WILSON SONS **",
+  "NAVIOS AZALEA | 06/10/26 | 14:08 | EA | PIER 3 NORTE": "Navio: NAVIOS AZALEA\nManobra: Atracação\nData/Hora: 06/10/26 14:08\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: LMA SHIPPING **",
+  "BERGE ACONCAGUA | 06/10/26 | 14:08 | EA | PIER 4 SUL": "Navio: BERGE ACONCAGUA\nManobra: Atracação\nData/Hora: 06/10/26 14:08\nDe: PONTO ALPHA\nPara/Berço: PIER 4 SUL\nAgência: WILHELMSEN PORT**",
+  "JAL DHVANI | 06/10/26 | 14:53 | EA | ALUMAR 1": "Navio: JAL DHVANI\nManobra: Atracação\nData/Hora: 06/10/26 14:53\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 1\nAgência: HARMS**",
+  "FLUMAR BRASIL | 06/10/26 | 15:08 | DS | ILHA DO MEDO": "Navio: FLUMAR BRASIL\nManobra: Desatracação\nData/Hora: 06/10/26 15:08\nDe: 106 EXT\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "SUMMER QUEEN | 06/10/26 | 15:38 | EA | 100": "Navio: SUMMER QUEEN\nManobra: Atracação\nData/Hora: 06/10/26 15:38\nDe: BOIA 19-24\nPara/Berço: 100\nAgência: FERTIMPORT - S.L **"
 }

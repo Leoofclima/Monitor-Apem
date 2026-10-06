@@ -9315,3 +9315,77 @@ De: ALUMAR 1
 Para/Berço: ILHA DO MEDO
 Agência: GEM**
 --------------------------------------------------
+[06/10/2026 11:29:40] NOVA MANOBRA:
+Navio: LIVORNO
+Manobra: Atracação
+Data/Hora: 06/10/26 10:14
+De: BOIA 19-24
+Para/Berço: 105
+Agência: ALPHAMAR**
+--------------------------------------------------
+[06/10/2026 11:29:40] NOVA MANOBRA:
+Navio: ANDREAS JR
+Manobra: Desatracação
+Data/Hora: 06/10/26 10:14
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[06/10/2026 11:29:40] NOVA MANOBRA:
+Navio: BOW CHEETAH
+Manobra: Desatracação
+Data/Hora: 06/10/26 10:14
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: ROCHAMAR**
+--------------------------------------------------
+[06/10/2026 11:29:40] NOVA MANOBRA:
+Navio: LANGLOIS SKIATHOS
+Manobra: Atracação
+Data/Hora: 06/10/26 14:08
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: WILSON SONS **
+--------------------------------------------------
+[06/10/2026 11:29:40] NOVA MANOBRA:
+Navio: BERGE ACONCAGUA
+Manobra: Atracação
+Data/Hora: 06/10/26 14:08
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[06/10/2026 11:29:40] NOVA MANOBRA:
+Navio: FLUMAR BRASIL
+Manobra: Desatracação
+Data/Hora: 06/10/26 15:08
+De: 106 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[06/10/2026 11:29:40] NOVA MANOBRA:
+Navio: SUMMER QUEEN
+Manobra: Atracação
+Data/Hora: 06/10/26 15:38
+De: BOIA 19-24
+Para/Berço: 100
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[06/10/2026 11:29:40] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: NAVIOS AZALEA
+Manobra: Atracação
+Berço: PIER 3 NORTE
+Antes: 06/10/26 09:44
+Agora: 06/10/26 14:08
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[06/10/2026 11:29:40] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FORTE SAO MARCELO
+Manobra: Desatracação
+Data/Hora: 06/10/26 09:44
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
