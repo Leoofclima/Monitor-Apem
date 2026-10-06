@@ -9447,3 +9447,79 @@ De: 104
 Para/Berço: ILHA DO MEDO
 Agência: ROCHAMAR**
 --------------------------------------------------
+[06/10/2026 20:17:53] NOVA MANOBRA:
+Navio: BABITONGA
+Manobra: Desatracação
+Data/Hora: 06/10/26 22:34
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[06/10/2026 20:17:53] NOVA MANOBRA:
+Navio: PACIFIC AUSPICE
+Manobra: Atracação
+Data/Hora: 07/10/26 02:29
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[06/10/2026 20:17:53] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: ORE KOREA
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 06/10/26 22:04
+Agora: 07/10/26 02:29
+Agência: ISS**
+--------------------------------------------------
+[06/10/2026 20:17:53] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: ORE GUANGZHOU
+Manobra: Atracação
+Berço: PIER 1
+Antes: 06/10/26 22:04
+Agora: 07/10/26 02:29
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[06/10/2026 20:17:53] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BERGE ACONCAGUA
+Manobra: Atracação
+Data/Hora: 06/10/26 17:50 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[06/10/2026 20:17:53] MANOBRA CONCLUÍDA (navio atracou):
+Navio: NAVIOS AZALEA
+Manobra: Atracação
+Data/Hora: 06/10/26 16:50 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[06/10/2026 20:17:53] MANOBRA CONCLUÍDA (navio atracou):
+Navio: LANGLOIS SKIATHOS
+Manobra: Atracação
+Data/Hora: 06/10/26 15:48 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: WILSON SONS **
+--------------------------------------------------
+[06/10/2026 20:17:53] MANOBRA CONCLUÍDA (navio atracou):
+Navio: JAL DHVANI
+Manobra: Atracação
+Data/Hora: 06/10/26 17:27 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 1
+Agência: HARMS**
+--------------------------------------------------
+[06/10/2026 20:17:53] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SUMMER QUEEN
+Manobra: Atracação
+Data/Hora: 06/10/26 17:23 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 100
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
