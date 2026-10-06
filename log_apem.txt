@@ -9389,3 +9389,61 @@ De: PIER 3 NORTE
 Para/Berço: ILHA DO MEDO
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[06/10/2026 16:44:34] NOVA MANOBRA:
+Navio: ORE GUANGZHOU
+Manobra: Atracação
+Data/Hora: 06/10/26 22:04
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[06/10/2026 16:44:34] NOVA MANOBRA:
+Navio: ORE KOREA
+Manobra: Desatracação
+Data/Hora: 06/10/26 22:04
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[06/10/2026 16:44:34] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: FLUMAR BRASIL
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 06/10/26 15:08
+Agora: 06/10/26 21:34
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[06/10/2026 16:44:34] MANOBRA CONCLUÍDA (navio atracou):
+Navio: FILIZ
+Manobra: Atracação
+Data/Hora: 06/10/26 13:00 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: NORTH STAR**
+--------------------------------------------------
+[06/10/2026 16:44:34] MANOBRA CONCLUÍDA (navio atracou):
+Navio: LIVORNO
+Manobra: Atracação
+Data/Hora: 06/10/26 12:30 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: ALPHAMAR**
+--------------------------------------------------
+[06/10/2026 16:44:34] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ANDREAS JR
+Manobra: Desatracação
+Data/Hora: 06/10/26 10:14
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[06/10/2026 16:44:34] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BOW CHEETAH
+Manobra: Desatracação
+Data/Hora: 06/10/26 10:14
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: ROCHAMAR**
+--------------------------------------------------
