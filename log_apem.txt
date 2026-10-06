@@ -9267,3 +9267,51 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 1
 Agência: HARMS**
 --------------------------------------------------
+[06/10/2026 04:46:30] NOVA MANOBRA:
+Navio: NAVIOS AZALEA
+Manobra: Atracação
+Data/Hora: 06/10/26 09:44
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[06/10/2026 04:46:30] NOVA MANOBRA:
+Navio: FORTE SAO MARCELO
+Manobra: Desatracação
+Data/Hora: 06/10/26 09:44
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[06/10/2026 04:46:30] MANOBRA CONCLUÍDA (navio atracou):
+Navio: IBIS BULKER
+Manobra: Atracação
+Data/Hora: 05/10/26 23:20 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[06/10/2026 04:46:30] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: MEDROSE
+Manobra: Desatracação
+Data/Hora: 05/10/26 21:23
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[06/10/2026 04:46:30] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: HORIZON THETIS
+Manobra: Desatracação
+Data/Hora: 06/10/26 02:17
+De: 108 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[06/10/2026 04:46:30] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AGHIA MARINA
+Manobra: Desatracação
+Data/Hora: 06/10/26 02:32
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
