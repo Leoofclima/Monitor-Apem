@@ -9619,3 +9619,59 @@ De: 106
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[07/10/2026 13:21:38] NOVA MANOBRA:
+Navio: AFRICAN SWIFT
+Manobra: Atracação
+Data/Hora: 07/10/26 15:02
+De: BOIA 19-24
+Para/Berço: 101/SUL
+Agência: ALPHAMAR**
+--------------------------------------------------
+[07/10/2026 13:21:38] NOVA MANOBRA:
+Navio: CLEAROCEAN MELODY
+Manobra: Atracação
+Data/Hora: 07/10/26 16:32
+De: BOIA 19-24
+Para/Berço: 106 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[07/10/2026 13:21:38] NOVA MANOBRA:
+Navio: BH CAPRICORN
+Manobra: Atracação
+Data/Hora: 07/10/26 23:02
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: ISS**
+--------------------------------------------------
+[07/10/2026 13:21:38] NOVA MANOBRA:
+Navio: SAMJOHN DREAM
+Manobra: Desatracação
+Data/Hora: 07/10/26 23:02
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[07/10/2026 13:21:38] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ORE GUANGZHOU
+Manobra: Atracação
+Data/Hora: 07/10/26 05:46 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[07/10/2026 13:21:38] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SEA PENGUIN
+Manobra: Atracação
+Data/Hora: 07/10/26 06:29 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: GAC**
+--------------------------------------------------
+[07/10/2026 13:21:38] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: KARIMATA
+Manobra: Desatracação
+Data/Hora: 07/10/26 10:16
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
