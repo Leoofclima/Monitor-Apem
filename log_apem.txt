@@ -9555,3 +9555,67 @@ De: PONTO ALPHA
 Para/Berço: 106
 Agência: GAC**
 --------------------------------------------------
+[07/10/2026 06:02:36] NOVA MANOBRA:
+Navio: KARIMATA
+Manobra: Desatracação
+Data/Hora: 07/10/26 10:16
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[07/10/2026 06:02:36] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FLUMAR BRASIL
+Manobra: Desatracação
+Data/Hora: 06/10/26 21:34
+De: 106 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[07/10/2026 06:02:36] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BABITONGA
+Manobra: Desatracação
+Data/Hora: 06/10/26 22:34
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[07/10/2026 06:02:36] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ORE KOREA
+Manobra: Desatracação
+Data/Hora: 07/10/26 02:29
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[07/10/2026 06:02:36] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PACIFIC AUSPICE
+Manobra: Atracação
+Data/Hora: 07/10/26 05:45 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[07/10/2026 06:02:36] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AMAZON PIONEER
+Manobra: Desatracação
+Data/Hora: 07/10/26 02:44
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[07/10/2026 06:02:36] MANOBRA CONCLUÍDA (navio atracou):
+Navio: FORTE DE SAO JOSE
+Manobra: Atracação
+Data/Hora: 07/10/26 05:10 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[07/10/2026 06:02:36] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: HORIZON ARMONIA
+Manobra: Desatracação
+Data/Hora: 07/10/26 03:29
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
