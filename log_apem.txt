@@ -9675,3 +9675,27 @@ De: 108
 Para/Berço: ILHA DO MEDO
 Agência: ISS**
 --------------------------------------------------
+[07/10/2026 18:25:14] NOVA MANOBRA:
+Navio: BARBOSA LIMA SOBRINHO
+Manobra: Atracação
+Data/Hora: 07/10/26 23:02
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[07/10/2026 18:25:14] NOVA MANOBRA:
+Navio: IBIS BULKER
+Manobra: Desatracação
+Data/Hora: 07/10/26 23:32
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[07/10/2026 18:25:14] NOVA MANOBRA:
+Navio: BRASSIANA
+Manobra: Desatracação
+Data/Hora: 08/10/26 04:51
+De: 99
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
