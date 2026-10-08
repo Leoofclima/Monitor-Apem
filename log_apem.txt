@@ -9733,3 +9733,75 @@ Agência: WILHELMSEN PORT**
 --------------------------------------------------
 [08/10/2026 04:18:08] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7fa20160aa80>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[08/10/2026 11:38:15] NOVA MANOBRA:
+Navio: NAVIOS AZALEA
+Manobra: Desatracação
+Data/Hora: 08/10/26 11:36
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[08/10/2026 11:38:15] NOVA MANOBRA:
+Navio: JAL DHVANI
+Manobra: Desatracação
+Data/Hora: 08/10/26 16:04
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: HARMS**
+--------------------------------------------------
+[08/10/2026 11:38:15] NOVA MANOBRA:
+Navio: UBC HALIFAX
+Manobra: Atracação
+Data/Hora: 08/10/26 16:34
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: WILLIAMS**
+--------------------------------------------------
+[08/10/2026 11:38:15] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BH CAPRICORN
+Manobra: Atracação
+Data/Hora: 08/10/26 01:45 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: ISS**
+--------------------------------------------------
+[08/10/2026 11:38:15] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SAMJOHN DREAM
+Manobra: Desatracação
+Data/Hora: 07/10/26 23:02
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[08/10/2026 11:38:15] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BARBOSA LIMA SOBRINHO
+Manobra: Atracação
+Data/Hora: 08/10/26 01:40 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[08/10/2026 11:38:15] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: IBIS BULKER
+Manobra: Desatracação
+Data/Hora: 07/10/26 23:32
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[08/10/2026 11:38:15] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PRESTIGE DIVA
+Manobra: Atracação
+Data/Hora: 08/10/26 08:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 99
+Agência: ALPHAMAR**
+--------------------------------------------------
+[08/10/2026 11:38:15] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BRASSIANA
+Manobra: Desatracação
+Data/Hora: 08/10/26 04:51
+De: 99
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------

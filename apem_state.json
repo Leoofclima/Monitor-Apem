@@ -1,9 +1,6 @@
 {
-  "BH CAPRICORN | 07/10/26 | 23:02 | EA | PIER 3 SUL": "Navio: BH CAPRICORN\nManobra: Atracação\nData/Hora: 07/10/26 23:02\nDe: PONTO ALPHA\nPara/Berço: PIER 3 SUL\nAgência: ISS**",
-  "SAMJOHN DREAM | 07/10/26 | 23:02 | DS | ILHA DO MEDO": "Navio: SAMJOHN DREAM\nManobra: Desatracação\nData/Hora: 07/10/26 23:02\nDe: PIER 3 SUL\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
-  "BARBOSA LIMA SOBRINHO | 07/10/26 | 23:02 | EA | 102/CENTRO": "Navio: BARBOSA LIMA SOBRINHO\nManobra: Atracação\nData/Hora: 07/10/26 23:02\nDe: BOIA 19-24\nPara/Berço: 102/CENTRO\nAgência: WILHELMSEN PORT**",
-  "IBIS BULKER | 07/10/26 | 23:32 | DS | ILHA DO MEDO": "Navio: IBIS BULKER\nManobra: Desatracação\nData/Hora: 07/10/26 23:32\nDe: 102/CENTRO\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "PRESTIGE DIVA | 08/10/26 | 04:51 | EA | 99": "Navio: PRESTIGE DIVA\nManobra: Atracação\nData/Hora: 08/10/26 04:51\nDe: PONTO ALPHA\nPara/Berço: 99\nAgência: ALPHAMAR**",
-  "BRASSIANA | 08/10/26 | 04:51 | DS | ILHA DO MEDO": "Navio: BRASSIANA\nManobra: Desatracação\nData/Hora: 08/10/26 04:51\nDe: 99\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "PACIFIC AZUR | 08/10/26 | 11:06 | EA | 108": "Navio: PACIFIC AZUR\nManobra: Atracação\nData/Hora: 08/10/26 11:06\nDe: PONTO ALPHA\nPara/Berço: 108\nAgência: NORTH STAR**"
+  "PACIFIC AZUR | 08/10/26 | 11:06 | EA | 108": "Navio: PACIFIC AZUR\nManobra: Atracação\nData/Hora: 08/10/26 11:06\nDe: PONTO ALPHA\nPara/Berço: 108\nAgência: NORTH STAR**",
+  "NAVIOS AZALEA | 08/10/26 | 11:36 | DS | ILHA DO MEDO": "Navio: NAVIOS AZALEA\nManobra: Desatracação\nData/Hora: 08/10/26 11:36\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
+  "JAL DHVANI | 08/10/26 | 16:04 | DS | ILHA DO MEDO": "Navio: JAL DHVANI\nManobra: Desatracação\nData/Hora: 08/10/26 16:04\nDe: ALUMAR 1\nPara/Berço: ILHA DO MEDO\nAgência: HARMS**",
+  "UBC HALIFAX | 08/10/26 | 16:34 | EA | ALUMAR 1": "Navio: UBC HALIFAX\nManobra: Atracação\nData/Hora: 08/10/26 16:34\nDe: BOIA 19-24\nPara/Berço: ALUMAR 1\nAgência: WILLIAMS**"
 }
