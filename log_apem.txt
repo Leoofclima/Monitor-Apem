@@ -9699,3 +9699,35 @@ De: 99
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[07/10/2026 22:07:57] NOVA MANOBRA:
+Navio: PRESTIGE DIVA
+Manobra: Atracação
+Data/Hora: 08/10/26 04:51
+De: PONTO ALPHA
+Para/Berço: 99
+Agência: ALPHAMAR**
+--------------------------------------------------
+[07/10/2026 22:07:57] NOVA MANOBRA:
+Navio: PACIFIC AZUR
+Manobra: Atracação
+Data/Hora: 08/10/26 11:06
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: NORTH STAR**
+--------------------------------------------------
+[07/10/2026 22:07:57] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AFRICAN SWIFT
+Manobra: Atracação
+Data/Hora: 07/10/26 17:34 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 101/SUL
+Agência: ALPHAMAR**
+--------------------------------------------------
+[07/10/2026 22:07:57] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CLEAROCEAN MELODY
+Manobra: Atracação
+Data/Hora: 07/10/26 18:24 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 106 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
