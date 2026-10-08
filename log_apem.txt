@@ -9805,3 +9805,59 @@ De: 99
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[08/10/2026 17:06:02] NOVA MANOBRA:
+Navio: CLEAROCEAN MELODY
+Manobra: Desatracação
+Data/Hora: 08/10/26 16:49
+De: 106 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[08/10/2026 17:06:02] NOVA MANOBRA:
+Navio: BERGE ACONCAGUA
+Manobra: Desatracação
+Data/Hora: 08/10/26 23:25
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[08/10/2026 17:06:02] NOVA MANOBRA:
+Navio: ORE ITALIA
+Manobra: Atracação
+Data/Hora: 08/10/26 23:55
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: ISS**
+--------------------------------------------------
+[08/10/2026 17:06:02] NOVA MANOBRA:
+Navio: FORTE DE SAO JOSE
+Manobra: Desatracação
+Data/Hora: 09/10/26 00:10
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[08/10/2026 17:06:02] NOVA MANOBRA:
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Atracação
+Data/Hora: 09/10/26 04:51
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[08/10/2026 17:06:02] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PACIFIC AZUR
+Manobra: Atracação
+Data/Hora: 08/10/26 12:55 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: NORTH STAR**
+--------------------------------------------------
+[08/10/2026 17:06:02] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: NAVIOS AZALEA
+Manobra: Desatracação
+Data/Hora: 08/10/26 11:36
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
