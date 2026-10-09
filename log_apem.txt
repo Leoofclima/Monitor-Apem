@@ -9861,3 +9861,27 @@ De: PIER 3 NORTE
 Para/Berço: ILHA DO MEDO
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[08/10/2026 21:17:17] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: JAL DHVANI
+Manobra: Desatracação
+Data/Hora: 08/10/26 16:04
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: HARMS**
+--------------------------------------------------
+[08/10/2026 21:17:17] MANOBRA CONCLUÍDA (navio atracou):
+Navio: UBC HALIFAX
+Manobra: Atracação
+Data/Hora: 08/10/26 18:15 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: WILLIAMS**
+--------------------------------------------------
+[08/10/2026 21:17:17] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: CLEAROCEAN MELODY
+Manobra: Desatracação
+Data/Hora: 08/10/26 16:49
+De: 106 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
