@@ -1,14 +1,4 @@
 {
-  "BERGE ACONCAGUA | 08/10/26 | 23:25 | DS | ILHA DO MEDO": "Navio: BERGE ACONCAGUA\nManobra: Desatracação\nData/Hora: 08/10/26 23:25\nDe: PIER 4 SUL\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "ORE ITALIA | 08/10/26 | 23:55 | EA | PIER 4 SUL": "Navio: ORE ITALIA\nManobra: Atracação\nData/Hora: 08/10/26 23:55\nDe: PONTO ALPHA\nPara/Berço: PIER 4 SUL\nAgência: ISS**",
-  "AFRICAN SWIFT | 09/10/26 | 03:36 | DS | ILHA DO MEDO": "Navio: AFRICAN SWIFT\nManobra: Desatracação\nData/Hora: 09/10/26 03:36\nDe: 101/SUL\nPara/Berço: ILHA DO MEDO\nAgência: ALPHAMAR**",
-  "LANGLOIS SKIATHOS | 09/10/26 | 03:36 | DS | ILHA DO MEDO": "Navio: LANGLOIS SKIATHOS\nManobra: Desatracação\nData/Hora: 09/10/26 03:36\nDe: 103/NORTE\nPara/Berço: ILHA DO MEDO\nAgência: WILSON SONS **",
-  "STAR NORGE | 09/10/26 | 04:06 | EA | 103/NORTE": "Navio: STAR NORGE\nManobra: Atracação\nData/Hora: 09/10/26 04:06\nDe: BOIA 19-24\nPara/Berço: 103/NORTE\nAgência: ROCHAMAR**",
-  "SAN ANTONIO | 09/10/26 | 04:06 | EA | 101/SUL": "Navio: SAN ANTONIO\nManobra: Atracação\nData/Hora: 09/10/26 04:06\nDe: PONTO ALPHA\nPara/Berço: 101/SUL\nAgência: ALPHAMAR**",
-  "ORE GUANGZHOU | 09/10/26 | 04:06 | DS | ILHA DO MEDO": "Navio: ORE GUANGZHOU\nManobra: Desatracação\nData/Hora: 09/10/26 04:06\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "YUAN GU HAI | 09/10/26 | 04:06 | EA | PIER 1": "Navio: YUAN GU HAI\nManobra: Atracação\nData/Hora: 09/10/26 04:06\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: ISS**",
-  "FORTE DE SAO JOSE | 09/10/26 | 04:21 | DS | ILHA DO MEDO": "Navio: FORTE DE SAO JOSE\nManobra: Desatracação\nData/Hora: 09/10/26 04:21\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
-  "CASTILLO DE SANTA MARIA | 09/10/26 | 04:51 | EA | ALUMAR 2": "Navio: CASTILLO DE SANTA MARIA\nManobra: Atracação\nData/Hora: 09/10/26 04:51\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 2\nAgência: ORION RODOS**",
-  "BARBOSA LIMA SOBRINHO | 09/10/26 | 12:44 | DS | ILHA DO MEDO": "Navio: BARBOSA LIMA SOBRINHO\nManobra: Desatracação\nData/Hora: 09/10/26 12:44\nDe: 102/CENTRO\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "FILIZ | 09/10/26 | 12:44 | DS | ILHA DO MEDO": "Navio: FILIZ\nManobra: Desatracação\nData/Hora: 09/10/26 12:44\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: NORTH STAR**"
+  "FILIZ | 09/10/26 | 12:44 | DS | ILHA DO MEDO": "Navio: FILIZ\nManobra: Desatracação\nData/Hora: 09/10/26 12:44\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: NORTH STAR**",
+  "BARBOSA LIMA SOBRINHO | 09/10/26 | 12:44 | DS | ILHA DO MEDO": "Navio: BARBOSA LIMA SOBRINHO\nManobra: Desatracação\nData/Hora: 09/10/26 12:44\nDe: 102/CENTRO\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**"
 }

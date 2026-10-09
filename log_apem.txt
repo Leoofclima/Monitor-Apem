@@ -9959,3 +9959,83 @@ Antes: 09/10/26 00:10
 Agora: 09/10/26 04:21
 Agência: ORION RODOS**
 --------------------------------------------------
+[09/10/2026 10:23:22] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BERGE ACONCAGUA
+Manobra: Desatracação
+Data/Hora: 08/10/26 23:25
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[09/10/2026 10:23:22] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ORE ITALIA
+Manobra: Atracação
+Data/Hora: 09/10/26 03:44 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: ISS**
+--------------------------------------------------
+[09/10/2026 10:23:22] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AFRICAN SWIFT
+Manobra: Desatracação
+Data/Hora: 09/10/26 03:36
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[09/10/2026 10:23:22] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: LANGLOIS SKIATHOS
+Manobra: Desatracação
+Data/Hora: 09/10/26 03:36
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[09/10/2026 10:23:22] MANOBRA CONCLUÍDA (navio atracou):
+Navio: STAR NORGE
+Manobra: Atracação
+Data/Hora: 09/10/26 06:10 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: ROCHAMAR**
+--------------------------------------------------
+[09/10/2026 10:23:22] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SAN ANTONIO
+Manobra: Atracação
+Data/Hora: 09/10/26 05:51 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 101/SUL
+Agência: ALPHAMAR**
+--------------------------------------------------
+[09/10/2026 10:23:22] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ORE GUANGZHOU
+Manobra: Desatracação
+Data/Hora: 09/10/26 04:06
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[09/10/2026 10:23:22] MANOBRA CONCLUÍDA (navio atracou):
+Navio: YUAN GU HAI
+Manobra: Atracação
+Data/Hora: 09/10/26 07:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
+[09/10/2026 10:23:22] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FORTE DE SAO JOSE
+Manobra: Desatracação
+Data/Hora: 09/10/26 04:21
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[09/10/2026 10:23:22] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Atracação
+Data/Hora: 09/10/26 06:40 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
