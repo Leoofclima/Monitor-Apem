@@ -10071,3 +10071,19 @@ De: 102/CENTRO
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[09/10/2026 19:58:40] NOVA MANOBRA:
+Navio: DALLAS
+Manobra: Atracação
+Data/Hora: 10/10/26 00:34
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[09/10/2026 19:58:40] NOVA MANOBRA:
+Navio: LIVORNO
+Manobra: Desatracação
+Data/Hora: 10/10/26 01:04
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
