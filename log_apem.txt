@@ -10039,3 +10039,35 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[09/10/2026 15:53:41] NOVA MANOBRA:
+Navio: KATAGALAN BRAVE
+Manobra: Atracação
+Data/Hora: 09/10/26 17:55
+De: BOIA 19-24
+Para/Berço: 100
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[09/10/2026 15:53:41] NOVA MANOBRA:
+Navio: SUMMER QUEEN
+Manobra: Desatracação
+Data/Hora: 09/10/26 17:55
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[09/10/2026 15:53:41] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FILIZ
+Manobra: Desatracação
+Data/Hora: 09/10/26 12:44
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[09/10/2026 15:53:41] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BARBOSA LIMA SOBRINHO
+Manobra: Desatracação
+Data/Hora: 09/10/26 12:44
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
