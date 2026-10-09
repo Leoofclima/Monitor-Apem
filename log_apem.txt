@@ -9885,3 +9885,77 @@ De: 106 EXT
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[09/10/2026 03:16:50] NOVA MANOBRA:
+Navio: AFRICAN SWIFT
+Manobra: Desatracação
+Data/Hora: 09/10/26 03:36
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[09/10/2026 03:16:50] NOVA MANOBRA:
+Navio: LANGLOIS SKIATHOS
+Manobra: Desatracação
+Data/Hora: 09/10/26 03:36
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[09/10/2026 03:16:50] NOVA MANOBRA:
+Navio: STAR NORGE
+Manobra: Atracação
+Data/Hora: 09/10/26 04:06
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: ROCHAMAR**
+--------------------------------------------------
+[09/10/2026 03:16:50] NOVA MANOBRA:
+Navio: SAN ANTONIO
+Manobra: Atracação
+Data/Hora: 09/10/26 04:06
+De: PONTO ALPHA
+Para/Berço: 101/SUL
+Agência: ALPHAMAR**
+--------------------------------------------------
+[09/10/2026 03:16:50] NOVA MANOBRA:
+Navio: ORE GUANGZHOU
+Manobra: Desatracação
+Data/Hora: 09/10/26 04:06
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[09/10/2026 03:16:50] NOVA MANOBRA:
+Navio: YUAN GU HAI
+Manobra: Atracação
+Data/Hora: 09/10/26 04:06
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
+[09/10/2026 03:16:50] NOVA MANOBRA:
+Navio: BARBOSA LIMA SOBRINHO
+Manobra: Desatracação
+Data/Hora: 09/10/26 12:44
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[09/10/2026 03:16:50] NOVA MANOBRA:
+Navio: FILIZ
+Manobra: Desatracação
+Data/Hora: 09/10/26 12:44
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[09/10/2026 03:16:50] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: FORTE DE SAO JOSE
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 09/10/26 00:10
+Agora: 09/10/26 04:21
+Agência: ORION RODOS**
+--------------------------------------------------
