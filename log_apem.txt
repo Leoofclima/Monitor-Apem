@@ -10113,3 +10113,19 @@ De: 105
 Para/Berço: ILHA DO MEDO
 Agência: ALPHAMAR**
 --------------------------------------------------
+[10/10/2026 05:25:59] NOVA MANOBRA:
+Navio: LIVORNO
+Manobra: Desatracação
+Data/Hora: 10/10/26 04:17
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[10/10/2026 05:25:59] MANOBRA CONCLUÍDA (navio atracou):
+Navio: DALLAS
+Manobra: Atracação
+Data/Hora: 10/10/26 02:30 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
