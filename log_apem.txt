@@ -10087,3 +10087,29 @@ De: 105
 Para/Berço: ILHA DO MEDO
 Agência: ALPHAMAR**
 --------------------------------------------------
+[09/10/2026 23:08:12] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — KATAGALAN BRAVE permanece no fundeio
+
+Navio: KATAGALAN BRAVE
+Manobra: Atracação (cancelada)
+Previsão anterior: 09/10/26 17:55
+De: BOIA 19-24
+Para/Berço: 100
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[09/10/2026 23:08:12] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SUMMER QUEEN
+Manobra: Desatracação
+Data/Hora: 09/10/26 17:55
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[09/10/2026 23:08:12] DESATRACAÇÃO ADIADA (navio ainda encontrado em Navios Atracados):
+Navio: LIVORNO
+Manobra: Desatracação
+Data/Hora: 10/10/26 01:04
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
