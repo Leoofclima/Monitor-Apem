@@ -10129,3 +10129,35 @@ De: BOIA 19-24
 Para/Berço: 104
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[10/10/2026 11:34:10] NOVA MANOBRA:
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Desatracação
+Data/Hora: 10/10/26 17:16
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[10/10/2026 11:34:10] NOVA MANOBRA:
+Navio: PACIFIC AUSPICE
+Manobra: Desatracação
+Data/Hora: 10/10/26 17:31
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[10/10/2026 11:34:10] NOVA MANOBRA:
+Navio: AMAZON COURAGE
+Manobra: Atracação
+Data/Hora: 10/10/26 17:46
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[10/10/2026 11:34:10] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: LIVORNO
+Manobra: Desatracação
+Data/Hora: 10/10/26 04:17
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
