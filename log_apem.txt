@@ -10161,3 +10161,37 @@ De: 105
 Para/Berço: ILHA DO MEDO
 Agência: ALPHAMAR**
 --------------------------------------------------
+[10/10/2026 15:48:34] NOVA MANOBRA:
+Navio: KOUROS LEADER
+Manobra: Atracação
+Data/Hora: 11/10/26 01:08
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: WILSON SONS **
+--------------------------------------------------
+[10/10/2026 15:48:34] NOVA MANOBRA:
+Navio: STAR NORGE
+Manobra: Desatracação
+Data/Hora: 11/10/26 01:38
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ROCHAMAR**
+--------------------------------------------------
+[10/10/2026 15:48:34] NOVA MANOBRA:
+Navio: UBC HALIFAX
+Manobra: Desatracação
+Data/Hora: 11/10/26 06:34
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: WILLIAMS**
+--------------------------------------------------
+[10/10/2026 15:48:34] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: PACIFIC AUSPICE
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 10/10/26 17:31
+Agora: 11/10/26 01:08
+Agência: LMA SHIPPING **
+--------------------------------------------------
