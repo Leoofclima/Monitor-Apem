@@ -10387,3 +10387,27 @@ De: PIER 3 SUL
 Para/Berço: ILHA DO MEDO
 Agência: ISS**
 --------------------------------------------------
+[11/10/2026 19:10:47] NOVA MANOBRA:
+Navio: ORE ITALIA
+Manobra: Desatracação
+Data/Hora: 12/10/26 01:19
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[11/10/2026 19:10:47] NOVA MANOBRA:
+Navio: YUAN SUI HAI
+Manobra: Atracação
+Data/Hora: 12/10/26 01:49
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[11/10/2026 19:10:47] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CAPE DISCOVERY
+Manobra: Atracação
+Data/Hora: 11/10/26 15:40 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LBH BRASIL**
+--------------------------------------------------
