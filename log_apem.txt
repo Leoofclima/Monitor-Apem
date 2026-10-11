@@ -10371,3 +10371,19 @@ De: BOIA 19-24
 Para/Berço: 108
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[11/10/2026 15:20:20] NOVA MANOBRA:
+Navio: MUSKY
+Manobra: Atracação
+Data/Hora: 11/10/26 18:17
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
+[11/10/2026 15:20:20] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BH CAPRICORN
+Manobra: Desatracação
+Data/Hora: 11/10/26 13:29
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
