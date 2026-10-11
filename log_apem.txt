@@ -10291,3 +10291,83 @@ De: 103/NORTE
 Para/Berço: ILHA DO MEDO
 Agência: ROCHAMAR**
 --------------------------------------------------
+[11/10/2026 10:29:53] NOVA MANOBRA:
+Navio: CAPE DISCOVERY
+Manobra: Atracação
+Data/Hora: 11/10/26 13:29
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LBH BRASIL**
+--------------------------------------------------
+[11/10/2026 10:29:53] NOVA MANOBRA:
+Navio: BH CAPRICORN
+Manobra: Desatracação
+Data/Hora: 11/10/26 13:29
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[11/10/2026 10:29:53] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: DALLAS
+Manobra: Desatracação
+Data/Hora: 11/10/26 04:49
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[11/10/2026 10:29:53] MANOBRA CONCLUÍDA (navio atracou):
+Navio: HONESTY
+Manobra: Atracação
+Data/Hora: 11/10/26 06:42 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[11/10/2026 10:29:53] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ORE WUHAN
+Manobra: Atracação
+Data/Hora: 11/10/26 08:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[11/10/2026 10:29:53] MANOBRA CONCLUÍDA (navio atracou):
+Navio: NSU BRILLIANCE
+Manobra: Atracação
+Data/Hora: 11/10/26 08:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LBH BRASIL**
+--------------------------------------------------
+[11/10/2026 10:29:53] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: YUAN GU HAI
+Manobra: Desatracação
+Data/Hora: 11/10/26 05:19
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[11/10/2026 10:29:53] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PACIFIC AZUR
+Manobra: Desatracação
+Data/Hora: 11/10/26 06:19
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[11/10/2026 10:29:53] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: UBC HALIFAX
+Manobra: Desatracação
+Data/Hora: 11/10/26 06:34
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: WILLIAMS**
+--------------------------------------------------
+[11/10/2026 10:29:53] MANOBRA CONCLUÍDA (navio atracou):
+Navio: HORIZON ARMONIA
+Manobra: Atracação
+Data/Hora: 11/10/26 09:00 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 108
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
