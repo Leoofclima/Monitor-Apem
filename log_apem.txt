@@ -10195,3 +10195,35 @@ Antes: 10/10/26 17:31
 Agora: 11/10/26 01:08
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[10/10/2026 21:53:32] NOVA MANOBRA:
+Navio: ORE WUHAN
+Manobra: Atracação
+Data/Hora: 11/10/26 05:19
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[10/10/2026 21:53:32] NOVA MANOBRA:
+Navio: NSU BRILLIANCE
+Manobra: Atracação
+Data/Hora: 11/10/26 05:19
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LBH BRASIL**
+--------------------------------------------------
+[10/10/2026 21:53:32] NOVA MANOBRA:
+Navio: YUAN GU HAI
+Manobra: Desatracação
+Data/Hora: 11/10/26 05:19
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[10/10/2026 21:53:32] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Desatracação
+Data/Hora: 10/10/26 17:16
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
