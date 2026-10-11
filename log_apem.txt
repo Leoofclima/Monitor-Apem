@@ -10227,3 +10227,67 @@ De: ALUMAR 2
 Para/Berço: ILHA DO MEDO
 Agência: ORION RODOS**
 --------------------------------------------------
+[11/10/2026 03:38:55] NOVA MANOBRA:
+Navio: DALLAS
+Manobra: Desatracação
+Data/Hora: 11/10/26 04:49
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[11/10/2026 03:38:55] NOVA MANOBRA:
+Navio: HONESTY
+Manobra: Atracação
+Data/Hora: 11/10/26 05:19
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[11/10/2026 03:38:55] NOVA MANOBRA:
+Navio: PACIFIC AZUR
+Manobra: Desatracação
+Data/Hora: 11/10/26 06:19
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[11/10/2026 03:38:55] NOVA MANOBRA:
+Navio: HORIZON ARMONIA
+Manobra: Atracação
+Data/Hora: 11/10/26 06:49
+De: BOIA 19-24
+Para/Berço: 108
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[11/10/2026 03:38:55] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AMAZON COURAGE
+Manobra: Atracação
+Data/Hora: 10/10/26 20:10 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[11/10/2026 03:38:55] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PACIFIC AUSPICE
+Manobra: Desatracação
+Data/Hora: 11/10/26 01:08
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[11/10/2026 03:38:55] MANOBRA CONCLUÍDA (navio atracou):
+Navio: KOUROS LEADER
+Manobra: Atracação
+Data/Hora: 11/10/26 02:40 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: WILSON SONS **
+--------------------------------------------------
+[11/10/2026 03:38:55] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: STAR NORGE
+Manobra: Desatracação
+Data/Hora: 11/10/26 01:38
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ROCHAMAR**
+--------------------------------------------------
