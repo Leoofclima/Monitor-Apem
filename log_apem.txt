@@ -10523,3 +10523,75 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[12/10/2026 20:30:00] NOVA MANOBRA:
+Navio: HORIZON ARMONIA
+Manobra: Desatracação
+Data/Hora: 12/10/26 19:02
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[12/10/2026 20:30:00] NOVA MANOBRA:
+Navio: ELANDRA WILLOW
+Manobra: Atracação
+Data/Hora: 12/10/26 19:32
+De: BOIA 19-24
+Para/Berço: 108
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[12/10/2026 20:30:00] NOVA MANOBRA:
+Navio: LUCIO COSTA
+Manobra: Atracação
+Data/Hora: 13/10/26 02:19
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[12/10/2026 20:30:00] NOVA MANOBRA:
+Navio: HONESTY
+Manobra: Desatracação
+Data/Hora: 13/10/26 02:49
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[12/10/2026 20:30:00] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: NSU BRILLIANCE
+Manobra: Desatracação
+Data/Hora: 12/10/26 13:31
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
+[12/10/2026 20:30:00] MANOBRA CONCLUÍDA (navio atracou):
+Navio: HE HENG
+Manobra: Atracação
+Data/Hora: 12/10/26 16:45 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[12/10/2026 20:30:00] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SAN ANTONIO
+Manobra: Desatracação
+Data/Hora: 12/10/26 14:31
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[12/10/2026 20:30:00] MANOBRA CONCLUÍDA (navio atracou):
+Navio: DESERT RANGER
+Manobra: Atracação
+Data/Hora: 12/10/26 16:30 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: CARGONAVE**
+--------------------------------------------------
+[12/10/2026 20:30:00] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SUNDA
+Manobra: Atracação
+Data/Hora: 12/10/26 16:10 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 101/SUL
+Agência: ORION RODOS**
+--------------------------------------------------

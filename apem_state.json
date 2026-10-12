@@ -1,9 +1,8 @@
 {
-  "NSU BRILLIANCE | 12/10/26 | 13:31 | DS | ILHA DO MEDO": "Navio: NSU BRILLIANCE\nManobra: Desatracação\nData/Hora: 12/10/26 13:31\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: LBH BRASIL**",
-  "HE HENG | 12/10/26 | 14:01 | EA | PIER 4 NORTE": "Navio: HE HENG\nManobra: Atracação\nData/Hora: 12/10/26 14:01\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE\nAgência: WILHELMSEN PORT**",
-  "SAN ANTONIO | 12/10/26 | 14:31 | DS | ILHA DO MEDO": "Navio: SAN ANTONIO\nManobra: Desatracação\nData/Hora: 12/10/26 14:31\nDe: 101/SUL\nPara/Berço: ILHA DO MEDO\nAgência: ALPHAMAR**",
-  "DESERT RANGER | 12/10/26 | 14:31 | EA | 105": "Navio: DESERT RANGER\nManobra: Atracação\nData/Hora: 12/10/26 14:31\nDe: BOIA 19-24\nPara/Berço: 105\nAgência: CARGONAVE**",
-  "SUNDA | 12/10/26 | 14:31 | EA | 101/SUL": "Navio: SUNDA\nManobra: Atracação\nData/Hora: 12/10/26 14:31\nDe: BOIA 19-24\nPara/Berço: 101/SUL\nAgência: ORION RODOS**",
   "ORE WUHAN | 12/10/26 | 18:02 | DS | ILHA DO MEDO": "Navio: ORE WUHAN\nManobra: Desatracação\nData/Hora: 12/10/26 18:02\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "JULIA N | 12/10/26 | 18:02 | EA | PIER 1": "Navio: JULIA N\nManobra: Atracação\nData/Hora: 12/10/26 18:02\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: ISS**"
+  "JULIA N | 12/10/26 | 18:02 | EA | PIER 1": "Navio: JULIA N\nManobra: Atracação\nData/Hora: 12/10/26 18:02\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: ISS**",
+  "HORIZON ARMONIA | 12/10/26 | 19:02 | DS | ILHA DO MEDO": "Navio: HORIZON ARMONIA\nManobra: Desatracação\nData/Hora: 12/10/26 19:02\nDe: 108\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "ELANDRA WILLOW | 12/10/26 | 19:32 | EA | 108": "Navio: ELANDRA WILLOW\nManobra: Atracação\nData/Hora: 12/10/26 19:32\nDe: BOIA 19-24\nPara/Berço: 108\nAgência: WILHELMSEN PORT**",
+  "LUCIO COSTA | 13/10/26 | 02:19 | EA | 104": "Navio: LUCIO COSTA\nManobra: Atracação\nData/Hora: 13/10/26 02:19\nDe: BOIA 19-24\nPara/Berço: 104\nAgência: WILHELMSEN PORT**",
+  "HONESTY | 13/10/26 | 02:49 | DS | ILHA DO MEDO": "Navio: HONESTY\nManobra: Desatracação\nData/Hora: 13/10/26 02:49\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**"
 }
