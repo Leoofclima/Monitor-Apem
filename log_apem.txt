@@ -10427,3 +10427,11 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 1
 Agência: GEM**
 --------------------------------------------------
+[12/10/2026 04:36:08] NOVA MANOBRA:
+Navio: AMAZON COMMANDER
+Manobra: Atracação
+Data/Hora: 12/10/26 06:42
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
