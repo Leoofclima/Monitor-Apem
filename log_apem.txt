@@ -10435,3 +10435,91 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[12/10/2026 13:58:08] NOVA MANOBRA:
+Navio: NSU BRILLIANCE
+Manobra: Desatracação
+Data/Hora: 12/10/26 13:31
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
+[12/10/2026 13:58:08] NOVA MANOBRA:
+Navio: HE HENG
+Manobra: Atracação
+Data/Hora: 12/10/26 14:01
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[12/10/2026 13:58:08] NOVA MANOBRA:
+Navio: SAN ANTONIO
+Manobra: Desatracação
+Data/Hora: 12/10/26 14:31
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[12/10/2026 13:58:08] NOVA MANOBRA:
+Navio: DESERT RANGER
+Manobra: Atracação
+Data/Hora: 12/10/26 14:31
+De: BOIA 19-24
+Para/Berço: 105
+Agência: CARGONAVE**
+--------------------------------------------------
+[12/10/2026 13:58:08] NOVA MANOBRA:
+Navio: SUNDA
+Manobra: Atracação
+Data/Hora: 12/10/26 14:31
+De: BOIA 19-24
+Para/Berço: 101/SUL
+Agência: ORION RODOS**
+--------------------------------------------------
+[12/10/2026 13:58:08] NOVA MANOBRA:
+Navio: ORE WUHAN
+Manobra: Desatracação
+Data/Hora: 12/10/26 18:02
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[12/10/2026 13:58:08] NOVA MANOBRA:
+Navio: JULIA N
+Manobra: Atracação
+Data/Hora: 12/10/26 18:02
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
+[12/10/2026 13:58:08] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ORE ITALIA
+Manobra: Desatracação
+Data/Hora: 12/10/26 01:19
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[12/10/2026 13:58:08] MANOBRA CONCLUÍDA (navio atracou):
+Navio: YUAN SUI HAI
+Manobra: Atracação
+Data/Hora: 12/10/26 05:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[12/10/2026 13:58:08] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AMAZON COURAGE
+Manobra: Desatracação
+Data/Hora: 12/10/26 02:04
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[12/10/2026 13:58:08] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AMAZON COMMANDER
+Manobra: Atracação
+Data/Hora: 12/10/26 08:50 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
