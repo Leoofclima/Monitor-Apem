@@ -10411,3 +10411,19 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 SUL
 Agência: LBH BRASIL**
 --------------------------------------------------
+[11/10/2026 22:21:01] NOVA MANOBRA:
+Navio: AMAZON COURAGE
+Manobra: Desatracação
+Data/Hora: 12/10/26 02:04
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[11/10/2026 22:21:01] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MUSKY
+Manobra: Atracação
+Data/Hora: 11/10/26 20:01 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
