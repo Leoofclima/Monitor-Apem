@@ -1,5 +1,6 @@
 {
-  "CAPE DISCOVERY | 13/10/26 | 14:32 | DS | ILHA DO MEDO": "Navio: CAPE DISCOVERY\nManobra: Desatracação\nData/Hora: 13/10/26 14:32\nDe: PIER 3 SUL\nPara/Berço: ILHA DO MEDO\nAgência: LBH BRASIL**",
   "AMAZON COMMANDER | 13/10/26 | 18:51 | DS | ILHA DO MEDO": "Navio: AMAZON COMMANDER\nManobra: Desatracação\nData/Hora: 13/10/26 18:51\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
-  "FORTE DE SAO FELIPE | 13/10/26 | 19:21 | EA | ALUMAR 2": "Navio: FORTE DE SAO FELIPE\nManobra: Atracação\nData/Hora: 13/10/26 19:21\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 2\nAgência: ORION RODOS**"
+  "FORTE DE SAO FELIPE | 13/10/26 | 19:21 | EA | ALUMAR 2": "Navio: FORTE DE SAO FELIPE\nManobra: Atracação\nData/Hora: 13/10/26 19:21\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 2\nAgência: ORION RODOS**",
+  "SEA PENGUIN | 14/10/26 | 02:23 | DS | ILHA DO MEDO": "Navio: SEA PENGUIN\nManobra: Desatracação\nData/Hora: 14/10/26 02:23\nDe: 106\nPara/Berço: ILHA DO MEDO\nAgência: GAC**",
+  "DALMA | 14/10/26 | 02:23 | EA | 106": "Navio: DALMA\nManobra: Atracação\nData/Hora: 14/10/26 02:23\nDe: BOIA 19-24\nPara/Berço: 106\nAgência: WILHELMSEN PORT**"
 }

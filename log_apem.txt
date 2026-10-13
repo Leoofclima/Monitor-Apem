@@ -10703,3 +10703,27 @@ De: ALUMAR 1
 Para/Berço: ILHA DO MEDO
 Agência: GEM**
 --------------------------------------------------
+[13/10/2026 19:47:20] NOVA MANOBRA:
+Navio: SEA PENGUIN
+Manobra: Desatracação
+Data/Hora: 14/10/26 02:23
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: GAC**
+--------------------------------------------------
+[13/10/2026 19:47:20] NOVA MANOBRA:
+Navio: DALMA
+Manobra: Atracação
+Data/Hora: 14/10/26 02:23
+De: BOIA 19-24
+Para/Berço: 106
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[13/10/2026 19:47:20] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: CAPE DISCOVERY
+Manobra: Desatracação
+Data/Hora: 13/10/26 14:32
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
