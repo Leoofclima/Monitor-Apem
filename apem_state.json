@@ -1,8 +1,4 @@
 {
-  "ORE WUHAN | 12/10/26 | 18:02 | DS | ILHA DO MEDO": "Navio: ORE WUHAN\nManobra: Desatracação\nData/Hora: 12/10/26 18:02\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "JULIA N | 12/10/26 | 18:02 | EA | PIER 1": "Navio: JULIA N\nManobra: Atracação\nData/Hora: 12/10/26 18:02\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: ISS**",
-  "HORIZON ARMONIA | 12/10/26 | 19:02 | DS | ILHA DO MEDO": "Navio: HORIZON ARMONIA\nManobra: Desatracação\nData/Hora: 12/10/26 19:02\nDe: 108\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "ELANDRA WILLOW | 12/10/26 | 19:32 | EA | 108": "Navio: ELANDRA WILLOW\nManobra: Atracação\nData/Hora: 12/10/26 19:32\nDe: BOIA 19-24\nPara/Berço: 108\nAgência: WILHELMSEN PORT**",
   "LUCIO COSTA | 13/10/26 | 02:19 | EA | 104": "Navio: LUCIO COSTA\nManobra: Atracação\nData/Hora: 13/10/26 02:19\nDe: BOIA 19-24\nPara/Berço: 104\nAgência: WILHELMSEN PORT**",
   "HONESTY | 13/10/26 | 02:49 | DS | ILHA DO MEDO": "Navio: HONESTY\nManobra: Desatracação\nData/Hora: 13/10/26 02:49\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**"
 }

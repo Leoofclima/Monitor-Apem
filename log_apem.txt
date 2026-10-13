@@ -10595,3 +10595,35 @@ De: BOIA 19-24
 Para/Berço: 101/SUL
 Agência: ORION RODOS**
 --------------------------------------------------
+[13/10/2026 00:45:29] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ORE WUHAN
+Manobra: Desatracação
+Data/Hora: 12/10/26 18:02
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[13/10/2026 00:45:29] MANOBRA CONCLUÍDA (navio atracou):
+Navio: JULIA N
+Manobra: Atracação
+Data/Hora: 12/10/26 20:35 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
+[13/10/2026 00:45:29] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: HORIZON ARMONIA
+Manobra: Desatracação
+Data/Hora: 12/10/26 19:02
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[13/10/2026 00:45:29] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ELANDRA WILLOW
+Manobra: Atracação
+Data/Hora: 12/10/26 21:15 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 108
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
