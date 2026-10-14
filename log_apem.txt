@@ -10815,3 +10815,95 @@ De: BOIA 19-24
 Para/Berço: 105
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[14/10/2026 09:11:37] NOVA MANOBRA:
+Navio: HE HENG
+Manobra: Desatracação
+Data/Hora: 14/10/26 14:32
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[14/10/2026 09:11:37] NOVA MANOBRA:
+Navio: SAO UNISON
+Manobra: Atracação
+Data/Hora: 14/10/26 15:02
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[14/10/2026 09:11:37] NOVA MANOBRA:
+Navio: FORTE DOS REIS MAGOS
+Manobra: Atracação
+Data/Hora: 14/10/26 15:02
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[14/10/2026 09:11:37] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: DESERT RANGER
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 14/10/26 06:29
+Agora: 14/10/26 07:59
+Agência: CARGONAVE**
+--------------------------------------------------
+[14/10/2026 09:11:37] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: SOYA TIANJIN
+Manobra: Atracação
+Berço: 105
+Antes: 14/10/26 06:59
+Agora: 14/10/26 15:02
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[14/10/2026 09:11:37] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SEA PENGUIN
+Manobra: Desatracação
+Data/Hora: 14/10/26 02:23
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: GAC**
+--------------------------------------------------
+[14/10/2026 09:11:37] MANOBRA CONCLUÍDA (navio atracou):
+Navio: DALMA
+Manobra: Atracação
+Data/Hora: 14/10/26 05:44 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 106
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[14/10/2026 09:11:37] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ELANDRA WILLOW
+Manobra: Desatracação
+Data/Hora: 14/10/26 02:23
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[14/10/2026 09:11:37] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BUNGO CROWN
+Manobra: Atracação
+Data/Hora: 14/10/26 04:45 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 108
+Agência: NORTH STAR**
+--------------------------------------------------
+[14/10/2026 09:11:37] MANOBRA CONCLUÍDA (navio atracou):
+Navio: JIA CHEN
+Manobra: Atracação
+Data/Hora: 14/10/26 04:55 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: UNIMAR**
+--------------------------------------------------
+[14/10/2026 09:11:37] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: KOUROS LEADER
+Manobra: Desatracação
+Data/Hora: 14/10/26 03:23
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------

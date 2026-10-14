@@ -1,13 +1,10 @@
 {
-  "SEA PENGUIN | 14/10/26 | 02:23 | DS | ILHA DO MEDO": "Navio: SEA PENGUIN\nManobra: Desatracação\nData/Hora: 14/10/26 02:23\nDe: 106\nPara/Berço: ILHA DO MEDO\nAgência: GAC**",
-  "DALMA | 14/10/26 | 02:23 | EA | 106": "Navio: DALMA\nManobra: Atracação\nData/Hora: 14/10/26 02:23\nDe: BOIA 19-24\nPara/Berço: 106\nAgência: WILHELMSEN PORT**",
-  "ELANDRA WILLOW | 14/10/26 | 02:23 | DS | ILHA DO MEDO": "Navio: ELANDRA WILLOW\nManobra: Desatracação\nData/Hora: 14/10/26 02:23\nDe: 108\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "BUNGO CROWN | 14/10/26 | 02:23 | EA | 108": "Navio: BUNGO CROWN\nManobra: Atracação\nData/Hora: 14/10/26 02:23\nDe: BOIA 19-24\nPara/Berço: 108\nAgência: NORTH STAR**",
-  "JIA CHEN | 14/10/26 | 02:53 | EA | 103/NORTE": "Navio: JIA CHEN\nManobra: Atracação\nData/Hora: 14/10/26 02:53\nDe: BOIA 19-24\nPara/Berço: 103/NORTE\nAgência: UNIMAR**",
-  "KOUROS LEADER | 14/10/26 | 03:23 | DS | ILHA DO MEDO": "Navio: KOUROS LEADER\nManobra: Desatracação\nData/Hora: 14/10/26 03:23\nDe: 103/NORTE\nPara/Berço: ILHA DO MEDO\nAgência: WILSON SONS **",
-  "DESERT RANGER | 14/10/26 | 06:29 | DS | ILHA DO MEDO": "Navio: DESERT RANGER\nManobra: Desatracação\nData/Hora: 14/10/26 06:29\nDe: 105\nPara/Berço: ILHA DO MEDO\nAgência: CARGONAVE**",
-  "SOYA TIANJIN | 14/10/26 | 06:59 | EA | 105": "Navio: SOYA TIANJIN\nManobra: Atracação\nData/Hora: 14/10/26 06:59\nDe: BOIA 19-24\nPara/Berço: 105\nAgência: FERTIMPORT - S.L **",
   "JULIA N | 14/10/26 | 06:59 | DS | ILHA DO MEDO": "Navio: JULIA N\nManobra: Desatracação\nData/Hora: 14/10/26 06:59\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
   "SHANDONG DA DE | 14/10/26 | 06:59 | EA | PIER 1": "Navio: SHANDONG DA DE\nManobra: Atracação\nData/Hora: 14/10/26 06:59\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: LMA SHIPPING **",
-  "MH HOTAKA | 14/10/26 | 07:44 | EA | ALUMAR 1": "Navio: MH HOTAKA\nManobra: Atracação\nData/Hora: 14/10/26 07:44\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 1\nAgência: HARMS**"
+  "MH HOTAKA | 14/10/26 | 07:44 | EA | ALUMAR 1": "Navio: MH HOTAKA\nManobra: Atracação\nData/Hora: 14/10/26 07:44\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 1\nAgência: HARMS**",
+  "DESERT RANGER | 14/10/26 | 07:59 | DS | ILHA DO MEDO": "Navio: DESERT RANGER\nManobra: Desatracação\nData/Hora: 14/10/26 07:59\nDe: 105\nPara/Berço: ILHA DO MEDO\nAgência: CARGONAVE**",
+  "HE HENG | 14/10/26 | 14:32 | DS | ILHA DO MEDO": "Navio: HE HENG\nManobra: Desatracação\nData/Hora: 14/10/26 14:32\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "SAO UNISON | 14/10/26 | 15:02 | EA | PIER 4 NORTE": "Navio: SAO UNISON\nManobra: Atracação\nData/Hora: 14/10/26 15:02\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE\nAgência: WILHELMSEN PORT**",
+  "FORTE DOS REIS MAGOS | 14/10/26 | 15:02 | EA | PIER 3 NORTE": "Navio: FORTE DOS REIS MAGOS\nManobra: Atracação\nData/Hora: 14/10/26 15:02\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: LMA SHIPPING **",
+  "SOYA TIANJIN | 14/10/26 | 15:02 | EA | 105": "Navio: SOYA TIANJIN\nManobra: Atracação\nData/Hora: 14/10/26 15:02\nDe: BOIA 19-24\nPara/Berço: 105\nAgência: FERTIMPORT - S.L **"
 }
