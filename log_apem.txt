@@ -10907,3 +10907,63 @@ De: 103/NORTE
 Para/Berço: ILHA DO MEDO
 Agência: WILSON SONS **
 --------------------------------------------------
+[14/10/2026 14:13:39] NOVA MANOBRA:
+Navio: LUCIO COSTA
+Manobra: Desatracação
+Data/Hora: 14/10/26 18:38
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[14/10/2026 14:13:39] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: SAO UNISON
+Manobra: Atracação
+Berço: PIER 4 NORTE
+Antes: 14/10/26 15:02
+Agora: 14/10/26 19:08
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[14/10/2026 14:13:39] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: HE HENG
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 14/10/26 14:32
+Agora: 14/10/26 19:08
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[14/10/2026 14:13:39] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: JULIA N
+Manobra: Desatracação
+Data/Hora: 14/10/26 06:59
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[14/10/2026 14:13:39] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SHANDONG DA DE
+Manobra: Atracação
+Data/Hora: 14/10/26 09:37 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[14/10/2026 14:13:39] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MH HOTAKA
+Manobra: Atracação
+Data/Hora: 14/10/26 10:09 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 1
+Agência: HARMS**
+--------------------------------------------------
+[14/10/2026 14:13:39] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: DESERT RANGER
+Manobra: Desatracação
+Data/Hora: 14/10/26 07:59
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: CARGONAVE**
+--------------------------------------------------
