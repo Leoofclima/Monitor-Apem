@@ -10967,3 +10967,79 @@ De: 105
 Para/Berço: ILHA DO MEDO
 Agência: CARGONAVE**
 --------------------------------------------------
+[14/10/2026 17:43:04] NOVA MANOBRA:
+Navio: TOKYO
+Manobra: Atracação
+Data/Hora: 14/10/26 19:08
+De: PONTO ALPHA
+Para/Berço: 104
+Agência: NORTH STAR**
+--------------------------------------------------
+[14/10/2026 17:43:04] NOVA MANOBRA:
+Navio: KATAGALAN BRAVE
+Manobra: Desatracação
+Data/Hora: 14/10/26 20:38
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[14/10/2026 17:43:04] NOVA MANOBRA:
+Navio: BERGE YOTEI
+Manobra: Atracação
+Data/Hora: 14/10/26 20:38
+De: BOIA 19-24
+Para/Berço: 100
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[14/10/2026 17:43:04] NOVA MANOBRA:
+Navio: YUAN SUI HAI
+Manobra: Desatracação
+Data/Hora: 15/10/26 02:51
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[14/10/2026 17:43:04] NOVA MANOBRA:
+Navio: UETLIBERG
+Manobra: Atracação
+Data/Hora: 15/10/26 03:21
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: ISS**
+--------------------------------------------------
+[14/10/2026 17:43:04] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: HE HENG
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 14/10/26 19:08
+Agora: 15/10/26 03:21
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[14/10/2026 17:43:04] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: SAO UNISON
+Manobra: Atracação
+Berço: PIER 4 NORTE
+Antes: 14/10/26 19:08
+Agora: 15/10/26 07:32
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[14/10/2026 17:43:04] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SOYA TIANJIN
+Manobra: Atracação
+Data/Hora: 14/10/26 17:00 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[14/10/2026 17:43:04] MANOBRA CONCLUÍDA (navio atracou):
+Navio: FORTE DOS REIS MAGOS
+Manobra: Atracação
+Data/Hora: 14/10/26 17:15 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
