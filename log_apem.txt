@@ -10775,3 +10775,43 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[14/10/2026 03:23:49] NOVA MANOBRA:
+Navio: ELANDRA WILLOW
+Manobra: Desatracação
+Data/Hora: 14/10/26 02:23
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[14/10/2026 03:23:49] NOVA MANOBRA:
+Navio: JIA CHEN
+Manobra: Atracação
+Data/Hora: 14/10/26 02:53
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: UNIMAR**
+--------------------------------------------------
+[14/10/2026 03:23:49] NOVA MANOBRA:
+Navio: KOUROS LEADER
+Manobra: Desatracação
+Data/Hora: 14/10/26 03:23
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[14/10/2026 03:23:49] NOVA MANOBRA:
+Navio: DESERT RANGER
+Manobra: Desatracação
+Data/Hora: 14/10/26 06:29
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: CARGONAVE**
+--------------------------------------------------
+[14/10/2026 03:23:49] NOVA MANOBRA:
+Navio: SOYA TIANJIN
+Manobra: Atracação
+Data/Hora: 14/10/26 06:59
+De: BOIA 19-24
+Para/Berço: 105
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
