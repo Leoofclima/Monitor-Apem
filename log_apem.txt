@@ -11067,3 +11067,43 @@ De: 104
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[14/10/2026 22:39:43] NOVA MANOBRA:
+Navio: BOLD VOYAGER
+Manobra: Atracação
+Data/Hora: 15/10/26 07:32
+De: PONTO ALPHA
+Para/Berço: 99
+Agência: ZPORT LTDA**
+--------------------------------------------------
+[14/10/2026 22:39:43] NOVA MANOBRA:
+Navio: FORTE DE SAO FELIPE
+Manobra: Desatracação
+Data/Hora: 15/10/26 07:47
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[14/10/2026 22:39:43] NOVA MANOBRA:
+Navio: AMAZON PATHFINDER
+Manobra: Atracação
+Data/Hora: 15/10/26 08:17
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[14/10/2026 22:39:43] MANOBRA CONCLUÍDA (navio atracou):
+Navio: TOKYO
+Manobra: Atracação
+Data/Hora: 14/10/26 21:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 104
+Agência: NORTH STAR**
+--------------------------------------------------
+[14/10/2026 22:39:43] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: KATAGALAN BRAVE
+Manobra: Desatracação
+Data/Hora: 14/10/26 20:38
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
