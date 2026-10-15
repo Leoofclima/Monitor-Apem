@@ -11115,3 +11115,43 @@ De: BOIA 19-24
 Para/Berço: 100
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[15/10/2026 08:50:30] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: YUAN SUI HAI
+Manobra: Desatracação
+Data/Hora: 15/10/26 02:51
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[15/10/2026 08:50:30] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: HE HENG
+Manobra: Desatracação
+Data/Hora: 15/10/26 03:21
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[15/10/2026 08:50:30] MANOBRA CONCLUÍDA (navio atracou):
+Navio: UETLIBERG
+Manobra: Atracação
+Data/Hora: 15/10/26 06:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: ISS**
+--------------------------------------------------
+[15/10/2026 08:50:30] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PRESTIGE DIVA
+Manobra: DA
+Data/Hora: 15/10/26 05:35 (horário real de atracação)
+De: 99
+Para/Berço: 101/SUL
+Agência: ALPHAMAR**
+--------------------------------------------------
+[15/10/2026 08:50:30] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SUNDA
+Manobra: Desatracação
+Data/Hora: 15/10/26 03:51
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
