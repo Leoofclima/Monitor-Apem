@@ -11211,3 +11211,23 @@ De: PTO EMBARQUE LC
 Para/Berço: TERMINAL PESQUEIRO LC
 Agência: GEM - PARNAIBA
 --------------------------------------------------
+[15/10/2026 19:41:31] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: CAPRICORN ONE
+Manobra: Atracação
+Berço: PIER 3 NORTE
+Antes: 15/10/26 19:46
+Agora: 16/10/26 03:57
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[15/10/2026 19:41:31] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: FORTE DOS REIS MAGOS
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 15/10/26 19:46
+Agora: 16/10/26 03:57
+Agência: LMA SHIPPING **
+--------------------------------------------------
