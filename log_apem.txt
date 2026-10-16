@@ -11407,3 +11407,49 @@ De: PIER 4 SUL
 Para/Berço: ILHA DO MEDO
 Agência: ISS**
 --------------------------------------------------
+[16/10/2026 15:09:19] NOVA MANOBRA:
+Navio: BUNGO CROWN
+Manobra: Desatracação
+Data/Hora: 16/10/26 21:25
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[16/10/2026 15:09:19] NOVA MANOBRA:
+Navio: NORD ATOLL
+Manobra: Atracação
+Data/Hora: 16/10/26 21:55
+De: BOIA 19-24
+Para/Berço: 100
+Agência: WILSON SONS **
+--------------------------------------------------
+[16/10/2026 15:09:19] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: SOYA TIANJIN
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 16/10/26 16:36
+Agora: 16/10/26 19:55
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[16/10/2026 15:09:19] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: ROYAL TOPAZ
+Manobra: Atracação
+Berço: 105
+Antes: 16/10/26 16:36
+Agora: 16/10/26 20:25
+Agência: ORION RODOS**
+--------------------------------------------------
+[16/10/2026 15:09:19] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: BERGE YOTEI
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 16/10/26 16:06
+Agora: 16/10/26 21:55
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
