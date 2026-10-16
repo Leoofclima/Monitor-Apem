@@ -11231,3 +11231,19 @@ Antes: 15/10/26 19:46
 Agora: 16/10/26 03:57
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[15/10/2026 21:47:48] NOVA MANOBRA:
+Navio: JIA CHEN
+Manobra: Desatracação
+Data/Hora: 16/10/26 07:38
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: UNIMAR**
+--------------------------------------------------
+[15/10/2026 21:47:48] NOVA MANOBRA:
+Navio: STAR ISLAND
+Manobra: Atracação
+Data/Hora: 16/10/26 08:08
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: WAYPOINT (SÃO LUIS)*
+--------------------------------------------------
