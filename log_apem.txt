@@ -11295,3 +11295,27 @@ De: BOIA 19-24
 Para/Berço: 104
 Agência: NORTH STAR**
 --------------------------------------------------
+[16/10/2026 06:42:55] NOVA MANOBRA:
+Navio: ROYAL TOPAZ
+Manobra: Atracação
+Data/Hora: 16/10/26 16:36
+De: BOIA 19-24
+Para/Berço: 105
+Agência: ORION RODOS**
+--------------------------------------------------
+[16/10/2026 06:42:55] NOVA MANOBRA:
+Navio: SOYA TIANJIN
+Manobra: Desatracação
+Data/Hora: 16/10/26 16:36
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[16/10/2026 06:42:55] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FORTE DOS REIS MAGOS
+Manobra: Desatracação
+Data/Hora: 16/10/26 03:57
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
