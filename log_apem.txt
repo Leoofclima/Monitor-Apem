@@ -11319,3 +11319,91 @@ De: PIER 3 NORTE
 Para/Berço: ILHA DO MEDO
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[16/10/2026 11:18:57] NOVA MANOBRA:
+Navio: DALMA
+Manobra: Desatracação
+Data/Hora: 16/10/26 15:36
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[16/10/2026 11:18:57] NOVA MANOBRA:
+Navio: KMARIN REGARD
+Manobra: Atracação
+Data/Hora: 16/10/26 15:36
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: ISS**
+--------------------------------------------------
+[16/10/2026 11:18:57] NOVA MANOBRA:
+Navio: BERGE YOTEI
+Manobra: Desatracação
+Data/Hora: 16/10/26 16:06
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[16/10/2026 11:18:57] NOVA MANOBRA:
+Navio: MH HOTAKA
+Manobra: Desatracação
+Data/Hora: 16/10/26 20:40
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: HARMS**
+--------------------------------------------------
+[16/10/2026 11:18:57] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CAPRICORN ONE
+Manobra: Atracação
+Data/Hora: 16/10/26 06:30 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[16/10/2026 11:18:57] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: JIA CHEN
+Manobra: Desatracação
+Data/Hora: 16/10/26 07:38
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: UNIMAR**
+--------------------------------------------------
+[16/10/2026 11:18:57] MANOBRA CONCLUÍDA (navio atracou):
+Navio: STAR ISLAND
+Manobra: Atracação
+Data/Hora: 16/10/26 10:10 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: WAYPOINT (SÃO LUIS)*
+--------------------------------------------------
+[16/10/2026 11:18:57] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SPRING PASSION
+Manobra: Atracação
+Data/Hora: 16/10/26 10:15 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: WILSON SONS **
+--------------------------------------------------
+[16/10/2026 11:18:57] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ASL POLARIS 2
+Manobra: Atracação
+Data/Hora: 16/10/26 10:40 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
+[16/10/2026 11:18:57] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SHANDONG DA DE
+Manobra: Desatracação
+Data/Hora: 16/10/26 08:08
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[16/10/2026 11:18:57] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: UETLIBERG
+Manobra: Desatracação
+Data/Hora: 16/10/26 08:08
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
