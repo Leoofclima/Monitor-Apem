@@ -11247,3 +11247,51 @@ De: BOIA 19-24
 Para/Berço: 103/NORTE
 Agência: WAYPOINT (SÃO LUIS)*
 --------------------------------------------------
+[16/10/2026 02:08:18] NOVA MANOBRA:
+Navio: SPRING PASSION
+Manobra: Atracação
+Data/Hora: 16/10/26 08:08
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: WILSON SONS **
+--------------------------------------------------
+[16/10/2026 02:08:18] NOVA MANOBRA:
+Navio: ASL POLARIS 2
+Manobra: Atracação
+Data/Hora: 16/10/26 08:08
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
+[16/10/2026 02:08:18] NOVA MANOBRA:
+Navio: SHANDONG DA DE
+Manobra: Desatracação
+Data/Hora: 16/10/26 08:08
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[16/10/2026 02:08:18] NOVA MANOBRA:
+Navio: UETLIBERG
+Manobra: Desatracação
+Data/Hora: 16/10/26 08:08
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[16/10/2026 02:08:18] NOVA MANOBRA:
+Navio: TOKYO
+Manobra: Desatracação
+Data/Hora: 16/10/26 16:36
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[16/10/2026 02:08:18] NOVA MANOBRA:
+Navio: MTM AMAZON
+Manobra: Atracação
+Data/Hora: 16/10/26 16:36
+De: BOIA 19-24
+Para/Berço: 104
+Agência: NORTH STAR**
+--------------------------------------------------

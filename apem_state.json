@@ -3,5 +3,11 @@
   "FORTE DOS REIS MAGOS | 16/10/26 | 03:57 | DS | ILHA DO MEDO": "Navio: FORTE DOS REIS MAGOS\nManobra: Desatracação\nData/Hora: 16/10/26 03:57\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
   "JIA CHEN | 16/10/26 | 07:38 | DS | ILHA DO MEDO": "Navio: JIA CHEN\nManobra: Desatracação\nData/Hora: 16/10/26 07:38\nDe: 103/NORTE\nPara/Berço: ILHA DO MEDO\nAgência: UNIMAR**",
   "STAR ISLAND | 16/10/26 | 08:08 | EA | 103/NORTE": "Navio: STAR ISLAND\nManobra: Atracação\nData/Hora: 16/10/26 08:08\nDe: BOIA 19-24\nPara/Berço: 103/NORTE\nAgência: WAYPOINT (SÃO LUIS)*",
-  "KONTA III | 16/10/26 | 13:17 | EA | TERMINAL PESQUEIRO LC": "Navio: KONTA III\nManobra: Atracação\nData/Hora: 16/10/26 13:17\nDe: PTO EMBARQUE LC\nPara/Berço: TERMINAL PESQUEIRO LC\nAgência: GEM - PARNAIBA"
+  "SPRING PASSION | 16/10/26 | 08:08 | EA | PIER 4 SUL": "Navio: SPRING PASSION\nManobra: Atracação\nData/Hora: 16/10/26 08:08\nDe: PONTO ALPHA\nPara/Berço: PIER 4 SUL\nAgência: WILSON SONS **",
+  "ASL POLARIS 2 | 16/10/26 | 08:08 | EA | PIER 1": "Navio: ASL POLARIS 2\nManobra: Atracação\nData/Hora: 16/10/26 08:08\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: ISS**",
+  "SHANDONG DA DE | 16/10/26 | 08:08 | DS | ILHA DO MEDO": "Navio: SHANDONG DA DE\nManobra: Desatracação\nData/Hora: 16/10/26 08:08\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
+  "UETLIBERG | 16/10/26 | 08:08 | DS | ILHA DO MEDO": "Navio: UETLIBERG\nManobra: Desatracação\nData/Hora: 16/10/26 08:08\nDe: PIER 4 SUL\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
+  "KONTA III | 16/10/26 | 13:17 | EA | TERMINAL PESQUEIRO LC": "Navio: KONTA III\nManobra: Atracação\nData/Hora: 16/10/26 13:17\nDe: PTO EMBARQUE LC\nPara/Berço: TERMINAL PESQUEIRO LC\nAgência: GEM - PARNAIBA",
+  "TOKYO | 16/10/26 | 16:36 | DS | ILHA DO MEDO": "Navio: TOKYO\nManobra: Desatracação\nData/Hora: 16/10/26 16:36\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: NORTH STAR**",
+  "MTM AMAZON | 16/10/26 | 16:36 | EA | 104": "Navio: MTM AMAZON\nManobra: Atracação\nData/Hora: 16/10/26 16:36\nDe: BOIA 19-24\nPara/Berço: 104\nAgência: NORTH STAR**"
 }
