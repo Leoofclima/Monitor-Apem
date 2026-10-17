@@ -11517,3 +11517,83 @@ De: 105
 Para/Berço: ILHA DO MEDO
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[17/10/2026 02:50:25] NOVA MANOBRA:
+Navio: SAO UNISON
+Manobra: Desatracação
+Data/Hora: 17/10/26 08:57
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[17/10/2026 02:50:25] NOVA MANOBRA:
+Navio: YU HUA HAI
+Manobra: Atracação
+Data/Hora: 17/10/26 08:57
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[17/10/2026 02:50:25] NOVA MANOBRA:
+Navio: AMAZON PATHFINDER
+Manobra: Desatracação
+Data/Hora: 17/10/26 09:12
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[17/10/2026 02:50:25] NOVA MANOBRA:
+Navio: AMAZON PIONEER
+Manobra: Atracação
+Data/Hora: 17/10/26 09:42
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[17/10/2026 02:50:25] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ROYAL TOPAZ
+Manobra: Atracação
+Data/Hora: 16/10/26 22:00 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: ORION RODOS**
+--------------------------------------------------
+[17/10/2026 02:50:25] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: MH HOTAKA
+Manobra: Desatracação
+Data/Hora: 16/10/26 20:40
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: HARMS**
+--------------------------------------------------
+[17/10/2026 02:50:25] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BUNGO CROWN
+Manobra: Desatracação
+Data/Hora: 16/10/26 21:25
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[17/10/2026 02:50:25] MANOBRA CONCLUÍDA (navio atracou):
+Navio: NORD ATOLL
+Manobra: Atracação
+Data/Hora: 17/10/26 00:40 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 100
+Agência: WILSON SONS **
+--------------------------------------------------
+[17/10/2026 02:50:25] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MH IBUKI
+Manobra: Atracação
+Data/Hora: 17/10/26 00:20 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: ISS**
+--------------------------------------------------
+[17/10/2026 02:50:25] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BERGE YOTEI
+Manobra: Desatracação
+Data/Hora: 16/10/26 21:55
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
