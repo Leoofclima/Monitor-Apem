@@ -1,6 +1,7 @@
 {
-  "DALLAS | 17/10/26 | 10:27 | EA | 106 EXT": "Navio: DALLAS\nManobra: Atracação\nData/Hora: 17/10/26 10:27\nDe: BOIA 19-24\nPara/Berço: 106 EXT\nAgência: WILHELMSEN PORT**",
   "NSU TUBARAO | 17/10/26 | 16:55 | EA | PIER 1": "Navio: NSU TUBARAO\nManobra: Atracação\nData/Hora: 17/10/26 16:55\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: LMA SHIPPING **",
   "ASL POLARIS 2 | 17/10/26 | 16:55 | DS | ILHA DO MEDO": "Navio: ASL POLARIS 2\nManobra: Desatracação\nData/Hora: 17/10/26 16:55\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
+  "MTM AMAZON | 17/10/26 | 20:46 | DS | ILHA DO MEDO": "Navio: MTM AMAZON\nManobra: Desatracação\nData/Hora: 17/10/26 20:46\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: NORTH STAR**",
+  "CAPRICORN ONE | 17/10/26 | 21:16 | DS | ILHA DO MEDO": "Navio: CAPRICORN ONE\nManobra: Desatracação\nData/Hora: 17/10/26 21:16\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
   "SH VEGA | 18/10/26 | 05:32 | EA | 102/CENTRO": "Navio: SH VEGA\nManobra: Atracação\nData/Hora: 18/10/26 05:32\nDe: BOIA 19-24\nPara/Berço: 102/CENTRO\nAgência: CREWLOG**"
 }
