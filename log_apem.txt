@@ -11677,3 +11677,27 @@ De: BOIA 19-24
 Para/Berço: 106 EXT
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[17/10/2026 18:01:15] NOVA MANOBRA:
+Navio: BERGE OLYMPUS
+Manobra: Atracação
+Data/Hora: 17/10/26 21:16
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[17/10/2026 18:01:15] NOVA MANOBRA:
+Navio: SPRING PASSION
+Manobra: Desatracação
+Data/Hora: 18/10/26 05:02
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[17/10/2026 18:01:15] NOVA MANOBRA:
+Navio: SEA MARANHAO
+Manobra: Atracação
+Data/Hora: 18/10/26 05:32
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
