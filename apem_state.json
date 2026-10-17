@@ -1,7 +1,6 @@
 {
-  "SAO UNISON | 17/10/26 | 08:57 | DS | ILHA DO MEDO": "Navio: SAO UNISON\nManobra: Desatracação\nData/Hora: 17/10/26 08:57\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "YU HUA HAI | 17/10/26 | 08:57 | EA | PIER 4 NORTE": "Navio: YU HUA HAI\nManobra: Atracação\nData/Hora: 17/10/26 08:57\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE\nAgência: LMA SHIPPING **",
-  "AMAZON PATHFINDER | 17/10/26 | 09:12 | DS | ILHA DO MEDO": "Navio: AMAZON PATHFINDER\nManobra: Desatracação\nData/Hora: 17/10/26 09:12\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
-  "AMAZON PIONEER | 17/10/26 | 09:42 | EA | ALUMAR 2": "Navio: AMAZON PIONEER\nManobra: Atracação\nData/Hora: 17/10/26 09:42\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 2\nAgência: ORION RODOS**",
-  "DALLAS | 17/10/26 | 10:27 | EA | 106 EXT": "Navio: DALLAS\nManobra: Atracação\nData/Hora: 17/10/26 10:27\nDe: BOIA 19-24\nPara/Berço: 106 EXT\nAgência: WILHELMSEN PORT**"
+  "DALLAS | 17/10/26 | 10:27 | EA | 106 EXT": "Navio: DALLAS\nManobra: Atracação\nData/Hora: 17/10/26 10:27\nDe: BOIA 19-24\nPara/Berço: 106 EXT\nAgência: WILHELMSEN PORT**",
+  "NSU TUBARAO | 17/10/26 | 16:55 | EA | PIER 1": "Navio: NSU TUBARAO\nManobra: Atracação\nData/Hora: 17/10/26 16:55\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: LMA SHIPPING **",
+  "ASL POLARIS 2 | 17/10/26 | 16:55 | DS | ILHA DO MEDO": "Navio: ASL POLARIS 2\nManobra: Desatracação\nData/Hora: 17/10/26 16:55\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
+  "SH VEGA | 18/10/26 | 05:32 | EA | 102/CENTRO": "Navio: SH VEGA\nManobra: Atracação\nData/Hora: 18/10/26 05:32\nDe: BOIA 19-24\nPara/Berço: 102/CENTRO\nAgência: CREWLOG**"
 }

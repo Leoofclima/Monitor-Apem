@@ -11597,3 +11597,59 @@ De: 100
 Para/Berço: ILHA DO MEDO
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[17/10/2026 13:32:36] NOVA MANOBRA:
+Navio: NSU TUBARAO
+Manobra: Atracação
+Data/Hora: 17/10/26 16:55
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[17/10/2026 13:32:36] NOVA MANOBRA:
+Navio: ASL POLARIS 2
+Manobra: Desatracação
+Data/Hora: 17/10/26 16:55
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[17/10/2026 13:32:36] NOVA MANOBRA:
+Navio: SH VEGA
+Manobra: Atracação
+Data/Hora: 18/10/26 05:32
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: CREWLOG**
+--------------------------------------------------
+[17/10/2026 13:32:36] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SAO UNISON
+Manobra: Desatracação
+Data/Hora: 17/10/26 08:57
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[17/10/2026 13:32:36] MANOBRA CONCLUÍDA (navio atracou):
+Navio: YU HUA HAI
+Manobra: Atracação
+Data/Hora: 17/10/26 11:39 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[17/10/2026 13:32:36] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AMAZON PATHFINDER
+Manobra: Desatracação
+Data/Hora: 17/10/26 09:12
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[17/10/2026 13:32:36] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AMAZON PIONEER
+Manobra: Atracação
+Data/Hora: 17/10/26 11:55 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
