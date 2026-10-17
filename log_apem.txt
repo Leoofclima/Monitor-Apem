@@ -11701,3 +11701,37 @@ De: PONTO ALPHA
 Para/Berço: PIER 4 SUL
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[17/10/2026 20:02:36] NOVA MANOBRA:
+Navio: STAR ISLAND
+Manobra: Desatracação
+Data/Hora: 18/10/26 06:02
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WAYPOINT (SÃO LUIS)*
+--------------------------------------------------
+[17/10/2026 20:02:36] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: BERGE OLYMPUS
+Manobra: Atracação
+Berço: PIER 3 SUL
+Antes: 17/10/26 21:16
+Agora: 18/10/26 05:32
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[17/10/2026 20:02:36] MANOBRA CONCLUÍDA (navio atracou):
+Navio: NSU TUBARAO
+Manobra: Atracação
+Data/Hora: 17/10/26 19:50 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[17/10/2026 20:02:36] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ASL POLARIS 2
+Manobra: Desatracação
+Data/Hora: 17/10/26 16:55
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
