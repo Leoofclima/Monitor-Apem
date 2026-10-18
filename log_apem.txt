@@ -11783,3 +11783,21 @@ De: PIER 3 NORTE
 Para/Berço: ILHA DO MEDO
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[18/10/2026 06:40:30] NOVA MANOBRA:
+Navio: JULIE C
+Manobra: Atracação
+Data/Hora: 18/10/26 10:44
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
+[18/10/2026 06:40:30] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: HUA XING HAI
+Manobra: Atracação
+Berço: 99
+Antes: 18/10/26 09:59
+Agora: 18/10/26 11:59
+Agência: WILSON SONS **
+--------------------------------------------------
