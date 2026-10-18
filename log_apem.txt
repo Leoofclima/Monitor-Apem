@@ -11801,3 +11801,63 @@ Antes: 18/10/26 09:59
 Agora: 18/10/26 11:59
 Agência: WILSON SONS **
 --------------------------------------------------
+[18/10/2026 10:35:35] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: DALLAS
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 18/10/26 10:59
+Agora: 18/10/26 17:29
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[18/10/2026 10:35:35] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: HORIZON ARMONIA
+Manobra: Atracação
+Berço: 106 EXT
+Antes: 18/10/26 11:29
+Agora: 19/10/26 06:14
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[18/10/2026 10:35:35] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SPRING PASSION
+Manobra: Desatracação
+Data/Hora: 18/10/26 05:02
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[18/10/2026 10:35:35] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SEA MARANHAO
+Manobra: Atracação
+Data/Hora: 18/10/26 08:17 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[18/10/2026 10:35:35] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BERGE OLYMPUS
+Manobra: Atracação
+Data/Hora: 18/10/26 08:10 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[18/10/2026 10:35:35] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SH VEGA
+Manobra: Atracação
+Data/Hora: 18/10/26 07:00 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: CREWLOG**
+--------------------------------------------------
+[18/10/2026 10:35:35] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: STAR ISLAND
+Manobra: Desatracação
+Data/Hora: 18/10/26 06:02
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WAYPOINT (SÃO LUIS)*
+--------------------------------------------------
