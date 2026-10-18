@@ -11861,3 +11861,27 @@ De: 103/NORTE
 Para/Berço: ILHA DO MEDO
 Agência: WAYPOINT (SÃO LUIS)*
 --------------------------------------------------
+[18/10/2026 16:00:15] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BOLD VOYAGER
+Manobra: Desatracação
+Data/Hora: 18/10/26 09:29
+De: 99
+Para/Berço: ILHA DO MEDO
+Agência: ZPORT LTDA**
+--------------------------------------------------
+[18/10/2026 16:00:15] MANOBRA CONCLUÍDA (navio atracou):
+Navio: JULIE C
+Manobra: Atracação
+Data/Hora: 18/10/26 12:52 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
+[18/10/2026 16:00:15] MANOBRA CONCLUÍDA (navio atracou):
+Navio: HUA XING HAI
+Manobra: Atracação
+Data/Hora: 18/10/26 14:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 99
+Agência: WILSON SONS **
+--------------------------------------------------
