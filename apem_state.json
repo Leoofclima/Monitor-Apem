@@ -1,9 +1,11 @@
 {
-  "MTM AMAZON | 17/10/26 | 20:46 | DS | ILHA DO MEDO": "Navio: MTM AMAZON\nManobra: Desatracação\nData/Hora: 17/10/26 20:46\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: NORTH STAR**",
-  "CAPRICORN ONE | 17/10/26 | 21:16 | DS | ILHA DO MEDO": "Navio: CAPRICORN ONE\nManobra: Desatracação\nData/Hora: 17/10/26 21:16\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
   "SPRING PASSION | 18/10/26 | 05:02 | DS | ILHA DO MEDO": "Navio: SPRING PASSION\nManobra: Desatracação\nData/Hora: 18/10/26 05:02\nDe: PIER 4 SUL\nPara/Berço: ILHA DO MEDO\nAgência: WILSON SONS **",
   "SEA MARANHAO | 18/10/26 | 05:32 | EA | PIER 4 SUL": "Navio: SEA MARANHAO\nManobra: Atracação\nData/Hora: 18/10/26 05:32\nDe: PONTO ALPHA\nPara/Berço: PIER 4 SUL\nAgência: WILHELMSEN PORT**",
   "BERGE OLYMPUS | 18/10/26 | 05:32 | EA | PIER 3 SUL": "Navio: BERGE OLYMPUS\nManobra: Atracação\nData/Hora: 18/10/26 05:32\nDe: PONTO ALPHA\nPara/Berço: PIER 3 SUL\nAgência: LMA SHIPPING **",
   "SH VEGA | 18/10/26 | 05:32 | EA | 102/CENTRO": "Navio: SH VEGA\nManobra: Atracação\nData/Hora: 18/10/26 05:32\nDe: BOIA 19-24\nPara/Berço: 102/CENTRO\nAgência: CREWLOG**",
-  "STAR ISLAND | 18/10/26 | 06:02 | DS | ILHA DO MEDO": "Navio: STAR ISLAND\nManobra: Desatracação\nData/Hora: 18/10/26 06:02\nDe: 103/NORTE\nPara/Berço: ILHA DO MEDO\nAgência: WAYPOINT (SÃO LUIS)*"
+  "STAR ISLAND | 18/10/26 | 06:02 | DS | ILHA DO MEDO": "Navio: STAR ISLAND\nManobra: Desatracação\nData/Hora: 18/10/26 06:02\nDe: 103/NORTE\nPara/Berço: ILHA DO MEDO\nAgência: WAYPOINT (SÃO LUIS)*",
+  "BOLD VOYAGER | 18/10/26 | 09:29 | DS | ILHA DO MEDO": "Navio: BOLD VOYAGER\nManobra: Desatracação\nData/Hora: 18/10/26 09:29\nDe: 99\nPara/Berço: ILHA DO MEDO\nAgência: ZPORT LTDA**",
+  "HUA XING HAI | 18/10/26 | 09:59 | EA | 99": "Navio: HUA XING HAI\nManobra: Atracação\nData/Hora: 18/10/26 09:59\nDe: PONTO ALPHA\nPara/Berço: 99\nAgência: WILSON SONS **",
+  "DALLAS | 18/10/26 | 10:59 | DS | ILHA DO MEDO": "Navio: DALLAS\nManobra: Desatracação\nData/Hora: 18/10/26 10:59\nDe: 106 EXT\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "HORIZON ARMONIA | 18/10/26 | 11:29 | EA | 106 EXT": "Navio: HORIZON ARMONIA\nManobra: Atracação\nData/Hora: 18/10/26 11:29\nDe: BOIA 19-24\nPara/Berço: 106 EXT\nAgência: WILHELMSEN PORT**"
 }

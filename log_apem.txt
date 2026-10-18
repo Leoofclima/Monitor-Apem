@@ -11735,3 +11735,51 @@ De: PIER 1
 Para/Berço: ILHA DO MEDO
 Agência: ISS**
 --------------------------------------------------
+[18/10/2026 02:16:40] NOVA MANOBRA:
+Navio: BOLD VOYAGER
+Manobra: Desatracação
+Data/Hora: 18/10/26 09:29
+De: 99
+Para/Berço: ILHA DO MEDO
+Agência: ZPORT LTDA**
+--------------------------------------------------
+[18/10/2026 02:16:40] NOVA MANOBRA:
+Navio: HUA XING HAI
+Manobra: Atracação
+Data/Hora: 18/10/26 09:59
+De: PONTO ALPHA
+Para/Berço: 99
+Agência: WILSON SONS **
+--------------------------------------------------
+[18/10/2026 02:16:40] NOVA MANOBRA:
+Navio: DALLAS
+Manobra: Desatracação
+Data/Hora: 18/10/26 10:59
+De: 106 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[18/10/2026 02:16:40] NOVA MANOBRA:
+Navio: HORIZON ARMONIA
+Manobra: Atracação
+Data/Hora: 18/10/26 11:29
+De: BOIA 19-24
+Para/Berço: 106 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[18/10/2026 02:16:40] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: MTM AMAZON
+Manobra: Desatracação
+Data/Hora: 17/10/26 20:46
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[18/10/2026 02:16:40] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: CAPRICORN ONE
+Manobra: Desatracação
+Data/Hora: 17/10/26 21:16
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
