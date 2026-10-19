@@ -12101,3 +12101,45 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[19/10/2026 20:02:38] NOVA MANOBRA:
+Navio: ROYAL TOPAZ
+Manobra: Desatracação
+Data/Hora: 19/10/26 23:06
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[19/10/2026 20:02:38] NOVA MANOBRA:
+Navio: BRAVE OWL
+Manobra: Atracação
+Data/Hora: 19/10/26 23:36
+De: BOIA 19-24
+Para/Berço: 105
+Agência: LACHMANN**
+--------------------------------------------------
+[19/10/2026 20:02:38] NOVA MANOBRA:
+Navio: DALMA
+Manobra: Atracação
+Data/Hora: 20/10/26 07:31
+De: BOIA 19-24
+Para/Berço: 108 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[19/10/2026 20:02:38] NOVA MANOBRA:
+Navio: HORIZON ARMONIA
+Manobra: Desatracação
+Data/Hora: 20/10/26 07:31
+De: 106 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[19/10/2026 20:02:38] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: NSU TUBARAO
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 19/10/26 19:14
+Agora: 19/10/26 23:36
+Agência: LMA SHIPPING **
+--------------------------------------------------
