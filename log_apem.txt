@@ -12021,3 +12021,83 @@ De: BOIA 19-24
 Para/Berço: 104
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[19/10/2026 16:34:16] NOVA MANOBRA:
+Navio: MH IBUKI
+Manobra: Desatracação
+Data/Hora: 19/10/26 18:44
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[19/10/2026 16:34:16] NOVA MANOBRA:
+Navio: ALPINE MARINA
+Manobra: Atracação
+Data/Hora: 19/10/26 18:44
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: NORTH STAR**
+--------------------------------------------------
+[19/10/2026 16:34:16] NOVA MANOBRA:
+Navio: GIANT ACE
+Manobra: Atracação
+Data/Hora: 19/10/26 19:14
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: ISS**
+--------------------------------------------------
+[19/10/2026 16:34:16] NOVA MANOBRA:
+Navio: BARBOSA LIMA SOBRINHO
+Manobra: Atracação
+Data/Hora: 19/10/26 19:44
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[19/10/2026 16:34:16] NOVA MANOBRA:
+Navio: PACIFIC ZIRCON
+Manobra: Desatracação
+Data/Hora: 19/10/26 19:44
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[19/10/2026 16:34:16] NOVA MANOBRA:
+Navio: PRESTIGE DIVA
+Manobra: Desatracação
+Data/Hora: 19/10/26 19:44
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[19/10/2026 16:34:16] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: YU HUA HAI
+Manobra: Desatracação
+Data/Hora: 19/10/26 11:16
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[19/10/2026 16:34:16] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SEA GUAIBA
+Manobra: Atracação
+Data/Hora: 19/10/26 13:50 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: ISS**
+--------------------------------------------------
+[19/10/2026 16:34:16] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: KONTA III
+Manobra: Desatracação
+Data/Hora: 19/10/26 12:01
+De: TERM PESQ
+Para/Berço: PTO EMBARQUE LC
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[19/10/2026 16:34:16] MANOBRA CONCLUÍDA (navio atracou):
+Navio: FORTE DE SAO JOSE
+Manobra: Atracação
+Data/Hora: 19/10/26 13:53 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
