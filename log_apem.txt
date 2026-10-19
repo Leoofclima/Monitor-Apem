@@ -11933,3 +11933,35 @@ De: TERMINAL PESQUEIRO LC
 Para/Berço: PTO EMBARQUE LC
 Agência: GEM - PARNAIBA
 --------------------------------------------------
+[19/10/2026 03:30:47] NOVA MANOBRA:
+Navio: YU HUA HAI
+Manobra: Desatracação
+Data/Hora: 19/10/26 11:16
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[19/10/2026 03:30:47] NOVA MANOBRA:
+Navio: SEA GUAIBA
+Manobra: Atracação
+Data/Hora: 19/10/26 11:17
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: ISS**
+--------------------------------------------------
+[19/10/2026 03:30:47] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AMAZON PIONEER
+Manobra: Desatracação
+Data/Hora: 18/10/26 23:34
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[19/10/2026 03:30:47] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: NORD ATOLL
+Manobra: Desatracação
+Data/Hora: 18/10/26 23:49
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
