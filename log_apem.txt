@@ -11965,3 +11965,59 @@ De: 100
 Para/Berço: ILHA DO MEDO
 Agência: WILSON SONS **
 --------------------------------------------------
+[19/10/2026 10:52:29] NOVA MANOBRA:
+Navio: KONTA III
+Manobra: Desatracação
+Data/Hora: 19/10/26 12:01
+De: TERM PESQ
+Para/Berço: PTO EMBARQUE LC
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[19/10/2026 10:52:29] NOVA MANOBRA:
+Navio: FORTE DE SAO JOSE
+Manobra: Atracação
+Data/Hora: 19/10/26 12:02
+De: BOIA 19-24
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[19/10/2026 10:52:29] NOVA MANOBRA:
+Navio: NSU TUBARAO
+Manobra: Desatracação
+Data/Hora: 19/10/26 19:14
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[19/10/2026 10:52:29] NOVA MANOBRA:
+Navio: BERGE OLYMPUS
+Manobra: Desatracação
+Data/Hora: 19/10/26 19:14
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[19/10/2026 10:52:29] NOVA MANOBRA:
+Navio: SH VEGA
+Manobra: Desatracação
+Data/Hora: 19/10/26 19:44
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: CREWLOG**
+--------------------------------------------------
+[19/10/2026 10:52:29] MANOBRA CONCLUÍDA (navio atracou):
+Navio: HORIZON ARMONIA
+Manobra: Atracação
+Data/Hora: 19/10/26 08:10 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 106 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[19/10/2026 10:52:29] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PACIFIC ZIRCON
+Manobra: Atracação
+Data/Hora: 19/10/26 08:25 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
