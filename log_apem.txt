@@ -11925,3 +11925,11 @@ De: 106 EXT
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[18/10/2026 22:27:21] DESATRACAÇÃO ADIADA (navio ainda encontrado em Navios Atracados):
+Navio: KONTA III
+Manobra: Desatracação
+Data/Hora: 19/10/26 11:46
+De: TERMINAL PESQUEIRO LC
+Para/Berço: PTO EMBARQUE LC
+Agência: GEM - PARNAIBA
+--------------------------------------------------
