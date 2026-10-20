@@ -1,12 +1,9 @@
 {
-  "GIANT ACE | 19/10/26 | 19:14 | EA | PIER 3 NORTE": "Navio: GIANT ACE\nManobra: Atracação\nData/Hora: 19/10/26 19:14\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: ISS**",
-  "ROYAL TOPAZ | 19/10/26 | 23:06 | DS | ILHA DO MEDO": "Navio: ROYAL TOPAZ\nManobra: Desatracação\nData/Hora: 19/10/26 23:06\nDe: 105\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
-  "NSU TUBARAO | 19/10/26 | 23:36 | DS | ILHA DO MEDO": "Navio: NSU TUBARAO\nManobra: Desatracação\nData/Hora: 19/10/26 23:36\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
-  "BRAVE OWL | 19/10/26 | 23:36 | EA | 105": "Navio: BRAVE OWL\nManobra: Atracação\nData/Hora: 19/10/26 23:36\nDe: BOIA 19-24\nPara/Berço: 105\nAgência: LACHMANN**",
   "KONTA III | 20/10/26 | 06:02 | EA | PLATAFORMA 1": "Navio: KONTA III\nManobra: Atracação\nData/Hora: 20/10/26 06:02\nDe: PTO EMBARQUE LC\nPara/Berço: PLATAFORMA 1\nAgência: GEM - PARNAIBA",
   "PACIFIC ZIRCON | 20/10/26 | 07:31 | EA | 106 EXT": "Navio: PACIFIC ZIRCON\nManobra: Atracação\nData/Hora: 20/10/26 07:31\nDe: BOIA 19-24\nPara/Berço: 106 EXT\nAgência: WILHELMSEN PORT**",
-  "DALMA | 20/10/26 | 07:31 | EA | 108 EXT": "Navio: DALMA\nManobra: Atracação\nData/Hora: 20/10/26 07:31\nDe: BOIA 19-24\nPara/Berço: 108 EXT\nAgência: WILHELMSEN PORT**",
-  "HORIZON ARMONIA | 20/10/26 | 07:31 | DS | ILHA DO MEDO": "Navio: HORIZON ARMONIA\nManobra: Desatracação\nData/Hora: 20/10/26 07:31\nDe: 106 EXT\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
   "SEA MARANHAO | 20/10/26 | 07:31 | DS | ILHA DO MEDO": "Navio: SEA MARANHAO\nManobra: Desatracação\nData/Hora: 20/10/26 07:31\nDe: PIER 4 SUL\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "TUBARAO MARU | 20/10/26 | 08:01 | EA | PIER 4 SUL": "Navio: TUBARAO MARU\nManobra: Atracação\nData/Hora: 20/10/26 08:01\nDe: PONTO ALPHA\nPara/Berço: PIER 4 SUL\nAgência: WILSON SONS **"
+  "HORIZON ARMONIA | 20/10/26 | 07:31 | DS | ILHA DO MEDO": "Navio: HORIZON ARMONIA\nManobra: Desatracação\nData/Hora: 20/10/26 07:31\nDe: 106 EXT\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "TUBARAO MARU | 20/10/26 | 08:01 | EA | PIER 4 SUL": "Navio: TUBARAO MARU\nManobra: Atracação\nData/Hora: 20/10/26 08:01\nDe: PONTO ALPHA\nPara/Berço: PIER 4 SUL\nAgência: WILSON SONS **",
+  "JULIE C | 20/10/26 | 08:16 | DS | ILHA DO MEDO": "Navio: JULIE C\nManobra: Desatracação\nData/Hora: 20/10/26 08:16\nDe: ALUMAR 1\nPara/Berço: ILHA DO MEDO\nAgência: GEM**",
+  "DALMA | 20/10/26 | 14:02 | EA | 108 EXT": "Navio: DALMA\nManobra: Atracação\nData/Hora: 20/10/26 14:02\nDe: BOIA 19-24\nPara/Berço: 108 EXT\nAgência: WILHELMSEN PORT**"
 }
