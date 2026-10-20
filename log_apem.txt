@@ -12143,3 +12143,91 @@ Antes: 19/10/26 19:14
 Agora: 19/10/26 23:36
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[19/10/2026 22:43:09] NOVA MANOBRA:
+Navio: KONTA III
+Manobra: Atracação
+Data/Hora: 20/10/26 06:02
+De: PTO EMBARQUE LC
+Para/Berço: PLATAFORMA 1
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[19/10/2026 22:43:09] NOVA MANOBRA:
+Navio: PACIFIC ZIRCON
+Manobra: Atracação
+Data/Hora: 20/10/26 07:31
+De: BOIA 19-24
+Para/Berço: 106 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[19/10/2026 22:43:09] NOVA MANOBRA:
+Navio: SEA MARANHAO
+Manobra: Desatracação
+Data/Hora: 20/10/26 07:31
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[19/10/2026 22:43:09] NOVA MANOBRA:
+Navio: TUBARAO MARU
+Manobra: Atracação
+Data/Hora: 20/10/26 08:01
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: WILSON SONS **
+--------------------------------------------------
+[19/10/2026 22:43:09] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: MH IBUKI
+Manobra: Desatracação
+Data/Hora: 19/10/26 18:44
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[19/10/2026 22:43:09] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ALPINE MARINA
+Manobra: Atracação
+Data/Hora: 19/10/26 20:45 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: NORTH STAR**
+--------------------------------------------------
+[19/10/2026 22:43:09] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BERGE OLYMPUS
+Manobra: Desatracação
+Data/Hora: 19/10/26 19:14
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[19/10/2026 22:43:09] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PRESTIGE DIVA
+Manobra: Desatracação
+Data/Hora: 19/10/26 19:44
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[19/10/2026 22:43:09] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BARBOSA LIMA SOBRINHO
+Manobra: Atracação
+Data/Hora: 19/10/26 21:35 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[19/10/2026 22:43:09] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SH VEGA
+Manobra: Desatracação
+Data/Hora: 19/10/26 19:44
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: CREWLOG**
+--------------------------------------------------
+[19/10/2026 22:43:09] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PACIFIC ZIRCON
+Manobra: Desatracação
+Data/Hora: 19/10/26 19:44
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
