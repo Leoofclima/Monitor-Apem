@@ -12403,3 +12403,19 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 1
 Agência: GEM**
 --------------------------------------------------
+[20/10/2026 20:12:26] NOVA MANOBRA:
+Navio: DALMA
+Manobra: Atracação
+Data/Hora: 21/10/26 08:38
+De: BOIA 19-24
+Para/Berço: 108 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[20/10/2026 20:12:26] NOVA MANOBRA:
+Navio: PACIFIC ZIRCON
+Manobra: Desatracação
+Data/Hora: 21/10/26 08:38
+De: 106 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
