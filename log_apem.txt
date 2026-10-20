@@ -12363,3 +12363,43 @@ De: BOIA 19-24
 Para/Berço: 108 EXT
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[20/10/2026 17:15:36] NOVA MANOBRA:
+Navio: GIANT ACE
+Manobra: Desatracação
+Data/Hora: 20/10/26 20:29
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[20/10/2026 17:15:36] NOVA MANOBRA:
+Navio: SHIN KOHO
+Manobra: Atracação
+Data/Hora: 20/10/26 20:29
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[20/10/2026 17:15:36] NOVA MANOBRA:
+Navio: BARBOSA LIMA SOBRINHO
+Manobra: Desatracação
+Data/Hora: 21/10/26 00:17
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[20/10/2026 17:15:36] MANOBRA CONCLUÍDA (navio atracou):
+Navio: FORTUNE LEGACY
+Manobra: Atracação
+Data/Hora: 20/10/26 13:57 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: WILSON SONS **
+--------------------------------------------------
+[20/10/2026 17:15:36] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CL HENGYANG
+Manobra: Atracação
+Data/Hora: 20/10/26 15:40 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
