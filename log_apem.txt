@@ -12289,3 +12289,77 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 1
 Agência: GEM**
 --------------------------------------------------
+[20/10/2026 13:56:46] NOVA MANOBRA:
+Navio: FORTUNE LEGACY
+Manobra: Atracação
+Data/Hora: 20/10/26 12:32
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: WILSON SONS **
+--------------------------------------------------
+[20/10/2026 13:56:46] NOVA MANOBRA:
+Navio: DELOS C
+Manobra: Atracação
+Data/Hora: 20/10/26 20:29
+De: PONTO ALPHA
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[20/10/2026 13:56:46] MANOBRA CONCLUÍDA (navio atracou):
+Navio: KONTA III
+Manobra: Atracação
+Data/Hora: 20/10/26 08:30 (horário real de atracação)
+De: PTO EMBARQUE LC
+Para/Berço: PLATAFORMA 1
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[20/10/2026 13:56:46] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PACIFIC ZIRCON
+Manobra: Atracação
+Data/Hora: 20/10/26 09:15 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 106 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[20/10/2026 13:56:46] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: HORIZON ARMONIA
+Manobra: Desatracação
+Data/Hora: 20/10/26 07:31
+De: 106 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[20/10/2026 13:56:46] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SEA MARANHAO
+Manobra: Desatracação
+Data/Hora: 20/10/26 07:31
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[20/10/2026 13:56:46] MANOBRA CONCLUÍDA (navio atracou):
+Navio: TUBARAO MARU
+Manobra: Atracação
+Data/Hora: 20/10/26 10:34 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: WILSON SONS **
+--------------------------------------------------
+[20/10/2026 13:56:46] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: JULIE C
+Manobra: Desatracação
+Data/Hora: 20/10/26 08:16
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[20/10/2026 13:56:46] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — DALMA permanece no fundeio
+
+Navio: DALMA
+Manobra: Atracação (cancelada)
+Previsão anterior: 20/10/26 14:02
+De: BOIA 19-24
+Para/Berço: 108 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
