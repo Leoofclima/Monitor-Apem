@@ -12281,3 +12281,11 @@ De: BOIA 19-24
 Para/Berço: 105
 Agência: LACHMANN**
 --------------------------------------------------
+[20/10/2026 09:09:05] NOVA MANOBRA:
+Navio: CL HENGYANG
+Manobra: Atracação
+Data/Hora: 20/10/26 13:17
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
