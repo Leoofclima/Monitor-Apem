@@ -1,9 +1,6 @@
 {
-  "SHIN KOHO | 20/10/26 | 20:29 | EA | PIER 3 NORTE": "Navio: SHIN KOHO\nManobra: Atracação\nData/Hora: 20/10/26 20:29\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: LMA SHIPPING **",
-  "DELOS C | 20/10/26 | 20:29 | EA | 104": "Navio: DELOS C\nManobra: Atracação\nData/Hora: 20/10/26 20:29\nDe: PONTO ALPHA\nPara/Berço: 104\nAgência: WILHELMSEN PORT**",
-  "BARBOSA LIMA SOBRINHO | 21/10/26 | 00:17 | DS | ILHA DO MEDO": "Navio: BARBOSA LIMA SOBRINHO\nManobra: Desatracação\nData/Hora: 21/10/26 00:17\nDe: 102/CENTRO\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "HUA XING HAI | 21/10/26 | 02:17 | DS | ILHA DO MEDO": "Navio: HUA XING HAI\nManobra: Desatracação\nData/Hora: 21/10/26 02:17\nDe: 99\nPara/Berço: ILHA DO MEDO\nAgência: WILSON SONS **",
-  "PACIFIC ZIRCON | 21/10/26 | 08:38 | DS | ILHA DO MEDO": "Navio: PACIFIC ZIRCON\nManobra: Desatracação\nData/Hora: 21/10/26 08:38\nDe: 106 EXT\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
   "DALMA | 21/10/26 | 08:38 | EA | 108 EXT": "Navio: DALMA\nManobra: Atracação\nData/Hora: 21/10/26 08:38\nDe: BOIA 19-24\nPara/Berço: 108 EXT\nAgência: WILHELMSEN PORT**",
-  "KMARIN REGARD | 21/10/26 | 14:31 | DS | ILHA DO MEDO": "Navio: KMARIN REGARD\nManobra: Desatracação\nData/Hora: 21/10/26 14:31\nDe: 106\nPara/Berço: ILHA DO MEDO\nAgência: ISS**"
+  "PACIFIC ZIRCON | 21/10/26 | 08:38 | DS | ILHA DO MEDO": "Navio: PACIFIC ZIRCON\nManobra: Desatracação\nData/Hora: 21/10/26 08:38\nDe: 106 EXT\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "FORTE DE SAO JOSE | 21/10/26 | 09:23 | DS | ILHA DO MEDO": "Navio: FORTE DE SAO JOSE\nManobra: Desatracação\nData/Hora: 21/10/26 09:23\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
+  "KMARIN REGARD | 21/10/26 | 21:02 | DS | ILHA DO MEDO": "Navio: KMARIN REGARD\nManobra: Desatracação\nData/Hora: 21/10/26 21:02\nDe: 106\nPara/Berço: ILHA DO MEDO\nAgência: ISS**"
 }
