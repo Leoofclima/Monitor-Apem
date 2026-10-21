@@ -12565,3 +12565,69 @@ De: ALUMAR 2
 Para/Berço: ILHA DO MEDO
 Agência: ORION RODOS**
 --------------------------------------------------
+[21/10/2026 17:42:19] NOVA MANOBRA:
+Navio: SHIN KOHO
+Manobra: Desatracação
+Data/Hora: 21/10/26 21:32
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[21/10/2026 17:42:19] NOVA MANOBRA:
+Navio: ASL SUN
+Manobra: Atracação
+Data/Hora: 21/10/26 21:32
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[21/10/2026 17:42:19] NOVA MANOBRA:
+Navio: BRAVE OWL
+Manobra: Desatracação
+Data/Hora: 22/10/26 01:17
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: LACHMANN**
+--------------------------------------------------
+[21/10/2026 17:42:19] NOVA MANOBRA:
+Navio: FEDERAL RUHR
+Manobra: Atracação
+Data/Hora: 22/10/26 01:47
+De: PONTO ALPHA
+Para/Berço: 101/SUL
+Agência: ORION RODOS**
+--------------------------------------------------
+[21/10/2026 17:42:19] NOVA MANOBRA:
+Navio: HANG JUN 3011
+Manobra: SS
+Data/Hora: 22/10/26 08:00
+De: AREA 7
+Para/Berço: ILHA DO MEDO
+Agência: OCEANMAR**
+--------------------------------------------------
+[21/10/2026 17:42:19] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: MOUNT VICTORIA
+Manobra: Atracação
+Berço: PIER 3 SUL
+Antes: 21/10/26 21:32
+Agora: 21/10/26 23:32
+Agência: ISS**
+--------------------------------------------------
+[21/10/2026 17:42:19] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: KONTA III
+Manobra: Desatracação
+Data/Hora: 21/10/26 13:42
+De: PLATAFORMA 1
+Para/Berço: PTO EMBARQUE LC
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[21/10/2026 17:42:19] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PEPPINO
+Manobra: Atracação
+Data/Hora: 21/10/26 16:05 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
