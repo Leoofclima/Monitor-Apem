@@ -12419,3 +12419,27 @@ De: 106 EXT
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[20/10/2026 22:37:49] NOVA MANOBRA:
+Navio: HUA XING HAI
+Manobra: Desatracação
+Data/Hora: 21/10/26 02:17
+De: 99
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[20/10/2026 22:37:49] NOVA MANOBRA:
+Navio: KMARIN REGARD
+Manobra: Desatracação
+Data/Hora: 21/10/26 14:31
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[20/10/2026 22:37:49] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: GIANT ACE
+Manobra: Desatracação
+Data/Hora: 20/10/26 20:29
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
