@@ -12533,3 +12533,35 @@ De: PONTO ALPHA
 Para/Berço: PIER 4 NORTE
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[21/10/2026 14:20:17] NOVA MANOBRA:
+Navio: KONTA III
+Manobra: Desatracação
+Data/Hora: 21/10/26 13:42
+De: PLATAFORMA 1
+Para/Berço: PTO EMBARQUE LC
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[21/10/2026 14:20:17] MANOBRA CONCLUÍDA (navio atracou):
+Navio: DALMA
+Manobra: Atracação
+Data/Hora: 21/10/26 10:50 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 108 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[21/10/2026 14:20:17] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PACIFIC ZIRCON
+Manobra: Desatracação
+Data/Hora: 21/10/26 08:38
+De: 106 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[21/10/2026 14:20:17] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FORTE DE SAO JOSE
+Manobra: Desatracação
+Data/Hora: 21/10/26 09:23
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
