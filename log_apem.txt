@@ -12493,3 +12493,43 @@ De: 99
 Para/Berço: ILHA DO MEDO
 Agência: WILSON SONS **
 --------------------------------------------------
+[21/10/2026 09:18:09] NOVA MANOBRA:
+Navio: PEPPINO
+Manobra: Atracação
+Data/Hora: 21/10/26 14:16
+De: BOIA 19-24
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[21/10/2026 09:18:09] NOVA MANOBRA:
+Navio: VELEBIT
+Manobra: Atracação
+Data/Hora: 21/10/26 21:02
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: LBH BRASIL**
+--------------------------------------------------
+[21/10/2026 09:18:09] NOVA MANOBRA:
+Navio: SEA GUAIBA
+Manobra: Desatracação
+Data/Hora: 21/10/26 21:02
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[21/10/2026 09:18:09] NOVA MANOBRA:
+Navio: MOUNT VICTORIA
+Manobra: Atracação
+Data/Hora: 21/10/26 21:32
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: ISS**
+--------------------------------------------------
+[21/10/2026 09:18:09] NOVA MANOBRA:
+Navio: NEW ANSTEEL
+Manobra: Atracação
+Data/Hora: 21/10/26 21:32
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
