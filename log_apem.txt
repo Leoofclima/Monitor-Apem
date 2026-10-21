@@ -12631,3 +12631,31 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[21/10/2026 20:40:47] NOVA MANOBRA:
+Navio: KATERINA
+Manobra: Atracação
+Data/Hora: 22/10/26 01:47
+De: BOIA 19-24
+Para/Berço: 105
+Agência: WILSON SONS **
+--------------------------------------------------
+[21/10/2026 20:40:47] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: SEA GUAIBA
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 21/10/26 21:02
+Agora: 22/10/26 01:47
+Agência: ISS**
+--------------------------------------------------
+[21/10/2026 20:40:47] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: NEW ANSTEEL
+Manobra: Atracação
+Berço: PIER 4 NORTE
+Antes: 21/10/26 21:32
+Agora: 22/10/26 01:47
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
