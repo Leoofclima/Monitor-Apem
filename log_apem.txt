@@ -12675,3 +12675,75 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 1
 Agência: GEM**
 --------------------------------------------------
+[22/10/2026 03:51:06] NOVA MANOBRA:
+Navio: TUBARAO MARU
+Manobra: Desatracação
+Data/Hora: 22/10/26 09:32
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[22/10/2026 03:51:06] NOVA MANOBRA:
+Navio: SEA BEIJING
+Manobra: Atracação
+Data/Hora: 22/10/26 10:02
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[22/10/2026 03:51:06] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: KMARIN REGARD
+Manobra: Desatracação
+Data/Hora: 21/10/26 21:02
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[22/10/2026 03:51:06] MANOBRA CONCLUÍDA (navio atracou):
+Navio: VELEBIT
+Manobra: Atracação
+Data/Hora: 21/10/26 23:30 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: LBH BRASIL**
+--------------------------------------------------
+[22/10/2026 03:51:06] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ASL SUN
+Manobra: Atracação
+Data/Hora: 22/10/26 00:15 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[22/10/2026 03:51:06] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SHIN KOHO
+Manobra: Desatracação
+Data/Hora: 21/10/26 21:32
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[22/10/2026 03:51:06] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MOUNT VICTORIA
+Manobra: Atracação
+Data/Hora: 22/10/26 03:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: ISS**
+--------------------------------------------------
+[22/10/2026 03:51:06] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BRAVE OWL
+Manobra: Desatracação
+Data/Hora: 22/10/26 01:17
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: LACHMANN**
+--------------------------------------------------
+[22/10/2026 03:51:06] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SEA GUAIBA
+Manobra: Desatracação
+Data/Hora: 22/10/26 01:47
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------

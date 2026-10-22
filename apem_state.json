@@ -1,15 +1,10 @@
 {
-  "KMARIN REGARD | 21/10/26 | 21:02 | DS | ILHA DO MEDO": "Navio: KMARIN REGARD\nManobra: Desatracação\nData/Hora: 21/10/26 21:02\nDe: 106\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
-  "VELEBIT | 21/10/26 | 21:02 | EA | 106": "Navio: VELEBIT\nManobra: Atracação\nData/Hora: 21/10/26 21:02\nDe: PONTO ALPHA\nPara/Berço: 106\nAgência: LBH BRASIL**",
-  "ASL SUN | 21/10/26 | 21:32 | EA | PIER 3 NORTE": "Navio: ASL SUN\nManobra: Atracação\nData/Hora: 21/10/26 21:32\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: LMA SHIPPING **",
-  "SHIN KOHO | 21/10/26 | 21:32 | DS | ILHA DO MEDO": "Navio: SHIN KOHO\nManobra: Desatracação\nData/Hora: 21/10/26 21:32\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
-  "MOUNT VICTORIA | 21/10/26 | 23:32 | EA | PIER 3 SUL": "Navio: MOUNT VICTORIA\nManobra: Atracação\nData/Hora: 21/10/26 23:32\nDe: PONTO ALPHA\nPara/Berço: PIER 3 SUL\nAgência: ISS**",
-  "BRAVE OWL | 22/10/26 | 01:17 | DS | ILHA DO MEDO": "Navio: BRAVE OWL\nManobra: Desatracação\nData/Hora: 22/10/26 01:17\nDe: 105\nPara/Berço: ILHA DO MEDO\nAgência: LACHMANN**",
-  "KATERINA | 22/10/26 | 01:47 | EA | 105": "Navio: KATERINA\nManobra: Atracação\nData/Hora: 22/10/26 01:47\nDe: BOIA 19-24\nPara/Berço: 105\nAgência: WILSON SONS **",
-  "SEA GUAIBA | 22/10/26 | 01:47 | DS | ILHA DO MEDO": "Navio: SEA GUAIBA\nManobra: Desatracação\nData/Hora: 22/10/26 01:47\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
   "NEW ANSTEEL | 22/10/26 | 01:47 | EA | PIER 4 NORTE": "Navio: NEW ANSTEEL\nManobra: Atracação\nData/Hora: 22/10/26 01:47\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE\nAgência: WILHELMSEN PORT**",
+  "KATERINA | 22/10/26 | 01:47 | EA | 105": "Navio: KATERINA\nManobra: Atracação\nData/Hora: 22/10/26 01:47\nDe: BOIA 19-24\nPara/Berço: 105\nAgência: WILSON SONS **",
   "FEDERAL RUHR | 22/10/26 | 01:47 | EA | 101/SUL": "Navio: FEDERAL RUHR\nManobra: Atracação\nData/Hora: 22/10/26 01:47\nDe: PONTO ALPHA\nPara/Berço: 101/SUL\nAgência: ORION RODOS**",
   "CL HENGYANG | 22/10/26 | 03:02 | DS | ILHA DO MEDO": "Navio: CL HENGYANG\nManobra: Desatracação\nData/Hora: 22/10/26 03:02\nDe: ALUMAR 1\nPara/Berço: ILHA DO MEDO\nAgência: GEM**",
   "SEAHOPE | 22/10/26 | 03:32 | EA | ALUMAR 1": "Navio: SEAHOPE\nManobra: Atracação\nData/Hora: 22/10/26 03:32\nDe: BOIA 19-24\nPara/Berço: ALUMAR 1\nAgência: GEM**",
-  "HANG JUN 3011 | 22/10/26 | 08:00 | SS | ILHA DO MEDO": "Navio: HANG JUN 3011\nManobra: SS\nData/Hora: 22/10/26 08:00\nDe: AREA 7\nPara/Berço: ILHA DO MEDO\nAgência: OCEANMAR**"
+  "HANG JUN 3011 | 22/10/26 | 08:00 | SS | ILHA DO MEDO": "Navio: HANG JUN 3011\nManobra: SS\nData/Hora: 22/10/26 08:00\nDe: AREA 7\nPara/Berço: ILHA DO MEDO\nAgência: OCEANMAR**",
+  "TUBARAO MARU | 22/10/26 | 09:32 | DS | ILHA DO MEDO": "Navio: TUBARAO MARU\nManobra: Desatracação\nData/Hora: 22/10/26 09:32\nDe: PIER 4 SUL\nPara/Berço: ILHA DO MEDO\nAgência: WILSON SONS **",
+  "SEA BEIJING | 22/10/26 | 10:02 | EA | PIER 4 SUL": "Navio: SEA BEIJING\nManobra: Atracação\nData/Hora: 22/10/26 10:02\nDe: PONTO ALPHA\nPara/Berço: PIER 4 SUL\nAgência: LMA SHIPPING **"
 }
