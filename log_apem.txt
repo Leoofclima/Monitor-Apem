@@ -12859,3 +12859,27 @@ De: PONTO ALPHA
 Para/Berço: PIER 4 SUL
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[22/10/2026 17:46:08] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PEPPINO
+Manobra: Desatracação
+Data/Hora: 22/10/26 14:34
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[22/10/2026 17:46:08] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Atracação
+Data/Hora: 22/10/26 17:25 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[22/10/2026 17:46:08] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: DALMA
+Manobra: Desatracação
+Data/Hora: 22/10/26 15:19
+De: 108 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
