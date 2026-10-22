@@ -12659,3 +12659,19 @@ Antes: 21/10/26 21:32
 Agora: 22/10/26 01:47
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[21/10/2026 22:54:18] NOVA MANOBRA:
+Navio: CL HENGYANG
+Manobra: Desatracação
+Data/Hora: 22/10/26 03:02
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[21/10/2026 22:54:18] NOVA MANOBRA:
+Navio: SEAHOPE
+Manobra: Atracação
+Data/Hora: 22/10/26 03:32
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
