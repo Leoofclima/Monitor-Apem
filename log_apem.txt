@@ -12795,3 +12795,67 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 1
 Agência: GEM**
 --------------------------------------------------
+[22/10/2026 14:36:34] NOVA MANOBRA:
+Navio: PEPPINO
+Manobra: Desatracação
+Data/Hora: 22/10/26 14:34
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[22/10/2026 14:36:34] NOVA MANOBRA:
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Atracação
+Data/Hora: 22/10/26 15:04
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[22/10/2026 14:36:34] NOVA MANOBRA:
+Navio: ALPINE MARINA
+Manobra: Desatracação
+Data/Hora: 22/10/26 21:55
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[22/10/2026 14:36:34] NOVA MANOBRA:
+Navio: PS SINGAPORE
+Manobra: Atracação
+Data/Hora: 22/10/26 21:55
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: WILSON SONS **
+--------------------------------------------------
+[22/10/2026 14:36:34] NOVA MANOBRA:
+Navio: LUCIO COSTA
+Manobra: Atracação
+Data/Hora: 23/10/26 23:10
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[22/10/2026 14:36:34] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: HANG JUN 3011
+Manobra: SS
+Data/Hora: 22/10/26 08:00
+De: AREA 7
+Para/Berço: ILHA DO MEDO
+Agência: OCEANMAR**
+--------------------------------------------------
+[22/10/2026 14:36:34] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: TUBARAO MARU
+Manobra: Desatracação
+Data/Hora: 22/10/26 09:32
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[22/10/2026 14:36:34] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SEA BEIJING
+Manobra: Atracação
+Data/Hora: 22/10/26 13:20 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
