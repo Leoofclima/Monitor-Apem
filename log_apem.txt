@@ -12891,3 +12891,35 @@ De: 104
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[23/10/2026 03:45:49] NOVA MANOBRA:
+Navio: ASL SUN
+Manobra: Desatracação
+Data/Hora: 23/10/26 10:51
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[23/10/2026 03:45:49] NOVA MANOBRA:
+Navio: MARAN MERCHANT
+Manobra: Atracação
+Data/Hora: 23/10/26 10:51
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: WILSON SONS **
+--------------------------------------------------
+[23/10/2026 03:45:49] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ALPINE MARINA
+Manobra: Desatracação
+Data/Hora: 22/10/26 21:55
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[23/10/2026 03:45:49] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PS SINGAPORE
+Manobra: Atracação
+Data/Hora: 22/10/26 23:55 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: WILSON SONS **
+--------------------------------------------------
