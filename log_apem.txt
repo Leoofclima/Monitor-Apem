@@ -12883,3 +12883,11 @@ De: 108 EXT
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[22/10/2026 22:55:14] NOVA MANOBRA:
+Navio: DELOS C
+Manobra: Desatracação
+Data/Hora: 23/10/26 11:21
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
