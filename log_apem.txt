@@ -12923,3 +12923,59 @@ De: PONTO ALPHA
 Para/Berço: 108
 Agência: WILSON SONS **
 --------------------------------------------------
+[23/10/2026 09:10:50] NOVA MANOBRA:
+Navio: KONTA III
+Manobra: Atracação
+Data/Hora: 23/10/26 08:04
+De: PTO EMBARQUE LC
+Para/Berço: PLATAFORMA 1
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[23/10/2026 09:10:50] NOVA MANOBRA:
+Navio: FORTUNE LEGACY
+Manobra: Desatracação
+Data/Hora: 23/10/26 11:21
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[23/10/2026 09:10:50] NOVA MANOBRA:
+Navio: LORENZO
+Manobra: Atracação
+Data/Hora: 23/10/26 11:21
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[23/10/2026 09:10:50] NOVA MANOBRA:
+Navio: ABIGAIL N
+Manobra: Atracação
+Data/Hora: 23/10/26 15:02
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[23/10/2026 09:10:50] NOVA MANOBRA:
+Navio: NEW ANSTEEL
+Manobra: Desatracação
+Data/Hora: 23/10/26 15:02
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[23/10/2026 09:10:50] NOVA MANOBRA:
+Navio: SEAHOPE
+Manobra: Desatracação
+Data/Hora: 23/10/26 16:17
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[23/10/2026 09:10:50] NOVA MANOBRA:
+Navio: CASTILLO DE SANTA MARIA
+Manobra: SH
+Data/Hora: 23/10/26 16:17
+De: ALUMAR 2
+Para/Berço: ALUMAR 1
+Agência: ORION RODOS**
+--------------------------------------------------

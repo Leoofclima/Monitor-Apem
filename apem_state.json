@@ -1,6 +1,13 @@
 {
+  "KONTA III | 23/10/26 | 08:04 | EA | PLATAFORMA 1": "Navio: KONTA III\nManobra: Atracação\nData/Hora: 23/10/26 08:04\nDe: PTO EMBARQUE LC\nPara/Berço: PLATAFORMA 1\nAgência: GEM - PARNAIBA",
   "ASL SUN | 23/10/26 | 10:51 | DS | ILHA DO MEDO": "Navio: ASL SUN\nManobra: Desatracação\nData/Hora: 23/10/26 10:51\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
   "MARAN MERCHANT | 23/10/26 | 10:51 | EA | PIER 3 NORTE": "Navio: MARAN MERCHANT\nManobra: Atracação\nData/Hora: 23/10/26 10:51\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: WILSON SONS **",
+  "FORTUNE LEGACY | 23/10/26 | 11:21 | DS | ILHA DO MEDO": "Navio: FORTUNE LEGACY\nManobra: Desatracação\nData/Hora: 23/10/26 11:21\nDe: 103/NORTE\nPara/Berço: ILHA DO MEDO\nAgência: WILSON SONS **",
   "DELOS C | 23/10/26 | 11:21 | DS | ILHA DO MEDO": "Navio: DELOS C\nManobra: Desatracação\nData/Hora: 23/10/26 11:21\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "LORENZO | 23/10/26 | 11:21 | EA | 103/NORTE": "Navio: LORENZO\nManobra: Atracação\nData/Hora: 23/10/26 11:21\nDe: BOIA 19-24\nPara/Berço: 103/NORTE\nAgência: FERTIMPORT - S.L **",
+  "ABIGAIL N | 23/10/26 | 15:02 | EA | PIER 4 NORTE": "Navio: ABIGAIL N\nManobra: Atracação\nData/Hora: 23/10/26 15:02\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE\nAgência: LMA SHIPPING **",
+  "NEW ANSTEEL | 23/10/26 | 15:02 | DS | ILHA DO MEDO": "Navio: NEW ANSTEEL\nManobra: Desatracação\nData/Hora: 23/10/26 15:02\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "SEAHOPE | 23/10/26 | 16:17 | DS | ILHA DO MEDO": "Navio: SEAHOPE\nManobra: Desatracação\nData/Hora: 23/10/26 16:17\nDe: ALUMAR 1\nPara/Berço: ILHA DO MEDO\nAgência: GEM**",
+  "CASTILLO DE SANTA MARIA | 23/10/26 | 16:17 | SH | ALUMAR 1": "Navio: CASTILLO DE SANTA MARIA\nManobra: SH\nData/Hora: 23/10/26 16:17\nDe: ALUMAR 2\nPara/Berço: ALUMAR 1\nAgência: ORION RODOS**",
   "LUCIO COSTA | 23/10/26 | 23:10 | EA | 104": "Navio: LUCIO COSTA\nManobra: Atracação\nData/Hora: 23/10/26 23:10\nDe: BOIA 19-24\nPara/Berço: 104\nAgência: WILHELMSEN PORT**"
 }
