@@ -13059,3 +13059,51 @@ De: ALUMAR 2
 Para/Berço: ALUMAR 1
 Agência: ORION RODOS**
 --------------------------------------------------
+[23/10/2026 17:28:36] NOVA MANOBRA:
+Navio: IOLCOS CONFIDENCE
+Manobra: Atracação
+Data/Hora: 23/10/26 22:40
+De: BOIA 19-24
+Para/Berço: 100
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[23/10/2026 17:28:36] NOVA MANOBRA:
+Navio: MOUNT VICTORIA
+Manobra: Desatracação
+Data/Hora: 23/10/26 23:10
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[23/10/2026 17:28:36] NOVA MANOBRA:
+Navio: SEA FUJIYAMA
+Manobra: Atracação
+Data/Hora: 24/10/26 03:23
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[23/10/2026 17:28:36] NOVA MANOBRA:
+Navio: TWEED
+Manobra: Atracação
+Data/Hora: 24/10/26 11:04
+De: BOIA 19-24
+Para/Berço: 106 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[23/10/2026 17:28:36] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: NEW ANSTEEL
+Manobra: Desatracação
+Data/Hora: 23/10/26 15:02
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[23/10/2026 17:28:36] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FEDERAL RUHR
+Manobra: Desatracação
+Data/Hora: 23/10/26 16:02
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
