@@ -12979,3 +12979,83 @@ De: ALUMAR 2
 Para/Berço: ALUMAR 1
 Agência: ORION RODOS**
 --------------------------------------------------
+[23/10/2026 14:11:01] NOVA MANOBRA:
+Navio: FEDERAL RUHR
+Manobra: Desatracação
+Data/Hora: 23/10/26 16:02
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[23/10/2026 14:11:01] NOVA MANOBRA:
+Navio: CASTILLO DE SANTA MARIA
+Manobra: DA
+Data/Hora: 23/10/26 16:17
+De: ALUMAR 2
+Para/Berço: ALUMAR 1
+Agência: ORION RODOS**
+--------------------------------------------------
+[23/10/2026 14:11:01] NOVA MANOBRA:
+Navio: UROPHYLLA
+Manobra: Atracação
+Data/Hora: 23/10/26 17:02
+De: BOIA 19-24
+Para/Berço: 99
+Agência: WILSON SONS **
+--------------------------------------------------
+[23/10/2026 14:11:01] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados nem Fundeados):
+Navio: KONTA III
+Manobra: Atracação
+Data/Hora: 23/10/26 08:04
+De: PTO EMBARQUE LC
+Para/Berço: PLATAFORMA 1
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[23/10/2026 14:11:01] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ASL SUN
+Manobra: Desatracação
+Data/Hora: 23/10/26 10:51
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[23/10/2026 14:11:01] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MARAN MERCHANT
+Manobra: Atracação
+Data/Hora: 23/10/26 13:25 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: WILSON SONS **
+--------------------------------------------------
+[23/10/2026 14:11:01] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FORTUNE LEGACY
+Manobra: Desatracação
+Data/Hora: 23/10/26 11:21
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[23/10/2026 14:11:01] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: DELOS C
+Manobra: Desatracação
+Data/Hora: 23/10/26 11:21
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[23/10/2026 14:11:01] MANOBRA CONCLUÍDA (navio atracou):
+Navio: LORENZO
+Manobra: Atracação
+Data/Hora: 23/10/26 13:03 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[23/10/2026 14:11:01] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CASTILLO DE SANTA MARIA
+Manobra: SH
+Data/Hora: 22/10/26 17:25 (horário real de atracação)
+De: ALUMAR 2
+Para/Berço: ALUMAR 1
+Agência: ORION RODOS**
+--------------------------------------------------
