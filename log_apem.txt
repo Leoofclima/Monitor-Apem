@@ -13195,3 +13195,67 @@ De: PONTO ALPHA
 Para/Berço: PIER 1
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[24/10/2026 14:37:51] NOVA MANOBRA:
+Navio: SEA BEIJING
+Manobra: Desatracação
+Data/Hora: 24/10/26 23:29
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[24/10/2026 14:37:51] NOVA MANOBRA:
+Navio: NOVA ERA
+Manobra: Atracação
+Data/Hora: 24/10/26 23:59
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: WILSON SONS **
+--------------------------------------------------
+[24/10/2026 14:37:51] NOVA MANOBRA:
+Navio: MARAN MERCHANT
+Manobra: Desatracação
+Data/Hora: 24/10/26 23:59
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[24/10/2026 14:37:51] NOVA MANOBRA:
+Navio: OREGON
+Manobra: Atracação
+Data/Hora: 24/10/26 23:59
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: ISS**
+--------------------------------------------------
+[24/10/2026 14:37:51] MANOBRA CONCLUÍDA (navio atracou):
+Navio: KONTA III
+Manobra: Atracação
+Data/Hora: 24/10/26 11:20 (horário real de atracação)
+De: PTO EMBARQUE LC
+Para/Berço: PLATAFORMA 1
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[24/10/2026 14:37:51] MANOBRA CONCLUÍDA (navio atracou):
+Navio: TWEED
+Manobra: Atracação
+Data/Hora: 24/10/26 13:04 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 106 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[24/10/2026 14:37:51] MANOBRA CONCLUÍDA (navio atracou):
+Navio: STADION II
+Manobra: Atracação
+Data/Hora: 24/10/26 13:25 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: GEM**
+--------------------------------------------------
+[24/10/2026 14:37:51] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: KATERINA
+Manobra: Desatracação
+Data/Hora: 24/10/26 12:04
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
