@@ -13179,3 +13179,19 @@ De: BOIA 19-24
 Para/Berço: 104
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[24/10/2026 08:27:07] NOVA MANOBRA:
+Navio: KONTA III
+Manobra: Atracação
+Data/Hora: 24/10/26 08:38
+De: PTO EMBARQUE LC
+Para/Berço: PLATAFORMA 1
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[24/10/2026 08:27:07] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SEA FUJIYAMA
+Manobra: Atracação
+Data/Hora: 24/10/26 06:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
