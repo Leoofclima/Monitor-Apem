@@ -13139,3 +13139,11 @@ De: BOIA 19-24
 Para/Berço: 99
 Agência: WILSON SONS **
 --------------------------------------------------
+[23/10/2026 22:41:39] NOVA MANOBRA:
+Navio: KATERINA
+Manobra: Desatracação
+Data/Hora: 24/10/26 12:04
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
