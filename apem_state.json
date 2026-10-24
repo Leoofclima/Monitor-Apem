@@ -1,8 +1,6 @@
 {
-  "IOLCOS CONFIDENCE | 23/10/26 | 22:40 | EA | 100": "Navio: IOLCOS CONFIDENCE\nManobra: Atracação\nData/Hora: 23/10/26 22:40\nDe: BOIA 19-24\nPara/Berço: 100\nAgência: FERTIMPORT - S.L **",
-  "MOUNT VICTORIA | 23/10/26 | 23:10 | DS | ILHA DO MEDO": "Navio: MOUNT VICTORIA\nManobra: Desatracação\nData/Hora: 23/10/26 23:10\nDe: PIER 3 SUL\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
-  "LUCIO COSTA | 23/10/26 | 23:10 | EA | 104": "Navio: LUCIO COSTA\nManobra: Atracação\nData/Hora: 23/10/26 23:10\nDe: BOIA 19-24\nPara/Berço: 104\nAgência: WILHELMSEN PORT**",
   "SEA FUJIYAMA | 24/10/26 | 03:23 | EA | PIER 1": "Navio: SEA FUJIYAMA\nManobra: Atracação\nData/Hora: 24/10/26 03:23\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: WILHELMSEN PORT**",
   "TWEED | 24/10/26 | 11:04 | EA | 106 EXT": "Navio: TWEED\nManobra: Atracação\nData/Hora: 24/10/26 11:04\nDe: BOIA 19-24\nPara/Berço: 106 EXT\nAgência: WILHELMSEN PORT**",
+  "STADION II | 24/10/26 | 11:34 | EA | 105": "Navio: STADION II\nManobra: Atracação\nData/Hora: 24/10/26 11:34\nDe: BOIA 19-24\nPara/Berço: 105\nAgência: GEM**",
   "KATERINA | 24/10/26 | 12:04 | DS | ILHA DO MEDO": "Navio: KATERINA\nManobra: Desatracação\nData/Hora: 24/10/26 12:04\nDe: 105\nPara/Berço: ILHA DO MEDO\nAgência: WILSON SONS **"
 }

@@ -13147,3 +13147,35 @@ De: 105
 Para/Berço: ILHA DO MEDO
 Agência: WILSON SONS **
 --------------------------------------------------
+[24/10/2026 03:30:03] NOVA MANOBRA:
+Navio: STADION II
+Manobra: Atracação
+Data/Hora: 24/10/26 11:34
+De: BOIA 19-24
+Para/Berço: 105
+Agência: GEM**
+--------------------------------------------------
+[24/10/2026 03:30:03] MANOBRA CONCLUÍDA (navio atracou):
+Navio: IOLCOS CONFIDENCE
+Manobra: Atracação
+Data/Hora: 24/10/26 00:50 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 100
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[24/10/2026 03:30:03] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: MOUNT VICTORIA
+Manobra: Desatracação
+Data/Hora: 23/10/26 23:10
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[24/10/2026 03:30:03] MANOBRA CONCLUÍDA (navio atracou):
+Navio: LUCIO COSTA
+Manobra: Atracação
+Data/Hora: 24/10/26 01:10 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
