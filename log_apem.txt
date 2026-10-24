@@ -13261,3 +13261,47 @@ Agência: WILSON SONS **
 --------------------------------------------------
 [24/10/2026 16:45:28] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f69f0e31c10>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[24/10/2026 18:55:50] NOVA MANOBRA:
+Navio: NORSE SAVANNAH
+Manobra: Atracação
+Data/Hora: 25/10/26 12:14
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: WAYPOINT (SÃO LUIS)*
+--------------------------------------------------
+[24/10/2026 18:55:50] NOVA MANOBRA:
+Navio: DELOS C
+Manobra: Atracação
+Data/Hora: 25/10/26 12:14
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[24/10/2026 18:55:50] NOVA MANOBRA:
+Navio: LUCIO COSTA
+Manobra: Desatracação
+Data/Hora: 25/10/26 12:44
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[24/10/2026 18:55:50] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: MARAN MERCHANT
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 24/10/26 23:59
+Agora: 25/10/26 04:06
+Agência: WILSON SONS **
+--------------------------------------------------
+[24/10/2026 18:55:50] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: OREGON
+Manobra: Atracação
+Berço: PIER 3 NORTE
+Antes: 24/10/26 23:59
+Agora: 25/10/26 04:06
+Agência: ISS**
+--------------------------------------------------
