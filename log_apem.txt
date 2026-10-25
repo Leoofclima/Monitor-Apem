@@ -13429,3 +13429,61 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[25/10/2026 16:23:38] NOVA MANOBRA:
+Navio: AMAZON COURAGE
+Manobra: Atracação
+Data/Hora: 25/10/26 17:10
+De: PONTO ALPHA
+Para/Berço: ALUMAR 1
+Agência: ORION RODOS**
+--------------------------------------------------
+[25/10/2026 16:23:38] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: TWEED
+Manobra: Desatracação
+Data/Hora: 25/10/26 11:44
+De: 106 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[25/10/2026 16:23:38] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SAO SABIA
+Manobra: Atracação
+Data/Hora: 25/10/26 14:32 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: ISS**
+--------------------------------------------------
+[25/10/2026 16:23:38] MANOBRA CONCLUÍDA (navio atracou):
+Navio: NORSE SAVANNAH
+Manobra: Atracação
+Data/Hora: 25/10/26 14:45 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: WAYPOINT (SÃO LUIS)*
+--------------------------------------------------
+[25/10/2026 16:23:38] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: LORENZO
+Manobra: Desatracação
+Data/Hora: 25/10/26 12:44
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[25/10/2026 16:23:38] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: LUCIO COSTA
+Manobra: Desatracação
+Data/Hora: 25/10/26 12:44
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[25/10/2026 16:23:38] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — AMAZON COURAGE permanece no fundeio
+
+Navio: AMAZON COURAGE
+Manobra: Atracação (cancelada)
+Previsão anterior: 25/10/26 17:10
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
