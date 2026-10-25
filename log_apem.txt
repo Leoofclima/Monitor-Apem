@@ -13405,3 +13405,27 @@ De: PIER 4 NORTE
 Para/Berço: ILHA DO MEDO
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[25/10/2026 13:51:11] NOVA MANOBRA:
+Navio: BRAVE SAILOR
+Manobra: Atracação
+Data/Hora: 25/10/26 16:25
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[25/10/2026 13:51:11] NOVA MANOBRA:
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Desatracação
+Data/Hora: 25/10/26 16:40
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[25/10/2026 13:51:11] NOVA MANOBRA:
+Navio: AMAZON COURAGE
+Manobra: Atracação
+Data/Hora: 25/10/26 17:10
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------

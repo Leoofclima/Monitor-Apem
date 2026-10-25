@@ -5,5 +5,8 @@
   "LORENZO | 25/10/26 | 12:44 | DS | ILHA DO MEDO": "Navio: LORENZO\nManobra: Desatracação\nData/Hora: 25/10/26 12:44\nDe: 103/NORTE\nPara/Berço: ILHA DO MEDO\nAgência: FERTIMPORT - S.L **",
   "LUCIO COSTA | 25/10/26 | 12:44 | DS | ILHA DO MEDO": "Navio: LUCIO COSTA\nManobra: Desatracação\nData/Hora: 25/10/26 12:44\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
   "DELOS C | 25/10/26 | 16:25 | EA | 104": "Navio: DELOS C\nManobra: Atracação\nData/Hora: 25/10/26 16:25\nDe: BOIA 19-24\nPara/Berço: 104\nAgência: WILHELMSEN PORT**",
+  "BRAVE SAILOR | 25/10/26 | 16:25 | EA | PIER 3 SUL": "Navio: BRAVE SAILOR\nManobra: Atracação\nData/Hora: 25/10/26 16:25\nDe: PONTO ALPHA\nPara/Berço: PIER 3 SUL\nAgência: LMA SHIPPING **",
+  "CASTILLO DE SANTA MARIA | 25/10/26 | 16:40 | DS | ILHA DO MEDO": "Navio: CASTILLO DE SANTA MARIA\nManobra: Desatracação\nData/Hora: 25/10/26 16:40\nDe: ALUMAR 1\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
+  "AMAZON COURAGE | 25/10/26 | 17:10 | EA | ALUMAR 2": "Navio: AMAZON COURAGE\nManobra: Atracação\nData/Hora: 25/10/26 17:10\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 2\nAgência: ORION RODOS**",
   "VELEBIT | 26/10/26 | 00:14 | DS | ILHA DO MEDO": "Navio: VELEBIT\nManobra: Desatracação\nData/Hora: 26/10/26 00:14\nDe: 106\nPara/Berço: ILHA DO MEDO\nAgência: LBH BRASIL**"
 }
