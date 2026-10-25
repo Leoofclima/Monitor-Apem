@@ -13535,3 +13535,27 @@ De: ALUMAR 1
 Para/Berço: ILHA DO MEDO
 Agência: ORION RODOS**
 --------------------------------------------------
+[25/10/2026 20:45:50] NOVA MANOBRA:
+Navio: AMAZON COURAGE
+Manobra: DA
+Data/Hora: 26/10/26 05:08
+De: ALUMAR 1
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[25/10/2026 20:45:50] NOVA MANOBRA:
+Navio: IOLCOS CONFIDENCE
+Manobra: Desatracação
+Data/Hora: 26/10/26 06:23
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[25/10/2026 20:45:50] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AMAZON COURAGE
+Manobra: Atracação
+Data/Hora: 25/10/26 19:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 1
+Agência: ORION RODOS**
+--------------------------------------------------
