@@ -13305,3 +13305,19 @@ Antes: 24/10/26 23:59
 Agora: 25/10/26 04:06
 Agência: ISS**
 --------------------------------------------------
+[24/10/2026 23:24:05] NOVA MANOBRA:
+Navio: ABIGAIL N
+Manobra: Desatracação
+Data/Hora: 25/10/26 04:06
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[24/10/2026 23:24:05] NOVA MANOBRA:
+Navio: TWEED
+Manobra: Desatracação
+Data/Hora: 25/10/26 11:44
+De: 106 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
