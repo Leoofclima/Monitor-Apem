@@ -1,10 +1,9 @@
 {
-  "MARAN MERCHANT | 25/10/26 | 04:06 | DS | ILHA DO MEDO": "Navio: MARAN MERCHANT\nManobra: Desatracação\nData/Hora: 25/10/26 04:06\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: WILSON SONS **",
-  "OREGON | 25/10/26 | 04:06 | EA | PIER 3 NORTE": "Navio: OREGON\nManobra: Atracação\nData/Hora: 25/10/26 04:06\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: ISS**",
-  "ABIGAIL N | 25/10/26 | 04:06 | DS | ILHA DO MEDO": "Navio: ABIGAIL N\nManobra: Desatracação\nData/Hora: 25/10/26 04:06\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
   "TWEED | 25/10/26 | 11:44 | DS | ILHA DO MEDO": "Navio: TWEED\nManobra: Desatracação\nData/Hora: 25/10/26 11:44\nDe: 106 EXT\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "NORSE SAVANNAH | 25/10/26 | 12:14 | EA | 103/NORTE": "Navio: NORSE SAVANNAH\nManobra: Atracação\nData/Hora: 25/10/26 12:14\nDe: BOIA 19-24\nPara/Berço: 103/NORTE\nAgência: WAYPOINT (SÃO LUIS)*",
   "SAO SABIA | 25/10/26 | 12:14 | EA | PIER 4 NORTE": "Navio: SAO SABIA\nManobra: Atracação\nData/Hora: 25/10/26 12:14\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE\nAgência: ISS**",
-  "DELOS C | 25/10/26 | 12:14 | EA | 104": "Navio: DELOS C\nManobra: Atracação\nData/Hora: 25/10/26 12:14\nDe: BOIA 19-24\nPara/Berço: 104\nAgência: WILHELMSEN PORT**",
-  "LUCIO COSTA | 25/10/26 | 12:44 | DS | ILHA DO MEDO": "Navio: LUCIO COSTA\nManobra: Desatracação\nData/Hora: 25/10/26 12:44\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**"
+  "NORSE SAVANNAH | 25/10/26 | 12:44 | EA | 103/NORTE": "Navio: NORSE SAVANNAH\nManobra: Atracação\nData/Hora: 25/10/26 12:44\nDe: BOIA 19-24\nPara/Berço: 103/NORTE\nAgência: WAYPOINT (SÃO LUIS)*",
+  "LORENZO | 25/10/26 | 12:44 | DS | ILHA DO MEDO": "Navio: LORENZO\nManobra: Desatracação\nData/Hora: 25/10/26 12:44\nDe: 103/NORTE\nPara/Berço: ILHA DO MEDO\nAgência: FERTIMPORT - S.L **",
+  "LUCIO COSTA | 25/10/26 | 12:44 | DS | ILHA DO MEDO": "Navio: LUCIO COSTA\nManobra: Desatracação\nData/Hora: 25/10/26 12:44\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "DELOS C | 25/10/26 | 16:25 | EA | 104": "Navio: DELOS C\nManobra: Atracação\nData/Hora: 25/10/26 16:25\nDe: BOIA 19-24\nPara/Berço: 104\nAgência: WILHELMSEN PORT**",
+  "VELEBIT | 26/10/26 | 00:14 | DS | ILHA DO MEDO": "Navio: VELEBIT\nManobra: Desatracação\nData/Hora: 26/10/26 00:14\nDe: 106\nPara/Berço: ILHA DO MEDO\nAgência: LBH BRASIL**"
 }
