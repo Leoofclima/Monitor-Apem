@@ -13487,3 +13487,51 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[25/10/2026 18:57:18] NOVA MANOBRA:
+Navio: STADION II
+Manobra: Desatracação
+Data/Hora: 26/10/26 04:23
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[25/10/2026 18:57:18] NOVA MANOBRA:
+Navio: ARRIBA
+Manobra: Atracação
+Data/Hora: 26/10/26 04:53
+De: BOIA 19-24
+Para/Berço: 105
+Agência: ALPHAMAR**
+--------------------------------------------------
+[25/10/2026 18:57:18] NOVA MANOBRA:
+Navio: WITHAM
+Manobra: Atracação
+Data/Hora: 26/10/26 05:38
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[25/10/2026 18:57:18] MANOBRA CONCLUÍDA (navio atracou):
+Navio: DELOS C
+Manobra: Atracação
+Data/Hora: 25/10/26 17:47 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[25/10/2026 18:57:18] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BRAVE SAILOR
+Manobra: Atracação
+Data/Hora: 25/10/26 19:30 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[25/10/2026 18:57:18] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Desatracação
+Data/Hora: 25/10/26 16:40
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
