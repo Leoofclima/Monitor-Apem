@@ -13671,3 +13671,35 @@ De: 108
 Para/Berço: ILHA DO MEDO
 Agência: WILSON SONS **
 --------------------------------------------------
+[26/10/2026 20:28:33] NOVA MANOBRA:
+Navio: OREGON
+Manobra: Desatracação
+Data/Hora: 27/10/26 01:25
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[26/10/2026 20:28:33] NOVA MANOBRA:
+Navio: BRAVE SAILOR
+Manobra: Desatracação
+Data/Hora: 27/10/26 01:25
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[26/10/2026 20:28:33] NOVA MANOBRA:
+Navio: FRIEDRICH OLDENDORFF
+Manobra: Atracação
+Data/Hora: 27/10/26 01:25
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[26/10/2026 20:28:33] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SEA FUJIYAMA
+Manobra: Desatracação
+Data/Hora: 26/10/26 17:02
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
