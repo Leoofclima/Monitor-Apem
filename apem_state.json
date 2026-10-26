@@ -1,6 +1,8 @@
 {
-  "PS SINGAPORE | 26/10/26 | 12:29 | DS | ILHA DO MEDO": "Navio: PS SINGAPORE\nManobra: Desatracação\nData/Hora: 26/10/26 12:29\nDe: 108\nPara/Berço: ILHA DO MEDO\nAgência: WILSON SONS **",
-  "ORE HEBEI | 26/10/26 | 17:02 | EA | PIER 1": "Navio: ORE HEBEI\nManobra: Atracação\nData/Hora: 26/10/26 17:02\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: ISS**",
   "SEA FUJIYAMA | 26/10/26 | 17:02 | DS | ILHA DO MEDO": "Navio: SEA FUJIYAMA\nManobra: Desatracação\nData/Hora: 26/10/26 17:02\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "PARNASSOS | 26/10/26 | 18:32 | EA | 100": "Navio: PARNASSOS\nManobra: Atracação\nData/Hora: 26/10/26 18:32\nDe: BOIA 19-24\nPara/Berço: 100\nAgência: FERTIMPORT - S.L **"
+  "ORE HEBEI | 26/10/26 | 17:02 | EA | PIER 1": "Navio: ORE HEBEI\nManobra: Atracação\nData/Hora: 26/10/26 17:02\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: ISS**",
+  "PARNASSOS | 26/10/26 | 18:32 | EA | 100": "Navio: PARNASSOS\nManobra: Atracação\nData/Hora: 26/10/26 18:32\nDe: BOIA 19-24\nPara/Berço: 100\nAgência: FERTIMPORT - S.L **",
+  "KP ALBATROSS | 27/10/26 | 01:25 | EA | 102/CENTRO": "Navio: KP ALBATROSS\nManobra: Atracação\nData/Hora: 27/10/26 01:25\nDe: BOIA 19-24\nPara/Berço: 102/CENTRO\nAgência: THP SHIPPING**",
+  "NORSE SAVANNAH | 27/10/26 | 01:55 | DS | ILHA DO MEDO": "Navio: NORSE SAVANNAH\nManobra: Desatracação\nData/Hora: 27/10/26 01:55\nDe: 103/NORTE\nPara/Berço: ILHA DO MEDO\nAgência: WAYPOINT (SÃO LUIS)*",
+  "MINERVA JOY | 27/10/26 | 07:06 | EA | 106": "Navio: MINERVA JOY\nManobra: Atracação\nData/Hora: 27/10/26 07:06\nDe: PONTO ALPHA\nPara/Berço: 106\nAgência: NORTH STAR**"
 }

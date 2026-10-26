@@ -13639,3 +13639,35 @@ De: 100
 Para/Berço: ILHA DO MEDO
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[26/10/2026 16:53:50] NOVA MANOBRA:
+Navio: KP ALBATROSS
+Manobra: Atracação
+Data/Hora: 27/10/26 01:25
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: THP SHIPPING**
+--------------------------------------------------
+[26/10/2026 16:53:50] NOVA MANOBRA:
+Navio: NORSE SAVANNAH
+Manobra: Desatracação
+Data/Hora: 27/10/26 01:55
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WAYPOINT (SÃO LUIS)*
+--------------------------------------------------
+[26/10/2026 16:53:50] NOVA MANOBRA:
+Navio: MINERVA JOY
+Manobra: Atracação
+Data/Hora: 27/10/26 07:06
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: NORTH STAR**
+--------------------------------------------------
+[26/10/2026 16:53:50] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PS SINGAPORE
+Manobra: Desatracação
+Data/Hora: 26/10/26 12:29
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
