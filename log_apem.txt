@@ -13567,3 +13567,75 @@ De: 106
 Para/Berço: ILHA DO MEDO
 Agência: LBH BRASIL**
 --------------------------------------------------
+[26/10/2026 11:09:04] NOVA MANOBRA:
+Navio: PS SINGAPORE
+Manobra: Desatracação
+Data/Hora: 26/10/26 12:29
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[26/10/2026 11:09:04] NOVA MANOBRA:
+Navio: ORE HEBEI
+Manobra: Atracação
+Data/Hora: 26/10/26 17:02
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
+[26/10/2026 11:09:04] NOVA MANOBRA:
+Navio: SEA FUJIYAMA
+Manobra: Desatracação
+Data/Hora: 26/10/26 17:02
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[26/10/2026 11:09:04] NOVA MANOBRA:
+Navio: PARNASSOS
+Manobra: Atracação
+Data/Hora: 26/10/26 18:32
+De: BOIA 19-24
+Para/Berço: 100
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[26/10/2026 11:09:04] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: STADION II
+Manobra: Desatracação
+Data/Hora: 26/10/26 04:23
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[26/10/2026 11:09:04] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ARRIBA
+Manobra: Atracação
+Data/Hora: 26/10/26 06:44 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: ALPHAMAR**
+--------------------------------------------------
+[26/10/2026 11:09:04] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AMAZON COURAGE
+Manobra: DA
+Data/Hora: 26/10/26 05:45 (horário real de atracação)
+De: ALUMAR 1
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[26/10/2026 11:09:04] MANOBRA CONCLUÍDA (navio atracou):
+Navio: WITHAM
+Manobra: Atracação
+Data/Hora: 26/10/26 08:13 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[26/10/2026 11:09:04] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: IOLCOS CONFIDENCE
+Manobra: Desatracação
+Data/Hora: 26/10/26 06:23
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
