@@ -1,7 +1,5 @@
 {
-  "NOVA ERA | 27/10/26 | 05:36 | DS | ILHA DO MEDO": "Navio: NOVA ERA\nManobra: Desatracação\nData/Hora: 27/10/26 05:36\nDe: PIER 4 SUL\nPara/Berço: ILHA DO MEDO\nAgência: WILSON SONS **",
-  "BOKM GUAIBA | 27/10/26 | 05:36 | EA | PIER 4 SUL": "Navio: BOKM GUAIBA\nManobra: Atracação\nData/Hora: 27/10/26 05:36\nDe: PONTO ALPHA\nPara/Berço: PIER 4 SUL\nAgência: LMA SHIPPING **",
-  "WITHAM | 27/10/26 | 06:51 | DS | ILHA DO MEDO": "Navio: WITHAM\nManobra: Desatracação\nData/Hora: 27/10/26 06:51\nDe: ALUMAR 1\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "MINERVA JOY | 27/10/26 | 07:06 | EA | 106": "Navio: MINERVA JOY\nManobra: Atracação\nData/Hora: 27/10/26 07:06\nDe: PONTO ALPHA\nPara/Berço: 106\nAgência: NORTH STAR**",
-  "KP ALBATROSS | 27/10/26 | 14:12 | EA | 102/CENTRO": "Navio: KP ALBATROSS\nManobra: Atracação\nData/Hora: 27/10/26 14:12\nDe: BOIA 19-24\nPara/Berço: 102/CENTRO\nAgência: THP SHIPPING**"
+  "ISABELLA M II | 27/10/26 | 13:42 | EA | 104": "Navio: ISABELLA M II\nManobra: Atracação\nData/Hora: 27/10/26 13:42\nDe: BOIA 19-24\nPara/Berço: 104\nAgência: WILHELMSEN PORT**",
+  "KP ALBATROSS | 27/10/26 | 14:12 | EA | 102/CENTRO": "Navio: KP ALBATROSS\nManobra: Atracação\nData/Hora: 27/10/26 14:12\nDe: BOIA 19-24\nPara/Berço: 102/CENTRO\nAgência: THP SHIPPING**",
+  "DELOS C | 27/10/26 | 14:12 | DS | ILHA DO MEDO": "Navio: DELOS C\nManobra: Desatracação\nData/Hora: 27/10/26 14:12\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**"
 }
