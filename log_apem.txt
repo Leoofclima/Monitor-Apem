@@ -13703,3 +13703,45 @@ De: PIER 1
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[26/10/2026 23:18:29] NOVA MANOBRA:
+Navio: BOKM GUAIBA
+Manobra: Atracação
+Data/Hora: 27/10/26 05:36
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[26/10/2026 23:18:29] NOVA MANOBRA:
+Navio: NOVA ERA
+Manobra: Desatracação
+Data/Hora: 27/10/26 05:36
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[26/10/2026 23:18:29] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: KP ALBATROSS
+Manobra: Atracação
+Berço: 102/CENTRO
+Antes: 27/10/26 01:25
+Agora: 27/10/26 14:12
+Agência: THP SHIPPING**
+--------------------------------------------------
+[26/10/2026 23:18:29] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ORE HEBEI
+Manobra: Atracação
+Data/Hora: 26/10/26 20:40 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
+[26/10/2026 23:18:29] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PARNASSOS
+Manobra: Atracação
+Data/Hora: 26/10/26 21:25 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 100
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
