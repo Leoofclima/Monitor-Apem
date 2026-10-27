@@ -13859,3 +13859,27 @@ De: 104
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[27/10/2026 20:02:08] NOVA MANOBRA:
+Navio: SAO SABIA
+Manobra: Desatracação
+Data/Hora: 28/10/26 02:06
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[27/10/2026 20:02:08] NOVA MANOBRA:
+Navio: SEA SHANGHAI
+Manobra: Atracação
+Data/Hora: 28/10/26 06:17
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[27/10/2026 20:02:08] MANOBRA CONCLUÍDA (navio atracou):
+Navio: KP ALBATROSS
+Manobra: Atracação
+Data/Hora: 27/10/26 18:45 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: THP SHIPPING**
+--------------------------------------------------
