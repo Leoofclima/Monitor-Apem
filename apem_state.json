@@ -1,10 +1,7 @@
 {
-  "OREGON | 27/10/26 | 01:25 | DS | ILHA DO MEDO": "Navio: OREGON\nManobra: Desatracação\nData/Hora: 27/10/26 01:25\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
-  "FRIEDRICH OLDENDORFF | 27/10/26 | 01:25 | EA | PIER 3 SUL": "Navio: FRIEDRICH OLDENDORFF\nManobra: Atracação\nData/Hora: 27/10/26 01:25\nDe: PONTO ALPHA\nPara/Berço: PIER 3 SUL\nAgência: LMA SHIPPING **",
-  "BRAVE SAILOR | 27/10/26 | 01:25 | DS | ILHA DO MEDO": "Navio: BRAVE SAILOR\nManobra: Desatracação\nData/Hora: 27/10/26 01:25\nDe: PIER 3 SUL\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
-  "NORSE SAVANNAH | 27/10/26 | 01:55 | DS | ILHA DO MEDO": "Navio: NORSE SAVANNAH\nManobra: Desatracação\nData/Hora: 27/10/26 01:55\nDe: 103/NORTE\nPara/Berço: ILHA DO MEDO\nAgência: WAYPOINT (SÃO LUIS)*",
-  "BOKM GUAIBA | 27/10/26 | 05:36 | EA | PIER 4 SUL": "Navio: BOKM GUAIBA\nManobra: Atracação\nData/Hora: 27/10/26 05:36\nDe: PONTO ALPHA\nPara/Berço: PIER 4 SUL\nAgência: LMA SHIPPING **",
   "NOVA ERA | 27/10/26 | 05:36 | DS | ILHA DO MEDO": "Navio: NOVA ERA\nManobra: Desatracação\nData/Hora: 27/10/26 05:36\nDe: PIER 4 SUL\nPara/Berço: ILHA DO MEDO\nAgência: WILSON SONS **",
+  "BOKM GUAIBA | 27/10/26 | 05:36 | EA | PIER 4 SUL": "Navio: BOKM GUAIBA\nManobra: Atracação\nData/Hora: 27/10/26 05:36\nDe: PONTO ALPHA\nPara/Berço: PIER 4 SUL\nAgência: LMA SHIPPING **",
+  "WITHAM | 27/10/26 | 06:51 | DS | ILHA DO MEDO": "Navio: WITHAM\nManobra: Desatracação\nData/Hora: 27/10/26 06:51\nDe: ALUMAR 1\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
   "MINERVA JOY | 27/10/26 | 07:06 | EA | 106": "Navio: MINERVA JOY\nManobra: Atracação\nData/Hora: 27/10/26 07:06\nDe: PONTO ALPHA\nPara/Berço: 106\nAgência: NORTH STAR**",
   "KP ALBATROSS | 27/10/26 | 14:12 | EA | 102/CENTRO": "Navio: KP ALBATROSS\nManobra: Atracação\nData/Hora: 27/10/26 14:12\nDe: BOIA 19-24\nPara/Berço: 102/CENTRO\nAgência: THP SHIPPING**"
 }

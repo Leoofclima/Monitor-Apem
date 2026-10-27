@@ -13745,3 +13745,43 @@ De: BOIA 19-24
 Para/Berço: 100
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[27/10/2026 04:59:47] NOVA MANOBRA:
+Navio: WITHAM
+Manobra: Desatracação
+Data/Hora: 27/10/26 06:51
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[27/10/2026 04:59:47] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: OREGON
+Manobra: Desatracação
+Data/Hora: 27/10/26 01:25
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[27/10/2026 04:59:47] MANOBRA CONCLUÍDA (navio atracou):
+Navio: FRIEDRICH OLDENDORFF
+Manobra: Atracação
+Data/Hora: 27/10/26 04:11 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[27/10/2026 04:59:47] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BRAVE SAILOR
+Manobra: Desatracação
+Data/Hora: 27/10/26 01:25
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[27/10/2026 04:59:47] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: NORSE SAVANNAH
+Manobra: Desatracação
+Data/Hora: 27/10/26 01:55
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WAYPOINT (SÃO LUIS)*
+--------------------------------------------------
