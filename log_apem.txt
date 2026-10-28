@@ -14007,3 +14007,43 @@ De: ALUMAR 1
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[28/10/2026 17:18:58] NOVA MANOBRA:
+Navio: ETHRA DIAMOND
+Manobra: Atracação
+Data/Hora: 28/10/26 18:29
+De: BOIA 19-24
+Para/Berço: 101/SUL
+Agência: SHIPPING PROTECTION **
+--------------------------------------------------
+[28/10/2026 17:18:58] NOVA MANOBRA:
+Navio: UROPHYLLA
+Manobra: Desatracação
+Data/Hora: 28/10/26 19:59
+De: 99
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[28/10/2026 17:18:58] NOVA MANOBRA:
+Navio: SAGA JANDAIA
+Manobra: Atracação
+Data/Hora: 28/10/26 20:29
+De: BOIA 19-24
+Para/Berço: 99
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[28/10/2026 17:18:58] NOVA MANOBRA:
+Navio: ORE HEBEI
+Manobra: Desatracação
+Data/Hora: 29/10/26 02:57
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[28/10/2026 17:18:58] NOVA MANOBRA:
+Navio: BERGE EVEREST
+Manobra: Atracação
+Data/Hora: 29/10/26 02:57
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
