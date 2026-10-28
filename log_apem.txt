@@ -13883,3 +13883,19 @@ De: BOIA 19-24
 Para/Berço: 102/CENTRO
 Agência: THP SHIPPING**
 --------------------------------------------------
+[27/10/2026 23:07:42] NOVA MANOBRA:
+Navio: QING HUA SHAN
+Manobra: Atracação
+Data/Hora: 28/10/26 14:19
+De: BOIA 19-24
+Para/Berço: 105
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[27/10/2026 23:07:42] NOVA MANOBRA:
+Navio: ARRIBA
+Manobra: Desatracação
+Data/Hora: 28/10/26 14:49
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
