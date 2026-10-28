@@ -13899,3 +13899,47 @@ De: 105
 Para/Berço: ILHA DO MEDO
 Agência: ALPHAMAR**
 --------------------------------------------------
+[28/10/2026 05:21:45] NOVA MANOBRA:
+Navio: ISABELLA M II
+Manobra: Desatracação
+Data/Hora: 28/10/26 05:47
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[28/10/2026 05:21:45] NOVA MANOBRA:
+Navio: PACIFIC ZIRCON
+Manobra: Atracação
+Data/Hora: 28/10/26 06:17
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[28/10/2026 05:21:45] NOVA MANOBRA:
+Navio: AMAZON COURAGE
+Manobra: SH
+Data/Hora: 28/10/26 08:32
+De: ALUMAR 1
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[28/10/2026 05:21:45] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: SAO SABIA
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 28/10/26 02:06
+Agora: 28/10/26 06:17
+Agência: ISS**
+--------------------------------------------------
+[28/10/2026 05:21:45] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: SEA SHANGHAI
+Manobra: Atracação
+Berço: PIER 4 NORTE
+Antes: 28/10/26 06:17
+Agora: 28/10/26 14:19
+Agência: LMA SHIPPING **
+--------------------------------------------------
