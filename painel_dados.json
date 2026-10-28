@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/10/2026 05:21:46",
+  "atualizado_em": "28/10/2026 12:16:02",
   "base": {
     "lat": -2.66098123540369,
     "lon": -44.356990008636686,
@@ -16,7 +16,7 @@
       "lon": -44.163,
       "data_fundeio": "19/08/26",
       "hora_fundeio": "21:22",
-      "tempo_fundeado_horas": 1664.0,
+      "tempo_fundeado_horas": 1670.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -30,9 +30,9 @@
       "lon": -44.175667,
       "data_fundeio": "17/10/26",
       "hora_fundeio": "11:36",
-      "tempo_fundeado_horas": 257.8,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null
+      "tempo_fundeado_horas": 264.7,
+      "previsao_atracacao": "28/10/2026 18:29",
+      "tempo_restante_horas": 6.2
     },
     {
       "area": "AREA 3",
@@ -44,7 +44,7 @@
       "lon": -44.150167,
       "data_fundeio": "21/10/26",
       "hora_fundeio": "12:36",
-      "tempo_fundeado_horas": 160.8,
+      "tempo_fundeado_horas": 167.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -58,9 +58,9 @@
       "lon": -44.1585,
       "data_fundeio": "23/10/26",
       "hora_fundeio": "03:36",
-      "tempo_fundeado_horas": 121.8,
+      "tempo_fundeado_horas": 128.7,
       "previsao_atracacao": "28/10/2026 14:19",
-      "tempo_restante_horas": 9.0
+      "tempo_restante_horas": 2.0
     },
     {
       "area": "AREA 3",
@@ -72,7 +72,7 @@
       "lon": -44.187667,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "22:59",
-      "tempo_fundeado_horas": 78.4,
+      "tempo_fundeado_horas": 85.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -86,9 +86,9 @@
       "lon": -44.1705,
       "data_fundeio": "25/10/26",
       "hora_fundeio": "20:50",
-      "tempo_fundeado_horas": 56.5,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null
+      "tempo_fundeado_horas": 63.4,
+      "previsao_atracacao": "28/10/2026 19:14",
+      "tempo_restante_horas": 7.0
     },
     {
       "area": "AREA 3",
@@ -100,21 +100,7 @@
       "lon": -44.1345,
       "data_fundeio": "26/10/26",
       "hora_fundeio": "13:00",
-      "tempo_fundeado_horas": 40.4,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null
-    },
-    {
-      "area": "AREA 4",
-      "nome": "SAGA FRAM",
-      "bandeira": "BAHAMAS",
-      "imo": "9613874",
-      "agencia": "WILHELMSEN PORT**",
-      "lat": -2.373167,
-      "lon": -44.331833,
-      "data_fundeio": "23/06/26",
-      "hora_fundeio": "00:00",
-      "tempo_fundeado_horas": 3053.4,
+      "tempo_fundeado_horas": 47.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -128,7 +114,7 @@
       "lon": -44.291833,
       "data_fundeio": "15/10/26",
       "hora_fundeio": "16:00",
-      "tempo_fundeado_horas": 301.4,
+      "tempo_fundeado_horas": 308.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -142,7 +128,7 @@
       "lon": -44.240167,
       "data_fundeio": "18/10/26",
       "hora_fundeio": "00:46",
-      "tempo_fundeado_horas": 244.6,
+      "tempo_fundeado_horas": 251.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -156,7 +142,7 @@
       "lon": -44.2385,
       "data_fundeio": "18/10/26",
       "hora_fundeio": "14:26",
-      "tempo_fundeado_horas": 230.9,
+      "tempo_fundeado_horas": 237.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -170,7 +156,7 @@
       "lon": -44.231833,
       "data_fundeio": "19/10/26",
       "hora_fundeio": "12:16",
-      "tempo_fundeado_horas": 209.1,
+      "tempo_fundeado_horas": 216.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -184,7 +170,7 @@
       "lon": -44.26,
       "data_fundeio": "23/10/26",
       "hora_fundeio": "15:48",
-      "tempo_fundeado_horas": 109.6,
+      "tempo_fundeado_horas": 116.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -198,9 +184,9 @@
       "lon": -44.266167,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "01:00",
-      "tempo_fundeado_horas": 100.4,
+      "tempo_fundeado_horas": 107.3,
       "previsao_atracacao": "28/10/2026 14:19",
-      "tempo_restante_horas": 9.0
+      "tempo_restante_horas": 2.0
     },
     {
       "area": "AREA 4",
@@ -212,7 +198,7 @@
       "lon": -44.288833,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "06:54",
-      "tempo_fundeado_horas": 94.5,
+      "tempo_fundeado_horas": 101.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -226,7 +212,7 @@
       "lon": -44.216167,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "07:48",
-      "tempo_fundeado_horas": 93.6,
+      "tempo_fundeado_horas": 100.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -240,23 +226,23 @@
       "lon": -44.272,
       "data_fundeio": "25/10/26",
       "hora_fundeio": "05:37",
-      "tempo_fundeado_horas": 71.7,
+      "tempo_fundeado_horas": 78.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
     {
       "area": "AREA 4",
-      "nome": "PACIFIC ZIRCON",
-      "bandeira": "CHINA",
-      "imo": "9539573",
-      "agencia": "WILHELMSEN PORT**",
-      "lat": -2.443333,
-      "lon": -44.313167,
-      "data_fundeio": "27/10/26",
-      "hora_fundeio": "04:30",
-      "tempo_fundeado_horas": 24.9,
-      "previsao_atracacao": "28/10/2026 06:17",
-      "tempo_restante_horas": 0.9
+      "nome": "BANGLAR JOYJATRA",
+      "bandeira": "BANGLADESH",
+      "imo": "9793820",
+      "agencia": "GEM**",
+      "lat": -2.435,
+      "lon": -44.296,
+      "data_fundeio": "28/10/26",
+      "hora_fundeio": "07:40",
+      "tempo_fundeado_horas": 4.6,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null
     },
     {
       "area": "AREA 5",
@@ -268,7 +254,7 @@
       "lon": -44.332833,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "02:37",
-      "tempo_fundeado_horas": 98.7,
+      "tempo_fundeado_horas": 105.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -282,75 +268,27 @@
       "lon": -44.340333,
       "data_fundeio": "26/10/26",
       "hora_fundeio": "17:01",
-      "tempo_fundeado_horas": 36.3,
+      "tempo_fundeado_horas": 43.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     }
   ],
   "rota_sugerida": [
     {
-      "area": "AREA 4",
-      "nome": "QING HUA SHAN",
-      "bandeira": "HONG KONG",
-      "imo": "9741528",
-      "agencia": "FERTIMPORT - S.L **",
-      "lat": -2.390333,
-      "lon": -44.266167,
-      "data_fundeio": "24/10/26",
-      "hora_fundeio": "01:00",
-      "tempo_fundeado_horas": 100.4,
-      "previsao_atracacao": "28/10/2026 14:19",
-      "tempo_restante_horas": 9.0,
+      "area": "AREA 3",
+      "nome": "FORTE DE SAO FELIPE",
+      "bandeira": "BRASIL",
+      "imo": "9482263",
+      "agencia": "ORION RODOS**",
+      "lat": -2.208,
+      "lon": -44.1705,
+      "data_fundeio": "25/10/26",
+      "hora_fundeio": "20:50",
+      "tempo_fundeado_horas": 63.4,
+      "previsao_atracacao": "28/10/2026 19:14",
+      "tempo_restante_horas": 7.0,
       "ordem": 1,
-      "distancia_trecho_km": 33.7
-    },
-    {
-      "area": "AREA 3",
-      "nome": "SEA SHANGHAI",
-      "bandeira": "PANAMA",
-      "imo": "9844095",
-      "agencia": "LMA SHIPPING **",
-      "lat": -2.1705,
-      "lon": -44.1585,
-      "data_fundeio": "23/10/26",
-      "hora_fundeio": "03:36",
-      "tempo_fundeado_horas": 121.8,
-      "previsao_atracacao": "28/10/2026 14:19",
-      "tempo_restante_horas": 9.0,
-      "ordem": 2,
-      "distancia_trecho_km": 27.2
-    },
-    {
-      "area": "AREA 3",
-      "nome": "ETHRA DIAMOND",
-      "bandeira": "PORTUGAL",
-      "imo": "9598995",
-      "agencia": "SHIPPING PROTECTION **",
-      "lat": -2.179167,
-      "lon": -44.163,
-      "data_fundeio": "19/08/26",
-      "hora_fundeio": "21:22",
-      "tempo_fundeado_horas": 1664.0,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null,
-      "ordem": 3,
-      "distancia_trecho_km": 1.1
-    },
-    {
-      "area": "AREA 3",
-      "nome": "OSLO TRADER",
-      "bandeira": "LIBERIA",
-      "imo": "9554676",
-      "agencia": "GEM**",
-      "lat": -2.190167,
-      "lon": -44.150167,
-      "data_fundeio": "21/10/26",
-      "hora_fundeio": "12:36",
-      "tempo_fundeado_horas": 160.8,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null,
-      "ordem": 4,
-      "distancia_trecho_km": 1.9
+      "distancia_trecho_km": 56.6
     },
     {
       "area": "AREA 3",
@@ -362,43 +300,43 @@
       "lon": -44.175667,
       "data_fundeio": "17/10/26",
       "hora_fundeio": "11:36",
-      "tempo_fundeado_horas": 257.8,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null,
-      "ordem": 5,
-      "distancia_trecho_km": 2.8
-    },
-    {
-      "area": "AREA 3",
-      "nome": "FORTE DE SAO FELIPE",
-      "bandeira": "BRASIL",
-      "imo": "9482263",
-      "agencia": "ORION RODOS**",
-      "lat": -2.208,
-      "lon": -44.1705,
-      "data_fundeio": "25/10/26",
-      "hora_fundeio": "20:50",
-      "tempo_fundeado_horas": 56.5,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null,
-      "ordem": 6,
+      "tempo_fundeado_horas": 264.7,
+      "previsao_atracacao": "28/10/2026 18:29",
+      "tempo_restante_horas": 6.2,
+      "ordem": 2,
       "distancia_trecho_km": 1.8
     },
     {
       "area": "AREA 3",
-      "nome": "AMAZON COMMANDER",
-      "bandeira": "LIBERIA",
-      "imo": "9991111",
-      "agencia": "ORION RODOS**",
-      "lat": -2.223,
-      "lon": -44.187667,
-      "data_fundeio": "24/10/26",
-      "hora_fundeio": "22:59",
-      "tempo_fundeado_horas": 78.4,
+      "nome": "ETHRA DIAMOND",
+      "bandeira": "PORTUGAL",
+      "imo": "9598995",
+      "agencia": "SHIPPING PROTECTION **",
+      "lat": -2.179167,
+      "lon": -44.163,
+      "data_fundeio": "19/08/26",
+      "hora_fundeio": "21:22",
+      "tempo_fundeado_horas": 1670.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 7,
-      "distancia_trecho_km": 2.5
+      "ordem": 3,
+      "distancia_trecho_km": 2.0
+    },
+    {
+      "area": "AREA 3",
+      "nome": "OSLO TRADER",
+      "bandeira": "LIBERIA",
+      "imo": "9554676",
+      "agencia": "GEM**",
+      "lat": -2.190167,
+      "lon": -44.150167,
+      "data_fundeio": "21/10/26",
+      "hora_fundeio": "12:36",
+      "tempo_fundeado_horas": 167.7,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null,
+      "ordem": 4,
+      "distancia_trecho_km": 1.9
     },
     {
       "area": "AREA 3",
@@ -410,10 +348,26 @@
       "lon": -44.1345,
       "data_fundeio": "26/10/26",
       "hora_fundeio": "13:00",
-      "tempo_fundeado_horas": 40.4,
+      "tempo_fundeado_horas": 47.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 8,
+      "ordem": 5,
+      "distancia_trecho_km": 4.1
+    },
+    {
+      "area": "AREA 3",
+      "nome": "AMAZON COMMANDER",
+      "bandeira": "LIBERIA",
+      "imo": "9991111",
+      "agencia": "ORION RODOS**",
+      "lat": -2.223,
+      "lon": -44.187667,
+      "data_fundeio": "24/10/26",
+      "hora_fundeio": "22:59",
+      "tempo_fundeado_horas": 85.3,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null,
+      "ordem": 6,
       "distancia_trecho_km": 9.4
     },
     {
@@ -426,11 +380,11 @@
       "lon": -44.240167,
       "data_fundeio": "18/10/26",
       "hora_fundeio": "00:46",
-      "tempo_fundeado_horas": 244.6,
+      "tempo_fundeado_horas": 251.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 9,
-      "distancia_trecho_km": 27.1
+      "ordem": 7,
+      "distancia_trecho_km": 18.0
     },
     {
       "area": "AREA 4",
@@ -442,10 +396,10 @@
       "lon": -44.231833,
       "data_fundeio": "19/10/26",
       "hora_fundeio": "12:16",
-      "tempo_fundeado_horas": 209.1,
+      "tempo_fundeado_horas": 216.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 10,
+      "ordem": 8,
       "distancia_trecho_km": 1.1
     },
     {
@@ -458,10 +412,10 @@
       "lon": -44.2385,
       "data_fundeio": "18/10/26",
       "hora_fundeio": "14:26",
-      "tempo_fundeado_horas": 230.9,
+      "tempo_fundeado_horas": 237.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 11,
+      "ordem": 9,
       "distancia_trecho_km": 1.9
     },
     {
@@ -474,10 +428,10 @@
       "lon": -44.26,
       "data_fundeio": "23/10/26",
       "hora_fundeio": "15:48",
-      "tempo_fundeado_horas": 109.6,
+      "tempo_fundeado_horas": 116.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 12,
+      "ordem": 10,
       "distancia_trecho_km": 2.6
     },
     {
@@ -490,10 +444,10 @@
       "lon": -44.272,
       "data_fundeio": "25/10/26",
       "hora_fundeio": "05:37",
-      "tempo_fundeado_horas": 71.7,
+      "tempo_fundeado_horas": 78.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 13,
+      "ordem": 11,
       "distancia_trecho_km": 2.3
     },
     {
@@ -506,11 +460,27 @@
       "lon": -44.288833,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "06:54",
-      "tempo_fundeado_horas": 94.5,
+      "tempo_fundeado_horas": 101.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 14,
+      "ordem": 12,
       "distancia_trecho_km": 2.2
+    },
+    {
+      "area": "AREA 4",
+      "nome": "BANGLAR JOYJATRA",
+      "bandeira": "BANGLADESH",
+      "imo": "9793820",
+      "agencia": "GEM**",
+      "lat": -2.435,
+      "lon": -44.296,
+      "data_fundeio": "28/10/26",
+      "hora_fundeio": "07:40",
+      "tempo_fundeado_horas": 4.6,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null,
+      "ordem": 13,
+      "distancia_trecho_km": 2.7
     },
     {
       "area": "AREA 4",
@@ -522,27 +492,11 @@
       "lon": -44.291833,
       "data_fundeio": "15/10/26",
       "hora_fundeio": "16:00",
-      "tempo_fundeado_horas": 301.4,
+      "tempo_fundeado_horas": 308.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 15,
-      "distancia_trecho_km": 4.0
-    },
-    {
-      "area": "AREA 4",
-      "nome": "SAGA FRAM",
-      "bandeira": "BAHAMAS",
-      "imo": "9613874",
-      "agencia": "WILHELMSEN PORT**",
-      "lat": -2.373167,
-      "lon": -44.331833,
-      "data_fundeio": "23/06/26",
-      "hora_fundeio": "00:00",
-      "tempo_fundeado_horas": 3053.4,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null,
-      "ordem": 16,
-      "distancia_trecho_km": 9.4
+      "ordem": 14,
+      "distancia_trecho_km": 1.4
     },
     {
       "area": "AREA 5",
@@ -554,11 +508,11 @@
       "lon": -44.340333,
       "data_fundeio": "26/10/26",
       "hora_fundeio": "17:01",
-      "tempo_fundeado_horas": 36.3,
+      "tempo_fundeado_horas": 43.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 17,
-      "distancia_trecho_km": 1.0
+      "ordem": 15,
+      "distancia_trecho_km": 10.1
     },
     {
       "area": "AREA 5",
@@ -570,10 +524,10 @@
       "lon": -44.332833,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "02:37",
-      "tempo_fundeado_horas": 98.7,
+      "tempo_fundeado_horas": 105.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 18,
+      "ordem": 16,
       "distancia_trecho_km": 1.9
     },
     {
@@ -586,27 +540,41 @@
       "lon": -44.216167,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "07:48",
-      "tempo_fundeado_horas": 93.6,
+      "tempo_fundeado_horas": 100.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 19,
+      "ordem": 17,
       "distancia_trecho_km": 13.6
     }
   ],
   "navios_atracando_em_breve": [
     {
+      "area": "AREA 3",
+      "nome": "SEA SHANGHAI",
+      "bandeira": "PANAMA",
+      "imo": "9844095",
+      "agencia": "LMA SHIPPING **",
+      "lat": -2.1705,
+      "lon": -44.1585,
+      "data_fundeio": "23/10/26",
+      "hora_fundeio": "03:36",
+      "tempo_fundeado_horas": 128.7,
+      "previsao_atracacao": "28/10/2026 14:19",
+      "tempo_restante_horas": 2.0
+    },
+    {
       "area": "AREA 4",
-      "nome": "PACIFIC ZIRCON",
-      "bandeira": "CHINA",
-      "imo": "9539573",
-      "agencia": "WILHELMSEN PORT**",
-      "lat": -2.443333,
-      "lon": -44.313167,
-      "data_fundeio": "27/10/26",
-      "hora_fundeio": "04:30",
-      "tempo_fundeado_horas": 24.9,
-      "previsao_atracacao": "28/10/2026 06:17",
-      "tempo_restante_horas": 0.9
+      "nome": "QING HUA SHAN",
+      "bandeira": "HONG KONG",
+      "imo": "9741528",
+      "agencia": "FERTIMPORT - S.L **",
+      "lat": -2.390333,
+      "lon": -44.266167,
+      "data_fundeio": "24/10/26",
+      "hora_fundeio": "01:00",
+      "tempo_fundeado_horas": 107.3,
+      "previsao_atracacao": "28/10/2026 14:19",
+      "tempo_restante_horas": 2.0
     }
   ]
 }
