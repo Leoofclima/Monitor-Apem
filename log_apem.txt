@@ -14235,3 +14235,35 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 1
 Agência: ROCHAMAR**
 --------------------------------------------------
+[29/10/2026 18:58:16] NOVA MANOBRA:
+Navio: MINERVA JOY
+Manobra: Desatracação
+Data/Hora: 30/10/26 03:14
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[29/10/2026 18:58:16] NOVA MANOBRA:
+Navio: BULK ITALY
+Manobra: Atracação
+Data/Hora: 30/10/26 04:14
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: ZYON
+--------------------------------------------------
+[29/10/2026 18:58:16] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BOMAR OSPREY
+Manobra: Atracação
+Data/Hora: 29/10/26 16:50 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 108
+Agência: WILSON SONS **
+--------------------------------------------------
+[29/10/2026 18:58:16] MANOBRA CONCLUÍDA (navio atracou):
+Navio: GREAT INTELLIGENCE
+Manobra: Atracação
+Data/Hora: 29/10/26 16:55 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 101/SUL
+Agência: ALPHAMAR**
+--------------------------------------------------
