@@ -14047,3 +14047,85 @@ De: PONTO ALPHA
 Para/Berço: PIER 1
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[28/10/2026 21:03:41] NOVA MANOBRA:
+Navio: BOKM GUAIBA
+Manobra: Desatracação
+Data/Hora: 29/10/26 02:27
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[28/10/2026 21:03:41] NOVA MANOBRA:
+Navio: ORE DALIAN
+Manobra: Atracação
+Data/Hora: 29/10/26 02:57
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[28/10/2026 21:03:41] NOVA MANOBRA:
+Navio: PILION
+Manobra: Atracação
+Data/Hora: 29/10/26 07:47
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: ROCHAMAR**
+--------------------------------------------------
+[28/10/2026 21:03:41] MANOBRA CONCLUÍDA (navio atracou):
+Navio: QING HUA SHAN
+Manobra: Atracação
+Data/Hora: 28/10/26 17:00 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[28/10/2026 21:03:41] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SEA SHANGHAI
+Manobra: Atracação
+Data/Hora: 28/10/26 17:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[28/10/2026 21:03:41] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ARRIBA
+Manobra: Desatracação
+Data/Hora: 28/10/26 14:49
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[28/10/2026 21:03:41] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MOSEL N
+Manobra: Atracação
+Data/Hora: 28/10/26 20:30 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[28/10/2026 21:03:41] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FRIEDRICH OLDENDORFF
+Manobra: Desatracação
+Data/Hora: 28/10/26 18:29
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[28/10/2026 21:03:41] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — ETHRA DIAMOND permanece no fundeio
+
+Navio: ETHRA DIAMOND
+Manobra: Atracação (cancelada)
+Previsão anterior: 28/10/26 18:29
+De: BOIA 19-24
+Para/Berço: 101/SUL
+Agência: SHIPPING PROTECTION **
+--------------------------------------------------
+[28/10/2026 21:03:41] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AMAZON COURAGE
+Manobra: Desatracação
+Data/Hora: 28/10/26 18:44
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------

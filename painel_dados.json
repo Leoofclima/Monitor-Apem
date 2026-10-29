@@ -1,39 +1,11 @@
 {
-  "atualizado_em": "28/10/2026 17:18:59",
+  "atualizado_em": "28/10/2026 21:03:42",
   "base": {
     "lat": -2.66098123540369,
     "lon": -44.356990008636686,
     "nome": "Porto Grande - São Luís"
   },
   "navios_fundeados": [
-    {
-      "area": "AREA 3",
-      "nome": "ETHRA DIAMOND",
-      "bandeira": "PORTUGAL",
-      "imo": "9598995",
-      "agencia": "SHIPPING PROTECTION **",
-      "lat": -2.179167,
-      "lon": -44.163,
-      "data_fundeio": "19/08/26",
-      "hora_fundeio": "21:22",
-      "tempo_fundeado_horas": 1675.9,
-      "previsao_atracacao": "28/10/2026 18:29",
-      "tempo_restante_horas": 1.2
-    },
-    {
-      "area": "AREA 3",
-      "nome": "MOSEL N",
-      "bandeira": "LIBERIA",
-      "imo": "9603415",
-      "agencia": "LMA SHIPPING **",
-      "lat": -2.192333,
-      "lon": -44.175667,
-      "data_fundeio": "17/10/26",
-      "hora_fundeio": "11:36",
-      "tempo_fundeado_horas": 269.7,
-      "previsao_atracacao": "28/10/2026 18:29",
-      "tempo_restante_horas": 1.2
-    },
     {
       "area": "AREA 3",
       "nome": "OSLO TRADER",
@@ -44,23 +16,9 @@
       "lon": -44.150167,
       "data_fundeio": "21/10/26",
       "hora_fundeio": "12:36",
-      "tempo_fundeado_horas": 172.7,
+      "tempo_fundeado_horas": 176.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
-    },
-    {
-      "area": "AREA 3",
-      "nome": "SEA SHANGHAI",
-      "bandeira": "PANAMA",
-      "imo": "9844095",
-      "agencia": "LMA SHIPPING **",
-      "lat": -2.1705,
-      "lon": -44.1585,
-      "data_fundeio": "23/10/26",
-      "hora_fundeio": "03:36",
-      "tempo_fundeado_horas": 133.7,
-      "previsao_atracacao": "28/10/2026 14:19",
-      "tempo_restante_horas": -3.0
     },
     {
       "area": "AREA 3",
@@ -72,7 +30,7 @@
       "lon": -44.187667,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "22:59",
-      "tempo_fundeado_horas": 90.3,
+      "tempo_fundeado_horas": 94.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -86,9 +44,9 @@
       "lon": -44.1705,
       "data_fundeio": "25/10/26",
       "hora_fundeio": "20:50",
-      "tempo_fundeado_horas": 68.5,
+      "tempo_fundeado_horas": 72.2,
       "previsao_atracacao": "28/10/2026 19:14",
-      "tempo_restante_horas": 1.9
+      "tempo_restante_horas": -1.8
     },
     {
       "area": "AREA 3",
@@ -100,9 +58,23 @@
       "lon": -44.1345,
       "data_fundeio": "26/10/26",
       "hora_fundeio": "13:00",
-      "tempo_fundeado_horas": 52.3,
+      "tempo_fundeado_horas": 56.1,
       "previsao_atracacao": "29/10/2026 02:57",
-      "tempo_restante_horas": 9.6
+      "tempo_restante_horas": 5.9
+    },
+    {
+      "area": "AREA 3",
+      "nome": "ORE DALIAN",
+      "bandeira": "HONG KONG",
+      "imo": "9807035",
+      "agencia": "LMA SHIPPING **",
+      "lat": -2.140667,
+      "lon": -44.130333,
+      "data_fundeio": "28/10/26",
+      "hora_fundeio": "18:33",
+      "tempo_fundeado_horas": 2.5,
+      "previsao_atracacao": "29/10/2026 02:57",
+      "tempo_restante_horas": 5.9
     },
     {
       "area": "AREA 4",
@@ -114,7 +86,7 @@
       "lon": -44.291833,
       "data_fundeio": "15/10/26",
       "hora_fundeio": "16:00",
-      "tempo_fundeado_horas": 313.3,
+      "tempo_fundeado_horas": 317.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -128,7 +100,7 @@
       "lon": -44.240167,
       "data_fundeio": "18/10/26",
       "hora_fundeio": "00:46",
-      "tempo_fundeado_horas": 256.5,
+      "tempo_fundeado_horas": 260.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -142,7 +114,7 @@
       "lon": -44.2385,
       "data_fundeio": "18/10/26",
       "hora_fundeio": "14:26",
-      "tempo_fundeado_horas": 242.9,
+      "tempo_fundeado_horas": 246.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -156,7 +128,7 @@
       "lon": -44.231833,
       "data_fundeio": "19/10/26",
       "hora_fundeio": "12:16",
-      "tempo_fundeado_horas": 221.0,
+      "tempo_fundeado_horas": 224.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -170,7 +142,7 @@
       "lon": -44.26,
       "data_fundeio": "23/10/26",
       "hora_fundeio": "15:48",
-      "tempo_fundeado_horas": 121.5,
+      "tempo_fundeado_horas": 125.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -184,7 +156,7 @@
       "lon": -44.288833,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "06:54",
-      "tempo_fundeado_horas": 106.4,
+      "tempo_fundeado_horas": 110.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -198,9 +170,9 @@
       "lon": -44.216167,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "07:48",
-      "tempo_fundeado_horas": 105.5,
+      "tempo_fundeado_horas": 109.3,
       "previsao_atracacao": "28/10/2026 20:29",
-      "tempo_restante_horas": 3.2
+      "tempo_restante_horas": -0.6
     },
     {
       "area": "AREA 4",
@@ -212,7 +184,7 @@
       "lon": -44.272,
       "data_fundeio": "25/10/26",
       "hora_fundeio": "05:37",
-      "tempo_fundeado_horas": 83.7,
+      "tempo_fundeado_horas": 87.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -226,7 +198,21 @@
       "lon": -44.296,
       "data_fundeio": "28/10/26",
       "hora_fundeio": "07:40",
-      "tempo_fundeado_horas": 9.6,
+      "tempo_fundeado_horas": 13.4,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null
+    },
+    {
+      "area": "AREA 4",
+      "nome": "GREAT INTELLIGENCE",
+      "bandeira": "HONG KONG",
+      "imo": "9800623",
+      "agencia": "ALPHAMAR**",
+      "lat": -2.392,
+      "lon": -44.2495,
+      "data_fundeio": "28/10/26",
+      "hora_fundeio": "20:48",
+      "tempo_fundeado_horas": 0.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -240,7 +226,7 @@
       "lon": -44.332833,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "02:37",
-      "tempo_fundeado_horas": 110.7,
+      "tempo_fundeado_horas": 114.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -254,41 +240,55 @@
       "lon": -44.340333,
       "data_fundeio": "26/10/26",
       "hora_fundeio": "17:01",
-      "tempo_fundeado_horas": 48.3,
+      "tempo_fundeado_horas": 52.0,
+      "previsao_atracacao": "29/10/2026 07:47",
+      "tempo_restante_horas": 10.7
+    },
+    {
+      "area": "AREA 7A",
+      "nome": "ETHRA DIAMOND",
+      "bandeira": "PORTUGAL",
+      "imo": "9598995",
+      "agencia": "SHIPPING PROTECTION **",
+      "lat": null,
+      "lon": null,
+      "data_fundeio": "28/10/26",
+      "hora_fundeio": "20:25",
+      "tempo_fundeado_horas": 0.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
     {
       "area": "ILHA DO MEDO",
-      "nome": "ARRIBA",
-      "bandeira": "BAHAMAS",
-      "imo": "9827413",
-      "agencia": "ALPHAMAR**",
+      "nome": "UROPHYLLA",
+      "bandeira": "MARSHALL ISLANDS",
+      "imo": "9825013",
+      "agencia": "WILSON SONS **",
       "lat": null,
       "lon": null,
       "data_fundeio": "28/10/26",
-      "hora_fundeio": "15:50",
-      "tempo_fundeado_horas": 1.5,
+      "hora_fundeio": "20:50",
+      "tempo_fundeado_horas": 0.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     }
   ],
   "rota_sugerida": [
     {
-      "area": "AREA 4",
-      "nome": "SAGA JANDAIA",
-      "bandeira": "BAHAMAS",
-      "imo": "9200421",
-      "agencia": "WILHELMSEN PORT**",
-      "lat": -2.391667,
-      "lon": -44.216167,
-      "data_fundeio": "24/10/26",
-      "hora_fundeio": "07:48",
-      "tempo_fundeado_horas": 105.5,
-      "previsao_atracacao": "28/10/2026 20:29",
-      "tempo_restante_horas": 3.2,
+      "area": "AREA 5",
+      "nome": "PILION",
+      "bandeira": "BARBADOS",
+      "imo": "9425825",
+      "agencia": "ROCHAMAR**",
+      "lat": -2.370833,
+      "lon": -44.340333,
+      "data_fundeio": "26/10/26",
+      "hora_fundeio": "17:01",
+      "tempo_fundeado_horas": 52.0,
+      "previsao_atracacao": "29/10/2026 07:47",
+      "tempo_restante_horas": 10.7,
       "ordem": 1,
-      "distancia_trecho_km": 36.3
+      "distancia_trecho_km": 33.5
     },
     {
       "area": "AREA 3",
@@ -300,11 +300,27 @@
       "lon": -44.1345,
       "data_fundeio": "26/10/26",
       "hora_fundeio": "13:00",
-      "tempo_fundeado_horas": 52.3,
+      "tempo_fundeado_horas": 56.1,
       "previsao_atracacao": "29/10/2026 02:57",
-      "tempo_restante_horas": 9.6,
+      "tempo_restante_horas": 5.9,
       "ordem": 2,
-      "distancia_trecho_km": 27.6
+      "distancia_trecho_km": 33.0
+    },
+    {
+      "area": "AREA 3",
+      "nome": "ORE DALIAN",
+      "bandeira": "HONG KONG",
+      "imo": "9807035",
+      "agencia": "LMA SHIPPING **",
+      "lat": -2.140667,
+      "lon": -44.130333,
+      "data_fundeio": "28/10/26",
+      "hora_fundeio": "18:33",
+      "tempo_fundeado_horas": 2.5,
+      "previsao_atracacao": "29/10/2026 02:57",
+      "tempo_restante_horas": 5.9,
+      "ordem": 3,
+      "distancia_trecho_km": 1.9
     },
     {
       "area": "AREA 3",
@@ -316,11 +332,11 @@
       "lon": -44.150167,
       "data_fundeio": "21/10/26",
       "hora_fundeio": "12:36",
-      "tempo_fundeado_horas": 172.7,
+      "tempo_fundeado_horas": 176.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 3,
-      "distancia_trecho_km": 4.1
+      "ordem": 4,
+      "distancia_trecho_km": 5.9
     },
     {
       "area": "AREA 3",
@@ -332,10 +348,10 @@
       "lon": -44.187667,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "22:59",
-      "tempo_fundeado_horas": 90.3,
+      "tempo_fundeado_horas": 94.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 4,
+      "ordem": 5,
       "distancia_trecho_km": 5.5
     },
     {
@@ -348,10 +364,10 @@
       "lon": -44.240167,
       "data_fundeio": "18/10/26",
       "hora_fundeio": "00:46",
-      "tempo_fundeado_horas": 256.5,
+      "tempo_fundeado_horas": 260.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 5,
+      "ordem": 6,
       "distancia_trecho_km": 18.0
     },
     {
@@ -364,10 +380,10 @@
       "lon": -44.231833,
       "data_fundeio": "19/10/26",
       "hora_fundeio": "12:16",
-      "tempo_fundeado_horas": 221.0,
+      "tempo_fundeado_horas": 224.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 6,
+      "ordem": 7,
       "distancia_trecho_km": 1.1
     },
     {
@@ -380,11 +396,27 @@
       "lon": -44.2385,
       "data_fundeio": "18/10/26",
       "hora_fundeio": "14:26",
-      "tempo_fundeado_horas": 242.9,
+      "tempo_fundeado_horas": 246.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 7,
+      "ordem": 8,
       "distancia_trecho_km": 1.9
+    },
+    {
+      "area": "AREA 4",
+      "nome": "GREAT INTELLIGENCE",
+      "bandeira": "HONG KONG",
+      "imo": "9800623",
+      "agencia": "ALPHAMAR**",
+      "lat": -2.392,
+      "lon": -44.2495,
+      "data_fundeio": "28/10/26",
+      "hora_fundeio": "20:48",
+      "tempo_fundeado_horas": 0.3,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null,
+      "ordem": 9,
+      "distancia_trecho_km": 1.4
     },
     {
       "area": "AREA 4",
@@ -396,11 +428,11 @@
       "lon": -44.26,
       "data_fundeio": "23/10/26",
       "hora_fundeio": "15:48",
-      "tempo_fundeado_horas": 121.5,
+      "tempo_fundeado_horas": 125.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 8,
-      "distancia_trecho_km": 2.6
+      "ordem": 10,
+      "distancia_trecho_km": 1.9
     },
     {
       "area": "AREA 4",
@@ -412,10 +444,10 @@
       "lon": -44.272,
       "data_fundeio": "25/10/26",
       "hora_fundeio": "05:37",
-      "tempo_fundeado_horas": 83.7,
+      "tempo_fundeado_horas": 87.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 9,
+      "ordem": 11,
       "distancia_trecho_km": 2.3
     },
     {
@@ -428,10 +460,10 @@
       "lon": -44.288833,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "06:54",
-      "tempo_fundeado_horas": 106.4,
+      "tempo_fundeado_horas": 110.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 10,
+      "ordem": 12,
       "distancia_trecho_km": 2.2
     },
     {
@@ -444,10 +476,10 @@
       "lon": -44.296,
       "data_fundeio": "28/10/26",
       "hora_fundeio": "07:40",
-      "tempo_fundeado_horas": 9.6,
+      "tempo_fundeado_horas": 13.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 11,
+      "ordem": 13,
       "distancia_trecho_km": 2.7
     },
     {
@@ -460,27 +492,11 @@
       "lon": -44.291833,
       "data_fundeio": "15/10/26",
       "hora_fundeio": "16:00",
-      "tempo_fundeado_horas": 313.3,
+      "tempo_fundeado_horas": 317.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 12,
+      "ordem": 14,
       "distancia_trecho_km": 1.4
-    },
-    {
-      "area": "AREA 5",
-      "nome": "PILION",
-      "bandeira": "BARBADOS",
-      "imo": "9425825",
-      "agencia": "ROCHAMAR**",
-      "lat": -2.370833,
-      "lon": -44.340333,
-      "data_fundeio": "26/10/26",
-      "hora_fundeio": "17:01",
-      "tempo_fundeado_horas": 48.3,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null,
-      "ordem": 13,
-      "distancia_trecho_km": 10.1
     },
     {
       "area": "AREA 5",
@@ -492,56 +508,14 @@
       "lon": -44.332833,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "02:37",
-      "tempo_fundeado_horas": 110.7,
+      "tempo_fundeado_horas": 114.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 14,
-      "distancia_trecho_km": 1.9
+      "ordem": 15,
+      "distancia_trecho_km": 11.2
     }
   ],
   "navios_atracando_em_breve": [
-    {
-      "area": "AREA 3",
-      "nome": "SEA SHANGHAI",
-      "bandeira": "PANAMA",
-      "imo": "9844095",
-      "agencia": "LMA SHIPPING **",
-      "lat": -2.1705,
-      "lon": -44.1585,
-      "data_fundeio": "23/10/26",
-      "hora_fundeio": "03:36",
-      "tempo_fundeado_horas": 133.7,
-      "previsao_atracacao": "28/10/2026 14:19",
-      "tempo_restante_horas": -3.0
-    },
-    {
-      "area": "AREA 3",
-      "nome": "ETHRA DIAMOND",
-      "bandeira": "PORTUGAL",
-      "imo": "9598995",
-      "agencia": "SHIPPING PROTECTION **",
-      "lat": -2.179167,
-      "lon": -44.163,
-      "data_fundeio": "19/08/26",
-      "hora_fundeio": "21:22",
-      "tempo_fundeado_horas": 1675.9,
-      "previsao_atracacao": "28/10/2026 18:29",
-      "tempo_restante_horas": 1.2
-    },
-    {
-      "area": "AREA 3",
-      "nome": "MOSEL N",
-      "bandeira": "LIBERIA",
-      "imo": "9603415",
-      "agencia": "LMA SHIPPING **",
-      "lat": -2.192333,
-      "lon": -44.175667,
-      "data_fundeio": "17/10/26",
-      "hora_fundeio": "11:36",
-      "tempo_fundeado_horas": 269.7,
-      "previsao_atracacao": "28/10/2026 18:29",
-      "tempo_restante_horas": 1.2
-    },
     {
       "area": "AREA 3",
       "nome": "FORTE DE SAO FELIPE",
@@ -552,9 +526,23 @@
       "lon": -44.1705,
       "data_fundeio": "25/10/26",
       "hora_fundeio": "20:50",
-      "tempo_fundeado_horas": 68.5,
+      "tempo_fundeado_horas": 72.2,
       "previsao_atracacao": "28/10/2026 19:14",
-      "tempo_restante_horas": 1.9
+      "tempo_restante_horas": -1.8
+    },
+    {
+      "area": "AREA 4",
+      "nome": "SAGA JANDAIA",
+      "bandeira": "BAHAMAS",
+      "imo": "9200421",
+      "agencia": "WILHELMSEN PORT**",
+      "lat": -2.391667,
+      "lon": -44.216167,
+      "data_fundeio": "24/10/26",
+      "hora_fundeio": "07:48",
+      "tempo_fundeado_horas": 109.3,
+      "previsao_atracacao": "28/10/2026 20:29",
+      "tempo_restante_horas": -0.6
     }
   ]
 }
