@@ -1,6 +1,9 @@
 {
-  "PARNASSOS | 29/10/26 | 20:44 | DS | ILHA DO MEDO": "Navio: PARNASSOS\nManobra: Desatracação\nData/Hora: 29/10/26 20:44\nDe: 100\nPara/Berço: ILHA DO MEDO\nAgência: FERTIMPORT - S.L **",
   "MINERVA JOY | 30/10/26 | 03:14 | DS | ILHA DO MEDO": "Navio: MINERVA JOY\nManobra: Desatracação\nData/Hora: 30/10/26 03:14\nDe: 106\nPara/Berço: ILHA DO MEDO\nAgência: NORTH STAR**",
+  "FORTE DE SAO FELIPE | 30/10/26 | 03:59 | DS | ILHA DO MEDO": "Navio: FORTE DE SAO FELIPE\nManobra: Desatracação\nData/Hora: 30/10/26 03:59\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
   "PACIFIC ZIRCON | 30/10/26 | 04:14 | DS | ILHA DO MEDO": "Navio: PACIFIC ZIRCON\nManobra: Desatracação\nData/Hora: 30/10/26 04:14\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "BULK ITALY | 30/10/26 | 04:14 | EA | 103/NORTE": "Navio: BULK ITALY\nManobra: Atracação\nData/Hora: 30/10/26 04:14\nDe: BOIA 19-24\nPara/Berço: 103/NORTE\nAgência: ZYON"
+  "BULK ITALY | 30/10/26 | 04:14 | EA | 103/NORTE": "Navio: BULK ITALY\nManobra: Atracação\nData/Hora: 30/10/26 04:14\nDe: BOIA 19-24\nPara/Berço: 103/NORTE\nAgência: ZYON",
+  "SEA SHANGHAI | 30/10/26 | 07:55 | DS | ILHA DO MEDO": "Navio: SEA SHANGHAI\nManobra: Desatracação\nData/Hora: 30/10/26 07:55\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
+  "BERGE LOGAN | 30/10/26 | 07:55 | EA | PIER 4 NORTE": "Navio: BERGE LOGAN\nManobra: Atracação\nData/Hora: 30/10/26 07:55\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE\nAgência: LMA SHIPPING **",
+  "GLORY TOM | 30/10/26 | 08:40 | EA | ALUMAR 2": "Navio: GLORY TOM\nManobra: Atracação\nData/Hora: 30/10/26 08:40\nDe: BOIA 19-24\nPara/Berço: ALUMAR 2\nAgência: WILSON SONS **"
 }
