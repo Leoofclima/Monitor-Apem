@@ -14331,3 +14331,67 @@ De: 106
 Para/Berço: ILHA DO MEDO
 Agência: NORTH STAR**
 --------------------------------------------------
+[30/10/2026 11:32:33] NOVA MANOBRA:
+Navio: MOSEL N
+Manobra: Desatracação
+Data/Hora: 30/10/26 15:57
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[30/10/2026 11:32:33] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FORTE DE SAO FELIPE
+Manobra: Desatracação
+Data/Hora: 30/10/26 03:59
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[30/10/2026 11:32:33] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PACIFIC ZIRCON
+Manobra: Desatracação
+Data/Hora: 30/10/26 04:14
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[30/10/2026 11:32:33] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BULK ITALY
+Manobra: Atracação
+Data/Hora: 30/10/26 05:40 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: ZYON
+--------------------------------------------------
+[30/10/2026 11:32:33] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: QING HUA SHAN
+Manobra: Desatracação
+Data/Hora: 30/10/26 07:25
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[30/10/2026 11:32:33] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SEA SHANGHAI
+Manobra: Desatracação
+Data/Hora: 30/10/26 07:55
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[30/10/2026 11:32:33] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BERGE LOGAN
+Manobra: Atracação
+Data/Hora: 30/10/26 10:38 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[30/10/2026 11:32:33] MANOBRA CONCLUÍDA (navio atracou):
+Navio: GLORY TOM
+Manobra: Atracação
+Data/Hora: 30/10/26 10:55 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 2
+Agência: WILSON SONS **
+--------------------------------------------------
