@@ -14395,3 +14395,19 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 2
 Agência: WILSON SONS **
 --------------------------------------------------
+[30/10/2026 20:11:44] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MANNA
+Manobra: Atracação
+Data/Hora: 30/10/26 18:16 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[30/10/2026 20:11:44] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: MOSEL N
+Manobra: Desatracação
+Data/Hora: 30/10/26 15:57
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
