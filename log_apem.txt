@@ -14411,3 +14411,19 @@ De: PIER 3 SUL
 Para/Berço: ILHA DO MEDO
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[30/10/2026 23:25:16] NOVA MANOBRA:
+Navio: SEA QINGDAO
+Manobra: Atracação
+Data/Hora: 31/10/26 04:34
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
+[30/10/2026 23:25:16] NOVA MANOBRA:
+Navio: BERGE EVEREST
+Manobra: Desatracação
+Data/Hora: 31/10/26 04:34
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
