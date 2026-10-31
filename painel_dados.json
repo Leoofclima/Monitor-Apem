@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/10/2026 23:25:17",
+  "atualizado_em": "31/10/2026 11:43:04",
   "base": {
     "lat": -2.66098123540369,
     "lon": -44.356990008636686,
@@ -16,9 +16,9 @@
       "lon": -44.089333,
       "data_fundeio": "25/10/26",
       "hora_fundeio": "02:10",
-      "tempo_fundeado_horas": 141.3,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null
+      "tempo_fundeado_horas": 153.6,
+      "previsao_atracacao": "31/10/2026 16:51",
+      "tempo_restante_horas": 5.1
     },
     {
       "area": "AREA 3",
@@ -30,7 +30,7 @@
       "lon": -44.150167,
       "data_fundeio": "21/10/26",
       "hora_fundeio": "12:36",
-      "tempo_fundeado_horas": 226.8,
+      "tempo_fundeado_horas": 239.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -44,9 +44,9 @@
       "lon": -44.187667,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "22:59",
-      "tempo_fundeado_horas": 144.4,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null
+      "tempo_fundeado_horas": 156.7,
+      "previsao_atracacao": "31/10/2026 09:38",
+      "tempo_restante_horas": -2.1
     },
     {
       "area": "AREA 3",
@@ -58,7 +58,7 @@
       "lon": -44.1535,
       "data_fundeio": "28/10/26",
       "hora_fundeio": "14:00",
-      "tempo_fundeado_horas": 57.4,
+      "tempo_fundeado_horas": 69.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -72,7 +72,7 @@
       "lon": -44.164167,
       "data_fundeio": "29/10/26",
       "hora_fundeio": "00:34",
-      "tempo_fundeado_horas": 46.9,
+      "tempo_fundeado_horas": 59.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -86,23 +86,9 @@
       "lon": -44.159833,
       "data_fundeio": "30/10/26",
       "hora_fundeio": "01:10",
-      "tempo_fundeado_horas": 22.3,
+      "tempo_fundeado_horas": 34.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
-    },
-    {
-      "area": "AREA 3",
-      "nome": "SEA QINGDAO",
-      "bandeira": "MARSHALL ISLANDS",
-      "imo": "9575450",
-      "agencia": "ISS**",
-      "lat": -2.154833,
-      "lon": -44.148333,
-      "data_fundeio": "30/10/26",
-      "hora_fundeio": "06:30",
-      "tempo_fundeado_horas": 16.9,
-      "previsao_atracacao": "31/10/2026 04:34",
-      "tempo_restante_horas": 5.1
     },
     {
       "area": "AREA 3",
@@ -114,7 +100,21 @@
       "lon": -44.180667,
       "data_fundeio": "30/10/26",
       "hora_fundeio": "15:33",
-      "tempo_fundeado_horas": 7.9,
+      "tempo_fundeado_horas": 20.2,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null
+    },
+    {
+      "area": "AREA 3",
+      "nome": "STELLAR CROWN",
+      "bandeira": "MARSHALL ISLANDS",
+      "imo": "9735775",
+      "agencia": "WILHELMSEN PORT**",
+      "lat": -2.369167,
+      "lon": -44.331833,
+      "data_fundeio": "31/10/26",
+      "hora_fundeio": "02:12",
+      "tempo_fundeado_horas": 9.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -128,7 +128,7 @@
       "lon": -44.291833,
       "data_fundeio": "15/10/26",
       "hora_fundeio": "16:00",
-      "tempo_fundeado_horas": 367.4,
+      "tempo_fundeado_horas": 379.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -142,9 +142,9 @@
       "lon": -44.2385,
       "data_fundeio": "18/10/26",
       "hora_fundeio": "14:26",
-      "tempo_fundeado_horas": 297.0,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null
+      "tempo_fundeado_horas": 309.3,
+      "previsao_atracacao": "31/10/2026 16:51",
+      "tempo_restante_horas": 5.1
     },
     {
       "area": "AREA 4",
@@ -156,7 +156,7 @@
       "lon": -44.231833,
       "data_fundeio": "19/10/26",
       "hora_fundeio": "12:16",
-      "tempo_fundeado_horas": 275.2,
+      "tempo_fundeado_horas": 287.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -170,7 +170,7 @@
       "lon": -44.26,
       "data_fundeio": "23/10/26",
       "hora_fundeio": "15:48",
-      "tempo_fundeado_horas": 175.6,
+      "tempo_fundeado_horas": 187.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -184,7 +184,7 @@
       "lon": -44.288833,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "06:54",
-      "tempo_fundeado_horas": 160.5,
+      "tempo_fundeado_horas": 172.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -198,7 +198,7 @@
       "lon": -44.272,
       "data_fundeio": "25/10/26",
       "hora_fundeio": "05:37",
-      "tempo_fundeado_horas": 137.8,
+      "tempo_fundeado_horas": 150.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -212,9 +212,9 @@
       "lon": -44.2775,
       "data_fundeio": "27/10/26",
       "hora_fundeio": "20:20",
-      "tempo_fundeado_horas": 75.1,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null
+      "tempo_fundeado_horas": 87.4,
+      "previsao_atracacao": "31/10/2026 16:51",
+      "tempo_restante_horas": 5.1
     },
     {
       "area": "AREA 4",
@@ -226,7 +226,7 @@
       "lon": -44.296,
       "data_fundeio": "28/10/26",
       "hora_fundeio": "07:40",
-      "tempo_fundeado_horas": 63.8,
+      "tempo_fundeado_horas": 76.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -240,7 +240,7 @@
       "lon": -44.297,
       "data_fundeio": "30/10/26",
       "hora_fundeio": "03:53",
-      "tempo_fundeado_horas": 19.5,
+      "tempo_fundeado_horas": 31.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -254,7 +254,7 @@
       "lon": -44.266,
       "data_fundeio": "30/10/26",
       "hora_fundeio": "10:24",
-      "tempo_fundeado_horas": 13.0,
+      "tempo_fundeado_horas": 25.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -268,7 +268,7 @@
       "lon": -44.2375,
       "data_fundeio": "30/10/26",
       "hora_fundeio": "17:36",
-      "tempo_fundeado_horas": 5.8,
+      "tempo_fundeado_horas": 18.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -282,7 +282,21 @@
       "lon": -44.277167,
       "data_fundeio": "30/10/26",
       "hora_fundeio": "17:37",
-      "tempo_fundeado_horas": 5.8,
+      "tempo_fundeado_horas": 18.1,
+      "previsao_atracacao": "31/10/2026 16:21",
+      "tempo_restante_horas": 4.6
+    },
+    {
+      "area": "AREA 4",
+      "nome": "ROBUSTA",
+      "bandeira": "MARSHALL ISLANDS",
+      "imo": "9824992",
+      "agencia": "WILSON SONS **",
+      "lat": -2.421667,
+      "lon": -44.281667,
+      "data_fundeio": "31/10/26",
+      "hora_fundeio": "04:18",
+      "tempo_fundeado_horas": 7.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -296,7 +310,7 @@
       "lon": -44.332833,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "02:37",
-      "tempo_fundeado_horas": 164.8,
+      "tempo_fundeado_horas": 177.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -310,7 +324,7 @@
       "lon": -44.3365,
       "data_fundeio": "29/10/26",
       "hora_fundeio": "02:06",
-      "tempo_fundeado_horas": 45.3,
+      "tempo_fundeado_horas": 57.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -324,7 +338,7 @@
       "lon": -44.355,
       "data_fundeio": "29/10/26",
       "hora_fundeio": "04:26",
-      "tempo_fundeado_horas": 43.0,
+      "tempo_fundeado_horas": 55.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -338,7 +352,21 @@
       "lon": -44.353333,
       "data_fundeio": "30/10/26",
       "hora_fundeio": "00:08",
-      "tempo_fundeado_horas": 23.3,
+      "tempo_fundeado_horas": 35.6,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null
+    },
+    {
+      "area": "AREA 5",
+      "nome": "ATAYAL MARINER",
+      "bandeira": "PANAMA",
+      "imo": "9606974",
+      "agencia": "WILSON SONS **",
+      "lat": -2.379,
+      "lon": -44.345167,
+      "data_fundeio": "31/10/26",
+      "hora_fundeio": "10:05",
+      "tempo_fundeado_horas": 1.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -352,27 +380,75 @@
       "lon": null,
       "data_fundeio": "29/10/26",
       "hora_fundeio": "16:15",
-      "tempo_fundeado_horas": 31.2,
+      "tempo_fundeado_horas": 43.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     }
   ],
   "rota_sugerida": [
     {
-      "area": "AREA 3",
-      "nome": "SEA QINGDAO",
-      "bandeira": "MARSHALL ISLANDS",
-      "imo": "9575450",
-      "agencia": "ISS**",
-      "lat": -2.154833,
-      "lon": -44.148333,
+      "area": "AREA 4",
+      "nome": "HONESTY",
+      "bandeira": "LIBERIA",
+      "imo": "9416393",
+      "agencia": "WILHELMSEN PORT**",
+      "lat": -2.439167,
+      "lon": -44.277167,
       "data_fundeio": "30/10/26",
-      "hora_fundeio": "06:30",
-      "tempo_fundeado_horas": 16.9,
-      "previsao_atracacao": "31/10/2026 04:34",
-      "tempo_restante_horas": 5.1,
+      "hora_fundeio": "17:37",
+      "tempo_fundeado_horas": 18.1,
+      "previsao_atracacao": "31/10/2026 16:21",
+      "tempo_restante_horas": 4.6,
       "ordem": 1,
-      "distancia_trecho_km": 63.0
+      "distancia_trecho_km": 28.3
+    },
+    {
+      "area": "AREA 4",
+      "nome": "FLUMAR BRASIL",
+      "bandeira": "BRASIL",
+      "imo": "9416836",
+      "agencia": "WILHELMSEN PORT**",
+      "lat": -2.401333,
+      "lon": -44.2775,
+      "data_fundeio": "27/10/26",
+      "hora_fundeio": "20:20",
+      "tempo_fundeado_horas": 87.4,
+      "previsao_atracacao": "31/10/2026 16:51",
+      "tempo_restante_horas": 5.1,
+      "ordem": 2,
+      "distancia_trecho_km": 4.2
+    },
+    {
+      "area": "AREA 4",
+      "nome": "GLOBAL DREAM",
+      "bandeira": "LIBERIA",
+      "imo": "9843390",
+      "agencia": "ISS**",
+      "lat": -2.397667,
+      "lon": -44.2385,
+      "data_fundeio": "18/10/26",
+      "hora_fundeio": "14:26",
+      "tempo_fundeado_horas": 309.3,
+      "previsao_atracacao": "31/10/2026 16:51",
+      "tempo_restante_horas": 5.1,
+      "ordem": 3,
+      "distancia_trecho_km": 4.4
+    },
+    {
+      "area": "AREA 2",
+      "nome": "YU ZHONG HAI",
+      "bandeira": "PANAMA",
+      "imo": "9375769",
+      "agencia": "LMA SHIPPING **",
+      "lat": -2.072333,
+      "lon": -44.089333,
+      "data_fundeio": "25/10/26",
+      "hora_fundeio": "02:10",
+      "tempo_fundeado_horas": 153.6,
+      "previsao_atracacao": "31/10/2026 16:51",
+      "tempo_restante_horas": 5.1,
+      "ordem": 4,
+      "distancia_trecho_km": 39.8
     },
     {
       "area": "AREA 3",
@@ -384,11 +460,11 @@
       "lon": -44.1535,
       "data_fundeio": "28/10/26",
       "hora_fundeio": "14:00",
-      "tempo_fundeado_horas": 57.4,
+      "tempo_fundeado_horas": 69.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 2,
-      "distancia_trecho_km": 1.8
+      "ordem": 5,
+      "distancia_trecho_km": 13.0
     },
     {
       "area": "AREA 3",
@@ -400,10 +476,10 @@
       "lon": -44.164167,
       "data_fundeio": "29/10/26",
       "hora_fundeio": "00:34",
-      "tempo_fundeado_horas": 46.9,
+      "tempo_fundeado_horas": 59.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 3,
+      "ordem": 6,
       "distancia_trecho_km": 2.3
     },
     {
@@ -416,10 +492,10 @@
       "lon": -44.150167,
       "data_fundeio": "21/10/26",
       "hora_fundeio": "12:36",
-      "tempo_fundeado_horas": 226.8,
+      "tempo_fundeado_horas": 239.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 4,
+      "ordem": 7,
       "distancia_trecho_km": 1.6
     },
     {
@@ -432,10 +508,10 @@
       "lon": -44.159833,
       "data_fundeio": "30/10/26",
       "hora_fundeio": "01:10",
-      "tempo_fundeado_horas": 22.3,
+      "tempo_fundeado_horas": 34.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 5,
+      "ordem": 8,
       "distancia_trecho_km": 2.1
     },
     {
@@ -448,26 +524,10 @@
       "lon": -44.180667,
       "data_fundeio": "30/10/26",
       "hora_fundeio": "15:33",
-      "tempo_fundeado_horas": 7.9,
+      "tempo_fundeado_horas": 20.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 6,
-      "distancia_trecho_km": 2.3
-    },
-    {
-      "area": "AREA 3",
-      "nome": "AMAZON COMMANDER",
-      "bandeira": "LIBERIA",
-      "imo": "9991111",
-      "agencia": "ORION RODOS**",
-      "lat": -2.223,
-      "lon": -44.187667,
-      "data_fundeio": "24/10/26",
-      "hora_fundeio": "22:59",
-      "tempo_fundeado_horas": 144.4,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null,
-      "ordem": 7,
+      "ordem": 9,
       "distancia_trecho_km": 2.3
     },
     {
@@ -480,27 +540,11 @@
       "lon": -44.231833,
       "data_fundeio": "19/10/26",
       "hora_fundeio": "12:16",
-      "tempo_fundeado_horas": 275.2,
+      "tempo_fundeado_horas": 287.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 8,
-      "distancia_trecho_km": 18.3
-    },
-    {
-      "area": "AREA 4",
-      "nome": "GLOBAL DREAM",
-      "bandeira": "LIBERIA",
-      "imo": "9843390",
-      "agencia": "ISS**",
-      "lat": -2.397667,
-      "lon": -44.2385,
-      "data_fundeio": "18/10/26",
-      "hora_fundeio": "14:26",
-      "tempo_fundeado_horas": 297.0,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null,
-      "ordem": 9,
-      "distancia_trecho_km": 1.9
+      "ordem": 10,
+      "distancia_trecho_km": 20.6
     },
     {
       "area": "AREA 4",
@@ -512,11 +556,11 @@
       "lon": -44.2375,
       "data_fundeio": "30/10/26",
       "hora_fundeio": "17:36",
-      "tempo_fundeado_horas": 5.8,
+      "tempo_fundeado_horas": 18.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 10,
-      "distancia_trecho_km": 1.8
+      "ordem": 11,
+      "distancia_trecho_km": 3.6
     },
     {
       "area": "AREA 4",
@@ -528,27 +572,27 @@
       "lon": -44.26,
       "data_fundeio": "23/10/26",
       "hora_fundeio": "15:48",
-      "tempo_fundeado_horas": 175.6,
+      "tempo_fundeado_horas": 187.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 11,
+      "ordem": 12,
       "distancia_trecho_km": 2.6
     },
     {
       "area": "AREA 4",
-      "nome": "FLUMAR BRASIL",
-      "bandeira": "BRASIL",
-      "imo": "9416836",
-      "agencia": "WILHELMSEN PORT**",
-      "lat": -2.401333,
-      "lon": -44.2775,
-      "data_fundeio": "27/10/26",
-      "hora_fundeio": "20:20",
-      "tempo_fundeado_horas": 75.1,
+      "nome": "AQUAVICTORY",
+      "bandeira": "PANAMA",
+      "imo": "1057050",
+      "agencia": "LMA SHIPPING **",
+      "lat": -2.386833,
+      "lon": -44.266,
+      "data_fundeio": "30/10/26",
+      "hora_fundeio": "10:24",
+      "tempo_fundeado_horas": 25.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 12,
-      "distancia_trecho_km": 2.0
+      "ordem": 13,
+      "distancia_trecho_km": 2.2
     },
     {
       "area": "AREA 4",
@@ -560,11 +604,43 @@
       "lon": -44.288833,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "06:54",
-      "tempo_fundeado_horas": 160.5,
+      "tempo_fundeado_horas": 172.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 13,
-      "distancia_trecho_km": 1.7
+      "ordem": 14,
+      "distancia_trecho_km": 3.7
+    },
+    {
+      "area": "AREA 4",
+      "nome": "ROBUSTA",
+      "bandeira": "MARSHALL ISLANDS",
+      "imo": "9824992",
+      "agencia": "WILSON SONS **",
+      "lat": -2.421667,
+      "lon": -44.281667,
+      "data_fundeio": "31/10/26",
+      "hora_fundeio": "04:18",
+      "tempo_fundeado_horas": 7.4,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null,
+      "ordem": 15,
+      "distancia_trecho_km": 1.4
+    },
+    {
+      "area": "AREA 4",
+      "nome": "YASA DRAKE",
+      "bandeira": "MARSHALL ISLANDS",
+      "imo": "9591351",
+      "agencia": "LMA SHIPPING **",
+      "lat": -2.422333,
+      "lon": -44.272,
+      "data_fundeio": "25/10/26",
+      "hora_fundeio": "05:37",
+      "tempo_fundeado_horas": 150.1,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null,
+      "ordem": 16,
+      "distancia_trecho_km": 1.1
     },
     {
       "area": "AREA 4",
@@ -576,11 +652,11 @@
       "lon": -44.297,
       "data_fundeio": "30/10/26",
       "hora_fundeio": "03:53",
-      "tempo_fundeado_horas": 19.5,
+      "tempo_fundeado_horas": 31.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 14,
-      "distancia_trecho_km": 1.5
+      "ordem": 17,
+      "distancia_trecho_km": 2.8
     },
     {
       "area": "AREA 4",
@@ -592,10 +668,10 @@
       "lon": -44.296,
       "data_fundeio": "28/10/26",
       "hora_fundeio": "07:40",
-      "tempo_fundeado_horas": 63.8,
+      "tempo_fundeado_horas": 76.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 15,
+      "ordem": 18,
       "distancia_trecho_km": 1.4
     },
     {
@@ -608,91 +684,11 @@
       "lon": -44.291833,
       "data_fundeio": "15/10/26",
       "hora_fundeio": "16:00",
-      "tempo_fundeado_horas": 367.4,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null,
-      "ordem": 16,
-      "distancia_trecho_km": 1.4
-    },
-    {
-      "area": "AREA 4",
-      "nome": "HONESTY",
-      "bandeira": "LIBERIA",
-      "imo": "9416393",
-      "agencia": "WILHELMSEN PORT**",
-      "lat": -2.439167,
-      "lon": -44.277167,
-      "data_fundeio": "30/10/26",
-      "hora_fundeio": "17:37",
-      "tempo_fundeado_horas": 5.8,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null,
-      "ordem": 17,
-      "distancia_trecho_km": 1.9
-    },
-    {
-      "area": "AREA 4",
-      "nome": "YASA DRAKE",
-      "bandeira": "MARSHALL ISLANDS",
-      "imo": "9591351",
-      "agencia": "LMA SHIPPING **",
-      "lat": -2.422333,
-      "lon": -44.272,
-      "data_fundeio": "25/10/26",
-      "hora_fundeio": "05:37",
-      "tempo_fundeado_horas": 137.8,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null,
-      "ordem": 18,
-      "distancia_trecho_km": 2.0
-    },
-    {
-      "area": "AREA 4",
-      "nome": "AQUAVICTORY",
-      "bandeira": "PANAMA",
-      "imo": "1057050",
-      "agencia": "LMA SHIPPING **",
-      "lat": -2.386833,
-      "lon": -44.266,
-      "data_fundeio": "30/10/26",
-      "hora_fundeio": "10:24",
-      "tempo_fundeado_horas": 13.0,
+      "tempo_fundeado_horas": 379.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 19,
-      "distancia_trecho_km": 4.0
-    },
-    {
-      "area": "AREA 5",
-      "nome": "CAPE WISTERIA",
-      "bandeira": "PANAMA",
-      "imo": "1024390",
-      "agencia": "WILSON SONS **",
-      "lat": -2.386167,
-      "lon": -44.3365,
-      "data_fundeio": "29/10/26",
-      "hora_fundeio": "02:06",
-      "tempo_fundeado_horas": 45.3,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null,
-      "ordem": 20,
-      "distancia_trecho_km": 7.8
-    },
-    {
-      "area": "AREA 5",
-      "nome": "ARISTA",
-      "bandeira": "PANAMA",
-      "imo": "9244831",
-      "agencia": "FERTIMPORT - S.L **",
-      "lat": -2.388667,
-      "lon": -44.353333,
-      "data_fundeio": "30/10/26",
-      "hora_fundeio": "00:08",
-      "tempo_fundeado_horas": 23.3,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null,
-      "ordem": 21,
-      "distancia_trecho_km": 1.9
+      "distancia_trecho_km": 1.4
     },
     {
       "area": "AREA 5",
@@ -704,11 +700,75 @@
       "lon": -44.355,
       "data_fundeio": "29/10/26",
       "hora_fundeio": "04:26",
-      "tempo_fundeado_horas": 43.0,
+      "tempo_fundeado_horas": 55.3,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null,
+      "ordem": 20,
+      "distancia_trecho_km": 8.2
+    },
+    {
+      "area": "AREA 5",
+      "nome": "ARISTA",
+      "bandeira": "PANAMA",
+      "imo": "9244831",
+      "agencia": "FERTIMPORT - S.L **",
+      "lat": -2.388667,
+      "lon": -44.353333,
+      "data_fundeio": "30/10/26",
+      "hora_fundeio": "00:08",
+      "tempo_fundeado_horas": 35.6,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null,
+      "ordem": 21,
+      "distancia_trecho_km": 2.2
+    },
+    {
+      "area": "AREA 5",
+      "nome": "ATAYAL MARINER",
+      "bandeira": "PANAMA",
+      "imo": "9606974",
+      "agencia": "WILSON SONS **",
+      "lat": -2.379,
+      "lon": -44.345167,
+      "data_fundeio": "31/10/26",
+      "hora_fundeio": "10:05",
+      "tempo_fundeado_horas": 1.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 22,
-      "distancia_trecho_km": 2.2
+      "distancia_trecho_km": 1.4
+    },
+    {
+      "area": "AREA 5",
+      "nome": "CAPE WISTERIA",
+      "bandeira": "PANAMA",
+      "imo": "1024390",
+      "agencia": "WILSON SONS **",
+      "lat": -2.386167,
+      "lon": -44.3365,
+      "data_fundeio": "29/10/26",
+      "hora_fundeio": "02:06",
+      "tempo_fundeado_horas": 57.6,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null,
+      "ordem": 23,
+      "distancia_trecho_km": 1.2
+    },
+    {
+      "area": "AREA 3",
+      "nome": "STELLAR CROWN",
+      "bandeira": "MARSHALL ISLANDS",
+      "imo": "9735775",
+      "agencia": "WILHELMSEN PORT**",
+      "lat": -2.369167,
+      "lon": -44.331833,
+      "data_fundeio": "31/10/26",
+      "hora_fundeio": "02:12",
+      "tempo_fundeado_horas": 9.5,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null,
+      "ordem": 24,
+      "distancia_trecho_km": 2.0
     },
     {
       "area": "AREA 5",
@@ -720,28 +780,27 @@
       "lon": -44.332833,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "02:37",
-      "tempo_fundeado_horas": 164.8,
+      "tempo_fundeado_horas": 177.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 23,
-      "distancia_trecho_km": 6.4
-    },
-    {
-      "area": "AREA 2",
-      "nome": "YU ZHONG HAI",
-      "bandeira": "PANAMA",
-      "imo": "9375769",
-      "agencia": "LMA SHIPPING **",
-      "lat": -2.072333,
-      "lon": -44.089333,
-      "data_fundeio": "25/10/26",
-      "hora_fundeio": "02:10",
-      "tempo_fundeado_horas": 141.3,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null,
-      "ordem": 24,
-      "distancia_trecho_km": 41.5
+      "ordem": 25,
+      "distancia_trecho_km": 1.6
     }
   ],
-  "navios_atracando_em_breve": []
+  "navios_atracando_em_breve": [
+    {
+      "area": "AREA 3",
+      "nome": "AMAZON COMMANDER",
+      "bandeira": "LIBERIA",
+      "imo": "9991111",
+      "agencia": "ORION RODOS**",
+      "lat": -2.223,
+      "lon": -44.187667,
+      "data_fundeio": "24/10/26",
+      "hora_fundeio": "22:59",
+      "tempo_fundeado_horas": 156.7,
+      "previsao_atracacao": "31/10/2026 09:38",
+      "tempo_restante_horas": -2.1
+    }
+  ]
 }

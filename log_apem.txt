@@ -14429,3 +14429,83 @@ Agência: LMA SHIPPING **
 --------------------------------------------------
 [31/10/2026 05:36:37] ERRO: falha ao acessar o site - HTTPConnectionPool(host='www.apem-ma.com.br', port=80): Max retries exceeded with url: /?module=shipmaneuvering (Caused by ConnectTimeoutError(<HTTPConnection(host='www.apem-ma.com.br', port=80) at 0x7f9496143e60>, 'Connection to www.apem-ma.com.br timed out. (connect timeout=20)'))
 --------------------------------------------------
+[31/10/2026 11:43:03] NOVA MANOBRA:
+Navio: AMAZON COMMANDER
+Manobra: Atracação
+Data/Hora: 31/10/26 09:38
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[31/10/2026 11:43:03] NOVA MANOBRA:
+Navio: ORE DALIAN
+Manobra: Desatracação
+Data/Hora: 31/10/26 16:21
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[31/10/2026 11:43:03] NOVA MANOBRA:
+Navio: HONESTY
+Manobra: Atracação
+Data/Hora: 31/10/26 16:21
+De: BOIA 19-24
+Para/Berço: 106
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[31/10/2026 11:43:03] NOVA MANOBRA:
+Navio: GLOBAL DREAM
+Manobra: Atracação
+Data/Hora: 31/10/26 16:51
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: ISS**
+--------------------------------------------------
+[31/10/2026 11:43:03] NOVA MANOBRA:
+Navio: FLUMAR BRASIL
+Manobra: Atracação
+Data/Hora: 31/10/26 16:51
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[31/10/2026 11:43:03] NOVA MANOBRA:
+Navio: YU ZHONG HAI
+Manobra: Atracação
+Data/Hora: 31/10/26 16:51
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[31/10/2026 11:43:03] NOVA MANOBRA:
+Navio: BERGE LOGAN
+Manobra: Desatracação
+Data/Hora: 31/10/26 21:08
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[31/10/2026 11:43:03] NOVA MANOBRA:
+Navio: PILION
+Manobra: Desatracação
+Data/Hora: 31/10/26 22:23
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: ROCHAMAR**
+--------------------------------------------------
+[31/10/2026 11:43:03] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SEA QINGDAO
+Manobra: Atracação
+Data/Hora: 31/10/26 07:16 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
+[31/10/2026 11:43:03] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BERGE EVEREST
+Manobra: Desatracação
+Data/Hora: 31/10/26 04:34
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
