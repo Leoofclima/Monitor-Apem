@@ -14509,3 +14509,11 @@ De: PIER 1
 Para/Berço: ILHA DO MEDO
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[31/10/2026 15:47:41] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AMAZON COMMANDER
+Manobra: Atracação
+Data/Hora: 31/10/26 12:18 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
