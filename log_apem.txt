@@ -14517,3 +14517,43 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[31/10/2026 21:34:23] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ORE DALIAN
+Manobra: Desatracação
+Data/Hora: 31/10/26 16:21
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[31/10/2026 21:34:23] MANOBRA CONCLUÍDA (navio atracou):
+Navio: HONESTY
+Manobra: Atracação
+Data/Hora: 31/10/26 18:15 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 106
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[31/10/2026 21:34:23] MANOBRA CONCLUÍDA (navio atracou):
+Navio: FLUMAR BRASIL
+Manobra: Atracação
+Data/Hora: 31/10/26 18:26 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[31/10/2026 21:34:23] MANOBRA CONCLUÍDA (navio atracou):
+Navio: YU ZHONG HAI
+Manobra: Atracação
+Data/Hora: 31/10/26 19:26 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[31/10/2026 21:34:23] MANOBRA CONCLUÍDA (navio atracou):
+Navio: GLOBAL DREAM
+Manobra: Atracação
+Data/Hora: 31/10/26 19:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: ISS**
+--------------------------------------------------
