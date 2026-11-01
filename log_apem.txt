@@ -14605,3 +14605,59 @@ De: 99
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[01/11/2026 15:36:41] NOVA MANOBRA:
+Navio: DE MING HAI
+Manobra: Atracação
+Data/Hora: 01/11/26 17:27
+De: PONTO ALPHA
+Para/Berço: 99
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[01/11/2026 15:36:41] NOVA MANOBRA:
+Navio: CHRYSOULA S
+Manobra: Atracação
+Data/Hora: 01/11/26 17:57
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: ZYON
+--------------------------------------------------
+[01/11/2026 15:36:41] NOVA MANOBRA:
+Navio: AMAZON COMMANDER
+Manobra: Desatracação
+Data/Hora: 01/11/26 18:12
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[01/11/2026 15:36:41] NOVA MANOBRA:
+Navio: KP ALBATROSS
+Manobra: Desatracação
+Data/Hora: 01/11/26 18:27
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: THP SHIPPING**
+--------------------------------------------------
+[01/11/2026 15:36:41] NOVA MANOBRA:
+Navio: CAPE WISTERIA
+Manobra: Atracação
+Data/Hora: 01/11/26 22:21
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: WILSON SONS **
+--------------------------------------------------
+[01/11/2026 15:36:41] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BOMAR OSPREY
+Manobra: Desatracação
+Data/Hora: 01/11/26 11:02
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[01/11/2026 15:36:41] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AVON
+Manobra: Atracação
+Data/Hora: 01/11/26 14:05 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: NORTH STAR**
+--------------------------------------------------
