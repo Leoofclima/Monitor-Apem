@@ -14557,3 +14557,35 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 SUL
 Agência: ISS**
 --------------------------------------------------
+[01/11/2026 03:46:05] NOVA MANOBRA:
+Navio: BOMAR OSPREY
+Manobra: Desatracação
+Data/Hora: 01/11/26 11:02
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[01/11/2026 03:46:05] NOVA MANOBRA:
+Navio: AVON
+Manobra: Atracação
+Data/Hora: 01/11/26 11:32
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: NORTH STAR**
+--------------------------------------------------
+[01/11/2026 03:46:05] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BERGE LOGAN
+Manobra: Desatracação
+Data/Hora: 31/10/26 21:08
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[01/11/2026 03:46:05] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PILION
+Manobra: Desatracação
+Data/Hora: 31/10/26 22:23
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: ROCHAMAR**
+--------------------------------------------------
