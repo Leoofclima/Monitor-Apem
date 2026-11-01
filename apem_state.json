@@ -1,4 +1,6 @@
 {
   "BOMAR OSPREY | 01/11/26 | 11:02 | DS | ILHA DO MEDO": "Navio: BOMAR OSPREY\nManobra: Desatracação\nData/Hora: 01/11/26 11:02\nDe: 108\nPara/Berço: ILHA DO MEDO\nAgência: WILSON SONS **",
-  "AVON | 01/11/26 | 11:32 | EA | 108": "Navio: AVON\nManobra: Atracação\nData/Hora: 01/11/26 11:32\nDe: PONTO ALPHA\nPara/Berço: 108\nAgência: NORTH STAR**"
+  "AVON | 01/11/26 | 11:32 | EA | 108": "Navio: AVON\nManobra: Atracação\nData/Hora: 01/11/26 11:32\nDe: PONTO ALPHA\nPara/Berço: 108\nAgência: NORTH STAR**",
+  "KONTA III | 01/11/26 | 15:12 | EA | PLATAFORMA 1": "Navio: KONTA III\nManobra: Atracação\nData/Hora: 01/11/26 15:12\nDe: PTO EMBARQUE LC\nPara/Berço: PLATAFORMA 1\nAgência: GEM - PARNAIBA",
+  "SAGA JANDAIA | 01/11/26 | 17:57 | DS | ILHA DO MEDO": "Navio: SAGA JANDAIA\nManobra: Desatracação\nData/Hora: 01/11/26 17:57\nDe: 99\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**"
 }
