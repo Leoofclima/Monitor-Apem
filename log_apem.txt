@@ -14661,3 +14661,35 @@ De: PONTO ALPHA
 Para/Berço: 108
 Agência: NORTH STAR**
 --------------------------------------------------
+[01/11/2026 19:21:54] NOVA MANOBRA:
+Navio: BULK ITALY
+Manobra: Desatracação
+Data/Hora: 01/11/26 21:51
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ZYON
+--------------------------------------------------
+[01/11/2026 19:21:54] NOVA MANOBRA:
+Navio: EVMAR
+Manobra: Atracação
+Data/Hora: 01/11/26 22:21
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: CARGONAVE**
+--------------------------------------------------
+[01/11/2026 19:21:54] NOVA MANOBRA:
+Navio: FORTE DE SAO JOSE
+Manobra: Atracação
+Data/Hora: 01/11/26 23:06
+De: BOIA 19-24
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[01/11/2026 19:21:54] MANOBRA CONCLUÍDA (navio atracou):
+Navio: KONTA III
+Manobra: Atracação
+Data/Hora: 01/11/26 17:55 (horário real de atracação)
+De: PTO EMBARQUE LC
+Para/Berço: PLATAFORMA 1
+Agência: GEM - PARNAIBA
+--------------------------------------------------

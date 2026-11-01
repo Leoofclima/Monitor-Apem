@@ -1,9 +1,11 @@
 {
-  "KONTA III | 01/11/26 | 15:12 | EA | PLATAFORMA 1": "Navio: KONTA III\nManobra: Atracação\nData/Hora: 01/11/26 15:12\nDe: PTO EMBARQUE LC\nPara/Berço: PLATAFORMA 1\nAgência: GEM - PARNAIBA",
   "DE MING HAI | 01/11/26 | 17:27 | EA | 99": "Navio: DE MING HAI\nManobra: Atracação\nData/Hora: 01/11/26 17:27\nDe: PONTO ALPHA\nPara/Berço: 99\nAgência: WILHELMSEN PORT**",
   "SAGA JANDAIA | 01/11/26 | 17:57 | DS | ILHA DO MEDO": "Navio: SAGA JANDAIA\nManobra: Desatracação\nData/Hora: 01/11/26 17:57\nDe: 99\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
   "CHRYSOULA S | 01/11/26 | 17:57 | EA | 102/CENTRO": "Navio: CHRYSOULA S\nManobra: Atracação\nData/Hora: 01/11/26 17:57\nDe: BOIA 19-24\nPara/Berço: 102/CENTRO\nAgência: ZYON",
   "AMAZON COMMANDER | 01/11/26 | 18:12 | DS | ILHA DO MEDO": "Navio: AMAZON COMMANDER\nManobra: Desatracação\nData/Hora: 01/11/26 18:12\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
   "KP ALBATROSS | 01/11/26 | 18:27 | DS | ILHA DO MEDO": "Navio: KP ALBATROSS\nManobra: Desatracação\nData/Hora: 01/11/26 18:27\nDe: 102/CENTRO\nPara/Berço: ILHA DO MEDO\nAgência: THP SHIPPING**",
-  "CAPE WISTERIA | 01/11/26 | 22:21 | EA | PIER 3 NORTE": "Navio: CAPE WISTERIA\nManobra: Atracação\nData/Hora: 01/11/26 22:21\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: WILSON SONS **"
+  "BULK ITALY | 01/11/26 | 21:51 | DS | ILHA DO MEDO": "Navio: BULK ITALY\nManobra: Desatracação\nData/Hora: 01/11/26 21:51\nDe: 103/NORTE\nPara/Berço: ILHA DO MEDO\nAgência: ZYON",
+  "CAPE WISTERIA | 01/11/26 | 22:21 | EA | PIER 3 NORTE": "Navio: CAPE WISTERIA\nManobra: Atracação\nData/Hora: 01/11/26 22:21\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: WILSON SONS **",
+  "EVMAR | 01/11/26 | 22:21 | EA | 103/NORTE": "Navio: EVMAR\nManobra: Atracação\nData/Hora: 01/11/26 22:21\nDe: BOIA 19-24\nPara/Berço: 103/NORTE\nAgência: CARGONAVE**",
+  "FORTE DE SAO JOSE | 01/11/26 | 23:06 | EA | ALUMAR 2": "Navio: FORTE DE SAO JOSE\nManobra: Atracação\nData/Hora: 01/11/26 23:06\nDe: BOIA 19-24\nPara/Berço: ALUMAR 2\nAgência: ORION RODOS**"
 }
