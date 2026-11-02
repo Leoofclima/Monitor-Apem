@@ -14813,3 +14813,131 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[02/11/2026 15:27:13] NOVA MANOBRA:
+Navio: AKRA
+Manobra: Atracação
+Data/Hora: 02/11/26 18:40
+De: BOIA 19-24
+Para/Berço: 100
+Agência: ALPHAMAR**
+--------------------------------------------------
+[02/11/2026 15:27:13] NOVA MANOBRA:
+Navio: SEA CAELUM
+Manobra: Atracação
+Data/Hora: 02/11/26 18:40
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: NORTH STAR**
+--------------------------------------------------
+[02/11/2026 15:27:13] NOVA MANOBRA:
+Navio: HONESTY
+Manobra: Desatracação
+Data/Hora: 02/11/26 18:40
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[02/11/2026 15:27:13] NOVA MANOBRA:
+Navio: AQUAVICTORY
+Manobra: Atracação
+Data/Hora: 02/11/26 19:10
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[02/11/2026 15:27:13] NOVA MANOBRA:
+Navio: CRIMSON KINGDOM
+Manobra: Atracação
+Data/Hora: 02/11/26 19:10
+De: BOIA 19-24
+Para/Berço: 105
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[02/11/2026 15:27:13] NOVA MANOBRA:
+Navio: PACIFIC EXPRESS
+Manobra: Atracação
+Data/Hora: 02/11/26 19:10
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[02/11/2026 15:27:13] NOVA MANOBRA:
+Navio: GLOBAL DREAM
+Manobra: Desatracação
+Data/Hora: 02/11/26 19:10
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[02/11/2026 15:27:13] NOVA MANOBRA:
+Navio: MANNA
+Manobra: Desatracação
+Data/Hora: 02/11/26 19:40
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[02/11/2026 15:27:13] NOVA MANOBRA:
+Navio: FORTE DE SAO JOSE
+Manobra: Desatracação
+Data/Hora: 02/11/26 23:57
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[02/11/2026 15:27:13] NOVA MANOBRA:
+Navio: BANGLAR JOYJATRA
+Manobra: Atracação
+Data/Hora: 03/11/26 00:27
+De: BOIA 19-24
+Para/Berço: ALUMAR 2
+Agência: GEM**
+--------------------------------------------------
+[02/11/2026 15:27:13] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SEA VICTORIA
+Manobra: Atracação
+Data/Hora: 02/11/26 13:41 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[02/11/2026 15:27:13] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: GREAT INTELLIGENCE
+Manobra: Desatracação
+Data/Hora: 02/11/26 07:19
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[02/11/2026 15:27:13] MANOBRA CONCLUÍDA (navio atracou):
+Navio: OCEANLADY
+Manobra: Atracação
+Data/Hora: 02/11/26 09:19 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 101/SUL
+Agência: WILSON SONS **
+--------------------------------------------------
+[02/11/2026 15:27:13] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SEA QINGDAO
+Manobra: Desatracação
+Data/Hora: 02/11/26 11:19
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[02/11/2026 15:27:13] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FLUMAR BRASIL
+Manobra: Desatracação
+Data/Hora: 02/11/26 12:19
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[02/11/2026 15:27:13] MANOBRA CONCLUÍDA (navio atracou):
+Navio: DARCY RIBEIRO
+Manobra: Atracação
+Data/Hora: 02/11/26 13:50 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------

@@ -1,8 +1,12 @@
 {
-  "SEA VICTORIA | 31/10/26 | 11:19 | EA | PIER 1": "Navio: SEA VICTORIA\nManobra: Atracação\nData/Hora: 31/10/26 11:19\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: LMA SHIPPING **",
-  "GREAT INTELLIGENCE | 02/11/26 | 07:19 | DS | ILHA DO MEDO": "Navio: GREAT INTELLIGENCE\nManobra: Desatracação\nData/Hora: 02/11/26 07:19\nDe: 101/SUL\nPara/Berço: ILHA DO MEDO\nAgência: ALPHAMAR**",
-  "OCEANLADY | 02/11/26 | 07:19 | EA | 101/SUL": "Navio: OCEANLADY\nManobra: Atracação\nData/Hora: 02/11/26 07:19\nDe: PONTO ALPHA\nPara/Berço: 101/SUL\nAgência: WILSON SONS **",
-  "SEA QINGDAO | 02/11/26 | 11:19 | DS | ILHA DO MEDO": "Navio: SEA QINGDAO\nManobra: Desatracação\nData/Hora: 02/11/26 11:19\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
-  "FLUMAR BRASIL | 02/11/26 | 12:19 | DS | ILHA DO MEDO": "Navio: FLUMAR BRASIL\nManobra: Desatracação\nData/Hora: 02/11/26 12:19\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "DARCY RIBEIRO | 02/11/26 | 12:19 | EA | 104": "Navio: DARCY RIBEIRO\nManobra: Atracação\nData/Hora: 02/11/26 12:19\nDe: BOIA 19-24\nPara/Berço: 104\nAgência: WILHELMSEN PORT**"
+  "AKRA | 02/11/26 | 18:40 | EA | 100": "Navio: AKRA\nManobra: Atracação\nData/Hora: 02/11/26 18:40\nDe: BOIA 19-24\nPara/Berço: 100\nAgência: ALPHAMAR**",
+  "SEA CAELUM | 02/11/26 | 18:40 | EA | 106": "Navio: SEA CAELUM\nManobra: Atracação\nData/Hora: 02/11/26 18:40\nDe: PONTO ALPHA\nPara/Berço: 106\nAgência: NORTH STAR**",
+  "HONESTY | 02/11/26 | 18:40 | DS | ILHA DO MEDO": "Navio: HONESTY\nManobra: Desatracação\nData/Hora: 02/11/26 18:40\nDe: 106\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "AQUAVICTORY | 02/11/26 | 19:10 | EA | PIER 3 SUL": "Navio: AQUAVICTORY\nManobra: Atracação\nData/Hora: 02/11/26 19:10\nDe: PONTO ALPHA\nPara/Berço: PIER 3 SUL\nAgência: LMA SHIPPING **",
+  "CRIMSON KINGDOM | 02/11/26 | 19:10 | EA | 105": "Navio: CRIMSON KINGDOM\nManobra: Atracação\nData/Hora: 02/11/26 19:10\nDe: BOIA 19-24\nPara/Berço: 105\nAgência: FERTIMPORT - S.L **",
+  "PACIFIC EXPRESS | 02/11/26 | 19:10 | EA | PIER 4 NORTE": "Navio: PACIFIC EXPRESS\nManobra: Atracação\nData/Hora: 02/11/26 19:10\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE\nAgência: WILHELMSEN PORT**",
+  "GLOBAL DREAM | 02/11/26 | 19:10 | DS | ILHA DO MEDO": "Navio: GLOBAL DREAM\nManobra: Desatracação\nData/Hora: 02/11/26 19:10\nDe: PIER 3 SUL\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
+  "MANNA | 02/11/26 | 19:40 | DS | ILHA DO MEDO": "Navio: MANNA\nManobra: Desatracação\nData/Hora: 02/11/26 19:40\nDe: 105\nPara/Berço: ILHA DO MEDO\nAgência: FERTIMPORT - S.L **",
+  "FORTE DE SAO JOSE | 02/11/26 | 23:57 | DS | ILHA DO MEDO": "Navio: FORTE DE SAO JOSE\nManobra: Desatracação\nData/Hora: 02/11/26 23:57\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
+  "BANGLAR JOYJATRA | 03/11/26 | 00:27 | EA | ALUMAR 2": "Navio: BANGLAR JOYJATRA\nManobra: Atracação\nData/Hora: 03/11/26 00:27\nDe: BOIA 19-24\nPara/Berço: ALUMAR 2\nAgência: GEM**"
 }
