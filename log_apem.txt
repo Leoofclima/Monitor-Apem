@@ -15121,3 +15121,43 @@ De: PONTO ALPHA
 Para/Berço: PIER 4 SUL
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[03/11/2026 18:13:57] NOVA MANOBRA:
+Navio: SV WAKILI
+Manobra: Atracação
+Data/Hora: 03/11/26 19:59
+De: PONTO ALPHA
+Para/Berço: 104
+Agência: ISS**
+--------------------------------------------------
+[03/11/2026 18:13:57] NOVA MANOBRA:
+Navio: DARCY RIBEIRO
+Manobra: Desatracação
+Data/Hora: 03/11/26 20:29
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[03/11/2026 18:13:57] NOVA MANOBRA:
+Navio: STENA CONQUEST
+Manobra: Atracação
+Data/Hora: 04/11/26 08:40
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: ISS**
+--------------------------------------------------
+[03/11/2026 18:13:57] MANOBRA CONCLUÍDA (navio atracou):
+Navio: TRUE CORSAIR
+Manobra: Atracação
+Data/Hora: 03/11/26 13:59 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[03/11/2026 18:13:57] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BANGLAR JOYJATRA
+Manobra: Atracação
+Data/Hora: 03/11/26 15:15 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 2
+Agência: GEM**
+--------------------------------------------------
