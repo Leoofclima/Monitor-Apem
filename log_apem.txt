@@ -15079,3 +15079,45 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 1
 Agência: WILLIAMS**
 --------------------------------------------------
+[03/11/2026 12:38:18] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: TRUE CORSAIR
+Manobra: Atracação
+Berço: PIER 3 NORTE
+Antes: 03/11/26 08:02
+Agora: 03/11/26 12:34
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[03/11/2026 12:38:18] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: YU ZHONG HAI
+Manobra: Desatracação
+Data/Hora: 03/11/26 07:32
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[03/11/2026 12:38:18] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ISABELLA M II
+Manobra: Atracação
+Data/Hora: 03/11/26 10:10 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 108 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[03/11/2026 12:38:18] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: CAPE WISTERIA
+Manobra: Desatracação
+Data/Hora: 03/11/26 08:02
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[03/11/2026 12:38:18] MANOBRA CONCLUÍDA (navio atracou):
+Navio: STELLAR CROWN
+Manobra: Atracação
+Data/Hora: 03/11/26 10:55 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
