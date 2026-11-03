@@ -14991,3 +14991,91 @@ De: 105
 Para/Berço: ILHA DO MEDO
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[03/11/2026 04:51:55] NOVA MANOBRA:
+Navio: YU ZHONG HAI
+Manobra: Desatracação
+Data/Hora: 03/11/26 07:32
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[03/11/2026 04:51:55] NOVA MANOBRA:
+Navio: ISABELLA M II
+Manobra: Atracação
+Data/Hora: 03/11/26 07:32
+De: BOIA 19-24
+Para/Berço: 108 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[03/11/2026 04:51:55] NOVA MANOBRA:
+Navio: CAPE WISTERIA
+Manobra: Desatracação
+Data/Hora: 03/11/26 08:02
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[03/11/2026 04:51:55] NOVA MANOBRA:
+Navio: TRUE CORSAIR
+Manobra: Atracação
+Data/Hora: 03/11/26 08:02
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[03/11/2026 04:51:55] NOVA MANOBRA:
+Navio: STELLAR CROWN
+Manobra: Atracação
+Data/Hora: 03/11/26 08:02
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[03/11/2026 04:51:55] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AKRA
+Manobra: Atracação
+Data/Hora: 02/11/26 20:40 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 100
+Agência: ALPHAMAR**
+--------------------------------------------------
+[03/11/2026 04:51:55] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SEA CAELUM
+Manobra: Atracação
+Data/Hora: 02/11/26 20:20 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: NORTH STAR**
+--------------------------------------------------
+[03/11/2026 04:51:55] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CRIMSON KINGDOM
+Manobra: Atracação
+Data/Hora: 02/11/26 21:00 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[03/11/2026 04:51:55] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PACIFIC EXPRESS
+Manobra: Atracação
+Data/Hora: 02/11/26 22:20 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[03/11/2026 04:51:55] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FORTE DE SAO JOSE
+Manobra: Desatracação
+Data/Hora: 02/11/26 23:57
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[03/11/2026 04:51:55] MANOBRA CONCLUÍDA (navio atracou):
+Navio: FEDERAL POWER
+Manobra: Atracação
+Data/Hora: 03/11/26 02:30 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: WILLIAMS**
+--------------------------------------------------
