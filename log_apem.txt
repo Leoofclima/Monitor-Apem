@@ -14941,3 +14941,53 @@ De: BOIA 19-24
 Para/Berço: 104
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[02/11/2026 22:08:36] NOVA MANOBRA:
+Navio: FEDERAL POWER
+Manobra: Atracação
+Data/Hora: 03/11/26 00:27
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: WILLIAMS**
+--------------------------------------------------
+[02/11/2026 22:08:36] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: BANGLAR JOYJATRA
+Manobra: Atracação
+Berço: ALUMAR 2
+Antes: 03/11/26 00:27
+Agora: 03/11/26 13:19
+Agência: GEM**
+--------------------------------------------------
+[02/11/2026 22:08:36] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: HONESTY
+Manobra: Desatracação
+Data/Hora: 02/11/26 18:40
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[02/11/2026 22:08:36] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AQUAVICTORY
+Manobra: Atracação
+Data/Hora: 02/11/26 21:34 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[02/11/2026 22:08:36] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: GLOBAL DREAM
+Manobra: Desatracação
+Data/Hora: 02/11/26 19:10
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[02/11/2026 22:08:36] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: MANNA
+Manobra: Desatracação
+Data/Hora: 02/11/26 19:40
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
