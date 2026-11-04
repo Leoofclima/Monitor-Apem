@@ -15249,3 +15249,75 @@ De: ALUMAR 2
 Para/Berço: ALUMAR 2
 Agência: GEM**
 --------------------------------------------------
+[04/11/2026 12:47:14] NOVA MANOBRA:
+Navio: BANGLAR JOYJATRA
+Manobra: Desatracação
+Data/Hora: 04/11/26 13:53
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[04/11/2026 12:47:14] NOVA MANOBRA:
+Navio: PEPPINO
+Manobra: Atracação
+Data/Hora: 04/11/26 14:23
+De: BOIA 19-24
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[04/11/2026 12:47:14] NOVA MANOBRA:
+Navio: ISABELLA M II
+Manobra: Desatracação
+Data/Hora: 04/11/26 21:10
+De: 108 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[04/11/2026 12:47:14] MANOBRA CONCLUÍDA (navio atracou):
+Navio: STENA CONQUEST
+Manobra: Atracação
+Data/Hora: 04/11/26 10:35 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: ISS**
+--------------------------------------------------
+[04/11/2026 12:47:14] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SEA CAELUM
+Manobra: Desatracação
+Data/Hora: 04/11/26 08:40
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[04/11/2026 12:47:14] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SEA VICTORIA
+Manobra: Desatracação
+Data/Hora: 04/11/26 09:10
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[04/11/2026 12:47:14] MANOBRA CONCLUÍDA (navio atracou):
+Navio: HAIZHU FLOURISH
+Manobra: Atracação
+Data/Hora: 04/11/26 11:21 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[04/11/2026 12:47:14] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ARISTA
+Manobra: Atracação
+Data/Hora: 04/11/26 11:00 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[04/11/2026 12:47:14] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: EVMAR
+Manobra: Desatracação
+Data/Hora: 04/11/26 09:40
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: CARGONAVE**
+--------------------------------------------------
