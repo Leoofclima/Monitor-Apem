@@ -15201,3 +15201,51 @@ De: 104
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[04/11/2026 04:41:10] NOVA MANOBRA:
+Navio: SEA VICTORIA
+Manobra: Desatracação
+Data/Hora: 04/11/26 09:10
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[04/11/2026 04:41:10] NOVA MANOBRA:
+Navio: HAIZHU FLOURISH
+Manobra: Atracação
+Data/Hora: 04/11/26 09:10
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[04/11/2026 04:41:10] NOVA MANOBRA:
+Navio: ARISTA
+Manobra: Atracação
+Data/Hora: 04/11/26 09:10
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[04/11/2026 04:41:10] NOVA MANOBRA:
+Navio: CAPE GARNET
+Manobra: Atracação
+Data/Hora: 04/11/26 13:38
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LBH BRASIL**
+--------------------------------------------------
+[04/11/2026 04:41:10] NOVA MANOBRA:
+Navio: AQUAVICTORY
+Manobra: Desatracação
+Data/Hora: 04/11/26 13:38
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[04/11/2026 04:41:10] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BANGLAR JOYJATRA
+Manobra: SH
+Data/Hora: 03/11/26 15:15 (horário real de atracação)
+De: ALUMAR 2
+Para/Berço: ALUMAR 2
+Agência: GEM**
+--------------------------------------------------
