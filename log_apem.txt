@@ -15161,3 +15161,43 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 2
 Agência: GEM**
 --------------------------------------------------
+[03/11/2026 22:24:51] NOVA MANOBRA:
+Navio: BANGLAR JOYJATRA
+Manobra: SH
+Data/Hora: 04/11/26 01:12
+De: ALUMAR 2
+Para/Berço: ALUMAR 2
+Agência: GEM**
+--------------------------------------------------
+[03/11/2026 22:24:51] NOVA MANOBRA:
+Navio: SEA CAELUM
+Manobra: Desatracação
+Data/Hora: 04/11/26 08:40
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[03/11/2026 22:24:51] NOVA MANOBRA:
+Navio: EVMAR
+Manobra: Desatracação
+Data/Hora: 04/11/26 09:40
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: CARGONAVE**
+--------------------------------------------------
+[03/11/2026 22:24:51] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SV WAKILI
+Manobra: Atracação
+Data/Hora: 03/11/26 22:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 104
+Agência: ISS**
+--------------------------------------------------
+[03/11/2026 22:24:51] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: DARCY RIBEIRO
+Manobra: Desatracação
+Data/Hora: 03/11/26 20:29
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------

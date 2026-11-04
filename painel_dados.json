@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/11/2026 18:13:58",
+  "atualizado_em": "03/11/2026 22:24:52",
   "base": {
     "lat": -2.66098123540369,
     "lon": -44.356990008636686,
@@ -16,7 +16,21 @@
       "lon": -44.085333,
       "data_fundeio": "31/10/26",
       "hora_fundeio": "20:00",
-      "tempo_fundeado_horas": 70.2,
+      "tempo_fundeado_horas": 74.4,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null
+    },
+    {
+      "area": "AREA 2",
+      "nome": "HAIZHU FLOURISH",
+      "bandeira": "SINGAPURA",
+      "imo": "9917701",
+      "agencia": "LMA SHIPPING **",
+      "lat": -2.0785,
+      "lon": -44.099833,
+      "data_fundeio": "03/11/26",
+      "hora_fundeio": "19:04",
+      "tempo_fundeado_horas": 3.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -30,7 +44,7 @@
       "lon": -44.150167,
       "data_fundeio": "21/10/26",
       "hora_fundeio": "12:36",
-      "tempo_fundeado_horas": 317.6,
+      "tempo_fundeado_horas": 321.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -44,7 +58,7 @@
       "lon": -44.1535,
       "data_fundeio": "28/10/26",
       "hora_fundeio": "14:00",
-      "tempo_fundeado_horas": 148.2,
+      "tempo_fundeado_horas": 152.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -58,7 +72,7 @@
       "lon": -44.164167,
       "data_fundeio": "29/10/26",
       "hora_fundeio": "00:34",
-      "tempo_fundeado_horas": 137.7,
+      "tempo_fundeado_horas": 141.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -72,23 +86,9 @@
       "lon": -44.159833,
       "data_fundeio": "30/10/26",
       "hora_fundeio": "01:10",
-      "tempo_fundeado_horas": 113.1,
+      "tempo_fundeado_horas": 117.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
-    },
-    {
-      "area": "AREA 3",
-      "nome": "SV WAKILI",
-      "bandeira": "LIBERIA",
-      "imo": "9590711",
-      "agencia": "ISS**",
-      "lat": -2.154833,
-      "lon": -44.149167,
-      "data_fundeio": "01/11/26",
-      "hora_fundeio": "11:15",
-      "tempo_fundeado_horas": 55.0,
-      "previsao_atracacao": "03/11/2026 19:59",
-      "tempo_restante_horas": 1.8
     },
     {
       "area": "AREA 3",
@@ -100,9 +100,9 @@
       "lon": -44.166333,
       "data_fundeio": "01/11/26",
       "hora_fundeio": "12:48",
-      "tempo_fundeado_horas": 53.4,
+      "tempo_fundeado_horas": 57.6,
       "previsao_atracacao": "04/11/2026 08:40",
-      "tempo_restante_horas": 14.4
+      "tempo_restante_horas": 10.3
     },
     {
       "area": "AREA 4",
@@ -114,7 +114,7 @@
       "lon": -44.231833,
       "data_fundeio": "19/10/26",
       "hora_fundeio": "12:16",
-      "tempo_fundeado_horas": 366.0,
+      "tempo_fundeado_horas": 370.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -128,7 +128,7 @@
       "lon": -44.272,
       "data_fundeio": "25/10/26",
       "hora_fundeio": "05:37",
-      "tempo_fundeado_horas": 228.6,
+      "tempo_fundeado_horas": 232.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -142,7 +142,7 @@
       "lon": -44.2545,
       "data_fundeio": "29/10/26",
       "hora_fundeio": "12:00",
-      "tempo_fundeado_horas": 126.2,
+      "tempo_fundeado_horas": 130.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -156,7 +156,7 @@
       "lon": -44.281667,
       "data_fundeio": "31/10/26",
       "hora_fundeio": "04:18",
-      "tempo_fundeado_horas": 85.9,
+      "tempo_fundeado_horas": 90.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -170,7 +170,7 @@
       "lon": -44.305833,
       "data_fundeio": "31/10/26",
       "hora_fundeio": "13:08",
-      "tempo_fundeado_horas": 77.1,
+      "tempo_fundeado_horas": 81.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -184,7 +184,7 @@
       "lon": -44.272167,
       "data_fundeio": "31/10/26",
       "hora_fundeio": "17:21",
-      "tempo_fundeado_horas": 72.9,
+      "tempo_fundeado_horas": 77.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -198,7 +198,7 @@
       "lon": -44.246333,
       "data_fundeio": "01/11/26",
       "hora_fundeio": "07:00",
-      "tempo_fundeado_horas": 59.2,
+      "tempo_fundeado_horas": 63.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -212,7 +212,7 @@
       "lon": -44.267833,
       "data_fundeio": "03/11/26",
       "hora_fundeio": "04:19",
-      "tempo_fundeado_horas": 13.9,
+      "tempo_fundeado_horas": 18.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -226,7 +226,7 @@
       "lon": -44.215333,
       "data_fundeio": "03/11/26",
       "hora_fundeio": "07:00",
-      "tempo_fundeado_horas": 11.2,
+      "tempo_fundeado_horas": 15.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -240,7 +240,7 @@
       "lon": -44.332833,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "02:37",
-      "tempo_fundeado_horas": 255.6,
+      "tempo_fundeado_horas": 259.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -254,7 +254,7 @@
       "lon": -44.355,
       "data_fundeio": "29/10/26",
       "hora_fundeio": "04:26",
-      "tempo_fundeado_horas": 133.8,
+      "tempo_fundeado_horas": 138.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -268,7 +268,7 @@
       "lon": -44.353333,
       "data_fundeio": "30/10/26",
       "hora_fundeio": "00:08",
-      "tempo_fundeado_horas": 114.1,
+      "tempo_fundeado_horas": 118.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -282,7 +282,7 @@
       "lon": -44.345167,
       "data_fundeio": "31/10/26",
       "hora_fundeio": "10:05",
-      "tempo_fundeado_horas": 80.1,
+      "tempo_fundeado_horas": 84.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -296,7 +296,7 @@
       "lon": -44.3155,
       "data_fundeio": "01/11/26",
       "hora_fundeio": "18:42",
-      "tempo_fundeado_horas": 47.5,
+      "tempo_fundeado_horas": 51.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -310,7 +310,7 @@
       "lon": -44.347333,
       "data_fundeio": "02/11/26",
       "hora_fundeio": "13:18",
-      "tempo_fundeado_horas": 28.9,
+      "tempo_fundeado_horas": 33.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -324,7 +324,7 @@
       "lon": null,
       "data_fundeio": "29/10/26",
       "hora_fundeio": "16:15",
-      "tempo_fundeado_horas": 122.0,
+      "tempo_fundeado_horas": 126.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     }
@@ -340,9 +340,9 @@
       "lon": -44.166333,
       "data_fundeio": "01/11/26",
       "hora_fundeio": "12:48",
-      "tempo_fundeado_horas": 53.4,
+      "tempo_fundeado_horas": 57.6,
       "previsao_atracacao": "04/11/2026 08:40",
-      "tempo_restante_horas": 14.4,
+      "tempo_restante_horas": 10.3,
       "ordem": 1,
       "distancia_trecho_km": 59.9
     },
@@ -356,7 +356,7 @@
       "lon": -44.164167,
       "data_fundeio": "29/10/26",
       "hora_fundeio": "00:34",
-      "tempo_fundeado_horas": 137.7,
+      "tempo_fundeado_horas": 141.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 2,
@@ -372,7 +372,7 @@
       "lon": -44.150167,
       "data_fundeio": "21/10/26",
       "hora_fundeio": "12:36",
-      "tempo_fundeado_horas": 317.6,
+      "tempo_fundeado_horas": 321.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 3,
@@ -388,7 +388,7 @@
       "lon": -44.159833,
       "data_fundeio": "30/10/26",
       "hora_fundeio": "01:10",
-      "tempo_fundeado_horas": 113.1,
+      "tempo_fundeado_horas": 117.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 4,
@@ -404,11 +404,27 @@
       "lon": -44.1535,
       "data_fundeio": "28/10/26",
       "hora_fundeio": "14:00",
-      "tempo_fundeado_horas": 148.2,
+      "tempo_fundeado_horas": 152.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 5,
       "distancia_trecho_km": 4.1
+    },
+    {
+      "area": "AREA 2",
+      "nome": "HAIZHU FLOURISH",
+      "bandeira": "SINGAPURA",
+      "imo": "9917701",
+      "agencia": "LMA SHIPPING **",
+      "lat": -2.0785,
+      "lon": -44.099833,
+      "data_fundeio": "03/11/26",
+      "hora_fundeio": "19:04",
+      "tempo_fundeado_horas": 3.3,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null,
+      "ordem": 6,
+      "distancia_trecho_km": 11.8
     },
     {
       "area": "AREA 2",
@@ -420,11 +436,11 @@
       "lon": -44.085333,
       "data_fundeio": "31/10/26",
       "hora_fundeio": "20:00",
-      "tempo_fundeado_horas": 70.2,
+      "tempo_fundeado_horas": 74.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 6,
-      "distancia_trecho_km": 13.3
+      "ordem": 7,
+      "distancia_trecho_km": 1.8
     },
     {
       "area": "AREA 4",
@@ -436,10 +452,10 @@
       "lon": -44.215333,
       "data_fundeio": "03/11/26",
       "hora_fundeio": "07:00",
-      "tempo_fundeado_horas": 11.2,
+      "tempo_fundeado_horas": 15.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 7,
+      "ordem": 8,
       "distancia_trecho_km": 37.9
     },
     {
@@ -452,10 +468,10 @@
       "lon": -44.231833,
       "data_fundeio": "19/10/26",
       "hora_fundeio": "12:16",
-      "tempo_fundeado_horas": 366.0,
+      "tempo_fundeado_horas": 370.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 8,
+      "ordem": 9,
       "distancia_trecho_km": 1.9
     },
     {
@@ -468,10 +484,10 @@
       "lon": -44.246333,
       "data_fundeio": "01/11/26",
       "hora_fundeio": "07:00",
-      "tempo_fundeado_horas": 59.2,
+      "tempo_fundeado_horas": 63.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 9,
+      "ordem": 10,
       "distancia_trecho_km": 2.4
     },
     {
@@ -484,10 +500,10 @@
       "lon": -44.2545,
       "data_fundeio": "29/10/26",
       "hora_fundeio": "12:00",
-      "tempo_fundeado_horas": 126.2,
+      "tempo_fundeado_horas": 130.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 10,
+      "ordem": 11,
       "distancia_trecho_km": 2.5
     },
     {
@@ -500,10 +516,10 @@
       "lon": -44.272,
       "data_fundeio": "25/10/26",
       "hora_fundeio": "05:37",
-      "tempo_fundeado_horas": 228.6,
+      "tempo_fundeado_horas": 232.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 11,
+      "ordem": 12,
       "distancia_trecho_km": 2.0
     },
     {
@@ -516,10 +532,10 @@
       "lon": -44.281667,
       "data_fundeio": "31/10/26",
       "hora_fundeio": "04:18",
-      "tempo_fundeado_horas": 85.9,
+      "tempo_fundeado_horas": 90.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 12,
+      "ordem": 13,
       "distancia_trecho_km": 1.1
     },
     {
@@ -532,10 +548,10 @@
       "lon": -44.272167,
       "data_fundeio": "31/10/26",
       "hora_fundeio": "17:21",
-      "tempo_fundeado_horas": 72.9,
+      "tempo_fundeado_horas": 77.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 13,
+      "ordem": 14,
       "distancia_trecho_km": 2.7
     },
     {
@@ -548,10 +564,10 @@
       "lon": -44.267833,
       "data_fundeio": "03/11/26",
       "hora_fundeio": "04:19",
-      "tempo_fundeado_horas": 13.9,
+      "tempo_fundeado_horas": 18.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 14,
+      "ordem": 15,
       "distancia_trecho_km": 2.6
     },
     {
@@ -564,10 +580,10 @@
       "lon": -44.3155,
       "data_fundeio": "01/11/26",
       "hora_fundeio": "18:42",
-      "tempo_fundeado_horas": 47.5,
+      "tempo_fundeado_horas": 51.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 15,
+      "ordem": 16,
       "distancia_trecho_km": 6.6
     },
     {
@@ -580,10 +596,10 @@
       "lon": -44.332833,
       "data_fundeio": "24/10/26",
       "hora_fundeio": "02:37",
-      "tempo_fundeado_horas": 255.6,
+      "tempo_fundeado_horas": 259.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 16,
+      "ordem": 17,
       "distancia_trecho_km": 2.5
     },
     {
@@ -596,10 +612,10 @@
       "lon": -44.347333,
       "data_fundeio": "02/11/26",
       "hora_fundeio": "13:18",
-      "tempo_fundeado_horas": 28.9,
+      "tempo_fundeado_horas": 33.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 17,
+      "ordem": 18,
       "distancia_trecho_km": 2.4
     },
     {
@@ -612,10 +628,10 @@
       "lon": -44.345167,
       "data_fundeio": "31/10/26",
       "hora_fundeio": "10:05",
-      "tempo_fundeado_horas": 80.1,
+      "tempo_fundeado_horas": 84.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 18,
+      "ordem": 19,
       "distancia_trecho_km": 0.9
     },
     {
@@ -628,10 +644,10 @@
       "lon": -44.353333,
       "data_fundeio": "30/10/26",
       "hora_fundeio": "00:08",
-      "tempo_fundeado_horas": 114.1,
+      "tempo_fundeado_horas": 118.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 19,
+      "ordem": 20,
       "distancia_trecho_km": 1.4
     },
     {
@@ -644,10 +660,10 @@
       "lon": -44.355,
       "data_fundeio": "29/10/26",
       "hora_fundeio": "04:26",
-      "tempo_fundeado_horas": 133.8,
+      "tempo_fundeado_horas": 138.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 20,
+      "ordem": 21,
       "distancia_trecho_km": 2.2
     },
     {
@@ -660,27 +676,12 @@
       "lon": -44.305833,
       "data_fundeio": "31/10/26",
       "hora_fundeio": "13:08",
-      "tempo_fundeado_horas": 77.1,
+      "tempo_fundeado_horas": 81.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 21,
+      "ordem": 22,
       "distancia_trecho_km": 6.2
     }
   ],
-  "navios_atracando_em_breve": [
-    {
-      "area": "AREA 3",
-      "nome": "SV WAKILI",
-      "bandeira": "LIBERIA",
-      "imo": "9590711",
-      "agencia": "ISS**",
-      "lat": -2.154833,
-      "lon": -44.149167,
-      "data_fundeio": "01/11/26",
-      "hora_fundeio": "11:15",
-      "tempo_fundeado_horas": 55.0,
-      "previsao_atracacao": "03/11/2026 19:59",
-      "tempo_restante_horas": 1.8
-    }
-  ]
+  "navios_atracando_em_breve": []
 }
