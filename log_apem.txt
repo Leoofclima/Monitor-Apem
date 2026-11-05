@@ -15409,3 +15409,37 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[04/11/2026 22:44:43] NOVA MANOBRA:
+Navio: TAZ
+Manobra: Atracação
+Data/Hora: 05/11/26 03:47
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
+[04/11/2026 22:44:43] NOVA MANOBRA:
+Navio: AVON
+Manobra: Desatracação
+Data/Hora: 05/11/26 09:40
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[04/11/2026 22:44:43] NOVA MANOBRA:
+Navio: CRIMSON KINGDOM
+Manobra: Desatracação
+Data/Hora: 05/11/26 10:40
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[04/11/2026 22:44:43] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: DE MING HAI
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 05/11/26 03:32
+Agora: 05/11/26 10:10
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
