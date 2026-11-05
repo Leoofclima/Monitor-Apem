@@ -15443,3 +15443,63 @@ Antes: 05/11/26 03:32
 Agora: 05/11/26 10:10
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[05/11/2026 05:32:05] NOVA MANOBRA:
+Navio: ISABELLA M II
+Manobra: Atracação
+Data/Hora: 05/11/26 09:40
+De: BOIA 19-24
+Para/Berço: 108
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[05/11/2026 05:32:05] NOVA MANOBRA:
+Navio: STELLAR CROWN
+Manobra: Desatracação
+Data/Hora: 05/11/26 10:10
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[05/11/2026 05:32:05] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: ROBUSTA
+Manobra: Atracação
+Berço: 99
+Antes: 05/11/26 03:32
+Agora: 05/11/26 09:40
+Agência: WILSON SONS **
+--------------------------------------------------
+[05/11/2026 05:32:05] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: PACIFIC EXPRESS
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 05/11/26 02:32
+Agora: 05/11/26 10:10
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[05/11/2026 05:32:05] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ISABELLA M II
+Manobra: Desatracação
+Data/Hora: 04/11/26 21:10
+De: 108 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[05/11/2026 05:32:05] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AKRA
+Manobra: Desatracação
+Data/Hora: 04/11/26 21:40
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[05/11/2026 05:32:05] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FEDERAL POWER
+Manobra: Desatracação
+Data/Hora: 05/11/26 03:17
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: WILLIAMS**
+--------------------------------------------------
