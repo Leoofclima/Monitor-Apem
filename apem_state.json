@@ -1,12 +1,11 @@
 {
-  "TAZ | 05/11/26 | 03:47 | EA | ALUMAR 1": "Navio: TAZ\nManobra: Atracação\nData/Hora: 05/11/26 03:47\nDe: BOIA 19-24\nPara/Berço: ALUMAR 1\nAgência: GEM**",
-  "MINERVA | 05/11/26 | 06:00 | EF | AREA 7B.1": "Navio: MINERVA\nManobra: EF\nData/Hora: 05/11/26 06:00\nDe: BOIA 19-24\nPara/Berço: AREA 7B.1\nAgência: S.A.O. MARITIME **",
-  "KONTA III | 05/11/26 | 07:20 | EA | PLATAFORMA 1": "Navio: KONTA III\nManobra: Atracação\nData/Hora: 05/11/26 07:20\nDe: PTO EMBARQUE LC\nPara/Berço: PLATAFORMA 1\nAgência: GEM - PARNAIBA",
-  "ISABELLA M II | 05/11/26 | 09:40 | EA | 108": "Navio: ISABELLA M II\nManobra: Atracação\nData/Hora: 05/11/26 09:40\nDe: BOIA 19-24\nPara/Berço: 108\nAgência: WILHELMSEN PORT**",
-  "AVON | 05/11/26 | 09:40 | DS | ILHA DO MEDO": "Navio: AVON\nManobra: Desatracação\nData/Hora: 05/11/26 09:40\nDe: 108\nPara/Berço: ILHA DO MEDO\nAgência: NORTH STAR**",
-  "ROBUSTA | 05/11/26 | 09:40 | EA | 99": "Navio: ROBUSTA\nManobra: Atracação\nData/Hora: 05/11/26 09:40\nDe: BOIA 19-24\nPara/Berço: 99\nAgência: WILSON SONS **",
-  "PACIFIC EXPRESS | 05/11/26 | 10:10 | DS | ILHA DO MEDO": "Navio: PACIFIC EXPRESS\nManobra: Desatracação\nData/Hora: 05/11/26 10:10\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "STELLAR CROWN | 05/11/26 | 10:10 | DS | ILHA DO MEDO": "Navio: STELLAR CROWN\nManobra: Desatracação\nData/Hora: 05/11/26 10:10\nDe: PIER 4 SUL\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "DE MING HAI | 05/11/26 | 10:10 | DS | ILHA DO MEDO": "Navio: DE MING HAI\nManobra: Desatracação\nData/Hora: 05/11/26 10:10\nDe: 99\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "CRIMSON KINGDOM | 05/11/26 | 10:40 | DS | ILHA DO MEDO": "Navio: CRIMSON KINGDOM\nManobra: Desatracação\nData/Hora: 05/11/26 10:40\nDe: 105\nPara/Berço: ILHA DO MEDO\nAgência: FERTIMPORT - S.L **"
+  "STELLAR CROWN | 05/11/26 | 14:31 | DS | ILHA DO MEDO": "Navio: STELLAR CROWN\nManobra: Desatracação\nData/Hora: 05/11/26 14:31\nDe: PIER 4 SUL\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "PEPPINO | 05/11/26 | 14:46 | DS | ILHA DO MEDO": "Navio: PEPPINO\nManobra: Desatracação\nData/Hora: 05/11/26 14:46\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
+  "MINERVA | 05/11/26 | 15:00 | DG | PIER 4 NORTE": "Navio: MINERVA\nManobra: DG\nData/Hora: 05/11/26 15:00\nDe: AREA 7B.1\nPara/Berço: PIER 4 NORTE\nAgência: S.A.O. MARITIME **",
+  "OSLO TRADER | 05/11/26 | 15:16 | EA | ALUMAR 2": "Navio: OSLO TRADER\nManobra: Atracação\nData/Hora: 05/11/26 15:16\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 2\nAgência: GEM**",
+  "ROBUSTA | 05/11/26 | 22:06 | EA | 99": "Navio: ROBUSTA\nManobra: Atracação\nData/Hora: 05/11/26 22:06\nDe: BOIA 19-24\nPara/Berço: 99\nAgência: WILSON SONS **",
+  "BERGE MULHACEN | 05/11/26 | 22:36 | EA | PIER 3 SUL": "Navio: BERGE MULHACEN\nManobra: Atracação\nData/Hora: 05/11/26 22:36\nDe: PONTO ALPHA\nPara/Berço: PIER 3 SUL\nAgência: ISS**",
+  "DE MING HAI | 05/11/26 | 22:36 | DS | ILHA DO MEDO": "Navio: DE MING HAI\nManobra: Desatracação\nData/Hora: 05/11/26 22:36\nDe: 99\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "CAPE GARNET | 05/11/26 | 22:36 | DS | ILHA DO MEDO": "Navio: CAPE GARNET\nManobra: Desatracação\nData/Hora: 05/11/26 22:36\nDe: PIER 3 SUL\nPara/Berço: ILHA DO MEDO\nAgência: LBH BRASIL**",
+  "CRIMSON KINGDOM | 05/11/26 | 23:06 | DS | ILHA DO MEDO": "Navio: CRIMSON KINGDOM\nManobra: Desatracação\nData/Hora: 05/11/26 23:06\nDe: 105\nPara/Berço: ILHA DO MEDO\nAgência: FERTIMPORT - S.L **"
 }

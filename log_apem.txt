@@ -15503,3 +15503,131 @@ De: ALUMAR 1
 Para/Berço: ILHA DO MEDO
 Agência: WILLIAMS**
 --------------------------------------------------
+[05/11/2026 13:44:48] NOVA MANOBRA:
+Navio: PEPPINO
+Manobra: Desatracação
+Data/Hora: 05/11/26 14:46
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[05/11/2026 13:44:48] NOVA MANOBRA:
+Navio: MINERVA
+Manobra: DG
+Data/Hora: 05/11/26 15:00
+De: AREA 7B.1
+Para/Berço: PIER 4 NORTE
+Agência: S.A.O. MARITIME **
+--------------------------------------------------
+[05/11/2026 13:44:48] NOVA MANOBRA:
+Navio: OSLO TRADER
+Manobra: Atracação
+Data/Hora: 05/11/26 15:16
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: GEM**
+--------------------------------------------------
+[05/11/2026 13:44:48] NOVA MANOBRA:
+Navio: BERGE MULHACEN
+Manobra: Atracação
+Data/Hora: 05/11/26 22:36
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: ISS**
+--------------------------------------------------
+[05/11/2026 13:44:48] NOVA MANOBRA:
+Navio: CAPE GARNET
+Manobra: Desatracação
+Data/Hora: 05/11/26 22:36
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
+[05/11/2026 13:44:48] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: STELLAR CROWN
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 05/11/26 10:10
+Agora: 05/11/26 14:31
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[05/11/2026 13:44:48] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: ROBUSTA
+Manobra: Atracação
+Berço: 99
+Antes: 05/11/26 09:40
+Agora: 05/11/26 22:06
+Agência: WILSON SONS **
+--------------------------------------------------
+[05/11/2026 13:44:48] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: DE MING HAI
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 05/11/26 10:10
+Agora: 05/11/26 22:36
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[05/11/2026 13:44:48] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: CRIMSON KINGDOM
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 05/11/26 10:40
+Agora: 05/11/26 23:06
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[05/11/2026 13:44:48] MANOBRA CONCLUÍDA (navio atracou):
+Navio: TAZ
+Manobra: Atracação
+Data/Hora: 05/11/26 06:00 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
+[05/11/2026 13:44:48] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MINERVA
+Manobra: EF
+Data/Hora: 05/11/26 07:13 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: AREA 7B.1
+Agência: S.A.O. MARITIME **
+--------------------------------------------------
+[05/11/2026 13:44:48] MANOBRA CONCLUÍDA (navio atracou):
+Navio: KONTA III
+Manobra: Atracação
+Data/Hora: 05/11/26 10:10 (horário real de atracação)
+De: PTO EMBARQUE LC
+Para/Berço: PLATAFORMA 1
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[05/11/2026 13:44:48] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ISABELLA M II
+Manobra: Atracação
+Data/Hora: 05/11/26 11:30 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 108
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[05/11/2026 13:44:48] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AVON
+Manobra: Desatracação
+Data/Hora: 05/11/26 09:40
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[05/11/2026 13:44:48] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PACIFIC EXPRESS
+Manobra: Desatracação
+Data/Hora: 05/11/26 10:10
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
