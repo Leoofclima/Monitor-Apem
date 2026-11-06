@@ -15861,3 +15861,75 @@ De: PIER 1
 Para/Berço: ILHA DO MEDO
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[06/11/2026 18:56:14] NOVA MANOBRA:
+Navio: SAKIZAYA ZEST
+Manobra: Atracação
+Data/Hora: 06/11/26 23:21
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[06/11/2026 18:56:14] NOVA MANOBRA:
+Navio: ARISTA
+Manobra: Desatracação
+Data/Hora: 06/11/26 23:51
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[06/11/2026 18:56:14] NOVA MANOBRA:
+Navio: LONGEVITY
+Manobra: Atracação
+Data/Hora: 07/11/26 03:42
+De: BOIA 19-24
+Para/Berço: 105
+Agência: ALPHAMAR**
+--------------------------------------------------
+[06/11/2026 18:56:14] NOVA MANOBRA:
+Navio: ECO CROSSFIRE
+Manobra: Atracação
+Data/Hora: 07/11/26 11:47
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: HARMS**
+--------------------------------------------------
+[06/11/2026 18:56:14] NOVA MANOBRA:
+Navio: MARYAM D
+Manobra: Atracação
+Data/Hora: 07/11/26 17:25
+De: BOIA 19-24
+Para/Berço: 100
+Agência: WAYPOINT (SÃO LUIS)*
+--------------------------------------------------
+[06/11/2026 18:56:14] MANOBRA CONCLUÍDA (navio atracou):
+Navio: GRAND WISDOM
+Manobra: Atracação
+Data/Hora: 06/11/26 13:05 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[06/11/2026 18:56:14] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: KONTA III
+Manobra: Desatracação
+Data/Hora: 06/11/26 14:40
+De: PLATAFORMA 1
+Para/Berço: PTO EMBARQUE LC
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[06/11/2026 18:56:14] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SV WAKILI
+Manobra: Desatracação
+Data/Hora: 06/11/26 16:14
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[06/11/2026 18:56:14] MANOBRA CONCLUÍDA (navio atracou):
+Navio: YASA AEGEAN SEA
+Manobra: Atracação
+Data/Hora: 06/11/26 18:29 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 104
+Agência: NORTH STAR**
+--------------------------------------------------
