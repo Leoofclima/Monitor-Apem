@@ -15809,3 +15809,55 @@ De: PIER 3 NORTE
 Para/Berço: ILHA DO MEDO
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[06/11/2026 13:57:44] NOVA MANOBRA:
+Navio: KONTA III
+Manobra: Desatracação
+Data/Hora: 06/11/26 14:40
+De: PLATAFORMA 1
+Para/Berço: PTO EMBARQUE LC
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[06/11/2026 13:57:44] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: SV WAKILI
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 06/11/26 11:02
+Agora: 06/11/26 16:14
+Agência: ISS**
+--------------------------------------------------
+[06/11/2026 13:57:44] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: YASA AEGEAN SEA
+Manobra: Atracação
+Berço: 104
+Antes: 06/11/26 11:02
+Agora: 06/11/26 16:14
+Agência: NORTH STAR**
+--------------------------------------------------
+[06/11/2026 13:57:44] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ROBUSTA
+Manobra: Atracação
+Data/Hora: 06/11/26 07:34 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 99
+Agência: WILSON SONS **
+--------------------------------------------------
+[06/11/2026 13:57:44] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: DE MING HAI
+Manobra: Desatracação
+Data/Hora: 06/11/26 04:27
+De: 99
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[06/11/2026 13:57:44] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: HAIZHU FLOURISH
+Manobra: Desatracação
+Data/Hora: 06/11/26 11:02
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
