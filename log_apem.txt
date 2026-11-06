@@ -15749,3 +15749,63 @@ De: PIER 4 NORTE
 Para/Berço: AREA 7B.1
 Agência: S.A.O. MARITIME **
 --------------------------------------------------
+[06/11/2026 06:50:11] NOVA MANOBRA:
+Navio: SV WAKILI
+Manobra: Desatracação
+Data/Hora: 06/11/26 11:02
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[06/11/2026 06:50:11] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: GRAND WISDOM
+Manobra: Atracação
+Berço: PIER 1
+Antes: 06/11/26 02:57
+Agora: 06/11/26 11:02
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[06/11/2026 06:50:11] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: HAIZHU FLOURISH
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 06/11/26 02:57
+Agora: 06/11/26 11:02
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[06/11/2026 06:50:11] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: CAPE GARNET
+Manobra: Desatracação
+Data/Hora: 05/11/26 22:36
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
+[06/11/2026 06:50:11] MANOBRA CONCLUÍDA (navio atracou):
+Navio: YASA DRAKE
+Manobra: Atracação
+Data/Hora: 06/11/26 01:15 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[06/11/2026 06:50:11] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: CRIMSON KINGDOM
+Manobra: Desatracação
+Data/Hora: 05/11/26 23:06
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[06/11/2026 06:50:11] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: TRUE CORSAIR
+Manobra: Desatracação
+Data/Hora: 06/11/26 02:57
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
