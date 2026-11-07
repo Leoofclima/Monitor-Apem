@@ -15973,3 +15973,27 @@ De: BOIA 19-24
 Para/Berço: 106
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[07/11/2026 04:38:20] NOVA MANOBRA:
+Navio: OCEANLADY
+Manobra: Desatracação
+Data/Hora: 07/11/26 12:17
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[07/11/2026 04:38:20] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SAKIZAYA ZEST
+Manobra: Atracação
+Data/Hora: 07/11/26 02:02 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[07/11/2026 04:38:20] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ARISTA
+Manobra: Desatracação
+Data/Hora: 06/11/26 23:51
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
