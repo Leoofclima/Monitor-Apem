@@ -15933,3 +15933,43 @@ De: PONTO ALPHA
 Para/Berço: 104
 Agência: NORTH STAR**
 --------------------------------------------------
+[06/11/2026 22:29:41] NOVA MANOBRA:
+Navio: BERGE MULHACEN
+Manobra: Atracação
+Data/Hora: 07/11/26 03:42
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: ISS**
+--------------------------------------------------
+[06/11/2026 22:29:41] NOVA MANOBRA:
+Navio: YASA DRAKE
+Manobra: Desatracação
+Data/Hora: 07/11/26 03:42
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[06/11/2026 22:29:41] NOVA MANOBRA:
+Navio: STENA CONQUEST
+Manobra: Desatracação
+Data/Hora: 07/11/26 04:42
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[06/11/2026 22:29:41] NOVA MANOBRA:
+Navio: TAZ
+Manobra: Desatracação
+Data/Hora: 07/11/26 04:57
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[06/11/2026 22:29:41] NOVA MANOBRA:
+Navio: PACIFIC JASPER
+Manobra: Atracação
+Data/Hora: 07/11/26 05:12
+De: BOIA 19-24
+Para/Berço: 106
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
