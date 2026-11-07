@@ -16131,3 +16131,43 @@ De: PIER 4 NORTE
 Para/Berço: ILHA DO MEDO
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[07/11/2026 19:26:26] NOVA MANOBRA:
+Navio: NAVIG8 EXECUTIVE
+Manobra: Atracação
+Data/Hora: 07/11/26 23:34
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: NORTH STAR**
+--------------------------------------------------
+[07/11/2026 19:26:26] NOVA MANOBRA:
+Navio: EVIAN
+Manobra: Atracação
+Data/Hora: 08/11/26 00:34
+De: BOIA 19-24
+Para/Berço: 101/SUL
+Agência: CARGONAVE**
+--------------------------------------------------
+[07/11/2026 19:26:26] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ORE NINGBO
+Manobra: Atracação
+Data/Hora: 07/11/26 18:20 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: ISS**
+--------------------------------------------------
+[07/11/2026 19:26:26] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: OSLO TRADER
+Manobra: Desatracação
+Data/Hora: 07/11/26 16:10
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[07/11/2026 19:26:26] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Atracação
+Data/Hora: 07/11/26 19:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
