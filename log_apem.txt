@@ -16097,3 +16097,37 @@ De: BOIA 19-24
 Para/Berço: 106
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[07/11/2026 15:51:13] NOVA MANOBRA:
+Navio: ISABELLA M II
+Manobra: Desatracação
+Data/Hora: 07/11/26 23:34
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[07/11/2026 15:51:13] NOVA MANOBRA:
+Navio: CHRYSOULA S
+Manobra: Desatracação
+Data/Hora: 08/11/26 00:34
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: ZYON
+--------------------------------------------------
+[07/11/2026 15:51:13] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: OCEANLADY
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 07/11/26 16:55
+Agora: 08/11/26 00:34
+Agência: WILSON SONS **
+--------------------------------------------------
+[07/11/2026 15:51:13] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SHANDONG DA REN
+Manobra: Desatracação
+Data/Hora: 07/11/26 11:47
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
