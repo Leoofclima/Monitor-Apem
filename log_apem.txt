@@ -15997,3 +15997,103 @@ De: 103/NORTE
 Para/Berço: ILHA DO MEDO
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[07/11/2026 11:19:39] NOVA MANOBRA:
+Navio: SHANDONG DA REN
+Manobra: Desatracação
+Data/Hora: 07/11/26 11:47
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[07/11/2026 11:19:39] NOVA MANOBRA:
+Navio: ORE NINGBO
+Manobra: Atracação
+Data/Hora: 07/11/26 15:55
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: ISS**
+--------------------------------------------------
+[07/11/2026 11:19:39] NOVA MANOBRA:
+Navio: OSLO TRADER
+Manobra: Desatracação
+Data/Hora: 07/11/26 16:10
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[07/11/2026 11:19:39] NOVA MANOBRA:
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Atracação
+Data/Hora: 07/11/26 16:40
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[07/11/2026 11:19:39] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: OCEANLADY
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 07/11/26 12:17
+Agora: 07/11/26 16:55
+Agência: WILSON SONS **
+--------------------------------------------------
+[07/11/2026 11:19:39] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: ECO CROSSFIRE
+Manobra: Atracação
+Berço: 102/CENTRO
+Antes: 07/11/26 11:47
+Agora: 08/11/26 00:34
+Agência: HARMS**
+--------------------------------------------------
+[07/11/2026 11:19:39] MANOBRA CONCLUÍDA (navio atracou):
+Navio: LONGEVITY
+Manobra: Atracação
+Data/Hora: 07/11/26 05:10 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: ALPHAMAR**
+--------------------------------------------------
+[07/11/2026 11:19:39] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BERGE MULHACEN
+Manobra: Atracação
+Data/Hora: 07/11/26 07:05 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: ISS**
+--------------------------------------------------
+[07/11/2026 11:19:39] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: YASA DRAKE
+Manobra: Desatracação
+Data/Hora: 07/11/26 03:42
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[07/11/2026 11:19:39] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: STENA CONQUEST
+Manobra: Desatracação
+Data/Hora: 07/11/26 04:42
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[07/11/2026 11:19:39] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: TAZ
+Manobra: Desatracação
+Data/Hora: 07/11/26 04:57
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[07/11/2026 11:19:39] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PACIFIC JASPER
+Manobra: Atracação
+Data/Hora: 07/11/26 06:38 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 106
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
