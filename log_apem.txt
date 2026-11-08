@@ -16243,3 +16243,27 @@ De: 101/SUL
 Para/Berço: ILHA DO MEDO
 Agência: WILSON SONS **
 --------------------------------------------------
+[08/11/2026 11:45:08] NOVA MANOBRA:
+Navio: LIZZY CONFIDENCE
+Manobra: Atracação
+Data/Hora: 08/11/26 17:14
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
+[08/11/2026 11:45:08] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PACIFIC MARINER
+Manobra: Atracação
+Data/Hora: 08/11/26 06:55 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[08/11/2026 11:45:08] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: GRAND WISDOM
+Manobra: Desatracação
+Data/Hora: 08/11/26 04:17
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
