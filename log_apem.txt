@@ -16275,3 +16275,19 @@ De: BOIA 19-24
 Para/Berço: 108 EXT
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[08/11/2026 19:54:44] NOVA MANOBRA:
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Desatracação
+Data/Hora: 09/11/26 01:01
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[08/11/2026 19:54:44] NOVA MANOBRA:
+Navio: MARYAM D
+Manobra: Desatracação
+Data/Hora: 09/11/26 06:27
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: WAYPOINT (SÃO LUIS)*
+--------------------------------------------------
