@@ -16179,3 +16179,67 @@ De: BOIA 19-24
 Para/Berço: 100
 Agência: WAYPOINT (SÃO LUIS)*
 --------------------------------------------------
+[08/11/2026 04:57:38] NOVA MANOBRA:
+Navio: PACIFIC MARINER
+Manobra: Atracação
+Data/Hora: 08/11/26 04:17
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[08/11/2026 04:57:38] NOVA MANOBRA:
+Navio: GRAND WISDOM
+Manobra: Desatracação
+Data/Hora: 08/11/26 04:17
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[08/11/2026 04:57:38] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ISABELLA M II
+Manobra: Desatracação
+Data/Hora: 07/11/26 23:34
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[08/11/2026 04:57:38] MANOBRA CONCLUÍDA (navio atracou):
+Navio: NAVIG8 EXECUTIVE
+Manobra: Atracação
+Data/Hora: 08/11/26 01:55 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: NORTH STAR**
+--------------------------------------------------
+[08/11/2026 04:57:38] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: CHRYSOULA S
+Manobra: Desatracação
+Data/Hora: 08/11/26 00:34
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: ZYON
+--------------------------------------------------
+[08/11/2026 04:57:38] MANOBRA CONCLUÍDA (navio atracou):
+Navio: EVIAN
+Manobra: Atracação
+Data/Hora: 08/11/26 02:50 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 101/SUL
+Agência: CARGONAVE**
+--------------------------------------------------
+[08/11/2026 04:57:38] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ECO CROSSFIRE
+Manobra: Atracação
+Data/Hora: 08/11/26 02:05 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: HARMS**
+--------------------------------------------------
+[08/11/2026 04:57:38] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: OCEANLADY
+Manobra: Desatracação
+Data/Hora: 08/11/26 00:34
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
