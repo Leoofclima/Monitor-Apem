@@ -340,8 +340,8 @@
   }
 
   .anotacao-status-bolinha{
-    width:7px;
-    height:7px;
+    width:9px;
+    height:9px;
     border-radius:50%;
     display:inline-block;
     margin-right:4px;
@@ -533,20 +533,26 @@ const CHAVE_ANOTACOES = 'sentinela_anotacoes';
 let anotacoes = {};
 
 const OPCOES_STATUS = [
-  { valor: '', label: 'Sem contato' },
-  { valor: 'contatado', label: 'Contatado' },
-  { valor: 'aguardando', label: 'Aguardando retorno' },
-  { valor: 'sem_interesse', label: 'Sem interesse' },
+  { valor: 'nao_contatado', label: 'Contato não efetuado' },
+  { valor: 'aguardando', label: 'Aguardando resposta' },
+  { valor: 'nao_fechado', label: 'Não fechado' },
   { valor: 'fechado', label: 'Fechado' },
 ];
 
 const CORES_STATUS = {
-  '': 'var(--muted)',
-  'contatado': '#4FA3D1',
-  'aguardando': '#C9A227',
-  'sem_interesse': '#8CA39A',
-  'fechado': '#45B26B',
+  'nao_contatado': '#3B82F6', // azul
+  'aguardando': '#EAB308',    // amarelo
+  'nao_fechado': '#DC2626',   // vermelho
+  'fechado': '#16A34A',       // verde
 };
+
+// Converte status salvos na versão antiga para os 4 novos
+function normalizarStatus(valor){
+  if (valor === 'contatado') return 'aguardando';
+  if (valor === 'sem_interesse') return 'nao_fechado';
+  if (CORES_STATUS[valor]) return valor;
+  return 'nao_contatado';
+}
 
 function carregarAnotacoes(){
   try{
@@ -566,7 +572,10 @@ function salvarAnotacoes(){
 }
 
 function obterAnotacao(nome){
-  return anotacoes[nome] || { status: '', nota: '' };
+  const a = anotacoes[nome] || { status: '', nota: '' };
+  a.status = normalizarStatus(a.status);
+  a.nota = a.nota || '';
+  return a;
 }
 
 function atualizarAnotacao(nome, campo, valor){
@@ -906,6 +915,7 @@ function montarListaRota(listaNavios){
 
     const selectStatus = document.createElement('select');
     selectStatus.className = 'anotacao-status';
+    selectStatus.style.borderLeft = `4px solid ${CORES_STATUS[anotacaoAtual.status]}`;
     OPCOES_STATUS.forEach((opcao) => {
       const optEl = document.createElement('option');
       optEl.value = opcao.valor;
