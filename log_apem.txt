@@ -16171,3 +16171,11 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[07/11/2026 22:40:01] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MARYAM D
+Manobra: Atracação
+Data/Hora: 07/11/26 19:30 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 100
+Agência: WAYPOINT (SÃO LUIS)*
+--------------------------------------------------
