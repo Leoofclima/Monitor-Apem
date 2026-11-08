@@ -16267,3 +16267,11 @@ De: PIER 1
 Para/Berço: ILHA DO MEDO
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[08/11/2026 16:10:53] NOVA MANOBRA:
+Navio: ISABELLA M II
+Manobra: Atracação
+Data/Hora: 09/11/26 06:27
+De: BOIA 19-24
+Para/Berço: 108 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
