@@ -491,9 +491,10 @@
       </div>
 
       <div class="legenda">
-        <div class="legenda-item"><span class="legenda-bola" style="background:#C1543F;"></span> Menos de 3h para atracar</div>
-        <div class="legenda-item"><span class="legenda-bola" style="background:#45B26B;"></span> Entre 3h e 12h para atracar</div>
-        <div class="legenda-item"><span class="legenda-bola" style="background:#4C9A6A;"></span> Mais de 12h ou sem previsão</div>
+        <div class="legenda-item"><span class="legenda-bola" style="background:#3B82F6;"></span> Contato não efetuado</div>
+        <div class="legenda-item"><span class="legenda-bola" style="background:#EAB308;"></span> Aguardando resposta</div>
+        <div class="legenda-item"><span class="legenda-bola" style="background:#DC2626;"></span> Não fechado</div>
+        <div class="legenda-item"><span class="legenda-bola" style="background:#16A34A;"></span> Fechado</div>
       </div>
       <div class="creditos">Em desenvolvimento por Leonardo Lima</div>
     </div>
@@ -776,6 +777,15 @@ function iconeNavio(cor, corBorda){
   });
 }
 
+function iconeStatus(status){
+  return iconeNavio(CORES_STATUS[normalizarStatus(status)], '#17191A');
+}
+
+function rotuloStatus(status){
+  const opcao = OPCOES_STATUS.find((o) => o.valor === normalizarStatus(status));
+  return opcao ? opcao.label : '';
+}
+
 function desenharRota(listaNavios){
   camadaRota.clearLayers();
   marcadoresPorNome = {};
@@ -790,14 +800,14 @@ function desenharRota(listaNavios){
 
   listaNavios.forEach((navio, indice) => {
     const numeroExibido = indice + 1;
-    const cor = corUrgencia(navio.tempo_restante_horas);
-    const corBorda = corArea(navio.area);
-    const icone = iconeNavio(cor, corBorda);
+    const statusNavio = obterAnotacao(navio.nome).status;
+    const icone = iconeStatus(statusNavio);
 
     const marcador = L.marker([navio.lat, navio.lon], { icon: icone })
       .addTo(camadaRota)
       .bindPopup(
         `<b>${numeroExibido}. ${navio.nome}</b><br>` +
+        `Status: <b style="color:${CORES_STATUS[statusNavio]}">${rotuloStatus(statusNavio)}</b><br>` +
         `Área: ${navio.area || '—'}<br>` +
         `Agência: ${navio.agencia || '—'}<br>` +
         `IMO: ${navio.imo || '—'}<br>` +
@@ -926,6 +936,17 @@ function montarListaRota(listaNavios){
     selectStatus.addEventListener('click', (e) => e.stopPropagation());
     selectStatus.addEventListener('change', () => {
       atualizarAnotacao(navio.nome, 'status', selectStatus.value);
+      const marcador = marcadoresPorNome[navio.nome];
+      if (marcador){
+        marcador.setIcon(iconeStatus(selectStatus.value));
+        const popup = marcador.getPopup();
+        if (popup){
+          popup.setContent(popup.getContent().replace(
+            /Status: <b style="color:[^"]*">[^<]*<\/b>/,
+            `Status: <b style="color:${CORES_STATUS[selectStatus.value]}">${rotuloStatus(selectStatus.value)}</b>`
+          ));
+        }
+      }
       montarListaRota(ultimaRotaCalculada); // atualiza a bolinha de status na hora
     });
 
