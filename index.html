@@ -1256,8 +1256,12 @@ function atualizarSelecaoInfo(){
 // partir desse ponto para não ficarem um em cima do outro.
 // Para fixar a posição exata de um berço, adicione em POSICOES_BERCOS,
 // ex: "ALUMAR 1": [-2.6800, -44.3540]
+// Terminais com "linha": os berços são numerados e ficam distribuídos ao
+// longo do cais, do primeiro número (ponta norte) ao último (ponta sul).
+// Itaqui: cais medido no mapa a partir do print enviado pelo Leonardo.
 const POSICOES_TERMINAIS = [
-  { chave: "ITAQUI", nome: "ITAQUI", lat: -2.5680, lon: -44.3690, passoLat: -0.0050, passoLon: 0 },
+  { chave: "ITAQUI", nome: "ITAQUI", lat: -2.5711, lon: -44.3695, passoLat: -0.0010, passoLon: 0,
+    linha: { norte: [-2.5711, -44.3695], sul: [-2.5809, -44.3695], primeiro: 99, ultimo: 108 } },
   { chave: "VALE",   nome: "VALE",   lat: -2.5520, lon: -44.3730, passoLat:  0.0050, passoLon: 0 },
   { chave: "PONTA DA MADEIRA", nome: "VALE", lat: -2.5520, lon: -44.3730, passoLat: 0.0050, passoLon: 0 },
   { chave: "ALUMAR", nome: "ALUMAR", lat: -2.6780, lon: -44.3560, passoLat: 0, passoLon: 0.0050 },
@@ -1292,6 +1296,20 @@ function calcularPosicoesAtracados(lista){
     }
     const conf = terminalDoNavio(navio);
     if (!conf) return copia; // terminal desconhecido: aparece só na lista
+
+    // Berço numerado num terminal com cais conhecido: posição pelo número
+    const numero = parseInt((berco.match(/\d+/) || [])[0], 10);
+    if (conf.linha && !isNaN(numero)){
+      const L = conf.linha;
+      const t = Math.min(1, Math.max(0, (numero - L.primeiro) / (L.ultimo - L.primeiro)));
+      const chaveOcupado = `${conf.nome}-${numero}`;
+      const repetidos = contadorPorTerminal[chaveOcupado] || 0; // dois navios no mesmo número
+      contadorPorTerminal[chaveOcupado] = repetidos + 1;
+      copia.lat = L.norte[0] + (L.sul[0] - L.norte[0]) * t;
+      copia.lon = L.norte[1] + (L.sul[1] - L.norte[1]) * t - repetidos * 0.0006;
+      return copia;
+    }
+
     const i = contadorPorTerminal[conf.nome] || 0;
     contadorPorTerminal[conf.nome] = i + 1;
     copia.lat = conf.lat + conf.passoLat * i;
