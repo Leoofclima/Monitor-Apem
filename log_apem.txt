@@ -16291,3 +16291,11 @@ De: 100
 Para/Berço: ILHA DO MEDO
 Agência: WAYPOINT (SÃO LUIS)*
 --------------------------------------------------
+[08/11/2026 21:24:19] MANOBRA CONCLUÍDA (navio atracou):
+Navio: LIZZY CONFIDENCE
+Manobra: Atracação
+Data/Hora: 08/11/26 19:09 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
