@@ -149,6 +149,7 @@ def buscar_navios_atracados_detalhado():
                     "berco": valores[0] if len(valores) > 0 else "?",
                     "nome": nome_candidato,
                     "bandeira": valores[3] if len(valores) > 3 else "?",
+                    "imo": valores[6] if len(valores) > 6 else "",
                     "agencia": valores[9] if len(valores) > 9 else "?",
                     "data_atracacao": valores[10] if len(valores) > 10 else "?",
                     "hora_atracacao": valores[11] if len(valores) > 11 else "?",
@@ -194,11 +195,16 @@ def parse_coordenada(texto):
 
 
 def parse_data_hora_apem(data_str, hora_str):
-    """Converte 'DD/MM/AA' + 'HH:MM' do site num datetime. Retorna None se falhar."""
-    try:
-        return datetime.strptime(f"{data_str.strip()} {hora_str.strip()}", "%d/%m/%y %H:%M")
-    except Exception:
+    """Converte 'DD/MM/AA' (ou 'DD/MM/AAAA') + 'HH:MM' do site num datetime. Retorna None se falhar."""
+    if not data_str or not hora_str:
         return None
+    texto = f"{data_str.strip()} {hora_str.strip()}"
+    for formato in ("%d/%m/%y %H:%M", "%d/%m/%Y %H:%M"):
+        try:
+            return datetime.strptime(texto, formato)
+        except Exception:
+            continue
+    return None
 
 
 def haversine_km(lat1, lon1, lat2, lon2):
@@ -315,6 +321,37 @@ def enriquecer_fundeados_com_previsao(navios_fundeados, atual_dados):
             navio["tempo_restante_horas"] = None
 
     return navios_fundeados
+
+
+def montar_atracados_para_painel(navios_atracados_detalhado, atual_dados):
+    """Prepara a lista de navios atracados (Itaqui, Vale, Alumar...) para a
+    aba "Atracados" do painel: quanto tempo cada um está atracado e, se
+    houver, a desatracação prevista nas Manobras Previstas.
+    """
+    agora = agora_br()
+
+    desatracacoes = {}
+    for dados in atual_dados.values():
+        if dados["tipo"].strip().upper() != "DS":
+            continue
+        dt = parse_data_hora_apem(dados["data"], dados["hora"])
+        if dt is None:
+            continue
+        nome = dados["nome"].strip().upper()
+        if nome not in desatracacoes or dt < desatracacoes[nome]:
+            desatracacoes[nome] = dt
+
+    lista = []
+    for navio in navios_atracados_detalhado:
+        item = dict(navio)
+        dt_atracacao = parse_data_hora_apem(navio.get("data_atracacao"), navio.get("hora_atracacao"))
+        item["tempo_atracado_horas"] = (
+            round((agora - dt_atracacao).total_seconds() / 3600, 1) if dt_atracacao else None
+        )
+        dt_ds = desatracacoes.get(navio["nome"])
+        item["previsao_desatracacao"] = dt_ds.strftime("%d/%m/%Y %H:%M") if dt_ds else None
+        lista.append(item)
+    return lista
 
 
 # Pontos do canal navegável de saída da base até o mar aberto (fornecidos
@@ -779,6 +816,7 @@ def main():
         print("Nenhuma mudança detectada.")
 
     # Monta o painel web: Navios Fundeados + rota sugerida pra embarcação
+    # (o filtro de quais áreas são navegáveis fica no index.html, não aqui)
     navios_fundeados = enriquecer_fundeados_com_previsao(navios_fundeados_atual, atual_dados)
     rota_sugerida = montar_rota_otimizada(BASE_LAT, BASE_LON, navios_fundeados)
 
@@ -802,6 +840,7 @@ def main():
         "navios_fundeados": navios_fundeados,
         "rota_sugerida": rota_sugerida,
         "navios_atracando_em_breve": navios_atracando_em_breve,
+        "navios_atracados": montar_atracados_para_painel(navios_atracados_detalhado, atual_dados),
     }
     with open(PAINEL_FILE, "w", encoding="utf-8") as f:
         json.dump(painel, f, ensure_ascii=False, indent=2)
