@@ -16299,3 +16299,11 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 1
 Agência: GEM**
 --------------------------------------------------
+[08/11/2026 23:14:23] NOVA MANOBRA:
+Navio: AMAZON PATHFINDER
+Manobra: Atracação
+Data/Hora: 09/11/26 05:42
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
