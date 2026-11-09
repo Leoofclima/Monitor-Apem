@@ -8,6 +8,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.117.3/dist/umd/supabase.js"></script>
 <style>
   :root{
     --ink:#17191A;
@@ -495,6 +496,7 @@
         <div class="legenda-item"><span class="legenda-bola" style="background:#EAB308;"></span> Aguardando resposta</div>
         <div class="legenda-item"><span class="legenda-bola" style="background:#DC2626;"></span> Não fechado</div>
         <div class="legenda-item"><span class="legenda-bola" style="background:#16A34A;"></span> Fechado</div>
+        <div class="legenda-item" id="sync-status" style="margin-top:6px;color:var(--muted);">Anotações: conectando…</div>
       </div>
       <div class="creditos">Em desenvolvimento por Leonardo Lima</div>
     </div>
@@ -555,7 +557,24 @@ function normalizarStatus(valor){
   return 'nao_contatado';
 }
 
-function carregarAnotacoes(){
+// =====================================================================
+// ANOTAÇÕES COMPARTILHADAS (Supabase)
+// Cole aqui a URL do projeto e a chave pública (anon / publishable),
+// que ficam em Project Settings → API (ou Data API / API Keys).
+// Enquanto estiverem vazias, as anotações ficam só neste navegador.
+// =====================================================================
+const SUPABASE_URL = "https://vmknzicperhgfmkfxnaw.supabase.co";
+const SUPABASE_ANON_KEY = "sb_publishable_bFouZSRTQ1oOQAKKnoEs4g_a9Klyd84";
+const TABELA_ANOTACOES = "anotacoes";
+
+let clienteSupabase = null;   // cliente do banco, quando configurado
+
+function definirSyncStatus(texto, cor){
+  const el = document.getElementById('sync-status');
+  if (el){ el.textContent = texto; el.style.color = cor || 'var(--muted)'; }
+}
+
+function carregarAnotacoesLocais(){
   try{
     const salvo = localStorage.getItem(CHAVE_ANOTACOES);
     anotacoes = salvo ? JSON.parse(salvo) : {};
@@ -564,12 +583,85 @@ function carregarAnotacoes(){
   }
 }
 
-function salvarAnotacoes(){
+function salvarAnotacoesLocais(){
   try{
     localStorage.setItem(CHAVE_ANOTACOES, JSON.stringify(anotacoes));
   }catch(e){
     console.error('Não consegui salvar anotações:', e);
   }
+}
+
+async function buscarTodasAnotacoes(){
+  const { data, error } = await clienteSupabase
+    .from(TABELA_ANOTACOES)
+    .select('nome,status,nota');
+  if (error) throw error;
+  const novas = {};
+  (data || []).forEach((r) => { novas[r.nome] = { status: r.status || '', nota: r.nota || '' }; });
+  return novas;
+}
+
+async function gravarNoBanco(nome, status, nota){
+  const { error } = await clienteSupabase
+    .from(TABELA_ANOTACOES)
+    .upsert({ nome, status, nota, atualizado_em: new Date().toISOString() }, { onConflict: 'nome' });
+  if (error) throw error;
+}
+
+async function carregarAnotacoes(){
+  carregarAnotacoesLocais(); // mostra algo logo de cara
+
+  if (!SUPABASE_URL || !SUPABASE_ANON_KEY || typeof supabase === 'undefined'){
+    definirSyncStatus('Anotações: salvas só neste aparelho');
+    return;
+  }
+
+  const locaisAntigas = { ...anotacoes };
+
+  try{
+    clienteSupabase = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+    const doBanco = await buscarTodasAnotacoes();
+
+    // Primeira conexão: envia ao banco as anotações que só existiam neste navegador
+    for (const [nome, a] of Object.entries(locaisAntigas)){
+      if (doBanco[nome] || !a) continue;
+      const status = normalizarStatus(a.status);
+      if (status === 'nao_contatado' && !a.nota) continue; // nada a enviar
+      doBanco[nome] = { status, nota: a.nota || '' };
+      gravarNoBanco(nome, status, a.nota || '').catch((e) => console.error('Falha ao enviar anotação antiga:', e));
+    }
+
+    anotacoes = doBanco;
+    definirSyncStatus('Anotações: compartilhadas ✓', '#16A34A');
+    aplicarAnotacoesNaTela();
+  }catch(e){
+    console.error('Erro ao ler anotações do Supabase:', e);
+    clienteSupabase = null;
+    definirSyncStatus('Anotações: sem acesso ao banco — salvas só neste aparelho', '#DC2626');
+    return;
+  }
+
+  // Ao vivo: recebe mudanças feitas por qualquer pessoa
+  clienteSupabase
+    .channel('anotacoes-ao-vivo')
+    .on('postgres_changes', { event: '*', schema: 'public', table: TABELA_ANOTACOES }, (payload) => {
+      if (payload.eventType === 'DELETE'){
+        const nome = payload.old && payload.old.nome;
+        if (nome) delete anotacoes[nome];
+      } else if (payload.new && payload.new.nome){
+        anotacoes[payload.new.nome] = { status: payload.new.status || '', nota: payload.new.nota || '' };
+      }
+      aplicarAnotacoesNaTela();
+    })
+    .subscribe(async (estado) => {
+      if (estado === 'SUBSCRIBED'){
+        definirSyncStatus('Anotações: compartilhadas ✓', '#16A34A');
+        // relê tudo ao (re)conectar, para não perder nada que mudou enquanto estava desconectado
+        try{ anotacoes = await buscarTodasAnotacoes(); aplicarAnotacoesNaTela(); }catch(e){}
+      } else if (estado === 'CHANNEL_ERROR' || estado === 'TIMED_OUT'){
+        definirSyncStatus('Anotações: compartilhadas (sem atualização ao vivo — recarregue)', '#EAB308');
+      }
+    });
 }
 
 function obterAnotacao(nome){
@@ -583,7 +675,50 @@ function atualizarAnotacao(nome, campo, valor){
   const atual = obterAnotacao(nome);
   atual[campo] = valor;
   anotacoes[nome] = atual;
-  salvarAnotacoes();
+
+  if (clienteSupabase){
+    gravarNoBanco(nome, atual.status, atual.nota).catch((erro) => {
+      console.error('Não consegui salvar no banco:', erro);
+      definirSyncStatus('Anotações: falha ao salvar no banco', '#DC2626');
+    });
+  } else {
+    salvarAnotacoesLocais();
+  }
+}
+
+// Atualiza ícones, balões e lista quando chega mudança de outra pessoa,
+// sem mexer no zoom/posição do mapa.
+let atualizacaoPendente = false;
+function aplicarAnotacoesNaTela(){
+  if (!dadosAtuais) return;
+
+  (ultimaRotaCalculada || []).forEach((navio) => {
+    const marcador = marcadoresPorNome[navio.nome];
+    if (!marcador) return;
+    const status = obterAnotacao(navio.nome).status;
+    marcador.setIcon(iconeStatus(status, anguloParaBase(navio.lat, navio.lon)));
+    const popup = marcador.getPopup();
+    if (popup){
+      popup.setContent(popup.getContent().replace(
+        /Status: <b style="color:[^"]*">[^<]*<\/b>/,
+        `Status: <b style="color:${CORES_STATUS[status]}">${rotuloStatus(status)}</b>`
+      ));
+    }
+  });
+
+  // Se a pessoa estiver digitando uma anotação, espera ela terminar para não apagar o texto
+  const ativo = document.activeElement;
+  if (ativo && (ativo.classList.contains('anotacao-nota') || ativo.classList.contains('anotacao-status'))){
+    if (!atualizacaoPendente){
+      atualizacaoPendente = true;
+      ativo.addEventListener('blur', () => {
+        atualizacaoPendente = false;
+        setTimeout(aplicarAnotacoesNaTela, 50);
+      }, { once: true });
+    }
+    return;
+  }
+  montarListaRota(ultimaRotaCalculada);
 }
 
 // ---------- utilidades ----------
