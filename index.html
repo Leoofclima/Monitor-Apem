@@ -1430,8 +1430,26 @@ function montarListaAtracados(){
   });
 }
 
+// Só navios realmente num berço: tira linhas que a APEM lista fora de um
+// terminal (ex: "AREA 7B.1", que é área de fundeio) e qualquer navio que
+// já aparece de novo como fundeado (desatracou e voltou para o fundeio).
+function atracadosValidos(){
+  const fundeados = new Set(
+    [...(dadosAtuais.navios_fundeados || []), ...(dadosAtuais.rota_sugerida || [])]
+      .map((n) => (n.nome || '').trim().toUpperCase())
+  );
+  return (dadosAtuais.navios_atracados || []).filter((n) => {
+    const berco = (n.berco || '').trim().toUpperCase();
+    const terminal = (n.terminal || '').trim();
+    if (berco.startsWith('AREA')) return false;
+    if (!terminal || terminal === '?') return false;
+    if (fundeados.has((n.nome || '').trim().toUpperCase())) return false;
+    return true;
+  });
+}
+
 function atualizarAtracados(){
-  atracadosComPosicao = calcularPosicoesAtracados(dadosAtuais.navios_atracados || []);
+  atracadosComPosicao = calcularPosicoesAtracados(atracadosValidos());
   document.getElementById('cont-atracados').textContent = atracadosComPosicao.length;
   desenharAtracados();
   montarListaAtracados();
