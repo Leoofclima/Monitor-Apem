@@ -16307,3 +16307,37 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[09/11/2026 06:51:17] NOVA MANOBRA:
+Navio: BERGE MULHACEN
+Manobra: Desatracação
+Data/Hora: 09/11/26 12:59
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[09/11/2026 06:51:17] NOVA MANOBRA:
+Navio: CHINA PIONEER
+Manobra: Atracação
+Data/Hora: 09/11/26 12:59
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[09/11/2026 06:51:17] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: MARYAM D
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 09/11/26 06:27
+Agora: 09/11/26 12:59
+Agência: WAYPOINT (SÃO LUIS)*
+--------------------------------------------------
+[09/11/2026 06:51:17] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Desatracação
+Data/Hora: 09/11/26 01:01
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
