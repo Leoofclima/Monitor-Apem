@@ -348,6 +348,61 @@
     margin-right:4px;
   }
 
+  /* ---------- Abas Fundeio / Atracados ---------- */
+  .abas{
+    display:flex;
+    border-bottom:1px solid var(--line);
+    position:sticky;
+    top:0;
+    z-index:5;
+    background:var(--ink);
+  }
+  .aba{
+    flex:1;
+    background:transparent;
+    border:none;
+    border-bottom:2px solid transparent;
+    color:var(--muted);
+    font-family:'JetBrains Mono', monospace;
+    font-size:12px;
+    padding:11px 8px;
+    cursor:pointer;
+    transition:color 0.15s, border-color 0.15s;
+  }
+  .aba:hover{ color:var(--text); }
+  .aba.ativa{ color:var(--brass); border-bottom-color:var(--brass); }
+  .aba .contador{
+    display:inline-block;
+    min-width:18px;
+    padding:0 5px;
+    margin-left:4px;
+    border-radius:9px;
+    background:var(--panel-2);
+    font-size:10.5px;
+    color:var(--text);
+  }
+
+  .terminal-titulo{
+    padding:9px 18px;
+    font-size:11px;
+    letter-spacing:1.5px;
+    color:var(--brass);
+    background:var(--panel-2);
+    border-bottom:1px solid var(--line);
+    display:flex;
+    justify-content:space-between;
+  }
+  .terminal-titulo span:last-child{ color:var(--muted); letter-spacing:0; }
+
+  .atracado-item{
+    padding:11px 18px;
+    border-bottom:1px solid var(--line);
+    cursor:pointer;
+    transition:background 0.15s;
+  }
+  .atracado-item:hover{ background:rgba(69,178,107,0.06); }
+  .atracados-vazio{ padding:18px; color:var(--muted); font-size:12px; }
+
   .em-breve-section{ border-top:1px solid var(--line); }
 
   .em-breve-titulo{
@@ -452,6 +507,12 @@
     <div id="mapa"></div>
 
     <div class="sidebar">
+      <div class="abas">
+        <button class="aba ativa" data-aba="fundeio">Fundeio<span class="contador" id="cont-fundeio">0</span></button>
+        <button class="aba" data-aba="atracados">Atracados<span class="contador" id="cont-atracados">0</span></button>
+      </div>
+
+      <div id="painel-fundeio">
       <div class="sidebar-header">
         <div class="sidebar-title">Rota sugerida</div>
         <div class="sidebar-sub" id="rota-sub">Equilíbrio entre distância e tempo restante de fundeio</div>
@@ -490,6 +551,15 @@
         <div class="em-breve-titulo">Fora da área navegável</div>
         <div id="fora-area-lista"></div>
       </div>
+      </div><!-- /painel-fundeio -->
+
+      <div id="painel-atracados" style="display:none;">
+        <div class="sidebar-header">
+          <div class="sidebar-title">Navios atracados</div>
+          <div class="sidebar-sub">Itaqui · Vale · Alumar — marque se o navio está sendo atendido</div>
+        </div>
+        <div id="atracados-lista"></div>
+      </div>
 
       <div class="legenda">
         <div class="legenda-item"><span class="legenda-bola" style="background:#3B82F6;"></span> Contato não efetuado</div>
@@ -514,6 +584,12 @@ const DADOS_DEMO = {
   ],
   navios_atracando_em_breve: [
     { nome: "TROMBETAS", area: "AREA 3", tempo_restante_horas: 1.1 },
+  ],
+  navios_atracados: [
+    { terminal: "ALUMAR", berco: "ALUMAR 1", nome: "UBC TACOMA", agencia: "WILSON SONS", imo: "", data_atracacao: "04/09/26", hora_atracacao: "14:05", tempo_atracado_horas: 22, previsao_desatracacao: null },
+    { terminal: "ITAQUI", berco: "103/NORTE", nome: "SYLVANA", agencia: "GAC", imo: "", data_atracacao: "05/09/26", hora_atracacao: "08:25", tempo_atracado_horas: 3.5, previsao_desatracacao: "06/09/2026 07:00" },
+    { terminal: "ITAQUI", berco: "105", nome: "AQUILA OCEAN", agencia: "LBH", imo: "", data_atracacao: "05/09/26", hora_atracacao: "07:00", tempo_atracado_horas: 5, previsao_desatracacao: null },
+    { terminal: "VALE", berco: "PIER 1", nome: "ATAGOSAN", agencia: "LMA", imo: "", data_atracacao: "04/09/26", hora_atracacao: "08:15", tempo_atracado_horas: 52, previsao_desatracacao: null },
   ],
 };
 
@@ -706,6 +782,13 @@ function aplicarAnotacoesNaTela(){
     }
   });
 
+  Object.entries(marcadoresAtracados).forEach(([nome, marcador]) => {
+    const navio = atracadosComPosicao.find((n) => n.nome === nome);
+    if (!navio) return;
+    marcador.setIcon(iconeStatus(obterAnotacao(nome).status, 0));
+    marcador.getPopup() && marcador.getPopup().setContent(popupAtracado(navio));
+  });
+
   // Se a pessoa estiver digitando uma anotação, espera ela terminar para não apagar o texto
   const ativo = document.activeElement;
   if (ativo && (ativo.classList.contains('anotacao-nota') || ativo.classList.contains('anotacao-status'))){
@@ -719,6 +802,7 @@ function aplicarAnotacoesNaTela(){
     return;
   }
   montarListaRota(ultimaRotaCalculada);
+  montarListaAtracados();
 }
 
 // ---------- utilidades ----------
@@ -901,6 +985,7 @@ function inicializarMapa(dados){
   camadaRota = L.layerGroup().addTo(mapaGlobal);
   camadaEmBreve = L.layerGroup().addTo(mapaGlobal);
   camadaForaArea = L.layerGroup().addTo(mapaGlobal);
+  camadaAtracados = L.layerGroup(); // só entra no mapa na aba Atracados
 }
 
 function iconeNavio(cor, corBorda){
@@ -985,7 +1070,7 @@ function desenharRota(listaNavios){
     L.polyline(pontosRota, { color: '#45B26B', weight: 2, opacity: 0.7, dashArray: '6 6' }).addTo(camadaRota);
   }
 
-  if (pontosRota.length > 0 && !mapaOculto){
+  if (pontosRota.length > 0 && !mapaOculto && abaAtiva === 'fundeio'){
     mapaGlobal.fitBounds(pontosRota, { padding: [30, 30] });
   }
 }
@@ -1161,6 +1246,219 @@ function montarListaForaArea(lista){
 
 function atualizarSelecaoInfo(){
   document.getElementById('selecao-info').textContent = `${selecionados.size} de ${poolAtual.length} selecionados`;
+  document.getElementById('cont-fundeio').textContent = poolAtual.length;
+}
+
+// ---------- aba Atracados ----------
+
+// Posição aproximada de cada terminal no mapa (o site da APEM não informa
+// coordenadas dos berços). Os navios de um mesmo terminal são espalhados a
+// partir desse ponto para não ficarem um em cima do outro.
+// Para fixar a posição exata de um berço, adicione em POSICOES_BERCOS,
+// ex: "ALUMAR 1": [-2.6800, -44.3540]
+const POSICOES_TERMINAIS = [
+  { chave: "ITAQUI", nome: "ITAQUI", lat: -2.5680, lon: -44.3690, passoLat: -0.0050, passoLon: 0 },
+  { chave: "VALE",   nome: "VALE",   lat: -2.5520, lon: -44.3730, passoLat:  0.0050, passoLon: 0 },
+  { chave: "PONTA DA MADEIRA", nome: "VALE", lat: -2.5520, lon: -44.3730, passoLat: 0.0050, passoLon: 0 },
+  { chave: "ALUMAR", nome: "ALUMAR", lat: -2.6780, lon: -44.3560, passoLat: 0, passoLon: 0.0050 },
+];
+const POSICOES_BERCOS = {};
+const ORDEM_TERMINAIS = ["ITAQUI", "VALE", "ALUMAR"];
+
+let abaAtiva = 'fundeio';
+let camadaAtracados = null;
+let marcadoresAtracados = {};
+let atracadosComPosicao = [];
+
+function terminalDoNavio(navio){
+  const t = (navio.terminal || '').trim().toUpperCase();
+  const conf = POSICOES_TERMINAIS.find((p) => t.includes(p.chave));
+  return conf || null;
+}
+
+function nomeTerminal(navio){
+  const conf = terminalDoNavio(navio);
+  return conf ? conf.nome : ((navio.terminal || 'OUTROS').trim().toUpperCase() || 'OUTROS');
+}
+
+function calcularPosicoesAtracados(lista){
+  const contadorPorTerminal = {};
+  return (lista || []).map((navio) => {
+    const copia = { ...navio };
+    const berco = (navio.berco || '').trim().toUpperCase();
+    if (POSICOES_BERCOS[berco]){
+      [copia.lat, copia.lon] = POSICOES_BERCOS[berco];
+      return copia;
+    }
+    const conf = terminalDoNavio(navio);
+    if (!conf) return copia; // terminal desconhecido: aparece só na lista
+    const i = contadorPorTerminal[conf.nome] || 0;
+    contadorPorTerminal[conf.nome] = i + 1;
+    copia.lat = conf.lat + conf.passoLat * i;
+    copia.lon = conf.lon + conf.passoLon * i;
+    return copia;
+  });
+}
+
+function textoTempoAtracado(horas){
+  if (horas === null || horas === undefined) return '';
+  if (horas < 0) return 'atracação recente';
+  if (horas < 24) return `atracado há ${Math.round(horas)}h`;
+  const dias = Math.floor(horas / 24);
+  const resto = Math.round(horas % 24);
+  return `atracado há ${dias}d${resto ? ' ' + resto + 'h' : ''}`;
+}
+
+function popupAtracado(navio){
+  const status = obterAnotacao(navio.nome).status;
+  return (
+    `<b>${navio.nome}</b><br>` +
+    `Status: <b style="color:${CORES_STATUS[status]}">${rotuloStatus(status)}</b><br>` +
+    `Terminal: ${nomeTerminal(navio)} · Berço ${navio.berco || '—'}<br>` +
+    `Atracou: ${navio.data_atracacao || '—'} ${navio.hora_atracacao || ''}<br>` +
+    (navio.previsao_desatracacao ? `Desatracação prevista: ${navio.previsao_desatracacao}<br>` : '') +
+    `Agência: ${navio.agencia || '—'}<br>` +
+    `IMO: ${navio.imo || '—'}<br>` +
+    `<a class="popup-link" href="${linkMarineTraffic(navio)}" target="_blank" rel="noopener">Ver ao vivo no MarineTraffic ↗</a>`
+  );
+}
+
+function desenharAtracados(){
+  camadaAtracados.clearLayers();
+  marcadoresAtracados = {};
+  atracadosComPosicao.forEach((navio) => {
+    if (navio.lat == null || navio.lon == null) return;
+    const status = obterAnotacao(navio.nome).status;
+    const marcador = L.marker([navio.lat, navio.lon], { icon: iconeStatus(status, 0) })
+      .addTo(camadaAtracados)
+      .bindPopup(popupAtracado(navio));
+    marcadoresAtracados[navio.nome] = marcador;
+  });
+}
+
+function enquadrarAtracados(){
+  const pontos = atracadosComPosicao.filter((n) => n.lat != null).map((n) => [n.lat, n.lon]);
+  if (pontos.length > 0 && !mapaOculto){
+    mapaGlobal.fitBounds(pontos, { padding: [60, 60], maxZoom: 14 });
+  }
+}
+
+// Caixa de status + observação (a mesma anotação do fundeio: segue o navio pelo nome)
+function criarCaixaAnotacao(nome, aoMudar){
+  const anotacaoAtual = obterAnotacao(nome);
+  const box = document.createElement('div');
+  box.className = 'anotacao-box';
+
+  const select = document.createElement('select');
+  select.className = 'anotacao-status';
+  select.style.borderLeft = `4px solid ${CORES_STATUS[anotacaoAtual.status]}`;
+  OPCOES_STATUS.forEach((opcao) => {
+    const opt = document.createElement('option');
+    opt.value = opcao.valor;
+    opt.textContent = opcao.label;
+    if (opcao.valor === anotacaoAtual.status) opt.selected = true;
+    select.appendChild(opt);
+  });
+  select.addEventListener('click', (e) => e.stopPropagation());
+  select.addEventListener('change', () => {
+    atualizarAnotacao(nome, 'status', select.value);
+    aoMudar();
+  });
+
+  const nota = document.createElement('textarea');
+  nota.className = 'anotacao-nota';
+  nota.placeholder = 'Anotação (ex: atendimento iniciado, falar com o comandante...)';
+  nota.value = anotacaoAtual.nota;
+  nota.addEventListener('click', (e) => e.stopPropagation());
+  nota.addEventListener('blur', () => atualizarAnotacao(nome, 'nota', nota.value));
+
+  box.appendChild(select);
+  box.appendChild(nota);
+  return box;
+}
+
+function montarListaAtracados(){
+  const container = document.getElementById('atracados-lista');
+  container.innerHTML = '';
+
+  if (atracadosComPosicao.length === 0){
+    container.innerHTML = '<div class="atracados-vazio">Nenhum navio atracado no momento (ou o monitor ainda não enviou essa lista).</div>';
+    return;
+  }
+
+  const grupos = {};
+  atracadosComPosicao.forEach((n) => { (grupos[nomeTerminal(n)] = grupos[nomeTerminal(n)] || []).push(n); });
+  const ordem = Object.keys(grupos).sort((a, b) => {
+    const ia = ORDEM_TERMINAIS.indexOf(a), ib = ORDEM_TERMINAIS.indexOf(b);
+    return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib) || a.localeCompare(b);
+  });
+
+  ordem.forEach((terminal) => {
+    const titulo = document.createElement('div');
+    titulo.className = 'terminal-titulo';
+    const qtd = grupos[terminal].length;
+    titulo.innerHTML = `<span>${terminal}</span><span>${qtd} navio${qtd > 1 ? 's' : ''}</span>`;
+    container.appendChild(titulo);
+
+    grupos[terminal].forEach((navio) => {
+      const status = obterAnotacao(navio.nome).status;
+      const item = document.createElement('div');
+      item.className = 'atracado-item';
+      const partesMeta = [`Berço ${navio.berco || '—'}`];
+      const tempo = textoTempoAtracado(navio.tempo_atracado_horas);
+      if (tempo) partesMeta.push(tempo);
+      item.innerHTML = `
+        <div class="rota-nome">
+          <span class="anotacao-status-bolinha" style="background:${CORES_STATUS[status]}"></span>
+          ${navio.nome}
+        </div>
+        <div class="rota-meta">${partesMeta.map((t) => `<span>${t}</span>`).join('')}</div>
+        <div class="rota-meta"><span>${navio.agencia || '—'}</span>${
+          navio.previsao_desatracacao ? `<span class="urgencia-media">sai ${navio.previsao_desatracacao}</span>` : ''
+        }</div>
+      `;
+      item.addEventListener('click', () => {
+        const marcador = marcadoresAtracados[navio.nome];
+        if (marcador){
+          mapaGlobal.flyTo([navio.lat, navio.lon], 15, { duration: 0.8 });
+          marcador.openPopup();
+        }
+      });
+      item.appendChild(criarCaixaAnotacao(navio.nome, () => aplicarAnotacoesNaTela()));
+      container.appendChild(item);
+    });
+  });
+}
+
+function atualizarAtracados(){
+  atracadosComPosicao = calcularPosicoesAtracados(dadosAtuais.navios_atracados || []);
+  document.getElementById('cont-atracados').textContent = atracadosComPosicao.length;
+  desenharAtracados();
+  montarListaAtracados();
+}
+
+function trocarAba(aba){
+  abaAtiva = aba;
+  try{ localStorage.setItem('sentinela_aba', aba); }catch(e){}
+  document.querySelectorAll('.aba').forEach((b) => b.classList.toggle('ativa', b.dataset.aba === aba));
+  document.getElementById('painel-fundeio').style.display = aba === 'fundeio' ? 'block' : 'none';
+  document.getElementById('painel-atracados').style.display = aba === 'atracados' ? 'block' : 'none';
+  document.getElementById('btn-copiar').style.display = aba === 'fundeio' ? '' : 'none';
+  document.getElementById('btn-toggle-em-breve').style.display = aba === 'fundeio' ? '' : 'none';
+  document.getElementById('base-info').textContent = aba === 'fundeio'
+    ? `Rota de Fundeio · Base: ${dadosAtuais.base.nome}`
+    : 'Navios atracados · Itaqui · Vale · Alumar';
+
+  const camadasFundeio = [camadaRota, camadaForaArea].concat(emBreveOculto ? [] : [camadaEmBreve]);
+  if (aba === 'fundeio'){
+    mapaGlobal.removeLayer(camadaAtracados);
+    camadasFundeio.forEach((c) => mapaGlobal.addLayer(c));
+    desenharRota(ultimaRotaCalculada); // reenquadra a rota
+  } else {
+    [camadaRota, camadaForaArea, camadaEmBreve].forEach((c) => mapaGlobal.removeLayer(c));
+    mapaGlobal.addLayer(camadaAtracados);
+    enquadrarAtracados();
+  }
 }
 
 // ---------- fluxo principal de renderização ----------
@@ -1261,6 +1559,7 @@ function renderizarTudo(){
   desenharEmBreve(dadosAtuais.navios_atracando_em_breve || []);
   montarListaForaArea(foraDaArea);
   desenharForaArea(foraDaArea);
+  atualizarAtracados();
 }
 
 async function atualizarPeriodicamente(){
@@ -1295,6 +1594,7 @@ async function atualizarPeriodicamente(){
   desenharEmBreve(dadosAtuais.navios_atracando_em_breve || []);
   montarListaForaArea(foraDaArea);
   desenharForaArea(foraDaArea);
+  atualizarAtracados();
 }
 
 (async function iniciar(){
@@ -1318,6 +1618,10 @@ async function atualizarPeriodicamente(){
   document.getElementById('btn-toggle-mapa').addEventListener('click', alternarMapa);
   document.getElementById('btn-toggle-em-breve').addEventListener('click', alternarEmBreve);
   document.getElementById('btn-copiar').addEventListener('click', copiarLista);
+  document.querySelectorAll('.aba').forEach((b) => b.addEventListener('click', () => trocarAba(b.dataset.aba)));
+  let abaSalva = 'fundeio';
+  try{ abaSalva = localStorage.getItem('sentinela_aba') || 'fundeio'; }catch(e){}
+  trocarAba(abaSalva === 'atracados' ? 'atracados' : 'fundeio');
 
   setInterval(atualizarPeriodicamente, ATUALIZACAO_INTERVALO_MS);
   setInterval(checarDadosDesatualizados, 60 * 1000); // confere o "desatualizado" a cada minuto, mesmo sem novo fetch
