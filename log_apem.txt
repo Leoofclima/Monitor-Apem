@@ -16481,3 +16481,19 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 SUL
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[10/11/2026 07:28:43] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SAN ANTONIO
+Manobra: Atracação
+Data/Hora: 10/11/26 02:40 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 100
+Agência: ALPHAMAR**
+--------------------------------------------------
+[10/11/2026 07:28:43] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: LONGEVITY
+Manobra: Desatracação
+Data/Hora: 10/11/26 01:49
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
