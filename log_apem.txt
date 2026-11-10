@@ -16401,3 +16401,83 @@ De: 100
 Para/Berço: ILHA DO MEDO
 Agência: WAYPOINT (SÃO LUIS)*
 --------------------------------------------------
+[09/11/2026 23:46:45] NOVA MANOBRA:
+Navio: SAN ANTONIO
+Manobra: Atracação
+Data/Hora: 10/11/26 00:49
+De: BOIA 19-24
+Para/Berço: 100
+Agência: ALPHAMAR**
+--------------------------------------------------
+[09/11/2026 23:46:45] NOVA MANOBRA:
+Navio: LONGEVITY
+Manobra: Desatracação
+Data/Hora: 10/11/26 01:49
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[09/11/2026 23:46:45] NOVA MANOBRA:
+Navio: PACIFIC JASPER
+Manobra: Desatracação
+Data/Hora: 10/11/26 06:31
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[09/11/2026 23:46:45] NOVA MANOBRA:
+Navio: ISABELLA M II
+Manobra: Desatracação
+Data/Hora: 10/11/26 06:31
+De: 108 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[09/11/2026 23:46:45] NOVA MANOBRA:
+Navio: LIZZY CONFIDENCE
+Manobra: Desatracação
+Data/Hora: 10/11/26 06:46
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[09/11/2026 23:46:45] NOVA MANOBRA:
+Navio: SEYCHELLES PATRIOT
+Manobra: Atracação
+Data/Hora: 10/11/26 07:01
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: NORTH STAR**
+--------------------------------------------------
+[09/11/2026 23:46:45] NOVA MANOBRA:
+Navio: FLUMAR BRASIL
+Manobra: Atracação
+Data/Hora: 10/11/26 07:01
+De: BOIA 19-24
+Para/Berço: 108 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[09/11/2026 23:46:45] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BERGE MULHACEN
+Manobra: Desatracação
+Data/Hora: 09/11/26 17:02
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[09/11/2026 23:46:45] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BF HONGKONG
+Manobra: Atracação
+Data/Hora: 09/11/26 18:32 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[09/11/2026 23:46:45] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CHINA PIONEER
+Manobra: Atracação
+Data/Hora: 09/11/26 18:40 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
