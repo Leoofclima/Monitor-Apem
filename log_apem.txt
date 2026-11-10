@@ -16497,3 +16497,91 @@ De: 105
 Para/Berço: ILHA DO MEDO
 Agência: ALPHAMAR**
 --------------------------------------------------
+[10/11/2026 15:04:58] NOVA MANOBRA:
+Navio: ORE NINGBO
+Manobra: Desatracação
+Data/Hora: 10/11/26 17:38
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[10/11/2026 15:04:58] NOVA MANOBRA:
+Navio: ORE CHONGQING
+Manobra: Atracação
+Data/Hora: 10/11/26 17:38
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[10/11/2026 15:04:58] NOVA MANOBRA:
+Navio: AMAZON PATHFINDER
+Manobra: Desatracação
+Data/Hora: 10/11/26 17:53
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[10/11/2026 15:04:58] NOVA MANOBRA:
+Navio: FORTE DE SAO FELIPE
+Manobra: Atracação
+Data/Hora: 10/11/26 18:23
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[10/11/2026 15:04:58] NOVA MANOBRA:
+Navio: ROBUSTA
+Manobra: Desatracação
+Data/Hora: 10/11/26 19:08
+De: 99
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[10/11/2026 15:04:58] NOVA MANOBRA:
+Navio: YM RESPECT
+Manobra: Atracação
+Data/Hora: 10/11/26 19:38
+De: PONTO ALPHA
+Para/Berço: 99
+Agência: LBH BRASIL**
+--------------------------------------------------
+[10/11/2026 15:04:58] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PACIFIC JASPER
+Manobra: Desatracação
+Data/Hora: 10/11/26 06:31
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[10/11/2026 15:04:58] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ISABELLA M II
+Manobra: Desatracação
+Data/Hora: 10/11/26 06:31
+De: 108 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[10/11/2026 15:04:58] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: LIZZY CONFIDENCE
+Manobra: Desatracação
+Data/Hora: 10/11/26 06:46
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[10/11/2026 15:04:58] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SEYCHELLES PATRIOT
+Manobra: Atracação
+Data/Hora: 10/11/26 08:35 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: NORTH STAR**
+--------------------------------------------------
+[10/11/2026 15:04:58] MANOBRA CONCLUÍDA (navio atracou):
+Navio: FLUMAR BRASIL
+Manobra: Atracação
+Data/Hora: 10/11/26 08:50 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 108 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------

@@ -1,8 +1,9 @@
 {
-  "PACIFIC JASPER | 10/11/26 | 06:31 | DS | ILHA DO MEDO": "Navio: PACIFIC JASPER\nManobra: Desatracação\nData/Hora: 10/11/26 06:31\nDe: 106\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "ISABELLA M II | 10/11/26 | 06:31 | DS | ILHA DO MEDO": "Navio: ISABELLA M II\nManobra: Desatracação\nData/Hora: 10/11/26 06:31\nDe: 108 EXT\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "LIZZY CONFIDENCE | 10/11/26 | 06:46 | DS | ILHA DO MEDO": "Navio: LIZZY CONFIDENCE\nManobra: Desatracação\nData/Hora: 10/11/26 06:46\nDe: ALUMAR 1\nPara/Berço: ILHA DO MEDO\nAgência: GEM**",
-  "SEYCHELLES PATRIOT | 10/11/26 | 07:01 | EA | 106": "Navio: SEYCHELLES PATRIOT\nManobra: Atracação\nData/Hora: 10/11/26 07:01\nDe: PONTO ALPHA\nPara/Berço: 106\nAgência: NORTH STAR**",
-  "FLUMAR BRASIL | 10/11/26 | 07:01 | EA | 108 EXT": "Navio: FLUMAR BRASIL\nManobra: Atracação\nData/Hora: 10/11/26 07:01\nDe: BOIA 19-24\nPara/Berço: 108 EXT\nAgência: WILHELMSEN PORT**",
+  "ORE NINGBO | 10/11/26 | 17:38 | DS | ILHA DO MEDO": "Navio: ORE NINGBO\nManobra: Desatracação\nData/Hora: 10/11/26 17:38\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
+  "ORE CHONGQING | 10/11/26 | 17:38 | EA | PIER 4 NORTE": "Navio: ORE CHONGQING\nManobra: Atracação\nData/Hora: 10/11/26 17:38\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE\nAgência: LMA SHIPPING **",
+  "AMAZON PATHFINDER | 10/11/26 | 17:53 | DS | ILHA DO MEDO": "Navio: AMAZON PATHFINDER\nManobra: Desatracação\nData/Hora: 10/11/26 17:53\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
+  "FORTE DE SAO FELIPE | 10/11/26 | 18:23 | EA | ALUMAR 2": "Navio: FORTE DE SAO FELIPE\nManobra: Atracação\nData/Hora: 10/11/26 18:23\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 2\nAgência: ORION RODOS**",
+  "ROBUSTA | 10/11/26 | 19:08 | DS | ILHA DO MEDO": "Navio: ROBUSTA\nManobra: Desatracação\nData/Hora: 10/11/26 19:08\nDe: 99\nPara/Berço: ILHA DO MEDO\nAgência: WILSON SONS **",
+  "YM RESPECT | 10/11/26 | 19:38 | EA | 99": "Navio: YM RESPECT\nManobra: Atracação\nData/Hora: 10/11/26 19:38\nDe: PONTO ALPHA\nPara/Berço: 99\nAgência: LBH BRASIL**",
   "KONTA III | 11/11/26 | 10:54 | EA | PLATAFORMA 1": "Navio: KONTA III\nManobra: Atracação\nData/Hora: 11/11/26 10:54\nDe: PTO EMBARQUE LC\nPara/Berço: PLATAFORMA 1\nAgência: GEM - PARNAIBA"
 }
