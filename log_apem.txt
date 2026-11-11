@@ -16705,3 +16705,53 @@ De: PONTO ALPHA
 Para/Berço: 99
 Agência: LBH BRASIL**
 --------------------------------------------------
+[11/11/2026 06:53:26] NOVA MANOBRA:
+Navio: EVIAN
+Manobra: Desatracação
+Data/Hora: 11/11/26 06:04
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: CARGONAVE**
+--------------------------------------------------
+[11/11/2026 06:53:26] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: FLUMAR BRASIL
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 11/11/26 06:04
+Agora: 11/11/26 07:04
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[11/11/2026 06:53:26] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ECO CROSSFIRE
+Manobra: Desatracação
+Data/Hora: 11/11/26 02:27
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: HARMS**
+--------------------------------------------------
+[11/11/2026 06:53:26] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MAERSK CALLAO
+Manobra: Atracação
+Data/Hora: 11/11/26 04:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[11/11/2026 06:53:26] MANOBRA CONCLUÍDA (navio atracou):
+Navio: WINDERMERE
+Manobra: Atracação
+Data/Hora: 11/11/26 04:45 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[11/11/2026 06:53:26] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: LUCIO COSTA
+Manobra: Desatracação
+Data/Hora: 11/11/26 02:27
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
