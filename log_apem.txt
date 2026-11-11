@@ -16755,3 +16755,131 @@ De: 104
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[11/11/2026 14:34:46] NOVA MANOBRA:
+Navio: NAVIG8 EXECUTIVE
+Manobra: Desatracação
+Data/Hora: 11/11/26 13:34
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[11/11/2026 14:34:46] NOVA MANOBRA:
+Navio: HONESTY
+Manobra: Atracação
+Data/Hora: 11/11/26 13:34
+De: BOIA 19-24
+Para/Berço: 108
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[11/11/2026 14:34:46] NOVA MANOBRA:
+Navio: ETHRA DIAMOND
+Manobra: SA
+Data/Hora: 11/11/26 14:04
+De: AREA 7A
+Para/Berço: 101/SUL
+Agência: SHIPPING PROTECTION **
+--------------------------------------------------
+[11/11/2026 14:34:46] NOVA MANOBRA:
+Navio: CHINA PIONEER
+Manobra: Desatracação
+Data/Hora: 11/11/26 18:10
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[11/11/2026 14:34:46] NOVA MANOBRA:
+Navio: STAR BORNEO
+Manobra: Atracação
+Data/Hora: 11/11/26 18:10
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[11/11/2026 14:34:46] NOVA MANOBRA:
+Navio: MH HOTAKA
+Manobra: Atracação
+Data/Hora: 11/11/26 18:55
+De: PONTO ALPHA
+Para/Berço: ALUMAR 1
+Agência: HARMS**
+--------------------------------------------------
+[11/11/2026 14:34:46] NOVA MANOBRA:
+Navio: SAN ANTONIO
+Manobra: Desatracação
+Data/Hora: 11/11/26 19:40
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[11/11/2026 14:34:46] NOVA MANOBRA:
+Navio: ANTIPAROS
+Manobra: Atracação
+Data/Hora: 11/11/26 19:40
+De: BOIA 19-24
+Para/Berço: 100
+Agência: WILSON SONS **
+--------------------------------------------------
+[11/11/2026 14:34:46] NOVA MANOBRA:
+Navio: FORTE DE SAO FELIPE
+Manobra: Desatracação
+Data/Hora: 12/11/26 03:14
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[11/11/2026 14:34:46] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: EVIAN
+Manobra: Desatracação
+Data/Hora: 11/11/26 06:04
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: CARGONAVE**
+--------------------------------------------------
+[11/11/2026 14:34:46] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PACIFIC MARINER
+Manobra: Desatracação
+Data/Hora: 11/11/26 06:04
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[11/11/2026 14:34:46] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BF HONGKONG
+Manobra: Desatracação
+Data/Hora: 11/11/26 06:04
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[11/11/2026 14:34:46] MANOBRA CONCLUÍDA (navio atracou):
+Navio: GRAND PIONEER
+Manobra: Atracação
+Data/Hora: 11/11/26 08:40 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[11/11/2026 14:34:46] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PAN GOLD
+Manobra: Atracação
+Data/Hora: 11/11/26 08:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: ISS**
+--------------------------------------------------
+[11/11/2026 14:34:46] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FLUMAR BRASIL
+Manobra: Desatracação
+Data/Hora: 11/11/26 07:04
+De: 108 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[11/11/2026 14:34:46] MANOBRA CONCLUÍDA (navio atracou):
+Navio: KONTA III
+Manobra: Atracação
+Data/Hora: 11/11/26 13:35 (horário real de atracação)
+De: PTO EMBARQUE LC
+Para/Berço: PLATAFORMA 1
+Agência: GEM - PARNAIBA
+--------------------------------------------------

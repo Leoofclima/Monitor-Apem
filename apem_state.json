@@ -1,9 +1,11 @@
 {
-  "EVIAN | 11/11/26 | 06:04 | DS | ILHA DO MEDO": "Navio: EVIAN\nManobra: Desatracação\nData/Hora: 11/11/26 06:04\nDe: 101/SUL\nPara/Berço: ILHA DO MEDO\nAgência: CARGONAVE**",
-  "PACIFIC MARINER | 11/11/26 | 06:04 | DS | ILHA DO MEDO": "Navio: PACIFIC MARINER\nManobra: Desatracação\nData/Hora: 11/11/26 06:04\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "BF HONGKONG | 11/11/26 | 06:04 | DS | ILHA DO MEDO": "Navio: BF HONGKONG\nManobra: Desatracação\nData/Hora: 11/11/26 06:04\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "GRAND PIONEER | 11/11/26 | 06:04 | EA | PIER 1": "Navio: GRAND PIONEER\nManobra: Atracação\nData/Hora: 11/11/26 06:04\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: LMA SHIPPING **",
-  "PAN GOLD | 11/11/26 | 06:04 | EA | PIER 3 NORTE": "Navio: PAN GOLD\nManobra: Atracação\nData/Hora: 11/11/26 06:04\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: ISS**",
-  "FLUMAR BRASIL | 11/11/26 | 07:04 | DS | ILHA DO MEDO": "Navio: FLUMAR BRASIL\nManobra: Desatracação\nData/Hora: 11/11/26 07:04\nDe: 108 EXT\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "KONTA III | 11/11/26 | 10:54 | EA | PLATAFORMA 1": "Navio: KONTA III\nManobra: Atracação\nData/Hora: 11/11/26 10:54\nDe: PTO EMBARQUE LC\nPara/Berço: PLATAFORMA 1\nAgência: GEM - PARNAIBA"
+  "NAVIG8 EXECUTIVE | 11/11/26 | 13:34 | DS | ILHA DO MEDO": "Navio: NAVIG8 EXECUTIVE\nManobra: Desatracação\nData/Hora: 11/11/26 13:34\nDe: 108\nPara/Berço: ILHA DO MEDO\nAgência: NORTH STAR**",
+  "HONESTY | 11/11/26 | 13:34 | EA | 108": "Navio: HONESTY\nManobra: Atracação\nData/Hora: 11/11/26 13:34\nDe: BOIA 19-24\nPara/Berço: 108\nAgência: WILHELMSEN PORT**",
+  "ETHRA DIAMOND | 11/11/26 | 14:04 | SA | 101/SUL": "Navio: ETHRA DIAMOND\nManobra: SA\nData/Hora: 11/11/26 14:04\nDe: AREA 7A\nPara/Berço: 101/SUL\nAgência: SHIPPING PROTECTION **",
+  "CHINA PIONEER | 11/11/26 | 18:10 | DS | ILHA DO MEDO": "Navio: CHINA PIONEER\nManobra: Desatracação\nData/Hora: 11/11/26 18:10\nDe: PIER 3 SUL\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
+  "STAR BORNEO | 11/11/26 | 18:10 | EA | PIER 3 SUL": "Navio: STAR BORNEO\nManobra: Atracação\nData/Hora: 11/11/26 18:10\nDe: PONTO ALPHA\nPara/Berço: PIER 3 SUL\nAgência: WILHELMSEN PORT**",
+  "MH HOTAKA | 11/11/26 | 18:55 | EA | ALUMAR 1": "Navio: MH HOTAKA\nManobra: Atracação\nData/Hora: 11/11/26 18:55\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 1\nAgência: HARMS**",
+  "SAN ANTONIO | 11/11/26 | 19:40 | DS | ILHA DO MEDO": "Navio: SAN ANTONIO\nManobra: Desatracação\nData/Hora: 11/11/26 19:40\nDe: 100\nPara/Berço: ILHA DO MEDO\nAgência: ALPHAMAR**",
+  "ANTIPAROS | 11/11/26 | 19:40 | EA | 100": "Navio: ANTIPAROS\nManobra: Atracação\nData/Hora: 11/11/26 19:40\nDe: BOIA 19-24\nPara/Berço: 100\nAgência: WILSON SONS **",
+  "FORTE DE SAO FELIPE | 12/11/26 | 03:14 | DS | ILHA DO MEDO": "Navio: FORTE DE SAO FELIPE\nManobra: Desatracação\nData/Hora: 12/11/26 03:14\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**"
 }
