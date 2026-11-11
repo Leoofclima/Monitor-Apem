@@ -16883,3 +16883,63 @@ De: PTO EMBARQUE LC
 Para/Berço: PLATAFORMA 1
 Agência: GEM - PARNAIBA
 --------------------------------------------------
+[11/11/2026 20:41:05] NOVA MANOBRA:
+Navio: GLORY TOM
+Manobra: Atracação
+Data/Hora: 12/11/26 07:23
+De: BOIA 19-24
+Para/Berço: ALUMAR 2
+Agência: WILSON SONS **
+--------------------------------------------------
+[11/11/2026 20:41:05] NOVA MANOBRA:
+Navio: GREAT BLOSSOM
+Manobra: Atracação
+Data/Hora: 12/11/26 14:40
+De: BOIA 19-24
+Para/Berço: 105
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[11/11/2026 20:41:05] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: CHINA PIONEER
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 11/11/26 18:10
+Agora: 12/11/26 02:29
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[11/11/2026 20:41:05] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: STAR BORNEO
+Manobra: Atracação
+Berço: PIER 3 SUL
+Antes: 11/11/26 18:10
+Agora: 12/11/26 02:29
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[11/11/2026 20:41:05] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: NAVIG8 EXECUTIVE
+Manobra: Desatracação
+Data/Hora: 11/11/26 13:34
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[11/11/2026 20:41:05] MANOBRA CONCLUÍDA (navio atracou):
+Navio: HONESTY
+Manobra: Atracação
+Data/Hora: 11/11/26 15:35 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 108
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[11/11/2026 20:41:05] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ETHRA DIAMOND
+Manobra: SA
+Data/Hora: 11/11/26 16:00 (horário real de atracação)
+De: AREA 7A
+Para/Berço: 101/SUL
+Agência: SHIPPING PROTECTION **
+--------------------------------------------------
