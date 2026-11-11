@@ -1,11 +1,12 @@
 {
-  "ORE NINGBO | 10/11/26 | 17:38 | DS | ILHA DO MEDO": "Navio: ORE NINGBO\nManobra: Desatracação\nData/Hora: 10/11/26 17:38\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
-  "ORE CHONGQING | 10/11/26 | 17:38 | EA | PIER 4 NORTE": "Navio: ORE CHONGQING\nManobra: Atracação\nData/Hora: 10/11/26 17:38\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE\nAgência: LMA SHIPPING **",
-  "AMAZON PATHFINDER | 10/11/26 | 17:53 | DS | ILHA DO MEDO": "Navio: AMAZON PATHFINDER\nManobra: Desatracação\nData/Hora: 10/11/26 17:53\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
-  "FORTE DE SAO FELIPE | 10/11/26 | 18:23 | EA | ALUMAR 2": "Navio: FORTE DE SAO FELIPE\nManobra: Atracação\nData/Hora: 10/11/26 18:23\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 2\nAgência: ORION RODOS**",
-  "ROBUSTA | 10/11/26 | 19:08 | DS | ILHA DO MEDO": "Navio: ROBUSTA\nManobra: Desatracação\nData/Hora: 10/11/26 19:08\nDe: 99\nPara/Berço: ILHA DO MEDO\nAgência: WILSON SONS **",
-  "YM RESPECT | 10/11/26 | 19:38 | EA | 99": "Navio: YM RESPECT\nManobra: Atracação\nData/Hora: 10/11/26 19:38\nDe: PONTO ALPHA\nPara/Berço: 99\nAgência: LBH BRASIL**",
   "ECO CROSSFIRE | 11/11/26 | 02:27 | DS | ILHA DO MEDO": "Navio: ECO CROSSFIRE\nManobra: Desatracação\nData/Hora: 11/11/26 02:27\nDe: 102/CENTRO\nPara/Berço: ILHA DO MEDO\nAgência: HARMS**",
+  "MAERSK CALLAO | 11/11/26 | 02:27 | EA | 104": "Navio: MAERSK CALLAO\nManobra: Atracação\nData/Hora: 11/11/26 02:27\nDe: PONTO ALPHA\nPara/Berço: 104\nAgência: WILHELMSEN PORT**",
   "WINDERMERE | 11/11/26 | 02:27 | EA | 102/CENTRO": "Navio: WINDERMERE\nManobra: Atracação\nData/Hora: 11/11/26 02:27\nDe: BOIA 19-24\nPara/Berço: 102/CENTRO\nAgência: WILHELMSEN PORT**",
+  "LUCIO COSTA | 11/11/26 | 02:27 | DS | ILHA DO MEDO": "Navio: LUCIO COSTA\nManobra: Desatracação\nData/Hora: 11/11/26 02:27\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "PAN GOLD | 11/11/26 | 06:04 | EA | PIER 3 NORTE": "Navio: PAN GOLD\nManobra: Atracação\nData/Hora: 11/11/26 06:04\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: ISS**",
+  "BF HONGKONG | 11/11/26 | 06:04 | DS | ILHA DO MEDO": "Navio: BF HONGKONG\nManobra: Desatracação\nData/Hora: 11/11/26 06:04\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "GRAND PIONEER | 11/11/26 | 06:04 | EA | PIER 1": "Navio: GRAND PIONEER\nManobra: Atracação\nData/Hora: 11/11/26 06:04\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: LMA SHIPPING **",
+  "PACIFIC MARINER | 11/11/26 | 06:04 | DS | ILHA DO MEDO": "Navio: PACIFIC MARINER\nManobra: Desatracação\nData/Hora: 11/11/26 06:04\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "FLUMAR BRASIL | 11/11/26 | 06:04 | DS | ILHA DO MEDO": "Navio: FLUMAR BRASIL\nManobra: Desatracação\nData/Hora: 11/11/26 06:04\nDe: 108 EXT\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
   "KONTA III | 11/11/26 | 10:54 | EA | PLATAFORMA 1": "Navio: KONTA III\nManobra: Atracação\nData/Hora: 11/11/26 10:54\nDe: PTO EMBARQUE LC\nPara/Berço: PLATAFORMA 1\nAgência: GEM - PARNAIBA"
 }
