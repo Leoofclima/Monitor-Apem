@@ -16943,3 +16943,27 @@ De: AREA 7A
 Para/Berço: 101/SUL
 Agência: SHIPPING PROTECTION **
 --------------------------------------------------
+[12/11/2026 01:19:54] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MH HOTAKA
+Manobra: Atracação
+Data/Hora: 11/11/26 21:15 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 1
+Agência: HARMS**
+--------------------------------------------------
+[12/11/2026 01:19:54] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SAN ANTONIO
+Manobra: Desatracação
+Data/Hora: 11/11/26 19:40
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[12/11/2026 01:19:54] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ANTIPAROS
+Manobra: Atracação
+Data/Hora: 11/11/26 22:53 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 100
+Agência: WILSON SONS **
+--------------------------------------------------
