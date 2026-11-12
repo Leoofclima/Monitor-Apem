@@ -16967,3 +16967,27 @@ De: BOIA 19-24
 Para/Berço: 100
 Agência: WILSON SONS **
 --------------------------------------------------
+[12/11/2026 09:55:47] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: CHINA PIONEER
+Manobra: Desatracação
+Data/Hora: 12/11/26 02:29
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[12/11/2026 09:55:47] MANOBRA CONCLUÍDA (navio atracou):
+Navio: STAR BORNEO
+Manobra: Atracação
+Data/Hora: 12/11/26 05:15 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[12/11/2026 09:55:47] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FORTE DE SAO FELIPE
+Manobra: Desatracação
+Data/Hora: 12/11/26 03:14
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
