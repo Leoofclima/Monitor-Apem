@@ -16991,3 +16991,29 @@ De: ALUMAR 2
 Para/Berço: ILHA DO MEDO
 Agência: ORION RODOS**
 --------------------------------------------------
+[12/11/2026 17:34:34] NOVA MANOBRA:
+Navio: HONESTY
+Manobra: Desatracação
+Data/Hora: 13/11/26 02:31
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[12/11/2026 17:34:34] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: GREAT BLOSSOM
+Manobra: Atracação
+Berço: 105
+Antes: 12/11/26 14:40
+Agora: 12/11/26 18:46
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[12/11/2026 17:34:34] MANOBRA CONCLUÍDA (navio atracou):
+Navio: GLORY TOM
+Manobra: Atracação
+Data/Hora: 12/11/26 09:52 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 2
+Agência: WILSON SONS **
+--------------------------------------------------
