@@ -17017,3 +17017,75 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 2
 Agência: WILSON SONS **
 --------------------------------------------------
+[12/11/2026 22:26:41] NOVA MANOBRA:
+Navio: ORE CHONGQING
+Manobra: Desatracação
+Data/Hora: 13/11/26 02:31
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[12/11/2026 22:26:41] NOVA MANOBRA:
+Navio: MOCKINGBIRD
+Manobra: Atracação
+Data/Hora: 13/11/26 02:31
+De: BOIA 19-24
+Para/Berço: 108
+Agência: LBH BRASIL**
+--------------------------------------------------
+[12/11/2026 22:26:41] NOVA MANOBRA:
+Navio: MARMOLADA
+Manobra: Atracação
+Data/Hora: 13/11/26 03:01
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: ISS**
+--------------------------------------------------
+[12/11/2026 22:26:41] NOVA MANOBRA:
+Navio: OITA MARU
+Manobra: Atracação
+Data/Hora: 13/11/26 03:01
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LACHMANN**
+--------------------------------------------------
+[12/11/2026 22:26:41] NOVA MANOBRA:
+Navio: PAN GOLD
+Manobra: Desatracação
+Data/Hora: 13/11/26 03:01
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[12/11/2026 22:26:41] NOVA MANOBRA:
+Navio: SAKIZAYA ZEST
+Manobra: Desatracação
+Data/Hora: 13/11/26 03:31
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[12/11/2026 22:26:41] NOVA MANOBRA:
+Navio: PAXOS
+Manobra: Atracação
+Data/Hora: 13/11/26 07:08
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[12/11/2026 22:26:41] NOVA MANOBRA:
+Navio: ORE YANTAI
+Manobra: Atracação
+Data/Hora: 13/11/26 07:08
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[12/11/2026 22:26:41] NOVA MANOBRA:
+Navio: GRAND PIONEER
+Manobra: Desatracação
+Data/Hora: 13/11/26 07:08
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
