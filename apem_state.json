@@ -1,13 +1,10 @@
 {
-  "GREAT BLOSSOM | 12/11/26 | 18:46 | EA | 105": "Navio: GREAT BLOSSOM\nManobra: Atracação\nData/Hora: 12/11/26 18:46\nDe: BOIA 19-24\nPara/Berço: 105\nAgência: FERTIMPORT - S.L **",
-  "ORE CHONGQING | 13/11/26 | 02:31 | DS | ILHA DO MEDO": "Navio: ORE CHONGQING\nManobra: Desatracação\nData/Hora: 13/11/26 02:31\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
   "MOCKINGBIRD | 13/11/26 | 02:31 | EA | 108": "Navio: MOCKINGBIRD\nManobra: Atracação\nData/Hora: 13/11/26 02:31\nDe: BOIA 19-24\nPara/Berço: 108\nAgência: LBH BRASIL**",
-  "HONESTY | 13/11/26 | 02:31 | DS | ILHA DO MEDO": "Navio: HONESTY\nManobra: Desatracação\nData/Hora: 13/11/26 02:31\nDe: 108\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "MARMOLADA | 13/11/26 | 03:01 | EA | PIER 3 NORTE": "Navio: MARMOLADA\nManobra: Atracação\nData/Hora: 13/11/26 03:01\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: ISS**",
   "OITA MARU | 13/11/26 | 03:01 | EA | PIER 4 NORTE": "Navio: OITA MARU\nManobra: Atracação\nData/Hora: 13/11/26 03:01\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE\nAgência: LACHMANN**",
-  "PAN GOLD | 13/11/26 | 03:01 | DS | ILHA DO MEDO": "Navio: PAN GOLD\nManobra: Desatracação\nData/Hora: 13/11/26 03:01\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
-  "SAKIZAYA ZEST | 13/11/26 | 03:31 | DS | ILHA DO MEDO": "Navio: SAKIZAYA ZEST\nManobra: Desatracação\nData/Hora: 13/11/26 03:31\nDe: 103/NORTE\nPara/Berço: ILHA DO MEDO\nAgência: FERTIMPORT - S.L **",
+  "MARMOLADA | 13/11/26 | 03:01 | EA | PIER 3 NORTE": "Navio: MARMOLADA\nManobra: Atracação\nData/Hora: 13/11/26 03:01\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: ISS**",
   "PAXOS | 13/11/26 | 07:08 | EA | 103/NORTE": "Navio: PAXOS\nManobra: Atracação\nData/Hora: 13/11/26 07:08\nDe: BOIA 19-24\nPara/Berço: 103/NORTE\nAgência: FERTIMPORT - S.L **",
+  "GRAND PIONEER | 13/11/26 | 07:08 | DS | ILHA DO MEDO": "Navio: GRAND PIONEER\nManobra: Desatracação\nData/Hora: 13/11/26 07:08\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
   "ORE YANTAI | 13/11/26 | 07:08 | EA | PIER 1": "Navio: ORE YANTAI\nManobra: Atracação\nData/Hora: 13/11/26 07:08\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: LMA SHIPPING **",
-  "GRAND PIONEER | 13/11/26 | 07:08 | DS | ILHA DO MEDO": "Navio: GRAND PIONEER\nManobra: Desatracação\nData/Hora: 13/11/26 07:08\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **"
+  "SEYCHELLES PATRIOT | 13/11/26 | 08:08 | DS | ILHA DO MEDO": "Navio: SEYCHELLES PATRIOT\nManobra: Desatracação\nData/Hora: 13/11/26 08:08\nDe: 106\nPara/Berço: ILHA DO MEDO\nAgência: NORTH STAR**",
+  "SARONIC WIND | 13/11/26 | 08:38 | EA | 106": "Navio: SARONIC WIND\nManobra: Atracação\nData/Hora: 13/11/26 08:38\nDe: PONTO ALPHA\nPara/Berço: 106\nAgência: WILSON SONS **"
 }

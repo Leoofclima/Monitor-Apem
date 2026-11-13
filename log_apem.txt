@@ -17089,3 +17089,59 @@ De: PIER 1
 Para/Berço: ILHA DO MEDO
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[13/11/2026 05:24:53] NOVA MANOBRA:
+Navio: SEYCHELLES PATRIOT
+Manobra: Desatracação
+Data/Hora: 13/11/26 08:08
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[13/11/2026 05:24:53] NOVA MANOBRA:
+Navio: SARONIC WIND
+Manobra: Atracação
+Data/Hora: 13/11/26 08:38
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: WILSON SONS **
+--------------------------------------------------
+[13/11/2026 05:24:53] MANOBRA CONCLUÍDA (navio atracou):
+Navio: GREAT BLOSSOM
+Manobra: Atracação
+Data/Hora: 12/11/26 20:30 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[13/11/2026 05:24:53] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ORE CHONGQING
+Manobra: Desatracação
+Data/Hora: 13/11/26 02:31
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[13/11/2026 05:24:53] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: HONESTY
+Manobra: Desatracação
+Data/Hora: 13/11/26 02:31
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[13/11/2026 05:24:53] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PAN GOLD
+Manobra: Desatracação
+Data/Hora: 13/11/26 03:01
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[13/11/2026 05:24:53] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SAKIZAYA ZEST
+Manobra: Desatracação
+Data/Hora: 13/11/26 03:31
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
