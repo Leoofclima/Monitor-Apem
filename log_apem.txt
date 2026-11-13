@@ -17225,3 +17225,51 @@ De: PONTO ALPHA
 Para/Berço: 106
 Agência: WILSON SONS **
 --------------------------------------------------
+[13/11/2026 19:08:43] NOVA MANOBRA:
+Navio: SOUTHERN CROSS
+Manobra: Atracação
+Data/Hora: 13/11/26 19:17
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: GEM**
+--------------------------------------------------
+[13/11/2026 19:08:43] NOVA MANOBRA:
+Navio: STAR BORNEO
+Manobra: Desatracação
+Data/Hora: 13/11/26 19:17
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[13/11/2026 19:08:43] NOVA MANOBRA:
+Navio: AMAZON PIONEER
+Manobra: Atracação
+Data/Hora: 13/11/26 20:02
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[13/11/2026 19:08:43] NOVA MANOBRA:
+Navio: MH HOTAKA
+Manobra: Desatracação
+Data/Hora: 14/11/26 08:02
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: HARMS**
+--------------------------------------------------
+[13/11/2026 19:08:43] NOVA MANOBRA:
+Navio: LILA CASABLANCA
+Manobra: Atracação
+Data/Hora: 14/11/26 08:32
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
+[13/11/2026 19:08:43] MANOBRA CONCLUÍDA (navio atracou):
+Navio: KONTA III
+Manobra: Atracação
+Data/Hora: 13/11/26 14:48 (horário real de atracação)
+De: PTO EMBARQUE LC
+Para/Berço: PLATAFORMA 1
+Agência: GEM - PARNAIBA
+--------------------------------------------------
