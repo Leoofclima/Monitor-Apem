@@ -17145,3 +17145,83 @@ De: 103/NORTE
 Para/Berço: ILHA DO MEDO
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[13/11/2026 13:37:33] NOVA MANOBRA:
+Navio: KONTA III
+Manobra: Atracação
+Data/Hora: 13/11/26 12:00
+De: PTO EMBARQUE LC
+Para/Berço: PLATAFORMA 1
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[13/11/2026 13:37:33] NOVA MANOBRA:
+Navio: GLORY TOM
+Manobra: Desatracação
+Data/Hora: 13/11/26 19:32
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[13/11/2026 13:37:33] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MOCKINGBIRD
+Manobra: Atracação
+Data/Hora: 13/11/26 04:27 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 108
+Agência: LBH BRASIL**
+--------------------------------------------------
+[13/11/2026 13:37:33] MANOBRA CONCLUÍDA (navio atracou):
+Navio: OITA MARU
+Manobra: Atracação
+Data/Hora: 13/11/26 06:10 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LACHMANN**
+--------------------------------------------------
+[13/11/2026 13:37:33] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MARMOLADA
+Manobra: Atracação
+Data/Hora: 13/11/26 06:21 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: ISS**
+--------------------------------------------------
+[13/11/2026 13:37:33] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PAXOS
+Manobra: Atracação
+Data/Hora: 13/11/26 09:00 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[13/11/2026 13:37:33] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: GRAND PIONEER
+Manobra: Desatracação
+Data/Hora: 13/11/26 07:08
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[13/11/2026 13:37:33] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ORE YANTAI
+Manobra: Atracação
+Data/Hora: 13/11/26 10:15 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[13/11/2026 13:37:33] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SEYCHELLES PATRIOT
+Manobra: Desatracação
+Data/Hora: 13/11/26 08:08
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[13/11/2026 13:37:33] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SARONIC WIND
+Manobra: Atracação
+Data/Hora: 13/11/26 10:10 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: WILSON SONS **
+--------------------------------------------------
