@@ -17425,3 +17425,61 @@ De: PONTO ALPHA
 Para/Berço: PIER 1
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[14/11/2026 20:51:08] NOVA MANOBRA:
+Navio: OITA MARU
+Manobra: Desatracação
+Data/Hora: 15/11/26 03:38
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LACHMANN**
+--------------------------------------------------
+[14/11/2026 20:51:08] NOVA MANOBRA:
+Navio: ULTRA UNITY
+Manobra: Atracação
+Data/Hora: 15/11/26 04:08
+De: BOIA 19-24
+Para/Berço: 105
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[14/11/2026 20:51:08] NOVA MANOBRA:
+Navio: STELLAR ACE
+Manobra: Atracação
+Data/Hora: 15/11/26 04:08
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: ISS**
+--------------------------------------------------
+[14/11/2026 20:51:08] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: GREAT BLOSSOM
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 14/11/26 19:29
+Agora: 15/11/26 04:38
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[14/11/2026 20:51:08] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CHAMPION CORNELIA
+Manobra: Atracação
+Data/Hora: 14/11/26 17:20 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: NORTH STAR**
+--------------------------------------------------
+[14/11/2026 20:51:08] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ANTIPAROS
+Manobra: Desatracação
+Data/Hora: 14/11/26 15:44
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[14/11/2026 20:51:08] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: MAERSK CALLAO
+Manobra: Desatracação
+Data/Hora: 14/11/26 16:14
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
