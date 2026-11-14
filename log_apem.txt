@@ -17273,3 +17273,51 @@ De: PTO EMBARQUE LC
 Para/Berço: PLATAFORMA 1
 Agência: GEM - PARNAIBA
 --------------------------------------------------
+[13/11/2026 23:20:15] NOVA MANOBRA:
+Navio: MOCKINGBIRD
+Manobra: Desatracação
+Data/Hora: 14/11/26 08:47
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
+[13/11/2026 23:20:15] NOVA MANOBRA:
+Navio: CHAMPION CORNELIA
+Manobra: Atracação
+Data/Hora: 14/11/26 15:14
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: NORTH STAR**
+--------------------------------------------------
+[13/11/2026 23:20:15] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SOUTHERN CROSS
+Manobra: Atracação
+Data/Hora: 13/11/26 21:45 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: GEM**
+--------------------------------------------------
+[13/11/2026 23:20:15] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: STAR BORNEO
+Manobra: Desatracação
+Data/Hora: 13/11/26 19:17
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[13/11/2026 23:20:15] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: GLORY TOM
+Manobra: Desatracação
+Data/Hora: 13/11/26 19:32
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[13/11/2026 23:20:15] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AMAZON PIONEER
+Manobra: Atracação
+Data/Hora: 13/11/26 22:40 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
