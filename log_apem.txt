@@ -17401,3 +17401,27 @@ De: 108
 Para/Berço: ILHA DO MEDO
 Agência: LBH BRASIL**
 --------------------------------------------------
+[14/11/2026 17:07:03] NOVA MANOBRA:
+Navio: GREAT BLOSSOM
+Manobra: Desatracação
+Data/Hora: 14/11/26 19:29
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[14/11/2026 17:07:03] NOVA MANOBRA:
+Navio: ORE YANTAI
+Manobra: Desatracação
+Data/Hora: 15/11/26 04:08
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[14/11/2026 17:07:03] NOVA MANOBRA:
+Navio: CSB TALENT
+Manobra: Atracação
+Data/Hora: 15/11/26 04:08
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
