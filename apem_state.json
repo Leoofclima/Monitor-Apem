@@ -1,6 +1,9 @@
 {
+  "WINDERMERE | 14/11/26 | 07:17 | DS | ILHA DO MEDO": "Navio: WINDERMERE\nManobra: Desatracação\nData/Hora: 14/11/26 07:17\nDe: 102/CENTRO\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "MERCURY ISLAND | 14/11/26 | 07:47 | EA | 102/CENTRO": "Navio: MERCURY ISLAND\nManobra: Atracação\nData/Hora: 14/11/26 07:47\nDe: BOIA 19-24\nPara/Berço: 102/CENTRO\nAgência: NORTH STAR**",
   "MH HOTAKA | 14/11/26 | 08:02 | DS | ILHA DO MEDO": "Navio: MH HOTAKA\nManobra: Desatracação\nData/Hora: 14/11/26 08:02\nDe: ALUMAR 1\nPara/Berço: ILHA DO MEDO\nAgência: HARMS**",
   "LILA CASABLANCA | 14/11/26 | 08:32 | EA | ALUMAR 1": "Navio: LILA CASABLANCA\nManobra: Atracação\nData/Hora: 14/11/26 08:32\nDe: BOIA 19-24\nPara/Berço: ALUMAR 1\nAgência: GEM**",
   "MOCKINGBIRD | 14/11/26 | 08:47 | DS | ILHA DO MEDO": "Navio: MOCKINGBIRD\nManobra: Desatracação\nData/Hora: 14/11/26 08:47\nDe: 108\nPara/Berço: ILHA DO MEDO\nAgência: LBH BRASIL**",
-  "CHAMPION CORNELIA | 14/11/26 | 15:14 | EA | 108": "Navio: CHAMPION CORNELIA\nManobra: Atracação\nData/Hora: 14/11/26 15:14\nDe: PONTO ALPHA\nPara/Berço: 108\nAgência: NORTH STAR**"
+  "CHAMPION CORNELIA | 14/11/26 | 15:14 | EA | 108": "Navio: CHAMPION CORNELIA\nManobra: Atracação\nData/Hora: 14/11/26 15:14\nDe: PONTO ALPHA\nPara/Berço: 108\nAgência: NORTH STAR**",
+  "MAERSK CALLAO | 14/11/26 | 16:14 | DS | ILHA DO MEDO": "Navio: MAERSK CALLAO\nManobra: Desatracação\nData/Hora: 14/11/26 16:14\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**"
 }

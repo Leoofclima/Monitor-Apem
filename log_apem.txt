@@ -17321,3 +17321,27 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[14/11/2026 06:05:46] NOVA MANOBRA:
+Navio: WINDERMERE
+Manobra: Desatracação
+Data/Hora: 14/11/26 07:17
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[14/11/2026 06:05:46] NOVA MANOBRA:
+Navio: MERCURY ISLAND
+Manobra: Atracação
+Data/Hora: 14/11/26 07:47
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: NORTH STAR**
+--------------------------------------------------
+[14/11/2026 06:05:46] NOVA MANOBRA:
+Navio: MAERSK CALLAO
+Manobra: Desatracação
+Data/Hora: 14/11/26 16:14
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
