@@ -1,10 +1,12 @@
 {
-  "STELLAR ACE | 15/11/26 | 08:25 | EA | PIER 4 NORTE": "Navio: STELLAR ACE\nManobra: Atracação\nData/Hora: 15/11/26 08:25\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE\nAgência: ISS**",
-  "OITA MARU | 15/11/26 | 08:25 | DS | ILHA DO MEDO": "Navio: OITA MARU\nManobra: Desatracação\nData/Hora: 15/11/26 08:25\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: LACHMANN**",
-  "AMAZON PIONEER | 15/11/26 | 08:40 | DS | ILHA DO MEDO": "Navio: AMAZON PIONEER\nManobra: Desatracação\nData/Hora: 15/11/26 08:40\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
-  "ARIADNE | 15/11/26 | 08:55 | EA | PIER 3 SUL": "Navio: ARIADNE\nManobra: Atracação\nData/Hora: 15/11/26 08:55\nDe: PONTO ALPHA\nPara/Berço: PIER 3 SUL\nAgência: LMA SHIPPING **",
-  "AMAZON COURAGE | 15/11/26 | 09:10 | EA | ALUMAR 2": "Navio: AMAZON COURAGE\nManobra: Atracação\nData/Hora: 15/11/26 09:10\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 2\nAgência: ORION RODOS**",
-  "SOUTHERN CROSS | 15/11/26 | 09:25 | DS | ILHA DO MEDO": "Navio: SOUTHERN CROSS\nManobra: Desatracação\nData/Hora: 15/11/26 09:25\nDe: PIER 3 SUL\nPara/Berço: ILHA DO MEDO\nAgência: GEM**",
-  "BESIKTAS AZERBAIJAN | 15/11/26 | 16:23 | EA | PIER 3 NORTE": "Navio: BESIKTAS AZERBAIJAN\nManobra: Atracação\nData/Hora: 15/11/26 16:23\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: ISS**",
-  "MARMOLADA | 15/11/26 | 16:23 | DS | ILHA DO MEDO": "Navio: MARMOLADA\nManobra: Desatracação\nData/Hora: 15/11/26 16:23\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: ISS**"
+  "KONTA III | 15/11/26 | 13:55 | EA | PLATAFORMA 1": "Navio: KONTA III\nManobra: Atracação\nData/Hora: 15/11/26 13:55\nDe: PTO EMBARQUE LC\nPara/Berço: PLATAFORMA 1\nAgência: GEM - PARNAIBA",
+  "YM RESPECT | 15/11/26 | 16:23 | DA | 101/SUL": "Navio: YM RESPECT\nManobra: DA\nData/Hora: 15/11/26 16:23\nDe: 99\nPara/Berço: 101/SUL\nAgência: LBH BRASIL**",
+  "AS ONE | 15/11/26 | 16:53 | EA | 102/CENTRO": "Navio: AS ONE\nManobra: Atracação\nData/Hora: 15/11/26 16:53\nDe: PONTO ALPHA\nPara/Berço: 102/CENTRO\nAgência: LBH BRASIL**",
+  "MERCURY ISLAND | 15/11/26 | 16:53 | DS | ILHA DO MEDO": "Navio: MERCURY ISLAND\nManobra: Desatracação\nData/Hora: 15/11/26 16:53\nDe: 102/CENTRO\nPara/Berço: ILHA DO MEDO\nAgência: NORTH STAR**",
+  "ETHRA DIAMOND | 15/11/26 | 16:53 | DF | AREA 7B.2": "Navio: ETHRA DIAMOND\nManobra: DF\nData/Hora: 15/11/26 16:53\nDe: 101/SUL\nPara/Berço: AREA 7B.2\nAgência: SHIPPING PROTECTION **",
+  "MARMOLADA | 15/11/26 | 20:44 | DS | ILHA DO MEDO": "Navio: MARMOLADA\nManobra: Desatracação\nData/Hora: 15/11/26 20:44\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
+  "BESIKTAS AZERBAIJAN | 15/11/26 | 20:44 | EA | PIER 3 NORTE": "Navio: BESIKTAS AZERBAIJAN\nManobra: Atracação\nData/Hora: 15/11/26 20:44\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: ISS**",
+  "IOLCOS FIGHTER | 15/11/26 | 20:44 | EA | 99": "Navio: IOLCOS FIGHTER\nManobra: Atracação\nData/Hora: 15/11/26 20:44\nDe: PONTO ALPHA\nPara/Berço: 99\nAgência: WORLD SHIPPING",
+  "SARONIC WIND | 15/11/26 | 21:44 | DS | ILHA DO MEDO": "Navio: SARONIC WIND\nManobra: Desatracação\nData/Hora: 15/11/26 21:44\nDe: 106\nPara/Berço: ILHA DO MEDO\nAgência: WILSON SONS **",
+  "STI MYSTERY | 15/11/26 | 22:14 | EA | 106": "Navio: STI MYSTERY\nManobra: Atracação\nData/Hora: 15/11/26 22:14\nDe: PONTO ALPHA\nPara/Berço: 106\nAgência: ISS**"
 }

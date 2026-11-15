@@ -17591,3 +17591,135 @@ De: 105
 Para/Berço: ILHA DO MEDO
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[15/11/2026 14:58:39] NOVA MANOBRA:
+Navio: KONTA III
+Manobra: Atracação
+Data/Hora: 15/11/26 13:55
+De: PTO EMBARQUE LC
+Para/Berço: PLATAFORMA 1
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[15/11/2026 14:58:39] NOVA MANOBRA:
+Navio: YM RESPECT
+Manobra: DA
+Data/Hora: 15/11/26 16:23
+De: 99
+Para/Berço: 101/SUL
+Agência: LBH BRASIL**
+--------------------------------------------------
+[15/11/2026 14:58:39] NOVA MANOBRA:
+Navio: AS ONE
+Manobra: Atracação
+Data/Hora: 15/11/26 16:53
+De: PONTO ALPHA
+Para/Berço: 102/CENTRO
+Agência: LBH BRASIL**
+--------------------------------------------------
+[15/11/2026 14:58:39] NOVA MANOBRA:
+Navio: MERCURY ISLAND
+Manobra: Desatracação
+Data/Hora: 15/11/26 16:53
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[15/11/2026 14:58:39] NOVA MANOBRA:
+Navio: ETHRA DIAMOND
+Manobra: DF
+Data/Hora: 15/11/26 16:53
+De: 101/SUL
+Para/Berço: AREA 7B.2
+Agência: SHIPPING PROTECTION **
+--------------------------------------------------
+[15/11/2026 14:58:39] NOVA MANOBRA:
+Navio: IOLCOS FIGHTER
+Manobra: Atracação
+Data/Hora: 15/11/26 20:44
+De: PONTO ALPHA
+Para/Berço: 99
+Agência: WORLD SHIPPING
+--------------------------------------------------
+[15/11/2026 14:58:39] NOVA MANOBRA:
+Navio: SARONIC WIND
+Manobra: Desatracação
+Data/Hora: 15/11/26 21:44
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[15/11/2026 14:58:39] NOVA MANOBRA:
+Navio: STI MYSTERY
+Manobra: Atracação
+Data/Hora: 15/11/26 22:14
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: ISS**
+--------------------------------------------------
+[15/11/2026 14:58:39] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: MARMOLADA
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 15/11/26 16:23
+Agora: 15/11/26 20:44
+Agência: ISS**
+--------------------------------------------------
+[15/11/2026 14:58:39] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: BESIKTAS AZERBAIJAN
+Manobra: Atracação
+Berço: PIER 3 NORTE
+Antes: 15/11/26 16:23
+Agora: 15/11/26 20:44
+Agência: ISS**
+--------------------------------------------------
+[15/11/2026 14:58:39] MANOBRA CONCLUÍDA (navio atracou):
+Navio: STELLAR ACE
+Manobra: Atracação
+Data/Hora: 15/11/26 11:15 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: ISS**
+--------------------------------------------------
+[15/11/2026 14:58:39] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: OITA MARU
+Manobra: Desatracação
+Data/Hora: 15/11/26 08:25
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LACHMANN**
+--------------------------------------------------
+[15/11/2026 14:58:39] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AMAZON PIONEER
+Manobra: Desatracação
+Data/Hora: 15/11/26 08:40
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[15/11/2026 14:58:39] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ARIADNE
+Manobra: Atracação
+Data/Hora: 15/11/26 11:30 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[15/11/2026 14:58:39] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AMAZON COURAGE
+Manobra: Atracação
+Data/Hora: 15/11/26 11:15 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[15/11/2026 14:58:39] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SOUTHERN CROSS
+Manobra: Desatracação
+Data/Hora: 15/11/26 09:25
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
