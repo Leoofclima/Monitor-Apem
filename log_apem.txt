@@ -17723,3 +17723,87 @@ De: PIER 3 SUL
 Para/Berço: ILHA DO MEDO
 Agência: GEM**
 --------------------------------------------------
+[15/11/2026 19:32:04] NOVA MANOBRA:
+Navio: PAXOS
+Manobra: Desatracação
+Data/Hora: 15/11/26 21:44
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[15/11/2026 19:32:04] NOVA MANOBRA:
+Navio: LILA CASABLANCA
+Manobra: Desatracação
+Data/Hora: 15/11/26 21:59
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[15/11/2026 19:32:04] NOVA MANOBRA:
+Navio: STAR LOUISIANA
+Manobra: Atracação
+Data/Hora: 16/11/26 04:53
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: ROCHAMAR**
+--------------------------------------------------
+[15/11/2026 19:32:04] NOVA MANOBRA:
+Navio: KONTA III
+Manobra: Desatracação
+Data/Hora: 16/11/26 09:50
+De: PLATAFORMA 1
+Para/Berço: PTO EMBARQUE LC
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[15/11/2026 19:32:04] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: SARONIC WIND
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 15/11/26 21:44
+Agora: 16/11/26 04:23
+Agência: WILSON SONS **
+--------------------------------------------------
+[15/11/2026 19:32:04] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: STI MYSTERY
+Manobra: Atracação
+Berço: 106
+Antes: 15/11/26 22:14
+Agora: 16/11/26 04:23
+Agência: ISS**
+--------------------------------------------------
+[15/11/2026 19:32:04] MANOBRA CONCLUÍDA (navio atracou):
+Navio: KONTA III
+Manobra: Atracação
+Data/Hora: 15/11/26 15:55 (horário real de atracação)
+De: PTO EMBARQUE LC
+Para/Berço: PLATAFORMA 1
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[15/11/2026 19:32:04] MANOBRA CONCLUÍDA (navio atracou):
+Navio: YM RESPECT
+Manobra: DA
+Data/Hora: 15/11/26 18:40 (horário real de atracação)
+De: 99
+Para/Berço: 101/SUL
+Agência: LBH BRASIL**
+--------------------------------------------------
+[15/11/2026 19:32:04] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: MERCURY ISLAND
+Manobra: Desatracação
+Data/Hora: 15/11/26 16:53
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[15/11/2026 19:32:04] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ETHRA DIAMOND
+Manobra: DF
+Data/Hora: 15/11/26 17:52 (horário real de atracação)
+De: 101/SUL
+Para/Berço: AREA 7B.2
+Agência: SHIPPING PROTECTION **
+--------------------------------------------------
