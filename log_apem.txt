@@ -17507,3 +17507,87 @@ De: BOIA 19-24
 Para/Berço: 104
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[15/11/2026 08:40:20] NOVA MANOBRA:
+Navio: ARIADNE
+Manobra: Atracação
+Data/Hora: 15/11/26 08:55
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[15/11/2026 08:40:20] NOVA MANOBRA:
+Navio: SOUTHERN CROSS
+Manobra: Desatracação
+Data/Hora: 15/11/26 09:25
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[15/11/2026 08:40:20] NOVA MANOBRA:
+Navio: BESIKTAS AZERBAIJAN
+Manobra: Atracação
+Data/Hora: 15/11/26 16:23
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: ISS**
+--------------------------------------------------
+[15/11/2026 08:40:20] NOVA MANOBRA:
+Navio: MARMOLADA
+Manobra: Desatracação
+Data/Hora: 15/11/26 16:23
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[15/11/2026 08:40:20] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: STELLAR ACE
+Manobra: Atracação
+Berço: PIER 4 NORTE
+Antes: 15/11/26 04:08
+Agora: 15/11/26 08:25
+Agência: ISS**
+--------------------------------------------------
+[15/11/2026 08:40:20] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: OITA MARU
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 15/11/26 03:38
+Agora: 15/11/26 08:25
+Agência: LACHMANN**
+--------------------------------------------------
+[15/11/2026 08:40:20] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ULTRA UNITY
+Manobra: Atracação
+Data/Hora: 15/11/26 06:00 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[15/11/2026 08:40:20] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ORE YANTAI
+Manobra: Desatracação
+Data/Hora: 15/11/26 04:08
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[15/11/2026 08:40:20] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CSB TALENT
+Manobra: Atracação
+Data/Hora: 15/11/26 06:30 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[15/11/2026 08:40:20] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: GREAT BLOSSOM
+Manobra: Desatracação
+Data/Hora: 15/11/26 04:38
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
