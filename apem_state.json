@@ -1,13 +1,7 @@
 {
-  "BESIKTAS AZERBAIJAN | 15/11/26 | 20:44 | EA | PIER 3 NORTE": "Navio: BESIKTAS AZERBAIJAN\nManobra: Atracação\nData/Hora: 15/11/26 20:44\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: ISS**",
-  "IOLCOS FIGHTER | 15/11/26 | 20:44 | EA | 99": "Navio: IOLCOS FIGHTER\nManobra: Atracação\nData/Hora: 15/11/26 20:44\nDe: PONTO ALPHA\nPara/Berço: 99\nAgência: WORLD SHIPPING",
-  "PAXOS | 15/11/26 | 21:44 | DS | ILHA DO MEDO": "Navio: PAXOS\nManobra: Desatracação\nData/Hora: 15/11/26 21:44\nDe: 103/NORTE\nPara/Berço: ILHA DO MEDO\nAgência: FERTIMPORT - S.L **",
-  "LILA CASABLANCA | 15/11/26 | 21:59 | DS | ILHA DO MEDO": "Navio: LILA CASABLANCA\nManobra: Desatracação\nData/Hora: 15/11/26 21:59\nDe: ALUMAR 1\nPara/Berço: ILHA DO MEDO\nAgência: GEM**",
-  "SARONIC WIND | 16/11/26 | 04:23 | DS | ILHA DO MEDO": "Navio: SARONIC WIND\nManobra: Desatracação\nData/Hora: 16/11/26 04:23\nDe: 106\nPara/Berço: ILHA DO MEDO\nAgência: WILSON SONS **",
   "STI MYSTERY | 16/11/26 | 04:23 | EA | 106": "Navio: STI MYSTERY\nManobra: Atracação\nData/Hora: 16/11/26 04:23\nDe: PONTO ALPHA\nPara/Berço: 106\nAgência: ISS**",
   "STAR LOUISIANA | 16/11/26 | 04:53 | EA | 103/NORTE": "Navio: STAR LOUISIANA\nManobra: Atracação\nData/Hora: 16/11/26 04:53\nDe: BOIA 19-24\nPara/Berço: 103/NORTE\nAgência: ROCHAMAR**",
   "DART | 16/11/26 | 04:53 | EA | 104": "Navio: DART\nManobra: Atracação\nData/Hora: 16/11/26 04:53\nDe: BOIA 19-24\nPara/Berço: 104\nAgência: WILHELMSEN PORT**",
-  "DARCY RIBEIRO | 16/11/26 | 04:53 | DS | ILHA DO MEDO": "Navio: DARCY RIBEIRO\nManobra: Desatracação\nData/Hora: 16/11/26 04:53\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
   "KONTA III | 16/11/26 | 09:35 | DS | PTO EMBARQUE LC": "Navio: KONTA III\nManobra: Desatracação\nData/Hora: 16/11/26 09:35\nDe: PLATAFORMA 1\nPara/Berço: PTO EMBARQUE LC\nAgência: GEM - PARNAIBA",
   "MAERSK MALAGA | 16/11/26 | 09:59 | EA | ALUMAR 1": "Navio: MAERSK MALAGA\nManobra: Atracação\nData/Hora: 16/11/26 09:59\nDe: BOIA 19-24\nPara/Berço: ALUMAR 1\nAgência: WILHELMSEN PORT**"
 }

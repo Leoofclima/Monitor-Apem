@@ -17857,3 +17857,51 @@ De: PIER 3 NORTE
 Para/Berço: ILHA DO MEDO
 Agência: ISS**
 --------------------------------------------------
+[16/11/2026 06:58:33] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BESIKTAS AZERBAIJAN
+Manobra: Atracação
+Data/Hora: 15/11/26 23:30 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: ISS**
+--------------------------------------------------
+[16/11/2026 06:58:33] MANOBRA CONCLUÍDA (navio atracou):
+Navio: IOLCOS FIGHTER
+Manobra: Atracação
+Data/Hora: 15/11/26 22:40 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 99
+Agência: WORLD SHIPPING
+--------------------------------------------------
+[16/11/2026 06:58:33] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PAXOS
+Manobra: Desatracação
+Data/Hora: 15/11/26 21:44
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[16/11/2026 06:58:33] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: LILA CASABLANCA
+Manobra: Desatracação
+Data/Hora: 15/11/26 21:59
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[16/11/2026 06:58:33] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SARONIC WIND
+Manobra: Desatracação
+Data/Hora: 16/11/26 04:23
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[16/11/2026 06:58:33] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: DARCY RIBEIRO
+Manobra: Desatracação
+Data/Hora: 16/11/26 04:53
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
