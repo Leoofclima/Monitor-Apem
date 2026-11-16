@@ -17807,3 +17807,53 @@ De: 101/SUL
 Para/Berço: AREA 7B.2
 Agência: SHIPPING PROTECTION **
 --------------------------------------------------
+[15/11/2026 23:22:11] NOVA MANOBRA:
+Navio: DART
+Manobra: Atracação
+Data/Hora: 16/11/26 04:53
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[15/11/2026 23:22:11] NOVA MANOBRA:
+Navio: DARCY RIBEIRO
+Manobra: Desatracação
+Data/Hora: 16/11/26 04:53
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[15/11/2026 23:22:11] NOVA MANOBRA:
+Navio: MAERSK MALAGA
+Manobra: Atracação
+Data/Hora: 16/11/26 09:59
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[15/11/2026 23:22:11] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: KONTA III
+Manobra: Desatracação
+Berço: PTO EMBARQUE LC
+Antes: 16/11/26 09:50
+Agora: 16/11/26 09:35
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[15/11/2026 23:22:11] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AS ONE
+Manobra: Atracação
+Data/Hora: 15/11/26 19:20 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 102/CENTRO
+Agência: LBH BRASIL**
+--------------------------------------------------
+[15/11/2026 23:22:11] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: MARMOLADA
+Manobra: Desatracação
+Data/Hora: 15/11/26 20:44
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
