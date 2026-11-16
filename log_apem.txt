@@ -17905,3 +17905,59 @@ De: 104
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[16/11/2026 17:00:25] NOVA MANOBRA:
+Navio: OCEANLADY
+Manobra: Atracação
+Data/Hora: 16/11/26 23:04
+De: BOIA 19-24
+Para/Berço: 100
+Agência: LBH BRASIL**
+--------------------------------------------------
+[16/11/2026 17:00:25] NOVA MANOBRA:
+Navio: KONTA III
+Manobra: Atracação
+Data/Hora: 17/11/26 16:15
+De: PTO EMBARQUE LC
+Para/Berço: PLATAFORMA 1
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[16/11/2026 17:00:25] MANOBRA CONCLUÍDA (navio atracou):
+Navio: STI MYSTERY
+Manobra: Atracação
+Data/Hora: 16/11/26 06:18 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: ISS**
+--------------------------------------------------
+[16/11/2026 17:00:25] MANOBRA CONCLUÍDA (navio atracou):
+Navio: STAR LOUISIANA
+Manobra: Atracação
+Data/Hora: 16/11/26 06:50 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: ROCHAMAR**
+--------------------------------------------------
+[16/11/2026 17:00:25] MANOBRA CONCLUÍDA (navio atracou):
+Navio: DART
+Manobra: Atracação
+Data/Hora: 16/11/26 06:29 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[16/11/2026 17:00:25] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: KONTA III
+Manobra: Desatracação
+Data/Hora: 16/11/26 09:35
+De: PLATAFORMA 1
+Para/Berço: PTO EMBARQUE LC
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[16/11/2026 17:00:25] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MAERSK MALAGA
+Manobra: Atracação
+Data/Hora: 16/11/26 12:30 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
