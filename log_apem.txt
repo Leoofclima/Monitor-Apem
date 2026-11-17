@@ -17961,3 +17961,35 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 1
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[16/11/2026 23:50:24] NOVA MANOBRA:
+Navio: PACIFIC GEMINI
+Manobra: Atracação
+Data/Hora: 17/11/26 05:17
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: NORTH STAR**
+--------------------------------------------------
+[16/11/2026 23:50:24] NOVA MANOBRA:
+Navio: STI MYSTERY
+Manobra: Desatracação
+Data/Hora: 17/11/26 05:17
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[16/11/2026 23:50:24] NOVA MANOBRA:
+Navio: PRECIOUS ADELAIDE
+Manobra: Atracação
+Data/Hora: 17/11/26 10:16
+De: PONTO ALPHA
+Para/Berço: 104
+Agência: NORTH STAR**
+--------------------------------------------------
+[16/11/2026 23:50:24] NOVA MANOBRA:
+Navio: CHAMPION CORNELIA
+Manobra: Desatracação
+Data/Hora: 17/11/26 11:16
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
