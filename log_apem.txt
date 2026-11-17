@@ -18065,3 +18065,85 @@ De: 106
 Para/Berço: ILHA DO MEDO
 Agência: ISS**
 --------------------------------------------------
+[17/11/2026 16:56:44] NOVA MANOBRA:
+Navio: STELLAR ACE
+Manobra: Desatracação
+Data/Hora: 17/11/26 17:44
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[17/11/2026 16:56:44] NOVA MANOBRA:
+Navio: BOSPORUS
+Manobra: Atracação
+Data/Hora: 17/11/26 18:14
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[17/11/2026 16:56:44] NOVA MANOBRA:
+Navio: MAERSK MALAGA
+Manobra: Desatracação
+Data/Hora: 17/11/26 22:53
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[17/11/2026 16:56:44] NOVA MANOBRA:
+Navio: MIKE BAY
+Manobra: Atracação
+Data/Hora: 17/11/26 23:23
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
+[17/11/2026 16:56:44] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: CHAMPION CORNELIA
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 17/11/26 11:16
+Agora: 17/11/26 17:44
+Agência: NORTH STAR**
+--------------------------------------------------
+[17/11/2026 16:56:44] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: CSB TALENT
+Manobra: Desatracação
+Data/Hora: 17/11/26 10:16
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[17/11/2026 16:56:44] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PRECIOUS ADELAIDE
+Manobra: Atracação
+Data/Hora: 17/11/26 12:41 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 104
+Agência: NORTH STAR**
+--------------------------------------------------
+[17/11/2026 16:56:44] MANOBRA CONCLUÍDA (navio atracou):
+Navio: NSU BRAZIL
+Manobra: Atracação
+Data/Hora: 17/11/26 13:13 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LBH BRASIL**
+--------------------------------------------------
+[17/11/2026 16:56:44] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AMAZON COURAGE
+Manobra: Desatracação
+Data/Hora: 17/11/26 10:31
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[17/11/2026 16:56:44] MANOBRA CONCLUÍDA (navio atracou):
+Navio: FORTE DE SAO JOSE
+Manobra: Atracação
+Data/Hora: 17/11/26 13:35 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
