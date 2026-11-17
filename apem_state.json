@@ -1,8 +1,11 @@
 {
-  "OCEANLADY | 16/11/26 | 23:04 | EA | 100": "Navio: OCEANLADY\nManobra: Atracação\nData/Hora: 16/11/26 23:04\nDe: BOIA 19-24\nPara/Berço: 100\nAgência: LBH BRASIL**",
-  "PACIFIC GEMINI | 17/11/26 | 05:17 | EA | 106": "Navio: PACIFIC GEMINI\nManobra: Atracação\nData/Hora: 17/11/26 05:17\nDe: PONTO ALPHA\nPara/Berço: 106\nAgência: NORTH STAR**",
-  "STI MYSTERY | 17/11/26 | 05:17 | DS | ILHA DO MEDO": "Navio: STI MYSTERY\nManobra: Desatracação\nData/Hora: 17/11/26 05:17\nDe: 106\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
+  "CSB TALENT | 17/11/26 | 10:16 | DS | ILHA DO MEDO": "Navio: CSB TALENT\nManobra: Desatracação\nData/Hora: 17/11/26 10:16\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
   "PRECIOUS ADELAIDE | 17/11/26 | 10:16 | EA | 104": "Navio: PRECIOUS ADELAIDE\nManobra: Atracação\nData/Hora: 17/11/26 10:16\nDe: PONTO ALPHA\nPara/Berço: 104\nAgência: NORTH STAR**",
+  "NSU BRAZIL | 17/11/26 | 10:16 | EA | PIER 1": "Navio: NSU BRAZIL\nManobra: Atracação\nData/Hora: 17/11/26 10:16\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: LBH BRASIL**",
+  "AMAZON COURAGE | 17/11/26 | 10:31 | DS | ILHA DO MEDO": "Navio: AMAZON COURAGE\nManobra: Desatracação\nData/Hora: 17/11/26 10:31\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
+  "FORTE DE SAO JOSE | 17/11/26 | 11:01 | EA | ALUMAR 2": "Navio: FORTE DE SAO JOSE\nManobra: Atracação\nData/Hora: 17/11/26 11:01\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 2\nAgência: ORION RODOS**",
   "CHAMPION CORNELIA | 17/11/26 | 11:16 | DS | ILHA DO MEDO": "Navio: CHAMPION CORNELIA\nManobra: Desatracação\nData/Hora: 17/11/26 11:16\nDe: 108\nPara/Berço: ILHA DO MEDO\nAgência: NORTH STAR**",
-  "KONTA III | 17/11/26 | 16:15 | EA | PLATAFORMA 1": "Navio: KONTA III\nManobra: Atracação\nData/Hora: 17/11/26 16:15\nDe: PTO EMBARQUE LC\nPara/Berço: PLATAFORMA 1\nAgência: GEM - PARNAIBA"
+  "KONTA III | 17/11/26 | 16:15 | EA | PLATAFORMA 1": "Navio: KONTA III\nManobra: Atracação\nData/Hora: 17/11/26 16:15\nDe: PTO EMBARQUE LC\nPara/Berço: PLATAFORMA 1\nAgência: GEM - PARNAIBA",
+  "MARILUCKY | 17/11/26 | 18:14 | EA | 105": "Navio: MARILUCKY\nManobra: Atracação\nData/Hora: 17/11/26 18:14\nDe: BOIA 19-24\nPara/Berço: 105\nAgência: ZYON",
+  "ULTRA UNITY | 17/11/26 | 18:44 | DS | ILHA DO MEDO": "Navio: ULTRA UNITY\nManobra: Desatracação\nData/Hora: 17/11/26 18:44\nDe: 105\nPara/Berço: ILHA DO MEDO\nAgência: FERTIMPORT - S.L **"
 }
