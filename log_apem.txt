@@ -18291,3 +18291,67 @@ De: BOIA 19-24
 Para/Berço: ALUMAR 1
 Agência: GEM**
 --------------------------------------------------
+[18/11/2026 15:30:35] NOVA MANOBRA:
+Navio: SAIKO
+Manobra: Atracação
+Data/Hora: 18/11/26 19:23
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[18/11/2026 15:30:35] NOVA MANOBRA:
+Navio: MARILUCKY
+Manobra: Desatracação
+Data/Hora: 18/11/26 23:17
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: ZYON
+--------------------------------------------------
+[18/11/2026 15:30:35] NOVA MANOBRA:
+Navio: GOLDEN TRADER
+Manobra: Atracação
+Data/Hora: 18/11/26 23:47
+De: BOIA 19-24
+Para/Berço: 105
+Agência: ALPHAMAR**
+--------------------------------------------------
+[18/11/2026 15:30:35] NOVA MANOBRA:
+Navio: BOSPORUS
+Manobra: Desatracação
+Data/Hora: 18/11/26 23:47
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[18/11/2026 15:30:35] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BESIKTAS AZERBAIJAN
+Manobra: Desatracação
+Data/Hora: 18/11/26 06:51
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[18/11/2026 15:30:35] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CL SHANGRAO
+Manobra: Atracação
+Data/Hora: 18/11/26 08:55 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: PIER 3 NORTE
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[18/11/2026 15:30:35] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: IOLCOS FIGHTER
+Manobra: Desatracação
+Data/Hora: 18/11/26 07:21
+De: 99
+Para/Berço: ILHA DO MEDO
+Agência: WORLD SHIPPING
+--------------------------------------------------
+[18/11/2026 15:30:35] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BRASSIANA
+Manobra: Atracação
+Data/Hora: 18/11/26 10:20 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 99
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
