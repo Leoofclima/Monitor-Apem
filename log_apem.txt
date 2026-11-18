@@ -18227,3 +18227,67 @@ De: 105
 Para/Berço: ILHA DO MEDO
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[18/11/2026 06:52:45] NOVA MANOBRA:
+Navio: BESIKTAS AZERBAIJAN
+Manobra: Desatracação
+Data/Hora: 18/11/26 06:51
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[18/11/2026 06:52:45] NOVA MANOBRA:
+Navio: CL SHANGRAO
+Manobra: Atracação
+Data/Hora: 18/11/26 06:51
+De: BOIA 19-24
+Para/Berço: PIER 3 NORTE
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[18/11/2026 06:52:45] NOVA MANOBRA:
+Navio: BRASSIANA
+Manobra: Atracação
+Data/Hora: 18/11/26 07:21
+De: BOIA 19-24
+Para/Berço: 99
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[18/11/2026 06:52:45] MANOBRA CONCLUÍDA (navio atracou):
+Navio: STAR LOUISIANA
+Manobra: DF
+Data/Hora: 17/11/26 23:40 (horário real de atracação)
+De: 103/NORTE
+Para/Berço: AREA 8.1
+Agência: ROCHAMAR**
+--------------------------------------------------
+[18/11/2026 06:52:45] MANOBRA CONCLUÍDA (navio atracou):
+Navio: STAR EUROPE
+Manobra: Atracação
+Data/Hora: 18/11/26 01:05 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: ISS**
+--------------------------------------------------
+[18/11/2026 06:52:45] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ARIADNE
+Manobra: Desatracação
+Data/Hora: 17/11/26 22:38
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[18/11/2026 06:52:45] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: MAERSK MALAGA
+Manobra: Desatracação
+Data/Hora: 17/11/26 22:53
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[18/11/2026 06:52:45] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MIKE BAY
+Manobra: Atracação
+Data/Hora: 18/11/26 01:05 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
