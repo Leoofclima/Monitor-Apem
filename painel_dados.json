@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "17/11/2026 16:56:46",
+  "atualizado_em": "17/11/2026 22:59:38",
   "base": {
     "lat": -2.66098123540369,
     "lon": -44.356990008636686,
@@ -16,7 +16,7 @@
       "lon": -44.081833,
       "data_fundeio": "14/11/26",
       "hora_fundeio": "18:49",
-      "tempo_fundeado_horas": 70.1,
+      "tempo_fundeado_horas": 76.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -30,7 +30,7 @@
       "lon": -44.1825,
       "data_fundeio": "05/11/26",
       "hora_fundeio": "01:58",
-      "tempo_fundeado_horas": 303.0,
+      "tempo_fundeado_horas": 309.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -44,7 +44,7 @@
       "lon": -44.1525,
       "data_fundeio": "10/11/26",
       "hora_fundeio": "10:42",
-      "tempo_fundeado_horas": 174.2,
+      "tempo_fundeado_horas": 180.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -58,7 +58,7 @@
       "lon": -44.151,
       "data_fundeio": "10/11/26",
       "hora_fundeio": "11:33",
-      "tempo_fundeado_horas": 173.4,
+      "tempo_fundeado_horas": 179.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -72,7 +72,7 @@
       "lon": -44.123833,
       "data_fundeio": "14/11/26",
       "hora_fundeio": "15:48",
-      "tempo_fundeado_horas": 73.1,
+      "tempo_fundeado_horas": 79.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -86,7 +86,7 @@
       "lon": -44.167,
       "data_fundeio": "15/11/26",
       "hora_fundeio": "06:55",
-      "tempo_fundeado_horas": 58.0,
+      "tempo_fundeado_horas": 64.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -100,7 +100,21 @@
       "lon": -44.176,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "02:29",
-      "tempo_fundeado_horas": 14.5,
+      "tempo_fundeado_horas": 20.5,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null
+    },
+    {
+      "area": "AREA 3",
+      "nome": "CASTILLO DE SANTA MARIA",
+      "bandeira": "BRASIL",
+      "imo": "9618680",
+      "agencia": "ORION RODOS**",
+      "lat": -2.1595,
+      "lon": -44.154333,
+      "data_fundeio": "17/11/26",
+      "hora_fundeio": "18:20",
+      "tempo_fundeado_horas": 4.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -114,7 +128,7 @@
       "lon": -44.246333,
       "data_fundeio": "01/11/26",
       "hora_fundeio": "07:00",
-      "tempo_fundeado_horas": 393.9,
+      "tempo_fundeado_horas": 400.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -128,7 +142,7 @@
       "lon": -44.231,
       "data_fundeio": "06/11/26",
       "hora_fundeio": "23:56",
-      "tempo_fundeado_horas": 257.0,
+      "tempo_fundeado_horas": 263.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -142,7 +156,7 @@
       "lon": -44.218333,
       "data_fundeio": "09/11/26",
       "hora_fundeio": "06:35",
-      "tempo_fundeado_horas": 202.4,
+      "tempo_fundeado_horas": 208.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -156,7 +170,7 @@
       "lon": -44.208,
       "data_fundeio": "09/11/26",
       "hora_fundeio": "11:27",
-      "tempo_fundeado_horas": 197.5,
+      "tempo_fundeado_horas": 203.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -170,23 +184,9 @@
       "lon": -44.273333,
       "data_fundeio": "09/11/26",
       "hora_fundeio": "16:05",
-      "tempo_fundeado_horas": 192.9,
+      "tempo_fundeado_horas": 198.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
-    },
-    {
-      "area": "AREA 4",
-      "nome": "MARILUCKY",
-      "bandeira": "MARSHALL ISLANDS",
-      "imo": "9791913",
-      "agencia": "ZYON",
-      "lat": -2.351833,
-      "lon": -44.219833,
-      "data_fundeio": "10/11/26",
-      "hora_fundeio": "12:31",
-      "tempo_fundeado_horas": 172.4,
-      "previsao_atracacao": "17/11/2026 18:14",
-      "tempo_restante_horas": 1.3
     },
     {
       "area": "AREA 4",
@@ -198,9 +198,9 @@
       "lon": -44.275167,
       "data_fundeio": "12/11/26",
       "hora_fundeio": "16:16",
-      "tempo_fundeado_horas": 120.7,
+      "tempo_fundeado_horas": 126.7,
       "previsao_atracacao": "17/11/2026 23:23",
-      "tempo_restante_horas": 6.4
+      "tempo_restante_horas": 0.4
     },
     {
       "area": "AREA 4",
@@ -212,7 +212,7 @@
       "lon": -44.285667,
       "data_fundeio": "13/11/26",
       "hora_fundeio": "01:30",
-      "tempo_fundeado_horas": 111.4,
+      "tempo_fundeado_horas": 117.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -226,7 +226,7 @@
       "lon": -44.2855,
       "data_fundeio": "13/11/26",
       "hora_fundeio": "08:30",
-      "tempo_fundeado_horas": 104.4,
+      "tempo_fundeado_horas": 110.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -240,23 +240,9 @@
       "lon": -44.305833,
       "data_fundeio": "15/11/26",
       "hora_fundeio": "05:56",
-      "tempo_fundeado_horas": 59.0,
+      "tempo_fundeado_horas": 65.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
-    },
-    {
-      "area": "AREA 4",
-      "nome": "BOSPORUS",
-      "bandeira": "LIBERIA",
-      "imo": "9689691",
-      "agencia": "LMA SHIPPING **",
-      "lat": null,
-      "lon": null,
-      "data_fundeio": "15/11/26",
-      "hora_fundeio": "06:20",
-      "tempo_fundeado_horas": 58.6,
-      "previsao_atracacao": "17/11/2026 18:14",
-      "tempo_restante_horas": 1.3
     },
     {
       "area": "AREA 4",
@@ -268,9 +254,9 @@
       "lon": -44.266,
       "data_fundeio": "16/11/26",
       "hora_fundeio": "00:01",
-      "tempo_fundeado_horas": 40.9,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null
+      "tempo_fundeado_horas": 47.0,
+      "previsao_atracacao": "17/11/2026 22:38",
+      "tempo_restante_horas": -0.4
     },
     {
       "area": "AREA 4",
@@ -282,7 +268,7 @@
       "lon": -44.261,
       "data_fundeio": "16/11/26",
       "hora_fundeio": "20:49",
-      "tempo_fundeado_horas": 20.1,
+      "tempo_fundeado_horas": 26.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -296,7 +282,7 @@
       "lon": -44.262,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "00:34",
-      "tempo_fundeado_horas": 16.4,
+      "tempo_fundeado_horas": 22.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -310,7 +296,7 @@
       "lon": -44.193833,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "02:56",
-      "tempo_fundeado_horas": 14.0,
+      "tempo_fundeado_horas": 20.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -324,7 +310,35 @@
       "lon": -44.245667,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "11:55",
-      "tempo_fundeado_horas": 5.0,
+      "tempo_fundeado_horas": 11.1,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null
+    },
+    {
+      "area": "AREA 4",
+      "nome": "CL SHANGRAO",
+      "bandeira": "MARSHALL ISLANDS",
+      "imo": "9938808",
+      "agencia": "WILHELMSEN PORT**",
+      "lat": -2.408333,
+      "lon": -44.246667,
+      "data_fundeio": "17/11/26",
+      "hora_fundeio": "20:04",
+      "tempo_fundeado_horas": 2.9,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null
+    },
+    {
+      "area": "AREA 4",
+      "nome": "HONESTY",
+      "bandeira": "LIBERIA",
+      "imo": "9416393",
+      "agencia": "WILHELMSEN PORT**",
+      "lat": -2.421333,
+      "lon": -44.258833,
+      "data_fundeio": "17/11/26",
+      "hora_fundeio": "22:30",
+      "tempo_fundeado_horas": 0.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -338,7 +352,7 @@
       "lon": -44.345167,
       "data_fundeio": "31/10/26",
       "hora_fundeio": "10:05",
-      "tempo_fundeado_horas": 414.9,
+      "tempo_fundeado_horas": 420.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -352,7 +366,7 @@
       "lon": -44.334667,
       "data_fundeio": "10/11/26",
       "hora_fundeio": "00:01",
-      "tempo_fundeado_horas": 184.9,
+      "tempo_fundeado_horas": 191.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -366,7 +380,7 @@
       "lon": -44.342167,
       "data_fundeio": "12/11/26",
       "hora_fundeio": "17:06",
-      "tempo_fundeado_horas": 119.8,
+      "tempo_fundeado_horas": 125.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -380,7 +394,7 @@
       "lon": -44.347,
       "data_fundeio": "16/11/26",
       "hora_fundeio": "17:00",
-      "tempo_fundeado_horas": 23.9,
+      "tempo_fundeado_horas": 30.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -394,7 +408,7 @@
       "lon": -44.354667,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "05:04",
-      "tempo_fundeado_horas": 11.9,
+      "tempo_fundeado_horas": 17.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     }
@@ -402,51 +416,67 @@
   "rota_sugerida": [
     {
       "area": "AREA 4",
-      "nome": "MIKE BAY",
+      "nome": "BRASSIANA",
       "bandeira": "MARSHALL ISLANDS",
-      "imo": "9481958",
-      "agencia": "GEM**",
-      "lat": -2.385167,
-      "lon": -44.275167,
-      "data_fundeio": "12/11/26",
-      "hora_fundeio": "16:16",
-      "tempo_fundeado_horas": 120.7,
-      "previsao_atracacao": "17/11/2026 23:23",
-      "tempo_restante_horas": 6.4,
+      "imo": "9613290",
+      "agencia": "WILHELMSEN PORT**",
+      "lat": -2.441,
+      "lon": -44.285667,
+      "data_fundeio": "13/11/26",
+      "hora_fundeio": "01:30",
+      "tempo_fundeado_horas": 117.5,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null,
       "ordem": 1,
-      "distancia_trecho_km": 33.9
+      "distancia_trecho_km": 27.7
     },
     {
       "area": "AREA 4",
-      "nome": "HERODOTUS",
-      "bandeira": "GRECIA",
-      "imo": "9605700",
-      "agencia": "ISS**",
-      "lat": -2.391167,
-      "lon": -44.262,
-      "data_fundeio": "17/11/26",
-      "hora_fundeio": "00:34",
-      "tempo_fundeado_horas": 16.4,
+      "nome": "DUCHESS CAMELLIA",
+      "bandeira": "SINGAPURA",
+      "imo": "1039931",
+      "agencia": "ALPHAMAR**",
+      "lat": -2.428333,
+      "lon": -44.273333,
+      "data_fundeio": "09/11/26",
+      "hora_fundeio": "16:05",
+      "tempo_fundeado_horas": 198.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 2,
-      "distancia_trecho_km": 1.6
+      "distancia_trecho_km": 2.0
     },
     {
       "area": "AREA 4",
-      "nome": "STAR EUROPE",
-      "bandeira": "MARSHALL ISLANDS",
-      "imo": "9753351",
-      "agencia": "ISS**",
-      "lat": -2.403333,
-      "lon": -44.266,
-      "data_fundeio": "16/11/26",
-      "hora_fundeio": "00:01",
-      "tempo_fundeado_horas": 40.9,
+      "nome": "HONESTY",
+      "bandeira": "LIBERIA",
+      "imo": "9416393",
+      "agencia": "WILHELMSEN PORT**",
+      "lat": -2.421333,
+      "lon": -44.258833,
+      "data_fundeio": "17/11/26",
+      "hora_fundeio": "22:30",
+      "tempo_fundeado_horas": 0.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 3,
-      "distancia_trecho_km": 1.4
+      "distancia_trecho_km": 1.8
+    },
+    {
+      "area": "AREA 4",
+      "nome": "CL SHANGRAO",
+      "bandeira": "MARSHALL ISLANDS",
+      "imo": "9938808",
+      "agencia": "WILHELMSEN PORT**",
+      "lat": -2.408333,
+      "lon": -44.246667,
+      "data_fundeio": "17/11/26",
+      "hora_fundeio": "20:04",
+      "tempo_fundeado_horas": 2.9,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null,
+      "ordem": 4,
+      "distancia_trecho_km": 2.0
     },
     {
       "area": "AREA 4",
@@ -458,11 +488,11 @@
       "lon": -44.246333,
       "data_fundeio": "01/11/26",
       "hora_fundeio": "07:00",
-      "tempo_fundeado_horas": 393.9,
+      "tempo_fundeado_horas": 400.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 4,
-      "distancia_trecho_km": 2.3
+      "ordem": 5,
+      "distancia_trecho_km": 1.1
     },
     {
       "area": "AREA 4",
@@ -474,10 +504,10 @@
       "lon": -44.245667,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "11:55",
-      "tempo_fundeado_horas": 5.0,
+      "tempo_fundeado_horas": 11.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 5,
+      "ordem": 6,
       "distancia_trecho_km": 1.5
     },
     {
@@ -490,10 +520,10 @@
       "lon": -44.231,
       "data_fundeio": "06/11/26",
       "hora_fundeio": "23:56",
-      "tempo_fundeado_horas": 257.0,
+      "tempo_fundeado_horas": 263.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 6,
+      "ordem": 7,
       "distancia_trecho_km": 1.9
     },
     {
@@ -506,10 +536,10 @@
       "lon": -44.218333,
       "data_fundeio": "09/11/26",
       "hora_fundeio": "06:35",
-      "tempo_fundeado_horas": 202.4,
+      "tempo_fundeado_horas": 208.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 7,
+      "ordem": 8,
       "distancia_trecho_km": 2.0
     },
     {
@@ -522,10 +552,10 @@
       "lon": -44.208,
       "data_fundeio": "09/11/26",
       "hora_fundeio": "11:27",
-      "tempo_fundeado_horas": 197.5,
+      "tempo_fundeado_horas": 203.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 8,
+      "ordem": 9,
       "distancia_trecho_km": 3.1
     },
     {
@@ -538,10 +568,10 @@
       "lon": -44.193833,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "02:56",
-      "tempo_fundeado_horas": 14.0,
+      "tempo_fundeado_horas": 20.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 9,
+      "ordem": 10,
       "distancia_trecho_km": 2.5
     },
     {
@@ -554,11 +584,27 @@
       "lon": -44.261,
       "data_fundeio": "16/11/26",
       "hora_fundeio": "20:49",
-      "tempo_fundeado_horas": 20.1,
+      "tempo_fundeado_horas": 26.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 10,
+      "ordem": 11,
       "distancia_trecho_km": 8.2
+    },
+    {
+      "area": "AREA 4",
+      "nome": "HERODOTUS",
+      "bandeira": "GRECIA",
+      "imo": "9605700",
+      "agencia": "ISS**",
+      "lat": -2.391167,
+      "lon": -44.262,
+      "data_fundeio": "17/11/26",
+      "hora_fundeio": "00:34",
+      "tempo_fundeado_horas": 22.4,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null,
+      "ordem": 12,
+      "distancia_trecho_km": 1.6
     },
     {
       "area": "AREA 4",
@@ -570,43 +616,11 @@
       "lon": -44.2855,
       "data_fundeio": "13/11/26",
       "hora_fundeio": "08:30",
-      "tempo_fundeado_horas": 104.4,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null,
-      "ordem": 11,
-      "distancia_trecho_km": 5.2
-    },
-    {
-      "area": "AREA 4",
-      "nome": "DUCHESS CAMELLIA",
-      "bandeira": "SINGAPURA",
-      "imo": "1039931",
-      "agencia": "ALPHAMAR**",
-      "lat": -2.428333,
-      "lon": -44.273333,
-      "data_fundeio": "09/11/26",
-      "hora_fundeio": "16:05",
-      "tempo_fundeado_horas": 192.9,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null,
-      "ordem": 12,
-      "distancia_trecho_km": 1.9
-    },
-    {
-      "area": "AREA 4",
-      "nome": "BRASSIANA",
-      "bandeira": "MARSHALL ISLANDS",
-      "imo": "9613290",
-      "agencia": "WILHELMSEN PORT**",
-      "lat": -2.441,
-      "lon": -44.285667,
-      "data_fundeio": "13/11/26",
-      "hora_fundeio": "01:30",
-      "tempo_fundeado_horas": 111.4,
+      "tempo_fundeado_horas": 110.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 13,
-      "distancia_trecho_km": 2.0
+      "distancia_trecho_km": 3.8
     },
     {
       "area": "AREA 4",
@@ -618,11 +632,11 @@
       "lon": -44.305833,
       "data_fundeio": "15/11/26",
       "hora_fundeio": "05:56",
-      "tempo_fundeado_horas": 59.0,
+      "tempo_fundeado_horas": 65.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 14,
-      "distancia_trecho_km": 3.1
+      "distancia_trecho_km": 2.3
     },
     {
       "area": "AREA 5",
@@ -634,7 +648,7 @@
       "lon": -44.347,
       "data_fundeio": "16/11/26",
       "hora_fundeio": "17:00",
-      "tempo_fundeado_horas": 23.9,
+      "tempo_fundeado_horas": 30.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 15,
@@ -650,7 +664,7 @@
       "lon": -44.345167,
       "data_fundeio": "31/10/26",
       "hora_fundeio": "10:05",
-      "tempo_fundeado_horas": 414.9,
+      "tempo_fundeado_horas": 420.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 16,
@@ -666,7 +680,7 @@
       "lon": -44.342167,
       "data_fundeio": "12/11/26",
       "hora_fundeio": "17:06",
-      "tempo_fundeado_horas": 119.8,
+      "tempo_fundeado_horas": 125.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 17,
@@ -682,7 +696,7 @@
       "lon": -44.334667,
       "data_fundeio": "10/11/26",
       "hora_fundeio": "00:01",
-      "tempo_fundeado_horas": 184.9,
+      "tempo_fundeado_horas": 191.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 18,
@@ -698,7 +712,7 @@
       "lon": -44.354667,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "05:04",
-      "tempo_fundeado_horas": 11.9,
+      "tempo_fundeado_horas": 17.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 19,
@@ -714,7 +728,7 @@
       "lon": -44.1825,
       "data_fundeio": "05/11/26",
       "hora_fundeio": "01:58",
-      "tempo_fundeado_horas": 303.0,
+      "tempo_fundeado_horas": 309.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 20,
@@ -730,7 +744,7 @@
       "lon": -44.176,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "02:29",
-      "tempo_fundeado_horas": 14.5,
+      "tempo_fundeado_horas": 20.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 21,
@@ -746,7 +760,7 @@
       "lon": -44.167,
       "data_fundeio": "15/11/26",
       "hora_fundeio": "06:55",
-      "tempo_fundeado_horas": 58.0,
+      "tempo_fundeado_horas": 64.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 22,
@@ -762,7 +776,7 @@
       "lon": -44.151,
       "data_fundeio": "10/11/26",
       "hora_fundeio": "11:33",
-      "tempo_fundeado_horas": 173.4,
+      "tempo_fundeado_horas": 179.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 23,
@@ -770,19 +784,19 @@
     },
     {
       "area": "AREA 3",
-      "nome": "HORIZON THETIS",
-      "bandeira": "LIBERIA",
-      "imo": "9407380",
-      "agencia": "WILHELMSEN PORT**",
-      "lat": -2.153,
-      "lon": -44.123833,
-      "data_fundeio": "14/11/26",
-      "hora_fundeio": "15:48",
-      "tempo_fundeado_horas": 73.1,
+      "nome": "CASTILLO DE SANTA MARIA",
+      "bandeira": "BRASIL",
+      "imo": "9618680",
+      "agencia": "ORION RODOS**",
+      "lat": -2.1595,
+      "lon": -44.154333,
+      "data_fundeio": "17/11/26",
+      "hora_fundeio": "18:20",
+      "tempo_fundeado_horas": 4.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 24,
-      "distancia_trecho_km": 4.6
+      "distancia_trecho_km": 2.8
     },
     {
       "area": "AREA 3",
@@ -794,10 +808,26 @@
       "lon": -44.1525,
       "data_fundeio": "10/11/26",
       "hora_fundeio": "10:42",
-      "tempo_fundeado_horas": 174.2,
+      "tempo_fundeado_horas": 180.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 25,
+      "distancia_trecho_km": 2.9
+    },
+    {
+      "area": "AREA 3",
+      "nome": "HORIZON THETIS",
+      "bandeira": "LIBERIA",
+      "imo": "9407380",
+      "agencia": "WILHELMSEN PORT**",
+      "lat": -2.153,
+      "lon": -44.123833,
+      "data_fundeio": "14/11/26",
+      "hora_fundeio": "15:48",
+      "tempo_fundeado_horas": 79.2,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null,
+      "ordem": 26,
       "distancia_trecho_km": 3.8
     },
     {
@@ -810,44 +840,56 @@
       "lon": -44.081833,
       "data_fundeio": "14/11/26",
       "hora_fundeio": "18:49",
-      "tempo_fundeado_horas": 70.1,
+      "tempo_fundeado_horas": 76.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 26,
-      "distancia_trecho_km": 10.6
+      "ordem": 27,
+      "distancia_trecho_km": 10.4
     }
   ],
   "navios_atracando_em_breve": [
     {
       "area": "AREA 4",
-      "nome": "MARILUCKY",
+      "nome": "STAR EUROPE",
       "bandeira": "MARSHALL ISLANDS",
-      "imo": "9791913",
-      "agencia": "ZYON",
-      "lat": -2.351833,
-      "lon": -44.219833,
-      "data_fundeio": "10/11/26",
-      "hora_fundeio": "12:31",
-      "tempo_fundeado_horas": 172.4,
-      "previsao_atracacao": "17/11/2026 18:14",
-      "tempo_restante_horas": 1.3
+      "imo": "9753351",
+      "agencia": "ISS**",
+      "lat": -2.403333,
+      "lon": -44.266,
+      "data_fundeio": "16/11/26",
+      "hora_fundeio": "00:01",
+      "tempo_fundeado_horas": 47.0,
+      "previsao_atracacao": "17/11/2026 22:38",
+      "tempo_restante_horas": -0.4
     },
     {
       "area": "AREA 4",
-      "nome": "BOSPORUS",
-      "bandeira": "LIBERIA",
-      "imo": "9689691",
-      "agencia": "LMA SHIPPING **",
-      "lat": null,
-      "lon": null,
-      "data_fundeio": "15/11/26",
-      "hora_fundeio": "06:20",
-      "tempo_fundeado_horas": 58.6,
-      "previsao_atracacao": "17/11/2026 18:14",
-      "tempo_restante_horas": 1.3
+      "nome": "MIKE BAY",
+      "bandeira": "MARSHALL ISLANDS",
+      "imo": "9481958",
+      "agencia": "GEM**",
+      "lat": -2.385167,
+      "lon": -44.275167,
+      "data_fundeio": "12/11/26",
+      "hora_fundeio": "16:16",
+      "tempo_fundeado_horas": 126.7,
+      "previsao_atracacao": "17/11/2026 23:23",
+      "tempo_restante_horas": 0.4
     }
   ],
   "navios_atracados": [
+    {
+      "terminal": "?",
+      "berco": "103/NORTE",
+      "nome": "STAR LOUISIANA",
+      "bandeira": "MARSHALL ISLANDS",
+      "imo": "9593880",
+      "agencia": "ROCHAMAR**",
+      "data_atracacao": "16/11/26",
+      "hora_atracacao": "06:50",
+      "tempo_atracado_horas": 40.2,
+      "previsao_desatracacao": null
+    },
     {
       "terminal": "?",
       "berco": "AREA 7B.1",
@@ -857,7 +899,7 @@
       "agencia": "S.A.O. MARITIME **",
       "data_atracacao": "05/11/26",
       "hora_atracacao": "23:00",
-      "tempo_atracado_horas": 281.9,
+      "tempo_atracado_horas": 288.0,
       "previsao_desatracacao": null
     },
     {
@@ -869,7 +911,7 @@
       "agencia": "SHIPPING PROTECTION **",
       "data_atracacao": "15/11/26",
       "hora_atracacao": "17:52",
-      "tempo_atracado_horas": 47.1,
+      "tempo_atracado_horas": 53.1,
       "previsao_desatracacao": null
     },
     {
@@ -881,7 +923,7 @@
       "agencia": "WILHELMSEN PORT**",
       "data_atracacao": "16/11/26",
       "hora_atracacao": "12:30",
-      "tempo_atracado_horas": 28.4,
+      "tempo_atracado_horas": 34.5,
       "previsao_desatracacao": "17/11/2026 22:53"
     },
     {
@@ -893,7 +935,7 @@
       "agencia": "ORION RODOS**",
       "data_atracacao": "17/11/26",
       "hora_atracacao": "13:35",
-      "tempo_atracado_horas": 3.4,
+      "tempo_atracado_horas": 9.4,
       "previsao_desatracacao": null
     },
     {
@@ -905,7 +947,7 @@
       "agencia": "LBH BRASIL**",
       "data_atracacao": "17/11/26",
       "hora_atracacao": "00:30",
-      "tempo_atracado_horas": 16.4,
+      "tempo_atracado_horas": 22.5,
       "previsao_desatracacao": null
     },
     {
@@ -917,7 +959,7 @@
       "agencia": "LBH BRASIL**",
       "data_atracacao": "15/11/26",
       "hora_atracacao": "18:40",
-      "tempo_atracado_horas": 46.3,
+      "tempo_atracado_horas": 52.3,
       "previsao_desatracacao": null
     },
     {
@@ -929,19 +971,7 @@
       "agencia": "LBH BRASIL**",
       "data_atracacao": "15/11/26",
       "hora_atracacao": "19:20",
-      "tempo_atracado_horas": 45.6,
-      "previsao_desatracacao": null
-    },
-    {
-      "terminal": "ITAQUI",
-      "berco": "103/NORTE",
-      "nome": "STAR LOUISIANA",
-      "bandeira": "MARSHALL ISLANDS",
-      "imo": "9593880",
-      "agencia": "ROCHAMAR**",
-      "data_atracacao": "16/11/26",
-      "hora_atracacao": "06:50",
-      "tempo_atracado_horas": 34.1,
+      "tempo_atracado_horas": 51.7,
       "previsao_desatracacao": null
     },
     {
@@ -953,20 +983,20 @@
       "agencia": "NORTH STAR**",
       "data_atracacao": "17/11/26",
       "hora_atracacao": "12:41",
-      "tempo_atracado_horas": 4.3,
+      "tempo_atracado_horas": 10.3,
       "previsao_desatracacao": null
     },
     {
       "terminal": "ITAQUI",
       "berco": "105",
-      "nome": "ULTRA UNITY",
-      "bandeira": "PANAMA",
-      "imo": "1070179",
-      "agencia": "FERTIMPORT - S.L **",
-      "data_atracacao": "15/11/26",
-      "hora_atracacao": "06:00",
-      "tempo_atracado_horas": 58.9,
-      "previsao_desatracacao": "17/11/2026 18:44"
+      "nome": "MARILUCKY",
+      "bandeira": "MARSHALL ISLANDS",
+      "imo": "9791913",
+      "agencia": "ZYON",
+      "data_atracacao": "17/11/26",
+      "hora_atracacao": "20:40",
+      "tempo_atracado_horas": 2.3,
+      "previsao_desatracacao": null
     },
     {
       "terminal": "ITAQUI",
@@ -977,20 +1007,8 @@
       "agencia": "NORTH STAR**",
       "data_atracacao": "17/11/26",
       "hora_atracacao": "07:45",
-      "tempo_atracado_horas": 9.2,
+      "tempo_atracado_horas": 15.2,
       "previsao_desatracacao": null
-    },
-    {
-      "terminal": "ITAQUI",
-      "berco": "108",
-      "nome": "CHAMPION CORNELIA",
-      "bandeira": "LIBERIA",
-      "imo": "9447744",
-      "agencia": "NORTH STAR**",
-      "data_atracacao": "14/11/26",
-      "hora_atracacao": "17:20",
-      "tempo_atracado_horas": 71.6,
-      "previsao_desatracacao": "17/11/2026 17:44"
     },
     {
       "terminal": "ITAQUI",
@@ -1001,7 +1019,19 @@
       "agencia": "WORLD SHIPPING",
       "data_atracacao": "15/11/26",
       "hora_atracacao": "22:40",
-      "tempo_atracado_horas": 42.3,
+      "tempo_atracado_horas": 48.3,
+      "previsao_desatracacao": "18/11/2026 07:21"
+    },
+    {
+      "terminal": "LUIS CORREIA",
+      "berco": "PLATAFORMA 1",
+      "nome": "KONTA III",
+      "bandeira": "PANAMA",
+      "imo": "9872793",
+      "agencia": "GEM - PARNAIBA",
+      "data_atracacao": "17/11/26",
+      "hora_atracacao": "18:00",
+      "tempo_atracado_horas": 5.0,
       "previsao_desatracacao": null
     },
     {
@@ -1013,7 +1043,7 @@
       "agencia": "LBH BRASIL**",
       "data_atracacao": "17/11/26",
       "hora_atracacao": "13:13",
-      "tempo_atracado_horas": 3.7,
+      "tempo_atracado_horas": 9.8,
       "previsao_desatracacao": null
     },
     {
@@ -1025,7 +1055,7 @@
       "agencia": "ISS**",
       "data_atracacao": "15/11/26",
       "hora_atracacao": "23:30",
-      "tempo_atracado_horas": 41.4,
+      "tempo_atracado_horas": 47.5,
       "previsao_desatracacao": null
     },
     {
@@ -1037,20 +1067,20 @@
       "agencia": "LMA SHIPPING **",
       "data_atracacao": "15/11/26",
       "hora_atracacao": "11:30",
-      "tempo_atracado_horas": 53.4,
-      "previsao_desatracacao": null
+      "tempo_atracado_horas": 59.5,
+      "previsao_desatracacao": "17/11/2026 22:38"
     },
     {
       "terminal": "VALE",
       "berco": "PIER 4 NORTE",
-      "nome": "STELLAR ACE",
-      "bandeira": "MARSHALL ISLANDS",
-      "imo": "9726798",
-      "agencia": "ISS**",
-      "data_atracacao": "15/11/26",
-      "hora_atracacao": "11:15",
-      "tempo_atracado_horas": 53.7,
-      "previsao_desatracacao": "17/11/2026 17:44"
+      "nome": "BOSPORUS",
+      "bandeira": "LIBERIA",
+      "imo": "9689691",
+      "agencia": "LMA SHIPPING **",
+      "data_atracacao": "17/11/26",
+      "hora_atracacao": "20:40",
+      "tempo_atracado_horas": 2.3,
+      "previsao_desatracacao": null
     }
   ]
 }

@@ -18147,3 +18147,83 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[17/11/2026 22:59:37] NOVA MANOBRA:
+Navio: STAR LOUISIANA
+Manobra: DF
+Data/Hora: 17/11/26 22:08
+De: 103/NORTE
+Para/Berço: AREA 8.1
+Agência: ROCHAMAR**
+--------------------------------------------------
+[17/11/2026 22:59:37] NOVA MANOBRA:
+Navio: STAR EUROPE
+Manobra: Atracação
+Data/Hora: 17/11/26 22:38
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: ISS**
+--------------------------------------------------
+[17/11/2026 22:59:37] NOVA MANOBRA:
+Navio: ARIADNE
+Manobra: Desatracação
+Data/Hora: 17/11/26 22:38
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[17/11/2026 22:59:37] NOVA MANOBRA:
+Navio: IOLCOS FIGHTER
+Manobra: Desatracação
+Data/Hora: 18/11/26 07:21
+De: 99
+Para/Berço: ILHA DO MEDO
+Agência: WORLD SHIPPING
+--------------------------------------------------
+[17/11/2026 22:59:37] MANOBRA CONCLUÍDA (navio atracou):
+Navio: KONTA III
+Manobra: Atracação
+Data/Hora: 17/11/26 18:00 (horário real de atracação)
+De: PTO EMBARQUE LC
+Para/Berço: PLATAFORMA 1
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[17/11/2026 22:59:37] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: STELLAR ACE
+Manobra: Desatracação
+Data/Hora: 17/11/26 17:44
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[17/11/2026 22:59:37] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: CHAMPION CORNELIA
+Manobra: Desatracação
+Data/Hora: 17/11/26 17:44
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[17/11/2026 22:59:37] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MARILUCKY
+Manobra: Atracação
+Data/Hora: 17/11/26 20:40 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: ZYON
+--------------------------------------------------
+[17/11/2026 22:59:37] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BOSPORUS
+Manobra: Atracação
+Data/Hora: 17/11/26 20:40 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[17/11/2026 22:59:37] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ULTRA UNITY
+Manobra: Desatracação
+Data/Hora: 17/11/26 18:44
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
