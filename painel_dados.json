@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "19/11/2026 14:03:54",
+  "atualizado_em": "19/11/2026 20:30:12",
   "base": {
     "lat": -2.66098123540369,
     "lon": -44.356990008636686,
@@ -16,7 +16,7 @@
       "lon": -44.081833,
       "data_fundeio": "14/11/26",
       "hora_fundeio": "18:49",
-      "tempo_fundeado_horas": 115.2,
+      "tempo_fundeado_horas": 121.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -30,7 +30,7 @@
       "lon": -44.1825,
       "data_fundeio": "05/11/26",
       "hora_fundeio": "01:58",
-      "tempo_fundeado_horas": 348.1,
+      "tempo_fundeado_horas": 354.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -44,23 +44,9 @@
       "lon": -44.1525,
       "data_fundeio": "10/11/26",
       "hora_fundeio": "10:42",
-      "tempo_fundeado_horas": 219.4,
+      "tempo_fundeado_horas": 225.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
-    },
-    {
-      "area": "AREA 3",
-      "nome": "ULYSSES I",
-      "bandeira": "LIBERIA",
-      "imo": "9426283",
-      "agencia": "NORTH STAR**",
-      "lat": -2.184333,
-      "lon": -44.151,
-      "data_fundeio": "10/11/26",
-      "hora_fundeio": "11:33",
-      "tempo_fundeado_horas": 218.5,
-      "previsao_atracacao": "19/11/2026 14:01",
-      "tempo_restante_horas": -0.0
     },
     {
       "area": "AREA 3",
@@ -72,23 +58,9 @@
       "lon": -44.123833,
       "data_fundeio": "14/11/26",
       "hora_fundeio": "15:48",
-      "tempo_fundeado_horas": 118.3,
+      "tempo_fundeado_horas": 124.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
-    },
-    {
-      "area": "AREA 3",
-      "nome": "PEPPINO",
-      "bandeira": "MALTA",
-      "imo": "9586708",
-      "agencia": "ORION RODOS**",
-      "lat": -2.174667,
-      "lon": -44.167,
-      "data_fundeio": "15/11/26",
-      "hora_fundeio": "06:55",
-      "tempo_fundeado_horas": 103.1,
-      "previsao_atracacao": "19/11/2026 13:16",
-      "tempo_restante_horas": -0.8
     },
     {
       "area": "AREA 3",
@@ -100,9 +72,9 @@
       "lon": -44.176,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "02:29",
-      "tempo_fundeado_horas": 59.6,
-      "previsao_atracacao": "19/11/2026 20:32",
-      "tempo_restante_horas": 6.5
+      "tempo_fundeado_horas": 66.0,
+      "previsao_atracacao": "20/11/2026 00:55",
+      "tempo_restante_horas": 4.4
     },
     {
       "area": "AREA 3",
@@ -114,7 +86,21 @@
       "lon": -44.154333,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "18:20",
-      "tempo_fundeado_horas": 43.7,
+      "tempo_fundeado_horas": 50.2,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null
+    },
+    {
+      "area": "AREA 3",
+      "nome": "PACIFIC LONGEVITY",
+      "bandeira": "HONG KONG",
+      "imo": "9807011",
+      "agencia": "ISS**",
+      "lat": -2.126,
+      "lon": -44.118833,
+      "data_fundeio": "19/11/26",
+      "hora_fundeio": "15:20",
+      "tempo_fundeado_horas": 5.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -128,7 +114,7 @@
       "lon": -44.246333,
       "data_fundeio": "01/11/26",
       "hora_fundeio": "07:00",
-      "tempo_fundeado_horas": 439.1,
+      "tempo_fundeado_horas": 445.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -142,7 +128,7 @@
       "lon": -44.218333,
       "data_fundeio": "09/11/26",
       "hora_fundeio": "06:35",
-      "tempo_fundeado_horas": 247.5,
+      "tempo_fundeado_horas": 253.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -156,7 +142,7 @@
       "lon": -44.208,
       "data_fundeio": "09/11/26",
       "hora_fundeio": "11:27",
-      "tempo_fundeado_horas": 242.6,
+      "tempo_fundeado_horas": 249.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -170,23 +156,9 @@
       "lon": -44.273333,
       "data_fundeio": "09/11/26",
       "hora_fundeio": "16:05",
-      "tempo_fundeado_horas": 238.0,
+      "tempo_fundeado_horas": 244.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
-    },
-    {
-      "area": "AREA 4",
-      "nome": "FORTE DOS REIS MAGOS",
-      "bandeira": "Brazil",
-      "imo": "9939084",
-      "agencia": "ISS**",
-      "lat": -2.4165,
-      "lon": -44.2855,
-      "data_fundeio": "13/11/26",
-      "hora_fundeio": "08:30",
-      "tempo_fundeado_horas": 149.6,
-      "previsao_atracacao": "19/11/2026 12:31",
-      "tempo_restante_horas": -1.5
     },
     {
       "area": "AREA 4",
@@ -198,9 +170,9 @@
       "lon": -44.261,
       "data_fundeio": "16/11/26",
       "hora_fundeio": "20:49",
-      "tempo_fundeado_horas": 65.2,
-      "previsao_atracacao": "19/11/2026 20:32",
-      "tempo_restante_horas": 6.5
+      "tempo_fundeado_horas": 71.7,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null
     },
     {
       "area": "AREA 4",
@@ -212,7 +184,7 @@
       "lon": -44.262,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "00:34",
-      "tempo_fundeado_horas": 61.5,
+      "tempo_fundeado_horas": 67.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -226,7 +198,7 @@
       "lon": -44.193833,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "02:56",
-      "tempo_fundeado_horas": 59.1,
+      "tempo_fundeado_horas": 65.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -240,7 +212,7 @@
       "lon": -44.245667,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "11:55",
-      "tempo_fundeado_horas": 50.1,
+      "tempo_fundeado_horas": 56.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -254,7 +226,7 @@
       "lon": -44.2945,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "17:00",
-      "tempo_fundeado_horas": 45.1,
+      "tempo_fundeado_horas": 51.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -268,7 +240,7 @@
       "lon": -44.258833,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "22:30",
-      "tempo_fundeado_horas": 39.6,
+      "tempo_fundeado_horas": 46.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -282,7 +254,7 @@
       "lon": -44.236667,
       "data_fundeio": "18/11/26",
       "hora_fundeio": "04:04",
-      "tempo_fundeado_horas": 34.0,
+      "tempo_fundeado_horas": 40.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -296,7 +268,7 @@
       "lon": -44.275667,
       "data_fundeio": "18/11/26",
       "hora_fundeio": "05:06",
-      "tempo_fundeado_horas": 33.0,
+      "tempo_fundeado_horas": 39.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -310,7 +282,7 @@
       "lon": -44.251667,
       "data_fundeio": "18/11/26",
       "hora_fundeio": "20:12",
-      "tempo_fundeado_horas": 17.9,
+      "tempo_fundeado_horas": 24.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -324,7 +296,7 @@
       "lon": -44.236,
       "data_fundeio": "19/11/26",
       "hora_fundeio": "07:26",
-      "tempo_fundeado_horas": 6.6,
+      "tempo_fundeado_horas": 13.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -338,7 +310,7 @@
       "lon": -44.3035,
       "data_fundeio": "19/11/26",
       "hora_fundeio": "08:20",
-      "tempo_fundeado_horas": 5.7,
+      "tempo_fundeado_horas": 12.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -352,7 +324,7 @@
       "lon": -44.1925,
       "data_fundeio": "19/11/26",
       "hora_fundeio": "08:55",
-      "tempo_fundeado_horas": 5.1,
+      "tempo_fundeado_horas": 11.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -366,7 +338,7 @@
       "lon": -44.297667,
       "data_fundeio": "19/11/26",
       "hora_fundeio": "09:12",
-      "tempo_fundeado_horas": 4.9,
+      "tempo_fundeado_horas": 11.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -380,9 +352,23 @@
       "lon": -44.277833,
       "data_fundeio": "19/11/26",
       "hora_fundeio": "10:12",
-      "tempo_fundeado_horas": 3.9,
+      "tempo_fundeado_horas": 10.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
+    },
+    {
+      "area": "AREA 4",
+      "nome": "FORTE DE SAO LUIZ",
+      "bandeira": "BRASIL",
+      "imo": "9204922",
+      "agencia": "WILHELMSEN PORT**",
+      "lat": -2.444,
+      "lon": -44.321833,
+      "data_fundeio": "19/11/26",
+      "hora_fundeio": "15:11",
+      "tempo_fundeado_horas": 5.3,
+      "previsao_atracacao": "19/11/2026 20:32",
+      "tempo_restante_horas": 0.0
     },
     {
       "area": "AREA 5",
@@ -394,7 +380,7 @@
       "lon": -44.345167,
       "data_fundeio": "31/10/26",
       "hora_fundeio": "10:05",
-      "tempo_fundeado_horas": 460.0,
+      "tempo_fundeado_horas": 466.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -408,7 +394,7 @@
       "lon": -44.334667,
       "data_fundeio": "10/11/26",
       "hora_fundeio": "00:01",
-      "tempo_fundeado_horas": 230.0,
+      "tempo_fundeado_horas": 236.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -422,7 +408,7 @@
       "lon": -44.342167,
       "data_fundeio": "12/11/26",
       "hora_fundeio": "17:06",
-      "tempo_fundeado_horas": 165.0,
+      "tempo_fundeado_horas": 171.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
@@ -436,9 +422,9 @@
       "lon": -44.347,
       "data_fundeio": "16/11/26",
       "hora_fundeio": "17:00",
-      "tempo_fundeado_horas": 69.1,
-      "previsao_atracacao": null,
-      "tempo_restante_horas": null
+      "tempo_fundeado_horas": 75.5,
+      "previsao_atracacao": "20/11/2026 00:55",
+      "tempo_restante_horas": 4.4
     },
     {
       "area": "AREA 5",
@@ -450,41 +436,41 @@
       "lon": -44.354667,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "05:04",
-      "tempo_fundeado_horas": 57.0,
+      "tempo_fundeado_horas": 63.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null
     },
     {
       "area": "AREA 5",
-      "nome": "GEORGIA T",
-      "bandeira": "LIBERIA",
-      "imo": "9583756",
-      "agencia": "FERTIMPORT - S.L **",
-      "lat": -2.403333,
-      "lon": -44.277667,
+      "nome": "POLSTEAM PILE",
+      "bandeira": "PORTUGAL",
+      "imo": "9971886",
+      "agencia": "ORION RODOS**",
+      "lat": -2.3795,
+      "lon": -44.351833,
       "data_fundeio": "19/11/26",
-      "hora_fundeio": "04:52",
-      "tempo_fundeado_horas": 9.2,
-      "previsao_atracacao": "19/11/2026 12:31",
-      "tempo_restante_horas": -1.5
+      "hora_fundeio": "15:55",
+      "tempo_fundeado_horas": 4.6,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null
     }
   ],
   "rota_sugerida": [
     {
-      "area": "AREA 4",
-      "nome": "MOUNT ETNA",
-      "bandeira": "LIBERIA",
-      "imo": "9939979",
-      "agencia": "LMA SHIPPING **",
-      "lat": -2.376667,
-      "lon": -44.261,
+      "area": "AREA 5",
+      "nome": "AOM MARTA",
+      "bandeira": "PANAMA",
+      "imo": "9760005",
+      "agencia": "WILHELMSEN PORT**",
+      "lat": -2.395,
+      "lon": -44.347,
       "data_fundeio": "16/11/26",
-      "hora_fundeio": "20:49",
-      "tempo_fundeado_horas": 65.2,
-      "previsao_atracacao": "19/11/2026 20:32",
-      "tempo_restante_horas": 6.5,
+      "hora_fundeio": "17:00",
+      "tempo_fundeado_horas": 75.5,
+      "previsao_atracacao": "20/11/2026 00:55",
+      "tempo_restante_horas": 4.4,
       "ordem": 1,
-      "distancia_trecho_km": 35.4
+      "distancia_trecho_km": 30.8
     },
     {
       "area": "AREA 3",
@@ -496,11 +482,11 @@
       "lon": -44.176,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "02:29",
-      "tempo_fundeado_horas": 59.6,
-      "previsao_atracacao": "19/11/2026 20:32",
-      "tempo_restante_horas": 6.5,
+      "tempo_fundeado_horas": 66.0,
+      "previsao_atracacao": "20/11/2026 00:55",
+      "tempo_restante_horas": 4.4,
       "ordem": 2,
-      "distancia_trecho_km": 22.5
+      "distancia_trecho_km": 29.4
     },
     {
       "area": "AREA 3",
@@ -512,7 +498,7 @@
       "lon": -44.1825,
       "data_fundeio": "05/11/26",
       "hora_fundeio": "01:58",
-      "tempo_fundeado_horas": 348.1,
+      "tempo_fundeado_horas": 354.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 3,
@@ -528,7 +514,7 @@
       "lon": -44.154333,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "18:20",
-      "tempo_fundeado_horas": 43.7,
+      "tempo_fundeado_horas": 50.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 4,
@@ -544,11 +530,27 @@
       "lon": -44.1525,
       "data_fundeio": "10/11/26",
       "hora_fundeio": "10:42",
-      "tempo_fundeado_horas": 219.4,
+      "tempo_fundeado_horas": 225.8,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
       "ordem": 5,
       "distancia_trecho_km": 2.9
+    },
+    {
+      "area": "AREA 3",
+      "nome": "PACIFIC LONGEVITY",
+      "bandeira": "HONG KONG",
+      "imo": "9807011",
+      "agencia": "ISS**",
+      "lat": -2.126,
+      "lon": -44.118833,
+      "data_fundeio": "19/11/26",
+      "hora_fundeio": "15:20",
+      "tempo_fundeado_horas": 5.2,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null,
+      "ordem": 6,
+      "distancia_trecho_km": 3.8
     },
     {
       "area": "AREA 3",
@@ -560,11 +562,11 @@
       "lon": -44.123833,
       "data_fundeio": "14/11/26",
       "hora_fundeio": "15:48",
-      "tempo_fundeado_horas": 118.3,
+      "tempo_fundeado_horas": 124.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 6,
-      "distancia_trecho_km": 3.8
+      "ordem": 7,
+      "distancia_trecho_km": 3.1
     },
     {
       "area": "AREA 2",
@@ -576,10 +578,10 @@
       "lon": -44.081833,
       "data_fundeio": "14/11/26",
       "hora_fundeio": "18:49",
-      "tempo_fundeado_horas": 115.2,
+      "tempo_fundeado_horas": 121.7,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 7,
+      "ordem": 8,
       "distancia_trecho_km": 10.4
     },
     {
@@ -592,10 +594,10 @@
       "lon": -44.193833,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "02:56",
-      "tempo_fundeado_horas": 59.1,
+      "tempo_fundeado_horas": 65.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 8,
+      "ordem": 9,
       "distancia_trecho_km": 33.1
     },
     {
@@ -608,10 +610,10 @@
       "lon": -44.208,
       "data_fundeio": "09/11/26",
       "hora_fundeio": "11:27",
-      "tempo_fundeado_horas": 242.6,
+      "tempo_fundeado_horas": 249.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 9,
+      "ordem": 10,
       "distancia_trecho_km": 2.5
     },
     {
@@ -624,10 +626,10 @@
       "lon": -44.1925,
       "data_fundeio": "19/11/26",
       "hora_fundeio": "08:55",
-      "tempo_fundeado_horas": 5.1,
+      "tempo_fundeado_horas": 11.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 10,
+      "ordem": 11,
       "distancia_trecho_km": 1.9
     },
     {
@@ -640,10 +642,10 @@
       "lon": -44.218333,
       "data_fundeio": "09/11/26",
       "hora_fundeio": "06:35",
-      "tempo_fundeado_horas": 247.5,
+      "tempo_fundeado_horas": 253.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 11,
+      "ordem": 12,
       "distancia_trecho_km": 3.6
     },
     {
@@ -656,10 +658,10 @@
       "lon": -44.236667,
       "data_fundeio": "18/11/26",
       "hora_fundeio": "04:04",
-      "tempo_fundeado_horas": 34.0,
+      "tempo_fundeado_horas": 40.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 12,
+      "ordem": 13,
       "distancia_trecho_km": 2.1
     },
     {
@@ -672,10 +674,10 @@
       "lon": -44.246333,
       "data_fundeio": "01/11/26",
       "hora_fundeio": "07:00",
-      "tempo_fundeado_horas": 439.1,
+      "tempo_fundeado_horas": 445.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 13,
+      "ordem": 14,
       "distancia_trecho_km": 1.1
     },
     {
@@ -688,10 +690,10 @@
       "lon": -44.251667,
       "data_fundeio": "18/11/26",
       "hora_fundeio": "20:12",
-      "tempo_fundeado_horas": 17.9,
+      "tempo_fundeado_horas": 24.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 14,
+      "ordem": 15,
       "distancia_trecho_km": 1.4
     },
     {
@@ -704,10 +706,10 @@
       "lon": -44.258833,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "22:30",
-      "tempo_fundeado_horas": 39.6,
+      "tempo_fundeado_horas": 46.0,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 15,
+      "ordem": 16,
       "distancia_trecho_km": 1.6
     },
     {
@@ -720,10 +722,10 @@
       "lon": -44.273333,
       "data_fundeio": "09/11/26",
       "hora_fundeio": "16:05",
-      "tempo_fundeado_horas": 238.0,
+      "tempo_fundeado_horas": 244.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 16,
+      "ordem": 17,
       "distancia_trecho_km": 1.8
     },
     {
@@ -736,10 +738,10 @@
       "lon": -44.297667,
       "data_fundeio": "19/11/26",
       "hora_fundeio": "09:12",
-      "tempo_fundeado_horas": 4.9,
+      "tempo_fundeado_horas": 11.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 17,
+      "ordem": 18,
       "distancia_trecho_km": 3.1
     },
     {
@@ -752,10 +754,10 @@
       "lon": -44.3035,
       "data_fundeio": "19/11/26",
       "hora_fundeio": "08:20",
-      "tempo_fundeado_horas": 5.7,
+      "tempo_fundeado_horas": 12.2,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 18,
+      "ordem": 19,
       "distancia_trecho_km": 2.5
     },
     {
@@ -768,10 +770,10 @@
       "lon": -44.2945,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "17:00",
-      "tempo_fundeado_horas": 45.1,
+      "tempo_fundeado_horas": 51.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 19,
+      "ordem": 20,
       "distancia_trecho_km": 1.9
     },
     {
@@ -784,10 +786,10 @@
       "lon": -44.277833,
       "data_fundeio": "19/11/26",
       "hora_fundeio": "10:12",
-      "tempo_fundeado_horas": 3.9,
+      "tempo_fundeado_horas": 10.3,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 20,
+      "ordem": 21,
       "distancia_trecho_km": 2.5
     },
     {
@@ -800,10 +802,10 @@
       "lon": -44.275667,
       "data_fundeio": "18/11/26",
       "hora_fundeio": "05:06",
-      "tempo_fundeado_horas": 33.0,
+      "tempo_fundeado_horas": 39.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 21,
+      "ordem": 22,
       "distancia_trecho_km": 0.3
     },
     {
@@ -816,11 +818,27 @@
       "lon": -44.262,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "00:34",
-      "tempo_fundeado_horas": 61.5,
+      "tempo_fundeado_horas": 67.9,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 22,
+      "ordem": 23,
       "distancia_trecho_km": 1.5
+    },
+    {
+      "area": "AREA 4",
+      "nome": "MOUNT ETNA",
+      "bandeira": "LIBERIA",
+      "imo": "9939979",
+      "agencia": "LMA SHIPPING **",
+      "lat": -2.376667,
+      "lon": -44.261,
+      "data_fundeio": "16/11/26",
+      "hora_fundeio": "20:49",
+      "tempo_fundeado_horas": 71.7,
+      "previsao_atracacao": null,
+      "tempo_restante_horas": null,
+      "ordem": 24,
+      "distancia_trecho_km": 1.6
     },
     {
       "area": "AREA 4",
@@ -832,10 +850,10 @@
       "lon": -44.245667,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "11:55",
-      "tempo_fundeado_horas": 50.1,
+      "tempo_fundeado_horas": 56.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 23,
+      "ordem": 25,
       "distancia_trecho_km": 1.9
     },
     {
@@ -848,10 +866,10 @@
       "lon": -44.236,
       "data_fundeio": "19/11/26",
       "hora_fundeio": "07:26",
-      "tempo_fundeado_horas": 6.6,
+      "tempo_fundeado_horas": 13.1,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 24,
+      "ordem": 26,
       "distancia_trecho_km": 2.0
     },
     {
@@ -864,10 +882,10 @@
       "lon": -44.334667,
       "data_fundeio": "10/11/26",
       "hora_fundeio": "00:01",
-      "tempo_fundeado_horas": 230.0,
+      "tempo_fundeado_horas": 236.5,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 25,
+      "ordem": 27,
       "distancia_trecho_km": 11.2
     },
     {
@@ -880,10 +898,10 @@
       "lon": -44.342167,
       "data_fundeio": "12/11/26",
       "hora_fundeio": "17:06",
-      "tempo_fundeado_horas": 165.0,
+      "tempo_fundeado_horas": 171.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 26,
+      "ordem": 28,
       "distancia_trecho_km": 2.2
     },
     {
@@ -896,27 +914,27 @@
       "lon": -44.345167,
       "data_fundeio": "31/10/26",
       "hora_fundeio": "10:05",
-      "tempo_fundeado_horas": 460.0,
+      "tempo_fundeado_horas": 466.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 27,
+      "ordem": 29,
       "distancia_trecho_km": 1.1
     },
     {
       "area": "AREA 5",
-      "nome": "AOM MARTA",
-      "bandeira": "PANAMA",
-      "imo": "9760005",
-      "agencia": "WILHELMSEN PORT**",
-      "lat": -2.395,
-      "lon": -44.347,
-      "data_fundeio": "16/11/26",
-      "hora_fundeio": "17:00",
-      "tempo_fundeado_horas": 69.1,
+      "nome": "POLSTEAM PILE",
+      "bandeira": "PORTUGAL",
+      "imo": "9971886",
+      "agencia": "ORION RODOS**",
+      "lat": -2.3795,
+      "lon": -44.351833,
+      "data_fundeio": "19/11/26",
+      "hora_fundeio": "15:55",
+      "tempo_fundeado_horas": 4.6,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 28,
-      "distancia_trecho_km": 1.8
+      "ordem": 30,
+      "distancia_trecho_km": 0.7
     },
     {
       "area": "AREA 5",
@@ -928,69 +946,27 @@
       "lon": -44.354667,
       "data_fundeio": "17/11/26",
       "hora_fundeio": "05:04",
-      "tempo_fundeado_horas": 57.0,
+      "tempo_fundeado_horas": 63.4,
       "previsao_atracacao": null,
       "tempo_restante_horas": null,
-      "ordem": 29,
-      "distancia_trecho_km": 1.9
+      "ordem": 31,
+      "distancia_trecho_km": 3.5
     }
   ],
   "navios_atracando_em_breve": [
     {
       "area": "AREA 4",
-      "nome": "FORTE DOS REIS MAGOS",
-      "bandeira": "Brazil",
-      "imo": "9939084",
-      "agencia": "ISS**",
-      "lat": -2.4165,
-      "lon": -44.2855,
-      "data_fundeio": "13/11/26",
-      "hora_fundeio": "08:30",
-      "tempo_fundeado_horas": 149.6,
-      "previsao_atracacao": "19/11/2026 12:31",
-      "tempo_restante_horas": -1.5
-    },
-    {
-      "area": "AREA 5",
-      "nome": "GEORGIA T",
-      "bandeira": "LIBERIA",
-      "imo": "9583756",
-      "agencia": "FERTIMPORT - S.L **",
-      "lat": -2.403333,
-      "lon": -44.277667,
+      "nome": "FORTE DE SAO LUIZ",
+      "bandeira": "BRASIL",
+      "imo": "9204922",
+      "agencia": "WILHELMSEN PORT**",
+      "lat": -2.444,
+      "lon": -44.321833,
       "data_fundeio": "19/11/26",
-      "hora_fundeio": "04:52",
-      "tempo_fundeado_horas": 9.2,
-      "previsao_atracacao": "19/11/2026 12:31",
-      "tempo_restante_horas": -1.5
-    },
-    {
-      "area": "AREA 3",
-      "nome": "PEPPINO",
-      "bandeira": "MALTA",
-      "imo": "9586708",
-      "agencia": "ORION RODOS**",
-      "lat": -2.174667,
-      "lon": -44.167,
-      "data_fundeio": "15/11/26",
-      "hora_fundeio": "06:55",
-      "tempo_fundeado_horas": 103.1,
-      "previsao_atracacao": "19/11/2026 13:16",
-      "tempo_restante_horas": -0.8
-    },
-    {
-      "area": "AREA 3",
-      "nome": "ULYSSES I",
-      "bandeira": "LIBERIA",
-      "imo": "9426283",
-      "agencia": "NORTH STAR**",
-      "lat": -2.184333,
-      "lon": -44.151,
-      "data_fundeio": "10/11/26",
-      "hora_fundeio": "11:33",
-      "tempo_fundeado_horas": 218.5,
-      "previsao_atracacao": "19/11/2026 14:01",
-      "tempo_restante_horas": -0.0
+      "hora_fundeio": "15:11",
+      "tempo_fundeado_horas": 5.3,
+      "previsao_atracacao": "19/11/2026 20:32",
+      "tempo_restante_horas": 0.0
     }
   ],
   "navios_atracados": [
@@ -1003,7 +979,7 @@
       "agencia": "SHIPPING PROTECTION **",
       "data_atracacao": "15/11/26",
       "hora_atracacao": "17:52",
-      "tempo_atracado_horas": 92.2,
+      "tempo_atracado_horas": 98.6,
       "previsao_desatracacao": null
     },
     {
@@ -1015,7 +991,7 @@
       "agencia": "ROCHAMAR**",
       "data_atracacao": "17/11/26",
       "hora_atracacao": "23:40",
-      "tempo_atracado_horas": 38.4,
+      "tempo_atracado_horas": 44.8,
       "previsao_desatracacao": null
     },
     {
@@ -1027,20 +1003,20 @@
       "agencia": "GEM**",
       "data_atracacao": "18/11/26",
       "hora_atracacao": "01:05",
-      "tempo_atracado_horas": 37.0,
-      "previsao_desatracacao": null
+      "tempo_atracado_horas": 43.4,
+      "previsao_desatracacao": "20/11/2026 02:10"
     },
     {
       "terminal": "ALUMAR",
       "berco": "ALUMAR 2",
-      "nome": "FORTE DE SAO JOSE",
-      "bandeira": "Brazil",
-      "imo": "9512032",
+      "nome": "PEPPINO",
+      "bandeira": "MALTA",
+      "imo": "9586708",
       "agencia": "ORION RODOS**",
-      "data_atracacao": "17/11/26",
-      "hora_atracacao": "13:35",
-      "tempo_atracado_horas": 48.5,
-      "previsao_desatracacao": "19/11/2026 12:46"
+      "data_atracacao": "19/11/26",
+      "hora_atracacao": "15:30",
+      "tempo_atracado_horas": 5.0,
+      "previsao_desatracacao": null
     },
     {
       "terminal": "ITAQUI",
@@ -1051,7 +1027,7 @@
       "agencia": "LBH BRASIL**",
       "data_atracacao": "17/11/26",
       "hora_atracacao": "00:30",
-      "tempo_atracado_horas": 61.6,
+      "tempo_atracado_horas": 68.0,
       "previsao_desatracacao": null
     },
     {
@@ -1063,7 +1039,7 @@
       "agencia": "LBH BRASIL**",
       "data_atracacao": "15/11/26",
       "hora_atracacao": "18:40",
-      "tempo_atracado_horas": 91.4,
+      "tempo_atracado_horas": 97.8,
       "previsao_desatracacao": null
     },
     {
@@ -1075,7 +1051,19 @@
       "agencia": "LBH BRASIL**",
       "data_atracacao": "15/11/26",
       "hora_atracacao": "19:20",
-      "tempo_atracado_horas": 90.7,
+      "tempo_atracado_horas": 97.2,
+      "previsao_desatracacao": null
+    },
+    {
+      "terminal": "ITAQUI",
+      "berco": "103/NORTE",
+      "nome": "GEORGIA T",
+      "bandeira": "LIBERIA",
+      "imo": "9583756",
+      "agencia": "FERTIMPORT - S.L **",
+      "data_atracacao": "19/11/26",
+      "hora_atracacao": "14:40",
+      "tempo_atracado_horas": 5.8,
       "previsao_desatracacao": null
     },
     {
@@ -1087,8 +1075,8 @@
       "agencia": "NORTH STAR**",
       "data_atracacao": "17/11/26",
       "hora_atracacao": "12:41",
-      "tempo_atracado_horas": 49.4,
-      "previsao_desatracacao": null
+      "tempo_atracado_horas": 55.8,
+      "previsao_desatracacao": "19/11/2026 21:02"
     },
     {
       "terminal": "ITAQUI",
@@ -1099,7 +1087,7 @@
       "agencia": "ALPHAMAR**",
       "data_atracacao": "19/11/26",
       "hora_atracacao": "10:15",
-      "tempo_atracado_horas": 3.8,
+      "tempo_atracado_horas": 10.3,
       "previsao_desatracacao": null
     },
     {
@@ -1111,7 +1099,19 @@
       "agencia": "NORTH STAR**",
       "data_atracacao": "17/11/26",
       "hora_atracacao": "07:45",
-      "tempo_atracado_horas": 54.3,
+      "tempo_atracado_horas": 60.8,
+      "previsao_desatracacao": null
+    },
+    {
+      "terminal": "ITAQUI",
+      "berco": "108",
+      "nome": "ULYSSES I",
+      "bandeira": "LIBERIA",
+      "imo": "9426283",
+      "agencia": "NORTH STAR**",
+      "data_atracacao": "19/11/26",
+      "hora_atracacao": "16:00",
+      "tempo_atracado_horas": 4.5,
       "previsao_desatracacao": null
     },
     {
@@ -1123,7 +1123,7 @@
       "agencia": "WILHELMSEN PORT**",
       "data_atracacao": "18/11/26",
       "hora_atracacao": "10:20",
-      "tempo_atracado_horas": 27.7,
+      "tempo_atracado_horas": 34.2,
       "previsao_desatracacao": null
     },
     {
@@ -1135,7 +1135,7 @@
       "agencia": "GEM - PARNAIBA",
       "data_atracacao": "19/11/26",
       "hora_atracacao": "07:45",
-      "tempo_atracado_horas": 6.3,
+      "tempo_atracado_horas": 12.8,
       "previsao_desatracacao": null
     },
     {
@@ -1147,20 +1147,20 @@
       "agencia": "LBH BRASIL**",
       "data_atracacao": "17/11/26",
       "hora_atracacao": "13:13",
-      "tempo_atracado_horas": 48.8,
-      "previsao_desatracacao": "19/11/2026 20:32"
+      "tempo_atracado_horas": 55.3,
+      "previsao_desatracacao": "20/11/2026 00:55"
     },
     {
       "terminal": "VALE",
       "berco": "PIER 3 NORTE",
-      "nome": "CL SHANGRAO",
-      "bandeira": "MARSHALL ISLANDS",
-      "imo": "9938808",
-      "agencia": "WILHELMSEN PORT**",
-      "data_atracacao": "18/11/26",
-      "hora_atracacao": "08:55",
-      "tempo_atracado_horas": 29.1,
-      "previsao_desatracacao": "19/11/2026 12:31"
+      "nome": "FORTE DOS REIS MAGOS",
+      "bandeira": "Brazil",
+      "imo": "9939084",
+      "agencia": "ISS**",
+      "data_atracacao": "19/11/26",
+      "hora_atracacao": "14:45",
+      "tempo_atracado_horas": 5.8,
+      "previsao_desatracacao": null
     },
     {
       "terminal": "VALE",
@@ -1171,8 +1171,8 @@
       "agencia": "ISS**",
       "data_atracacao": "18/11/26",
       "hora_atracacao": "01:05",
-      "tempo_atracado_horas": 37.0,
-      "previsao_desatracacao": "19/11/2026 20:32"
+      "tempo_atracado_horas": 43.4,
+      "previsao_desatracacao": "20/11/2026 00:55"
     },
     {
       "terminal": "VALE",
@@ -1183,7 +1183,7 @@
       "agencia": "LMA SHIPPING **",
       "data_atracacao": "18/11/26",
       "hora_atracacao": "21:10",
-      "tempo_atracado_horas": 16.9,
+      "tempo_atracado_horas": 23.3,
       "previsao_desatracacao": null
     }
   ]

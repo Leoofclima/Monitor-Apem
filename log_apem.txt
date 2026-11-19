@@ -18513,3 +18513,131 @@ De: 105
 Para/Berço: ILHA DO MEDO
 Agência: ZYON
 --------------------------------------------------
+[19/11/2026 20:30:10] NOVA MANOBRA:
+Navio: FORTE DE SAO LUIZ
+Manobra: Atracação
+Data/Hora: 19/11/26 20:32
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[19/11/2026 20:30:10] NOVA MANOBRA:
+Navio: PRECIOUS ADELAIDE
+Manobra: Desatracação
+Data/Hora: 19/11/26 21:02
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[19/11/2026 20:30:10] NOVA MANOBRA:
+Navio: AOM MARTA
+Manobra: Atracação
+Data/Hora: 20/11/26 00:55
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[19/11/2026 20:30:10] NOVA MANOBRA:
+Navio: YM RESPECT
+Manobra: DA
+Data/Hora: 20/11/26 01:55
+De: 101/SUL
+Para/Berço: 101/SUL
+Agência: LBH BRASIL**
+--------------------------------------------------
+[19/11/2026 20:30:10] NOVA MANOBRA:
+Navio: MIKE BAY
+Manobra: Desatracação
+Data/Hora: 20/11/26 02:10
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[19/11/2026 20:30:10] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: STAR EUROPE
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 19/11/26 20:32
+Agora: 20/11/26 00:55
+Agência: ISS**
+--------------------------------------------------
+[19/11/2026 20:30:10] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: NSU BRAZIL
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 19/11/26 20:32
+Agora: 20/11/26 00:55
+Agência: LBH BRASIL**
+--------------------------------------------------
+[19/11/2026 20:30:10] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: SM GEMINI1
+Manobra: Atracação
+Berço: PIER 1
+Antes: 19/11/26 20:32
+Agora: 20/11/26 00:55
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[19/11/2026 20:30:10] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: CL SHANGRAO
+Manobra: Desatracação
+Data/Hora: 19/11/26 12:31
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[19/11/2026 20:30:10] MANOBRA CONCLUÍDA (navio atracou):
+Navio: FORTE DOS REIS MAGOS
+Manobra: Atracação
+Data/Hora: 19/11/26 14:45 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: ISS**
+--------------------------------------------------
+[19/11/2026 20:30:10] MANOBRA CONCLUÍDA (navio atracou):
+Navio: GEORGIA T
+Manobra: Atracação
+Data/Hora: 19/11/26 14:40 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[19/11/2026 20:30:10] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FORTE DE SAO JOSE
+Manobra: Desatracação
+Data/Hora: 19/11/26 12:46
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[19/11/2026 20:30:10] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PEPPINO
+Manobra: Atracação
+Data/Hora: 19/11/26 15:30 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[19/11/2026 20:30:10] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ULYSSES I
+Manobra: Atracação
+Data/Hora: 19/11/26 16:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: NORTH STAR**
+--------------------------------------------------
+[19/11/2026 20:30:10] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — MOUNT ETNA permanece no fundeio
+
+Navio: MOUNT ETNA
+Manobra: Atracação (cancelada)
+Previsão anterior: 19/11/26 20:32
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
