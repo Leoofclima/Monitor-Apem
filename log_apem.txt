@@ -18385,3 +18385,19 @@ Antes: 18/11/26 23:17
 Agora: 19/11/26 08:29
 Agência: ZYON
 --------------------------------------------------
+[19/11/2026 04:58:14] NOVA MANOBRA:
+Navio: MINERVA
+Manobra: SS
+Data/Hora: 19/11/26 06:29
+De: AREA 7B.1
+Para/Berço: ILHA DO MEDO
+Agência: S.A.O. MARITIME **
+--------------------------------------------------
+[19/11/2026 04:58:14] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SAIKO
+Manobra: Atracação
+Data/Hora: 18/11/26 21:10 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
