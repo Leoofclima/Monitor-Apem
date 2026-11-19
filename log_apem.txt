@@ -18355,3 +18355,33 @@ De: BOIA 19-24
 Para/Berço: 99
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[18/11/2026 21:42:16] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: BOSPORUS
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 18/11/26 23:47
+Agora: 19/11/26 07:59
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[18/11/2026 21:42:16] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: GOLDEN TRADER
+Manobra: Atracação
+Berço: 105
+Antes: 18/11/26 23:47
+Agora: 19/11/26 07:59
+Agência: ALPHAMAR**
+--------------------------------------------------
+[18/11/2026 21:42:16] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: MARILUCKY
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 18/11/26 23:17
+Agora: 19/11/26 08:29
+Agência: ZYON
+--------------------------------------------------
