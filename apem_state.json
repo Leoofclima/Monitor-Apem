@@ -1,6 +1,12 @@
 {
-  "MINERVA | 19/11/26 | 06:29 | SS | ILHA DO MEDO": "Navio: MINERVA\nManobra: SS\nData/Hora: 19/11/26 06:29\nDe: AREA 7B.1\nPara/Berço: ILHA DO MEDO\nAgência: S.A.O. MARITIME **",
-  "GOLDEN TRADER | 19/11/26 | 07:59 | EA | 105": "Navio: GOLDEN TRADER\nManobra: Atracação\nData/Hora: 19/11/26 07:59\nDe: BOIA 19-24\nPara/Berço: 105\nAgência: ALPHAMAR**",
-  "BOSPORUS | 19/11/26 | 07:59 | DS | ILHA DO MEDO": "Navio: BOSPORUS\nManobra: Desatracação\nData/Hora: 19/11/26 07:59\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
-  "MARILUCKY | 19/11/26 | 08:29 | DS | ILHA DO MEDO": "Navio: MARILUCKY\nManobra: Desatracação\nData/Hora: 19/11/26 08:29\nDe: 105\nPara/Berço: ILHA DO MEDO\nAgência: ZYON"
+  "CL SHANGRAO | 19/11/26 | 12:31 | DS | ILHA DO MEDO": "Navio: CL SHANGRAO\nManobra: Desatracação\nData/Hora: 19/11/26 12:31\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "FORTE DOS REIS MAGOS | 19/11/26 | 12:31 | EA | PIER 3 NORTE": "Navio: FORTE DOS REIS MAGOS\nManobra: Atracação\nData/Hora: 19/11/26 12:31\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: ISS**",
+  "GEORGIA T | 19/11/26 | 12:31 | EA | 103/NORTE": "Navio: GEORGIA T\nManobra: Atracação\nData/Hora: 19/11/26 12:31\nDe: BOIA 19-24\nPara/Berço: 103/NORTE\nAgência: FERTIMPORT - S.L **",
+  "FORTE DE SAO JOSE | 19/11/26 | 12:46 | DS | ILHA DO MEDO": "Navio: FORTE DE SAO JOSE\nManobra: Desatracação\nData/Hora: 19/11/26 12:46\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
+  "PEPPINO | 19/11/26 | 13:16 | EA | ALUMAR 2": "Navio: PEPPINO\nManobra: Atracação\nData/Hora: 19/11/26 13:16\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 2\nAgência: ORION RODOS**",
+  "ULYSSES I | 19/11/26 | 14:01 | EA | 108": "Navio: ULYSSES I\nManobra: Atracação\nData/Hora: 19/11/26 14:01\nDe: PONTO ALPHA\nPara/Berço: 108\nAgência: NORTH STAR**",
+  "STAR EUROPE | 19/11/26 | 20:32 | DS | ILHA DO MEDO": "Navio: STAR EUROPE\nManobra: Desatracação\nData/Hora: 19/11/26 20:32\nDe: PIER 3 SUL\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
+  "NSU BRAZIL | 19/11/26 | 20:32 | DS | ILHA DO MEDO": "Navio: NSU BRAZIL\nManobra: Desatracação\nData/Hora: 19/11/26 20:32\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: LBH BRASIL**",
+  "SM GEMINI1 | 19/11/26 | 20:32 | EA | PIER 1": "Navio: SM GEMINI1\nManobra: Atracação\nData/Hora: 19/11/26 20:32\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: LMA SHIPPING **",
+  "MOUNT ETNA | 19/11/26 | 20:32 | EA | PIER 3 SUL": "Navio: MOUNT ETNA\nManobra: Atracação\nData/Hora: 19/11/26 20:32\nDe: PONTO ALPHA\nPara/Berço: PIER 3 SUL\nAgência: LMA SHIPPING **"
 }

@@ -18401,3 +18401,115 @@ De: PONTO ALPHA
 Para/Berço: PIER 4 SUL
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[19/11/2026 14:03:53] NOVA MANOBRA:
+Navio: CL SHANGRAO
+Manobra: Desatracação
+Data/Hora: 19/11/26 12:31
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[19/11/2026 14:03:53] NOVA MANOBRA:
+Navio: FORTE DOS REIS MAGOS
+Manobra: Atracação
+Data/Hora: 19/11/26 12:31
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: ISS**
+--------------------------------------------------
+[19/11/2026 14:03:53] NOVA MANOBRA:
+Navio: GEORGIA T
+Manobra: Atracação
+Data/Hora: 19/11/26 12:31
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[19/11/2026 14:03:53] NOVA MANOBRA:
+Navio: FORTE DE SAO JOSE
+Manobra: Desatracação
+Data/Hora: 19/11/26 12:46
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[19/11/2026 14:03:53] NOVA MANOBRA:
+Navio: PEPPINO
+Manobra: Atracação
+Data/Hora: 19/11/26 13:16
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[19/11/2026 14:03:53] NOVA MANOBRA:
+Navio: ULYSSES I
+Manobra: Atracação
+Data/Hora: 19/11/26 14:01
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: NORTH STAR**
+--------------------------------------------------
+[19/11/2026 14:03:53] NOVA MANOBRA:
+Navio: STAR EUROPE
+Manobra: Desatracação
+Data/Hora: 19/11/26 20:32
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[19/11/2026 14:03:53] NOVA MANOBRA:
+Navio: NSU BRAZIL
+Manobra: Desatracação
+Data/Hora: 19/11/26 20:32
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
+[19/11/2026 14:03:53] NOVA MANOBRA:
+Navio: SM GEMINI1
+Manobra: Atracação
+Data/Hora: 19/11/26 20:32
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[19/11/2026 14:03:53] NOVA MANOBRA:
+Navio: MOUNT ETNA
+Manobra: Atracação
+Data/Hora: 19/11/26 20:32
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[19/11/2026 14:03:53] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: MINERVA
+Manobra: SS
+Data/Hora: 19/11/26 06:29
+De: AREA 7B.1
+Para/Berço: ILHA DO MEDO
+Agência: S.A.O. MARITIME **
+--------------------------------------------------
+[19/11/2026 14:03:53] MANOBRA CONCLUÍDA (navio atracou):
+Navio: GOLDEN TRADER
+Manobra: Atracação
+Data/Hora: 19/11/26 10:15 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: ALPHAMAR**
+--------------------------------------------------
+[19/11/2026 14:03:53] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BOSPORUS
+Manobra: Desatracação
+Data/Hora: 19/11/26 07:59
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[19/11/2026 14:03:53] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: MARILUCKY
+Manobra: Desatracação
+Data/Hora: 19/11/26 08:29
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: ZYON
+--------------------------------------------------
