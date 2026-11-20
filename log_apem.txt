@@ -18793,3 +18793,83 @@ De: 100
 Para/Berço: ILHA DO MEDO
 Agência: LBH BRASIL**
 --------------------------------------------------
+[20/11/2026 17:53:04] NOVA MANOBRA:
+Navio: STAR LOUISIANA
+Manobra: SS
+Data/Hora: 20/11/26 21:00
+De: AREA 8.1
+Para/Berço: ILHA DO MEDO
+Agência: ROCHAMAR**
+--------------------------------------------------
+[20/11/2026 17:53:04] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SAIKO
+Manobra: Desatracação
+Data/Hora: 20/11/26 08:34
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[20/11/2026 17:53:04] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: STAR EUROPE
+Manobra: Desatracação
+Data/Hora: 20/11/26 09:04
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[20/11/2026 17:53:04] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: NSU BRAZIL
+Manobra: Desatracação
+Data/Hora: 20/11/26 09:04
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
+[20/11/2026 17:53:04] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SM GEMINI1
+Manobra: Atracação
+Data/Hora: 20/11/26 11:35 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[20/11/2026 17:53:04] MANOBRA CONCLUÍDA (navio atracou):
+Navio: GENCO LONDON
+Manobra: Atracação
+Data/Hora: 20/11/26 11:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[20/11/2026 17:53:04] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AOM MARTA
+Manobra: Atracação
+Data/Hora: 20/11/26 16:20 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[20/11/2026 17:53:04] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: KONTA III
+Manobra: Desatracação
+Data/Hora: 20/11/26 13:29
+De: PLATAFORMA 1
+Para/Berço: PTO EMBARQUE LC
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[20/11/2026 17:53:04] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Atracação
+Data/Hora: 20/11/26 16:30 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 1
+Agência: ORION RODOS**
+--------------------------------------------------
+[20/11/2026 17:53:04] MANOBRA CONCLUÍDA (navio atracou):
+Navio: HONESTY
+Manobra: Atracação
+Data/Hora: 20/11/26 16:50 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 106
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
