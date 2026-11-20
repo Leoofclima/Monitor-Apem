@@ -18729,3 +18729,67 @@ De: 104
 Para/Berço: ILHA DO MEDO
 Agência: NORTH STAR**
 --------------------------------------------------
+[20/11/2026 09:56:38] NOVA MANOBRA:
+Navio: KONTA III
+Manobra: Desatracação
+Data/Hora: 20/11/26 13:29
+De: PLATAFORMA 1
+Para/Berço: PTO EMBARQUE LC
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[20/11/2026 09:56:38] NOVA MANOBRA:
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Atracação
+Data/Hora: 20/11/26 14:14
+De: PONTO ALPHA
+Para/Berço: ALUMAR 1
+Agência: ORION RODOS**
+--------------------------------------------------
+[20/11/2026 09:56:38] NOVA MANOBRA:
+Navio: HONESTY
+Manobra: Atracação
+Data/Hora: 20/11/26 14:59
+De: BOIA 19-24
+Para/Berço: 106
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[20/11/2026 09:56:38] NOVA MANOBRA:
+Navio: PEPPINO
+Manobra: Desatracação
+Data/Hora: 20/11/26 21:53
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[20/11/2026 09:56:38] MANOBRA CONCLUÍDA (navio atracou):
+Navio: YM RESPECT
+Manobra: DA
+Data/Hora: 20/11/26 03:38 (horário real de atracação)
+De: 101/SUL
+Para/Berço: 101/SUL
+Agência: LBH BRASIL**
+--------------------------------------------------
+[20/11/2026 09:56:38] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: MIKE BAY
+Manobra: Desatracação
+Data/Hora: 20/11/26 02:10
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[20/11/2026 09:56:38] MANOBRA CONCLUÍDA (navio atracou):
+Navio: DUCHESS CAMELLIA
+Manobra: Atracação
+Data/Hora: 20/11/26 04:35 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 100
+Agência: ALPHAMAR**
+--------------------------------------------------
+[20/11/2026 09:56:38] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: OCEANLADY
+Manobra: Desatracação
+Data/Hora: 20/11/26 02:25
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
