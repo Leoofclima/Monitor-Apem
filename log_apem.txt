@@ -18641,3 +18641,91 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 SUL
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[20/11/2026 01:12:02] NOVA MANOBRA:
+Navio: DUCHESS CAMELLIA
+Manobra: Atracação
+Data/Hora: 20/11/26 02:25
+De: BOIA 19-24
+Para/Berço: 100
+Agência: ALPHAMAR**
+--------------------------------------------------
+[20/11/2026 01:12:02] NOVA MANOBRA:
+Navio: OCEANLADY
+Manobra: Desatracação
+Data/Hora: 20/11/26 02:25
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
+[20/11/2026 01:12:02] NOVA MANOBRA:
+Navio: SAIKO
+Manobra: Desatracação
+Data/Hora: 20/11/26 08:34
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[20/11/2026 01:12:02] NOVA MANOBRA:
+Navio: GENCO LONDON
+Manobra: Atracação
+Data/Hora: 20/11/26 09:04
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[20/11/2026 01:12:02] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: STAR EUROPE
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 20/11/26 00:55
+Agora: 20/11/26 09:04
+Agência: ISS**
+--------------------------------------------------
+[20/11/2026 01:12:02] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: NSU BRAZIL
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 20/11/26 00:55
+Agora: 20/11/26 09:04
+Agência: LBH BRASIL**
+--------------------------------------------------
+[20/11/2026 01:12:02] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: SM GEMINI1
+Manobra: Atracação
+Berço: PIER 1
+Antes: 20/11/26 00:55
+Agora: 20/11/26 09:04
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[20/11/2026 01:12:02] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: AOM MARTA
+Manobra: Atracação
+Berço: PIER 3 SUL
+Antes: 20/11/26 00:55
+Agora: 20/11/26 13:29
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[20/11/2026 01:12:02] MANOBRA CONCLUÍDA (navio atracou):
+Navio: FORTE DE SAO LUIZ
+Manobra: Atracação
+Data/Hora: 19/11/26 22:55 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[20/11/2026 01:12:02] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PRECIOUS ADELAIDE
+Manobra: Desatracação
+Data/Hora: 19/11/26 21:02
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
