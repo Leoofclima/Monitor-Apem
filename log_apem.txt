@@ -19139,3 +19139,59 @@ De: BOIA 19-24
 Para/Berço: 105
 Agência: WAYPOINT (SÃO LUIS)*
 --------------------------------------------------
+[21/11/2026 18:52:02] NOVA MANOBRA:
+Navio: GEORGIA T
+Manobra: Desatracação
+Data/Hora: 21/11/26 23:06
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[21/11/2026 18:52:02] NOVA MANOBRA:
+Navio: BRASSIANA
+Manobra: Desatracação
+Data/Hora: 22/11/26 02:51
+De: 99
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[21/11/2026 18:52:02] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: GENCO LONDON
+Manobra: Desatracação
+Data/Hora: 21/11/26 14:21
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[21/11/2026 18:52:02] MANOBRA CONCLUÍDA (navio atracou):
+Navio: PS SINGAPORE
+Manobra: Atracação
+Data/Hora: 21/11/26 16:00 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILSON SONS **
+--------------------------------------------------
+[21/11/2026 18:52:02] MANOBRA CONCLUÍDA (navio atracou):
+Navio: NANSHA GLORY
+Manobra: Atracação
+Data/Hora: 21/11/26 17:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: ISS**
+--------------------------------------------------
+[21/11/2026 18:52:02] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: AOM MARTA
+Manobra: Desatracação
+Data/Hora: 21/11/26 15:21
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[21/11/2026 18:52:02] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MOUNT ETNA
+Manobra: Atracação
+Data/Hora: 21/11/26 18:00 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
