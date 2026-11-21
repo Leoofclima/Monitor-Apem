@@ -1,4 +1,11 @@
 {
-  "STAR LOUISIANA | 20/11/26 | 21:00 | SS | ILHA DO MEDO": "Navio: STAR LOUISIANA\nManobra: SS\nData/Hora: 20/11/26 21:00\nDe: AREA 8.1\nPara/Berço: ILHA DO MEDO\nAgência: ROCHAMAR**",
-  "PEPPINO | 20/11/26 | 21:53 | DS | ILHA DO MEDO": "Navio: PEPPINO\nManobra: Desatracação\nData/Hora: 20/11/26 21:53\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**"
+  "PEPPINO | 20/11/26 | 21:53 | DS | ILHA DO MEDO": "Navio: PEPPINO\nManobra: Desatracação\nData/Hora: 20/11/26 21:53\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
+  "LOWLANDS HOPE | 21/11/26 | 02:42 | EA | ALUMAR 1": "Navio: LOWLANDS HOPE\nManobra: Atracação\nData/Hora: 21/11/26 02:42\nDe: BOIA 19-24\nPara/Berço: ALUMAR 1\nAgência: GEM**",
+  "CASTILLO DE SANTA MARIA | 21/11/26 | 03:12 | DA | ALUMAR 2": "Navio: CASTILLO DE SANTA MARIA\nManobra: DA\nData/Hora: 21/11/26 03:12\nDe: ALUMAR 1\nPara/Berço: ALUMAR 2\nAgência: ORION RODOS**",
+  "HANG JUN 3011 | 21/11/26 | 06:00 | EF | AREA 7": "Navio: HANG JUN 3011\nManobra: EF\nData/Hora: 21/11/26 06:00\nDe: BOIA 19-24\nPara/Berço: AREA 7\nAgência: OCEANMAR**",
+  "YM RESPECT | 21/11/26 | 10:02 | DS | ILHA DO MEDO": "Navio: YM RESPECT\nManobra: Desatracação\nData/Hora: 21/11/26 10:02\nDe: 101/SUL\nPara/Berço: ILHA DO MEDO\nAgência: LBH BRASIL**",
+  "GOLDEN TRADER | 21/11/26 | 10:32 | DS | ILHA DO MEDO": "Navio: GOLDEN TRADER\nManobra: Desatracação\nData/Hora: 21/11/26 10:32\nDe: 105\nPara/Berço: ILHA DO MEDO\nAgência: ALPHAMAR**",
+  "ANTHEA V | 21/11/26 | 10:32 | EA | 105": "Navio: ANTHEA V\nManobra: Atracação\nData/Hora: 21/11/26 10:32\nDe: BOIA 19-24\nPara/Berço: 105\nAgência: WAYPOINT (SÃO LUIS)*",
+  "FORTE DE SAO LUIZ | 21/11/26 | 10:32 | DS | ILHA DO MEDO": "Navio: FORTE DE SAO LUIZ\nManobra: Desatracação\nData/Hora: 21/11/26 10:32\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "PS SINGAPORE | 21/11/26 | 10:32 | EA | 104": "Navio: PS SINGAPORE\nManobra: Atracação\nData/Hora: 21/11/26 10:32\nDe: BOIA 19-24\nPara/Berço: 104\nAgência: WILSON SONS **"
 }

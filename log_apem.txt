@@ -18873,3 +18873,75 @@ De: BOIA 19-24
 Para/Berço: 106
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[20/11/2026 22:53:10] NOVA MANOBRA:
+Navio: LOWLANDS HOPE
+Manobra: Atracação
+Data/Hora: 21/11/26 02:42
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
+[20/11/2026 22:53:10] NOVA MANOBRA:
+Navio: CASTILLO DE SANTA MARIA
+Manobra: DA
+Data/Hora: 21/11/26 03:12
+De: ALUMAR 1
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[20/11/2026 22:53:10] NOVA MANOBRA:
+Navio: HANG JUN 3011
+Manobra: EF
+Data/Hora: 21/11/26 06:00
+De: BOIA 19-24
+Para/Berço: AREA 7
+Agência: OCEANMAR**
+--------------------------------------------------
+[20/11/2026 22:53:10] NOVA MANOBRA:
+Navio: YM RESPECT
+Manobra: Desatracação
+Data/Hora: 21/11/26 10:02
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
+[20/11/2026 22:53:10] NOVA MANOBRA:
+Navio: GOLDEN TRADER
+Manobra: Desatracação
+Data/Hora: 21/11/26 10:32
+De: 105
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[20/11/2026 22:53:10] NOVA MANOBRA:
+Navio: ANTHEA V
+Manobra: Atracação
+Data/Hora: 21/11/26 10:32
+De: BOIA 19-24
+Para/Berço: 105
+Agência: WAYPOINT (SÃO LUIS)*
+--------------------------------------------------
+[20/11/2026 22:53:10] NOVA MANOBRA:
+Navio: FORTE DE SAO LUIZ
+Manobra: Desatracação
+Data/Hora: 21/11/26 10:32
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[20/11/2026 22:53:10] NOVA MANOBRA:
+Navio: PS SINGAPORE
+Manobra: Atracação
+Data/Hora: 21/11/26 10:32
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILSON SONS **
+--------------------------------------------------
+[20/11/2026 22:53:10] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: STAR LOUISIANA
+Manobra: SS
+Data/Hora: 20/11/26 21:00
+De: AREA 8.1
+Para/Berço: ILHA DO MEDO
+Agência: ROCHAMAR**
+--------------------------------------------------
