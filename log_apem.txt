@@ -18945,3 +18945,91 @@ De: AREA 8.1
 Para/Berço: ILHA DO MEDO
 Agência: ROCHAMAR**
 --------------------------------------------------
+[21/11/2026 05:59:02] NOVA MANOBRA:
+Navio: HANG JUN 3011
+Manobra: EF
+Data/Hora: 21/11/26 06:00
+De: BOIA 19-24
+Para/Berço: AREA 7A.2
+Agência: OCEANMAR**
+--------------------------------------------------
+[21/11/2026 05:59:02] NOVA MANOBRA:
+Navio: HERODOTUS
+Manobra: Atracação
+Data/Hora: 21/11/26 10:02
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: ISS**
+--------------------------------------------------
+[21/11/2026 05:59:02] NOVA MANOBRA:
+Navio: FORTE DOS REIS MAGOS
+Manobra: Desatracação
+Data/Hora: 21/11/26 10:02
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[21/11/2026 05:59:02] NOVA MANOBRA:
+Navio: AS ONE
+Manobra: Desatracação
+Data/Hora: 21/11/26 10:32
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: LBH BRASIL**
+--------------------------------------------------
+[21/11/2026 05:59:02] NOVA MANOBRA:
+Navio: SALVINIA
+Manobra: Atracação
+Data/Hora: 21/11/26 10:32
+De: BOIA 19-24
+Para/Berço: 101/SUL
+Agência: ZPORT LTDA**
+--------------------------------------------------
+[21/11/2026 05:59:02] NOVA MANOBRA:
+Navio: GENCO LONDON
+Manobra: Desatracação
+Data/Hora: 21/11/26 14:21
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[21/11/2026 05:59:02] NOVA MANOBRA:
+Navio: NANSHA GLORY
+Manobra: Atracação
+Data/Hora: 21/11/26 14:21
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: ISS**
+--------------------------------------------------
+[21/11/2026 05:59:02] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PEPPINO
+Manobra: Desatracação
+Data/Hora: 20/11/26 21:53
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[21/11/2026 05:59:02] MANOBRA CONCLUÍDA (navio atracou):
+Navio: LOWLANDS HOPE
+Manobra: Atracação
+Data/Hora: 21/11/26 04:50 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
+[21/11/2026 05:59:02] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CASTILLO DE SANTA MARIA
+Manobra: DA
+Data/Hora: 21/11/26 04:30 (horário real de atracação)
+De: ALUMAR 1
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[21/11/2026 05:59:02] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados):
+Navio: HANG JUN 3011
+Manobra: EF
+Data/Hora: 21/11/26 06:00
+De: BOIA 19-24
+Para/Berço: AREA 7
+Agência: OCEANMAR**
+--------------------------------------------------
