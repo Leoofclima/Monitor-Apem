@@ -19213,3 +19213,67 @@ Antes: 21/11/26 23:06
 Agora: 22/11/26 02:21
 Agência: FERTIMPORT - S.L **
 --------------------------------------------------
+[22/11/2026 05:54:03] NOVA MANOBRA:
+Navio: SM GEMINI1
+Manobra: Desatracação
+Data/Hora: 22/11/26 10:57
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[22/11/2026 05:54:03] NOVA MANOBRA:
+Navio: ORE CHINA
+Manobra: Atracação
+Data/Hora: 22/11/26 10:57
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: ISS**
+--------------------------------------------------
+[22/11/2026 05:54:03] NOVA MANOBRA:
+Navio: CASTILLO DE SANTA MARIA
+Manobra: Desatracação
+Data/Hora: 22/11/26 15:23
+De: ALUMAR 2
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
+[22/11/2026 05:54:03] NOVA MANOBRA:
+Navio: AMAZON COMMANDER
+Manobra: Atracação
+Data/Hora: 22/11/26 15:53
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[22/11/2026 05:54:03] MANOBRA CONCLUÍDA (navio atracou):
+Navio: CLARABELLE
+Manobra: Atracação
+Data/Hora: 22/11/26 00:01 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: AMART **
+--------------------------------------------------
+[22/11/2026 05:54:03] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: GEORGIA T
+Manobra: Desatracação
+Data/Hora: 22/11/26 02:21
+De: 103/NORTE
+Para/Berço: ILHA DO MEDO
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
+[22/11/2026 05:54:03] MANOBRA CONCLUÍDA (navio atracou):
+Navio: GLORY CUIABA
+Manobra: Atracação
+Data/Hora: 22/11/26 04:40 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: WILSON SONS **
+--------------------------------------------------
+[22/11/2026 05:54:03] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BRASSIANA
+Manobra: Desatracação
+Data/Hora: 22/11/26 02:51
+De: 99
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
