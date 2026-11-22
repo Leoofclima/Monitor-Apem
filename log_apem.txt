@@ -19277,3 +19277,19 @@ De: 99
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[22/11/2026 13:47:18] NOVA MANOBRA:
+Navio: LOWLANDS HOPE
+Manobra: Desatracação
+Data/Hora: 23/11/26 04:59
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[22/11/2026 13:47:18] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SM GEMINI1
+Manobra: Desatracação
+Data/Hora: 22/11/26 10:57
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
