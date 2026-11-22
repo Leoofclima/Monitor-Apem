@@ -19195,3 +19195,21 @@ De: PONTO ALPHA
 Para/Berço: PIER 3 SUL
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[21/11/2026 22:48:17] NOVA MANOBRA:
+Navio: GLORY CUIABA
+Manobra: Atracação
+Data/Hora: 22/11/26 02:51
+De: BOIA 19-24
+Para/Berço: 103/NORTE
+Agência: WILSON SONS **
+--------------------------------------------------
+[21/11/2026 22:48:17] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: GEORGIA T
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 21/11/26 23:06
+Agora: 22/11/26 02:21
+Agência: FERTIMPORT - S.L **
+--------------------------------------------------
