@@ -19369,3 +19369,83 @@ Antes: 22/11/26 23:57
 Agora: 23/11/26 03:44
 Agência: ROCHAMAR**
 --------------------------------------------------
+[23/11/2026 08:17:51] NOVA MANOBRA:
+Navio: KONTA III
+Manobra: Atracação
+Data/Hora: 23/11/26 09:00
+De: PTO EMBARQUE LC
+Para/Berço: PLATAFORMA 1
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[23/11/2026 08:17:51] NOVA MANOBRA:
+Navio: HERODOTUS
+Manobra: Desatracação
+Data/Hora: 23/11/26 11:47
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[23/11/2026 08:17:51] NOVA MANOBRA:
+Navio: GH KAHLO
+Manobra: Atracação
+Data/Hora: 23/11/26 11:47
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[23/11/2026 08:17:51] NOVA MANOBRA:
+Navio: MINERAL CHANG JIANG
+Manobra: Atracação
+Data/Hora: 23/11/26 11:47
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[23/11/2026 08:17:51] NOVA MANOBRA:
+Navio: MOUNT ETNA
+Manobra: Desatracação
+Data/Hora: 23/11/26 11:47
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[23/11/2026 08:17:51] MANOBRA CONCLUÍDA (navio atracou):
+Navio: HORIZON THETIS
+Manobra: Atracação
+Data/Hora: 23/11/26 01:15 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 106
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[23/11/2026 08:17:51] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: HONESTY
+Manobra: Desatracação
+Data/Hora: 22/11/26 22:57
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[23/11/2026 08:17:51] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SALVINIA
+Manobra: Desatracação
+Data/Hora: 23/11/26 03:14
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: ZPORT LTDA**
+--------------------------------------------------
+[23/11/2026 08:17:51] MANOBRA CONCLUÍDA (navio atracou):
+Navio: BIRCH ARROW
+Manobra: Atracação
+Data/Hora: 23/11/26 05:52 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 101/SUL
+Agência: ROCHAMAR**
+--------------------------------------------------
+[23/11/2026 08:17:51] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: LOWLANDS HOPE
+Manobra: Desatracação
+Data/Hora: 23/11/26 04:59
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
