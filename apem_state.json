@@ -1,7 +1,6 @@
 {
-  "KONTA III | 23/11/26 | 09:00 | EA | PLATAFORMA 1": "Navio: KONTA III\nManobra: Atracação\nData/Hora: 23/11/26 09:00\nDe: PTO EMBARQUE LC\nPara/Berço: PLATAFORMA 1\nAgência: GEM - PARNAIBA",
-  "HERODOTUS | 23/11/26 | 11:47 | DS | ILHA DO MEDO": "Navio: HERODOTUS\nManobra: Desatracação\nData/Hora: 23/11/26 11:47\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
-  "GH KAHLO | 23/11/26 | 11:47 | EA | PIER 3 NORTE": "Navio: GH KAHLO\nManobra: Atracação\nData/Hora: 23/11/26 11:47\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: WILHELMSEN PORT**",
-  "MINERAL CHANG JIANG | 23/11/26 | 11:47 | EA | PIER 3 SUL": "Navio: MINERAL CHANG JIANG\nManobra: Atracação\nData/Hora: 23/11/26 11:47\nDe: PONTO ALPHA\nPara/Berço: PIER 3 SUL\nAgência: LMA SHIPPING **",
-  "MOUNT ETNA | 23/11/26 | 11:47 | DS | ILHA DO MEDO": "Navio: MOUNT ETNA\nManobra: Desatracação\nData/Hora: 23/11/26 11:47\nDe: PIER 3 SUL\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **"
+  "ALETHINI | 23/11/26 | 17:27 | EA | 99": "Navio: ALETHINI\nManobra: Atracação\nData/Hora: 23/11/26 17:27\nDe: BOIA 19-24\nPara/Berço: 99\nAgência: AMART **",
+  "NANSHA GLORY | 23/11/26 | 23:46 | DS | ILHA DO MEDO": "Navio: NANSHA GLORY\nManobra: Desatracação\nData/Hora: 23/11/26 23:46\nDe: PIER 4 SUL\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
+  "HE PING | 24/11/26 | 00:16 | EA | PIER 4 SUL": "Navio: HE PING\nManobra: Atracação\nData/Hora: 24/11/26 00:16\nDe: PONTO ALPHA\nPara/Berço: PIER 4 SUL\nAgência: WILHELMSEN PORT**",
+  "KWAI KWAI | 24/11/26 | 04:32 | EA | 105": "Navio: KWAI KWAI\nManobra: Atracação\nData/Hora: 24/11/26 04:32\nDe: BOIA 19-24\nPara/Berço: 105\nAgência: GEM**"
 }

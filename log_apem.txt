@@ -19449,3 +19449,75 @@ De: ALUMAR 1
 Para/Berço: ILHA DO MEDO
 Agência: GEM**
 --------------------------------------------------
+[23/11/2026 19:43:19] NOVA MANOBRA:
+Navio: ALETHINI
+Manobra: Atracação
+Data/Hora: 23/11/26 17:27
+De: BOIA 19-24
+Para/Berço: 99
+Agência: AMART **
+--------------------------------------------------
+[23/11/2026 19:43:19] NOVA MANOBRA:
+Navio: NANSHA GLORY
+Manobra: Desatracação
+Data/Hora: 23/11/26 23:46
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[23/11/2026 19:43:19] NOVA MANOBRA:
+Navio: HE PING
+Manobra: Atracação
+Data/Hora: 24/11/26 00:16
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[23/11/2026 19:43:19] NOVA MANOBRA:
+Navio: KWAI KWAI
+Manobra: Atracação
+Data/Hora: 24/11/26 04:32
+De: BOIA 19-24
+Para/Berço: 105
+Agência: GEM**
+--------------------------------------------------
+[23/11/2026 19:43:19] MANOBRA CANCELADA/SUMIU (não encontrado em Navios Atracados nem Fundeados):
+Navio: KONTA III
+Manobra: Atracação
+Data/Hora: 23/11/26 09:00
+De: PTO EMBARQUE LC
+Para/Berço: PLATAFORMA 1
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[23/11/2026 19:43:19] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: HERODOTUS
+Manobra: Desatracação
+Data/Hora: 23/11/26 11:47
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[23/11/2026 19:43:19] MANOBRA CONCLUÍDA (navio atracou):
+Navio: GH KAHLO
+Manobra: Atracação
+Data/Hora: 23/11/26 14:10 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[23/11/2026 19:43:19] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MINERAL CHANG JIANG
+Manobra: Atracação
+Data/Hora: 23/11/26 14:30 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[23/11/2026 19:43:19] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: MOUNT ETNA
+Manobra: Desatracação
+Data/Hora: 23/11/26 11:47
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
