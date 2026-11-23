@@ -19349,3 +19349,23 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[22/11/2026 23:40:39] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: SALVINIA
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 22/11/26 23:57
+Agora: 23/11/26 03:14
+Agência: ZPORT LTDA**
+--------------------------------------------------
+[22/11/2026 23:40:39] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: BIRCH ARROW
+Manobra: Atracação
+Berço: 101/SUL
+Antes: 22/11/26 23:57
+Agora: 23/11/26 03:44
+Agência: ROCHAMAR**
+--------------------------------------------------
