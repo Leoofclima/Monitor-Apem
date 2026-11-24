@@ -19521,3 +19521,57 @@ De: PIER 3 SUL
 Para/Berço: ILHA DO MEDO
 Agência: LMA SHIPPING **
 --------------------------------------------------
+[24/11/2026 03:26:57] NOVA MANOBRA:
+Navio: DUCHESS CAMELLIA
+Manobra: Desatracação
+Data/Hora: 24/11/26 06:02
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: ALPHAMAR**
+--------------------------------------------------
+[24/11/2026 03:26:57] NOVA MANOBRA:
+Navio: ULYSSES I
+Manobra: Desatracação
+Data/Hora: 24/11/26 12:04
+De: 108
+Para/Berço: ILHA DO MEDO
+Agência: NORTH STAR**
+--------------------------------------------------
+[24/11/2026 03:26:57] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: HE PING
+Manobra: Atracação
+Berço: PIER 4 SUL
+Antes: 24/11/26 00:16
+Agora: 24/11/26 04:32
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[24/11/2026 03:26:57] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: NANSHA GLORY
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 23/11/26 23:46
+Agora: 24/11/26 04:32
+Agência: ISS**
+--------------------------------------------------
+[24/11/2026 03:26:57] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ALETHINI
+Manobra: Atracação
+Data/Hora: 23/11/26 19:20 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 99
+Agência: AMART **
+--------------------------------------------------
+[24/11/2026 03:26:57] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — KWAI KWAI permanece no fundeio
+
+Navio: KWAI KWAI
+Manobra: Atracação (cancelada)
+Previsão anterior: 24/11/26 04:32
+De: BOIA 19-24
+Para/Berço: 105
+Agência: GEM**
+--------------------------------------------------
