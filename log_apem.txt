@@ -19775,3 +19775,67 @@ De: PONTO ALPHA
 Para/Berço: ALUMAR 2
 Agência: ORION RODOS**
 --------------------------------------------------
+[25/11/2026 08:27:19] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: MINERAL CHANG JIANG
+Manobra: Desatracação
+Data/Hora: 25/11/26 01:06
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[25/11/2026 08:27:19] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MARIA D
+Manobra: Atracação
+Data/Hora: 25/11/26 03:49 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: ISS**
+--------------------------------------------------
+[25/11/2026 08:27:19] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SAGA BEIJA-FLOR
+Manobra: Atracação
+Data/Hora: 25/11/26 03:21 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 99
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[25/11/2026 08:27:19] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ALETHINI
+Manobra: Desatracação
+Data/Hora: 25/11/26 01:06
+De: 99
+Para/Berço: ILHA DO MEDO
+Agência: AMART **
+--------------------------------------------------
+[25/11/2026 08:27:19] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PS SINGAPORE
+Manobra: Desatracação
+Data/Hora: 25/11/26 04:49
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILSON SONS **
+--------------------------------------------------
+[25/11/2026 08:27:19] MANOBRA CONCLUÍDA (navio atracou):
+Navio: POLSTEAM PILE
+Manobra: Atracação
+Data/Hora: 25/11/26 07:40 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 101/SUL
+Agência: ORION RODOS**
+--------------------------------------------------
+[25/11/2026 08:27:19] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: GH KAHLO
+Manobra: Desatracação
+Data/Hora: 25/11/26 05:19
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[25/11/2026 08:27:19] MANOBRA CONCLUÍDA (navio atracou):
+Navio: OSCAR NIEMEYER
+Manobra: Atracação
+Data/Hora: 25/11/26 06:40 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 104
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
