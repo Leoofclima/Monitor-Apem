@@ -19839,3 +19839,43 @@ De: BOIA 19-24
 Para/Berço: 104
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[25/11/2026 17:33:42] NOVA MANOBRA:
+Navio: HORIZON THETIS
+Manobra: Desatracação
+Data/Hora: 25/11/26 18:31
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[25/11/2026 17:33:42] NOVA MANOBRA:
+Navio: HORIZON ARMONIA
+Manobra: Atracação
+Data/Hora: 25/11/26 19:01
+De: PONTO ALPHA
+Para/Berço: 106
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[25/11/2026 17:33:42] MANOBRA CONCLUÍDA (navio atracou):
+Navio: NAVIOS MELODIA
+Manobra: Atracação
+Data/Hora: 25/11/26 08:40 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[25/11/2026 17:33:42] MANOBRA CONCLUÍDA (navio atracou):
+Navio: FEDERAL FRANKLIN
+Manobra: Atracação
+Data/Hora: 25/11/26 07:45 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: ALUMAR 1
+Agência: GEM**
+--------------------------------------------------
+[25/11/2026 17:33:42] MANOBRA CONCLUÍDA (navio atracou):
+Navio: NAVIG8 GOAL
+Manobra: Atracação
+Data/Hora: 25/11/26 08:45 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: 108
+Agência: WILSON SONS **
+--------------------------------------------------
