@@ -1,8 +1,13 @@
 {
-  "ULYSSES I | 24/11/26 | 12:04 | DS | ILHA DO MEDO": "Navio: ULYSSES I\nManobra: Desatracação\nData/Hora: 24/11/26 12:04\nDe: 108\nPara/Berço: ILHA DO MEDO\nAgência: NORTH STAR**",
-  "ORE CHINA | 24/11/26 | 12:34 | DS | ILHA DO MEDO": "Navio: ORE CHINA\nManobra: Desatracação\nData/Hora: 24/11/26 12:34\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
-  "BERGE NEBLINA | 24/11/26 | 12:34 | EA | PIER 1": "Navio: BERGE NEBLINA\nManobra: Atracação\nData/Hora: 24/11/26 12:34\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: LMA SHIPPING **",
-  "GLORY CUIABA | 24/11/26 | 16:14 | DS | ILHA DO MEDO": "Navio: GLORY CUIABA\nManobra: Desatracação\nData/Hora: 24/11/26 16:14\nDe: 103/NORTE\nPara/Berço: ILHA DO MEDO\nAgência: WILSON SONS **",
-  "AMAZON COMMANDER | 24/11/26 | 16:59 | DS | ILHA DO MEDO": "Navio: AMAZON COMMANDER\nManobra: Desatracação\nData/Hora: 24/11/26 16:59\nDe: ALUMAR 2\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**",
-  "AMAZON PATHFINDER | 24/11/26 | 17:29 | EA | ALUMAR 2": "Navio: AMAZON PATHFINDER\nManobra: Atracação\nData/Hora: 24/11/26 17:29\nDe: PONTO ALPHA\nPara/Berço: ALUMAR 2\nAgência: ORION RODOS**"
+  "MINERAL CHANG JIANG | 25/11/26 | 01:06 | DS | ILHA DO MEDO": "Navio: MINERAL CHANG JIANG\nManobra: Desatracação\nData/Hora: 25/11/26 01:06\nDe: PIER 3 SUL\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
+  "MARIA D | 25/11/26 | 01:06 | EA | PIER 3 SUL": "Navio: MARIA D\nManobra: Atracação\nData/Hora: 25/11/26 01:06\nDe: PONTO ALPHA\nPara/Berço: PIER 3 SUL\nAgência: ISS**",
+  "SAGA BEIJA-FLOR | 25/11/26 | 01:06 | EA | 99": "Navio: SAGA BEIJA-FLOR\nManobra: Atracação\nData/Hora: 25/11/26 01:06\nDe: BOIA 19-24\nPara/Berço: 99\nAgência: WILHELMSEN PORT**",
+  "ALETHINI | 25/11/26 | 01:06 | DS | ILHA DO MEDO": "Navio: ALETHINI\nManobra: Desatracação\nData/Hora: 25/11/26 01:06\nDe: 99\nPara/Berço: ILHA DO MEDO\nAgência: AMART **",
+  "PS SINGAPORE | 25/11/26 | 04:49 | DS | ILHA DO MEDO": "Navio: PS SINGAPORE\nManobra: Desatracação\nData/Hora: 25/11/26 04:49\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILSON SONS **",
+  "POLSTEAM PILE | 25/11/26 | 05:19 | EA | 101/SUL": "Navio: POLSTEAM PILE\nManobra: Atracação\nData/Hora: 25/11/26 05:19\nDe: BOIA 19-24\nPara/Berço: 101/SUL\nAgência: ORION RODOS**",
+  "GH KAHLO | 25/11/26 | 05:19 | DS | ILHA DO MEDO": "Navio: GH KAHLO\nManobra: Desatracação\nData/Hora: 25/11/26 05:19\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "NAVIOS MELODIA | 25/11/26 | 05:19 | EA | PIER 3 NORTE": "Navio: NAVIOS MELODIA\nManobra: Atracação\nData/Hora: 25/11/26 05:19\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: LMA SHIPPING **",
+  "OSCAR NIEMEYER | 25/11/26 | 05:19 | EA | 104": "Navio: OSCAR NIEMEYER\nManobra: Atracação\nData/Hora: 25/11/26 05:19\nDe: BOIA 19-24\nPara/Berço: 104\nAgência: WILHELMSEN PORT**",
+  "FEDERAL FRANKLIN | 25/11/26 | 06:04 | EA | ALUMAR 1": "Navio: FEDERAL FRANKLIN\nManobra: Atracação\nData/Hora: 25/11/26 06:04\nDe: BOIA 19-24\nPara/Berço: ALUMAR 1\nAgência: GEM**",
+  "NAVIG8 GOAL | 25/11/26 | 06:49 | EA | 108": "Navio: NAVIG8 GOAL\nManobra: Atracação\nData/Hora: 25/11/26 06:49\nDe: PONTO ALPHA\nPara/Berço: 108\nAgência: WILSON SONS **"
 }
