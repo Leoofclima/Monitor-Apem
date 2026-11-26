@@ -19959,3 +19959,101 @@ De: 101/SUL
 Para/Berço: ILHA DO MEDO
 Agência: ORION RODOS**
 --------------------------------------------------
+[26/11/2026 18:36:33] NOVA MANOBRA:
+Navio: PAN EPIC
+Manobra: Desatracação
+Data/Hora: 26/11/26 18:19
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[26/11/2026 18:36:33] NOVA MANOBRA:
+Navio: OSCAR NIEMEYER
+Manobra: Desatracação
+Data/Hora: 26/11/26 18:19
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[26/11/2026 18:36:33] NOVA MANOBRA:
+Navio: ORE SHANTOU
+Manobra: Atracação
+Data/Hora: 27/11/26 02:51
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: ISS**
+--------------------------------------------------
+[26/11/2026 18:36:33] NOVA MANOBRA:
+Navio: CLARABELLE
+Manobra: Desatracação
+Data/Hora: 27/11/26 03:21
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: AMART **
+--------------------------------------------------
+[26/11/2026 18:36:33] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: MARIA D
+Manobra: Desatracação
+Data/Hora: 26/11/26 06:08
+De: PIER 3 SUL
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[26/11/2026 18:36:33] MANOBRA CONCLUÍDA (navio atracou):
+Navio: GLOBAL PIONEER
+Manobra: Atracação
+Data/Hora: 26/11/26 08:45 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 3 SUL
+Agência: LBH BRASIL**
+--------------------------------------------------
+[26/11/2026 18:36:33] MANOBRA CONCLUÍDA (navio atracou):
+Navio: HONESTY
+Manobra: Atracação
+Data/Hora: 26/11/26 15:15 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 106 EXT
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[26/11/2026 18:36:33] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PACIFIC LONGEVITY
+Manobra: Desatracação
+Data/Hora: 26/11/26 13:36
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[26/11/2026 18:36:33] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: BERGE NEBLINA
+Manobra: Desatracação
+Data/Hora: 26/11/26 14:06
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[26/11/2026 18:36:33] MANOBRA CONCLUÍDA (navio atracou):
+Navio: SEA ESPIRITO SANTO
+Manobra: Atracação
+Data/Hora: 26/11/26 17:15 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[26/11/2026 18:36:33] MANOBRA CANCELADA (navio permanece no fundeio):
+🔄 MANOBRA CANCELADA — ORE SHANTOU permanece no fundeio
+
+Navio: ORE SHANTOU
+Manobra: Atracação (cancelada)
+Previsão anterior: 26/11/26 14:06
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: ISS**
+--------------------------------------------------
+[26/11/2026 18:36:33] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: POLSTEAM PILE
+Manobra: Desatracação
+Data/Hora: 26/11/26 14:36
+De: 101/SUL
+Para/Berço: ILHA DO MEDO
+Agência: ORION RODOS**
+--------------------------------------------------
