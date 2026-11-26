@@ -1,3 +1,10 @@
 {
-  "HONESTY | 26/11/26 | 13:36 | EA | 106 EXT": "Navio: HONESTY\nManobra: Atracação\nData/Hora: 26/11/26 13:36\nDe: BOIA 19-24\nPara/Berço: 106 EXT\nAgência: WILHELMSEN PORT**"
+  "MARIA D | 26/11/26 | 06:08 | DS | ILHA DO MEDO": "Navio: MARIA D\nManobra: Desatracação\nData/Hora: 26/11/26 06:08\nDe: PIER 3 SUL\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
+  "GLOBAL PIONEER | 26/11/26 | 06:08 | EA | PIER 3 SUL": "Navio: GLOBAL PIONEER\nManobra: Atracação\nData/Hora: 26/11/26 06:08\nDe: PONTO ALPHA\nPara/Berço: PIER 3 SUL\nAgência: LBH BRASIL**",
+  "HONESTY | 26/11/26 | 13:36 | EA | 106 EXT": "Navio: HONESTY\nManobra: Atracação\nData/Hora: 26/11/26 13:36\nDe: BOIA 19-24\nPara/Berço: 106 EXT\nAgência: WILHELMSEN PORT**",
+  "PACIFIC LONGEVITY | 26/11/26 | 13:36 | DS | ILHA DO MEDO": "Navio: PACIFIC LONGEVITY\nManobra: Desatracação\nData/Hora: 26/11/26 13:36\nDe: PIER 4 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
+  "BERGE NEBLINA | 26/11/26 | 14:06 | DS | ILHA DO MEDO": "Navio: BERGE NEBLINA\nManobra: Desatracação\nData/Hora: 26/11/26 14:06\nDe: PIER 1\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
+  "SEA ESPIRITO SANTO | 26/11/26 | 14:06 | EA | PIER 1": "Navio: SEA ESPIRITO SANTO\nManobra: Atracação\nData/Hora: 26/11/26 14:06\nDe: PONTO ALPHA\nPara/Berço: PIER 1\nAgência: LMA SHIPPING **",
+  "ORE SHANTOU | 26/11/26 | 14:06 | EA | PIER 4 NORTE": "Navio: ORE SHANTOU\nManobra: Atracação\nData/Hora: 26/11/26 14:06\nDe: PONTO ALPHA\nPara/Berço: PIER 4 NORTE\nAgência: ISS**",
+  "POLSTEAM PILE | 26/11/26 | 14:36 | DS | ILHA DO MEDO": "Navio: POLSTEAM PILE\nManobra: Desatracação\nData/Hora: 26/11/26 14:36\nDe: 101/SUL\nPara/Berço: ILHA DO MEDO\nAgência: ORION RODOS**"
 }
