@@ -20057,3 +20057,43 @@ De: 101/SUL
 Para/Berço: ILHA DO MEDO
 Agência: ORION RODOS**
 --------------------------------------------------
+[27/11/2026 00:46:04] NOVA MANOBRA:
+Navio: LM ATHENA
+Manobra: Atracação
+Data/Hora: 27/11/26 02:51
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: WAYPOINT (SÃO LUIS)*
+--------------------------------------------------
+[27/11/2026 00:46:04] NOVA MANOBRA:
+Navio: KWAI KWAI
+Manobra: Atracação
+Data/Hora: 27/11/26 07:01
+De: BOIA 19-24
+Para/Berço: 105
+Agência: GEM**
+--------------------------------------------------
+[27/11/2026 00:46:04] NOVA MANOBRA:
+Navio: HONESTY
+Manobra: Desatracação
+Data/Hora: 27/11/26 08:01
+De: 106 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[27/11/2026 00:46:04] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: PAN EPIC
+Manobra: Desatracação
+Data/Hora: 26/11/26 18:19
+De: PIER 4 SUL
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[27/11/2026 00:46:04] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: OSCAR NIEMEYER
+Manobra: Desatracação
+Data/Hora: 26/11/26 18:19
+De: 104
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------

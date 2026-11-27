@@ -1,6 +1,7 @@
 {
-  "PAN EPIC | 26/11/26 | 18:19 | DS | ILHA DO MEDO": "Navio: PAN EPIC\nManobra: Desatracação\nData/Hora: 26/11/26 18:19\nDe: PIER 4 SUL\nPara/Berço: ILHA DO MEDO\nAgência: LMA SHIPPING **",
-  "OSCAR NIEMEYER | 26/11/26 | 18:19 | DS | ILHA DO MEDO": "Navio: OSCAR NIEMEYER\nManobra: Desatracação\nData/Hora: 26/11/26 18:19\nDe: 104\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "LM ATHENA | 27/11/26 | 02:51 | EA | 102/CENTRO": "Navio: LM ATHENA\nManobra: Atracação\nData/Hora: 27/11/26 02:51\nDe: BOIA 19-24\nPara/Berço: 102/CENTRO\nAgência: WAYPOINT (SÃO LUIS)*",
   "ORE SHANTOU | 27/11/26 | 02:51 | EA | PIER 4 SUL": "Navio: ORE SHANTOU\nManobra: Atracação\nData/Hora: 27/11/26 02:51\nDe: PONTO ALPHA\nPara/Berço: PIER 4 SUL\nAgência: ISS**",
-  "CLARABELLE | 27/11/26 | 03:21 | DS | ILHA DO MEDO": "Navio: CLARABELLE\nManobra: Desatracação\nData/Hora: 27/11/26 03:21\nDe: 102/CENTRO\nPara/Berço: ILHA DO MEDO\nAgência: AMART **"
+  "CLARABELLE | 27/11/26 | 03:21 | DS | ILHA DO MEDO": "Navio: CLARABELLE\nManobra: Desatracação\nData/Hora: 27/11/26 03:21\nDe: 102/CENTRO\nPara/Berço: ILHA DO MEDO\nAgência: AMART **",
+  "KWAI KWAI | 27/11/26 | 07:01 | EA | 105": "Navio: KWAI KWAI\nManobra: Atracação\nData/Hora: 27/11/26 07:01\nDe: BOIA 19-24\nPara/Berço: 105\nAgência: GEM**",
+  "HONESTY | 27/11/26 | 08:01 | DS | ILHA DO MEDO": "Navio: HONESTY\nManobra: Desatracação\nData/Hora: 27/11/26 08:01\nDe: 106 EXT\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**"
 }
