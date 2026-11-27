@@ -20185,3 +20185,59 @@ De: 106 EXT
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[27/11/2026 18:58:42] NOVA MANOBRA:
+Navio: ALORA
+Manobra: Desatracação
+Data/Hora: 27/11/26 20:42
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: NAABSA
+--------------------------------------------------
+[27/11/2026 18:58:42] NOVA MANOBRA:
+Navio: MYKONOS SEAS
+Manobra: Atracação
+Data/Hora: 28/11/26 07:55
+De: BOIA 19-24
+Para/Berço: 101/SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[27/11/2026 18:58:42] MANOBRA CONCLUÍDA (navio atracou):
+Navio: AMAZON PIONEER
+Manobra: Atracação
+Data/Hora: 27/11/26 10:25 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[27/11/2026 18:58:42] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: TRUE CRUSADER
+Manobra: Desatracação
+Data/Hora: 27/11/26 14:31
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[27/11/2026 18:58:42] MANOBRA CONCLUÍDA (navio atracou):
+Navio: YUAN HAI SI LU
+Manobra: Atracação
+Data/Hora: 27/11/26 17:41 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[27/11/2026 18:58:42] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: NAVIOS MELODIA
+Manobra: Desatracação
+Data/Hora: 27/11/26 15:01
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[27/11/2026 18:58:42] MANOBRA CONCLUÍDA (navio atracou):
+Navio: NOZOMI QUEEN
+Manobra: Atracação
+Data/Hora: 27/11/26 17:30 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: PIER 3 NORTE
+Agência: ISS**
+--------------------------------------------------
