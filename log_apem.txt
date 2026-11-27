@@ -20097,3 +20097,91 @@ De: 104
 Para/Berço: ILHA DO MEDO
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[27/11/2026 10:10:33] NOVA MANOBRA:
+Navio: AMAZON PIONEER
+Manobra: Atracação
+Data/Hora: 27/11/26 07:46
+De: PONTO ALPHA
+Para/Berço: ALUMAR 2
+Agência: ORION RODOS**
+--------------------------------------------------
+[27/11/2026 10:10:33] NOVA MANOBRA:
+Navio: TRUE CRUSADER
+Manobra: Desatracação
+Data/Hora: 27/11/26 14:31
+De: PIER 4 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[27/11/2026 10:10:33] NOVA MANOBRA:
+Navio: YUAN HAI SI LU
+Manobra: Atracação
+Data/Hora: 27/11/26 15:01
+De: PONTO ALPHA
+Para/Berço: PIER 4 NORTE
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[27/11/2026 10:10:33] NOVA MANOBRA:
+Navio: NAVIOS MELODIA
+Manobra: Desatracação
+Data/Hora: 27/11/26 15:01
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[27/11/2026 10:10:33] NOVA MANOBRA:
+Navio: NOZOMI QUEEN
+Manobra: Atracação
+Data/Hora: 27/11/26 15:01
+De: BOIA 19-24
+Para/Berço: PIER 3 NORTE
+Agência: ISS**
+--------------------------------------------------
+[27/11/2026 10:10:33] NOVA MANOBRA:
+Navio: FEDERAL FRANKLIN
+Manobra: Desatracação
+Data/Hora: 27/11/26 20:27
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[27/11/2026 10:10:33] MANOBRA CONCLUÍDA (navio atracou):
+Navio: LM ATHENA
+Manobra: Atracação
+Data/Hora: 27/11/26 05:10 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 102/CENTRO
+Agência: WAYPOINT (SÃO LUIS)*
+--------------------------------------------------
+[27/11/2026 10:10:33] MANOBRA CONCLUÍDA (navio atracou):
+Navio: ORE SHANTOU
+Manobra: Atracação
+Data/Hora: 27/11/26 05:34 (horário real de atracação)
+De: PONTO ALPHA
+Para/Berço: PIER 4 SUL
+Agência: ISS**
+--------------------------------------------------
+[27/11/2026 10:10:33] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: CLARABELLE
+Manobra: Desatracação
+Data/Hora: 27/11/26 03:21
+De: 102/CENTRO
+Para/Berço: ILHA DO MEDO
+Agência: AMART **
+--------------------------------------------------
+[27/11/2026 10:10:33] MANOBRA CONCLUÍDA (navio atracou):
+Navio: KWAI KWAI
+Manobra: Atracação
+Data/Hora: 27/11/26 08:30 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 105
+Agência: GEM**
+--------------------------------------------------
+[27/11/2026 10:10:33] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: HONESTY
+Manobra: Desatracação
+Data/Hora: 27/11/26 08:01
+De: 106 EXT
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
