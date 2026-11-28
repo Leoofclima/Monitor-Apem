@@ -20341,3 +20341,43 @@ De: BOIA 19-24
 Para/Berço: 101/SUL
 Agência: WILHELMSEN PORT**
 --------------------------------------------------
+[28/11/2026 17:25:31] NOVA MANOBRA:
+Navio: SEA ESPIRITO SANTO
+Manobra: Desatracação
+Data/Hora: 28/11/26 20:08
+De: PIER 1
+Para/Berço: ILHA DO MEDO
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[28/11/2026 17:25:31] NOVA MANOBRA:
+Navio: ORE SHANDONG
+Manobra: Atracação
+Data/Hora: 28/11/26 20:08
+De: PONTO ALPHA
+Para/Berço: PIER 1
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[28/11/2026 17:25:31] MANOBRA CONCLUÍDA (navio atracou):
+Navio: KONTA III
+Manobra: Atracação
+Data/Hora: 28/11/26 14:56 (horário real de atracação)
+De: PTO EMBARQUE LC
+Para/Berço: PLATAFORMA 1
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[28/11/2026 17:25:31] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: NOZOMI QUEEN
+Manobra: Desatracação
+Data/Hora: 28/11/26 15:53
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[28/11/2026 17:25:31] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: SAGA BEIJA-FLOR
+Manobra: Desatracação
+Data/Hora: 28/11/26 16:23
+De: 99
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
