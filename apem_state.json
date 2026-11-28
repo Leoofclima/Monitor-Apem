@@ -1,7 +1,7 @@
 {
-  "HORIZON ARMONIA | 28/11/26 | 03:10 | DS | ILHA DO MEDO": "Navio: HORIZON ARMONIA\nManobra: Desatracação\nData/Hora: 28/11/26 03:10\nDe: 106\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "SAGA BEIJA-FLOR | 28/11/26 | 07:25 | DS | ILHA DO MEDO": "Navio: SAGA BEIJA-FLOR\nManobra: Desatracação\nData/Hora: 28/11/26 07:25\nDe: 99\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
-  "AVRA | 28/11/26 | 07:55 | EA | 99": "Navio: AVRA\nManobra: Atracação\nData/Hora: 28/11/26 07:55\nDe: PONTO ALPHA\nPara/Berço: 99\nAgência: NORTH STAR**",
-  "MYKONOS SEAS | 28/11/26 | 07:55 | EA | 101/SUL": "Navio: MYKONOS SEAS\nManobra: Atracação\nData/Hora: 28/11/26 07:55\nDe: BOIA 19-24\nPara/Berço: 101/SUL\nAgência: WILHELMSEN PORT**",
-  "KONTA III | 28/11/26 | 13:08 | EA | PLATAFORMA 1": "Navio: KONTA III\nManobra: Atracação\nData/Hora: 28/11/26 13:08\nDe: PTO EMBARQUE LC\nPara/Berço: PLATAFORMA 1\nAgência: GEM - PARNAIBA"
+  "KONTA III | 28/11/26 | 13:08 | EA | PLATAFORMA 1": "Navio: KONTA III\nManobra: Atracação\nData/Hora: 28/11/26 13:08\nDe: PTO EMBARQUE LC\nPara/Berço: PLATAFORMA 1\nAgência: GEM - PARNAIBA",
+  "NOZOMI QUEEN | 28/11/26 | 15:53 | DS | ILHA DO MEDO": "Navio: NOZOMI QUEEN\nManobra: Desatracação\nData/Hora: 28/11/26 15:53\nDe: PIER 3 NORTE\nPara/Berço: ILHA DO MEDO\nAgência: ISS**",
+  "GEORGE ISLAND | 28/11/26 | 15:53 | EA | PIER 3 NORTE": "Navio: GEORGE ISLAND\nManobra: Atracação\nData/Hora: 28/11/26 15:53\nDe: PONTO ALPHA\nPara/Berço: PIER 3 NORTE\nAgência: LMA SHIPPING **",
+  "SAGA BEIJA-FLOR | 28/11/26 | 16:23 | DS | ILHA DO MEDO": "Navio: SAGA BEIJA-FLOR\nManobra: Desatracação\nData/Hora: 28/11/26 16:23\nDe: 99\nPara/Berço: ILHA DO MEDO\nAgência: WILHELMSEN PORT**",
+  "AVRA | 28/11/26 | 16:23 | EA | 99": "Navio: AVRA\nManobra: Atracação\nData/Hora: 28/11/26 16:23\nDe: PONTO ALPHA\nPara/Berço: 99\nAgência: NORTH STAR**"
 }

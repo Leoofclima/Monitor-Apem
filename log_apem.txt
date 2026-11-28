@@ -20289,3 +20289,55 @@ De: 100
 Para/Berço: ILHA DO MEDO
 Agência: NAABSA
 --------------------------------------------------
+[28/11/2026 09:25:33] NOVA MANOBRA:
+Navio: NOZOMI QUEEN
+Manobra: Desatracação
+Data/Hora: 28/11/26 15:53
+De: PIER 3 NORTE
+Para/Berço: ILHA DO MEDO
+Agência: ISS**
+--------------------------------------------------
+[28/11/2026 09:25:33] NOVA MANOBRA:
+Navio: GEORGE ISLAND
+Manobra: Atracação
+Data/Hora: 28/11/26 15:53
+De: PONTO ALPHA
+Para/Berço: PIER 3 NORTE
+Agência: LMA SHIPPING **
+--------------------------------------------------
+[28/11/2026 09:25:33] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: SAGA BEIJA-FLOR
+Manobra: Desatracação
+Berço: ILHA DO MEDO
+Antes: 28/11/26 07:25
+Agora: 28/11/26 16:23
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[28/11/2026 09:25:33] REAGENDAMENTO:
+⏰ HORÁRIO ALTERADO (APEM)
+
+Navio: AVRA
+Manobra: Atracação
+Berço: 99
+Antes: 28/11/26 07:55
+Agora: 28/11/26 16:23
+Agência: NORTH STAR**
+--------------------------------------------------
+[28/11/2026 09:25:33] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: HORIZON ARMONIA
+Manobra: Desatracação
+Data/Hora: 28/11/26 03:10
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[28/11/2026 09:25:33] MANOBRA CONCLUÍDA (navio atracou):
+Navio: MYKONOS SEAS
+Manobra: Atracação
+Data/Hora: 28/11/26 09:10 (horário real de atracação)
+De: BOIA 19-24
+Para/Berço: 101/SUL
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
