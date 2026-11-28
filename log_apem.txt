@@ -20241,3 +20241,51 @@ De: BOIA 19-24
 Para/Berço: PIER 3 NORTE
 Agência: ISS**
 --------------------------------------------------
+[28/11/2026 00:44:13] NOVA MANOBRA:
+Navio: HORIZON ARMONIA
+Manobra: Desatracação
+Data/Hora: 28/11/26 03:10
+De: 106
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[28/11/2026 00:44:13] NOVA MANOBRA:
+Navio: SAGA BEIJA-FLOR
+Manobra: Desatracação
+Data/Hora: 28/11/26 07:25
+De: 99
+Para/Berço: ILHA DO MEDO
+Agência: WILHELMSEN PORT**
+--------------------------------------------------
+[28/11/2026 00:44:13] NOVA MANOBRA:
+Navio: AVRA
+Manobra: Atracação
+Data/Hora: 28/11/26 07:55
+De: PONTO ALPHA
+Para/Berço: 99
+Agência: NORTH STAR**
+--------------------------------------------------
+[28/11/2026 00:44:13] NOVA MANOBRA:
+Navio: KONTA III
+Manobra: Atracação
+Data/Hora: 28/11/26 13:08
+De: PTO EMBARQUE LC
+Para/Berço: PLATAFORMA 1
+Agência: GEM - PARNAIBA
+--------------------------------------------------
+[28/11/2026 00:44:13] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: FEDERAL FRANKLIN
+Manobra: Desatracação
+Data/Hora: 27/11/26 20:27
+De: ALUMAR 1
+Para/Berço: ILHA DO MEDO
+Agência: GEM**
+--------------------------------------------------
+[28/11/2026 00:44:13] MANOBRA CONCLUÍDA (navio desatracou):
+Navio: ALORA
+Manobra: Desatracação
+Data/Hora: 27/11/26 20:42
+De: 100
+Para/Berço: ILHA DO MEDO
+Agência: NAABSA
+--------------------------------------------------
